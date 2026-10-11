@@ -80,6 +80,21 @@ See `MONETIZATION.md`. Short version: turn on affiliate links today, apply to an
 ad network once traffic is steady, and pitch dev-tool sponsors directly - the
 `/sponsor/` page and ad slots are already built.
 
+## Chat digest (`notify.mjs`)
+
+Picks the most important recent stories and formats them for a chat message.
+Round-robins across the four focus areas so no single topic swamps the output.
+
+```bash
+node notify.mjs                          # last 24h, top 5
+node notify.mjs --hours 72 --limit 8
+node notify.mjs --topic "Game Dev"
+node notify.mjs --json                   # machine-readable
+```
+
+Pipe it into a channel once one is connected, e.g.
+`openclaw message send --channel telegram --target <chatId> --message "$(node notify.mjs)"`.
+
 ## Why this is free and durable
 
 - GitHub Actions minutes are free for public repos; a ~2 minute daily job is

@@ -35,9 +35,9 @@ const FEEDS = [
   { name: "Simon Willison",    url: "https://simonwillison.net/atom/everything/", topic: "Open Source", weight: 2, native: true },
   { name: "Latent Space",      url: "https://www.latent.space/feed",              topic: "Models & Labs", weight: 2, native: true },
   { name: "smol.ai news",      url: "https://news.smol.ai/rss.xml",               topic: "Models & Labs", weight: 2, native: true },
-  { name: "Import AI",         url: "https://importai.substack.com/feed",         topic: "Research", weight: 2, native: true },
-  { name: "Google Research",   url: "https://research.google/blog/rss/",          topic: "Research", weight: 2, native: true },
-  { name: "arXiv cs.AI",       url: "https://rss.arxiv.org/rss/cs.AI",            topic: "Research", weight: 1, native: true },
+  { name: "Import AI",         url: "https://importai.substack.com/feed",         topic: "Research", weight: 2, native: true, researchOnly: true },
+  { name: "Google Research",   url: "https://research.google/blog/rss/",          topic: "Research", weight: 2, native: true, researchOnly: true },
+  { name: "arXiv cs.AI",       url: "https://rss.arxiv.org/rss/cs.AI",            topic: "Research", weight: 1, native: true, researchOnly: true },
   { name: "TechCrunch AI",     url: "https://techcrunch.com/category/artificial-intelligence/feed/", topic: "AI Business", weight: 2, native: true },
   { name: "The Decoder",       url: "https://the-decoder.com/feed/",              topic: "AI Business", weight: 2, native: true },
   { name: "MarkTechPost",      url: "https://www.marktechpost.com/feed/",         topic: "Research", weight: 1.5, native: true },
@@ -226,6 +226,7 @@ function parseFeed(xml, feed) {
     items.push({
       title: title, url: url, summary: trimSummary(summary),
       source: feed.name, feedTopic: feed.topic, weight: feed.weight, native: feed.native,
+      researchOnly: feed.researchOnly === true,
       date: d && !isNaN(d.getTime()) ? d.toISOString() : null,
     });
   }
@@ -271,7 +272,7 @@ function classify(item) {
 
   let topic = item.feedTopic;
   let best = 0;
-  if (FOCUS.indexOf(item.feedTopic) < 0) {
+  if (!item.researchOnly && FOCUS.indexOf(item.feedTopic) < 0) {
     for (const t of TOPICS) {
       const rules = TOPIC_RULES[t] || [];
       const s = hits(titleN, rules) * 2 + hits(all, rules);

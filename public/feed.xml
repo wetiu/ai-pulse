@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev and the AI business.</description>
-  <lastBuildDate>Sun, 11 Oct 2026 03:12:29 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 03:35:40 GMT</lastBuildDate>
   <item>
     <title>Anthropic launches a free AI scanner for open-source projects</title>
     <link>https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/</link>
@@ -165,14 +165,6 @@
     <pubDate>Thu, 01 Oct 2026 23:44:13 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs , is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x…</description>
-  </item>
-  <item>
-    <title>Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition</title>
-    <link>https://arxiv.org/abs/2610.12341</link>
-    <guid isPermaLink="true">https://arxiv.org/abs/2610.12341</guid>
-    <pubDate>Sat, 10 Oct 2026 04:00:00 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>arXiv:2610.12341v1 Announce Type: new Abstract: Adversarial games have driven advances from heuristic search to reinforcement learning, yet learning and adapting strategies from limited samples remain challenging. AI agents offer an alternative by turning game experience into revisions of…</description>
   </item>
   <item>
     <title>Session-Aware Agentic Inference with NVIDIA Dynamo</title>
@@ -591,22 +583,6 @@
     <description>Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .</description>
   </item>
   <item>
-    <title>From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents</title>
-    <link>https://arxiv.org/abs/2610.12463</link>
-    <guid isPermaLink="true">https://arxiv.org/abs/2610.12463</guid>
-    <pubDate>Sat, 10 Oct 2026 04:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>arXiv:2610.12463v1 Announce Type: cross Abstract: In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and…</description>
-  </item>
-  <item>
-    <title>EgoBench: An Interactive Egocentric Multimodal Benchmark for Tool-Using Agents</title>
-    <link>https://arxiv.org/abs/2605.27820</link>
-    <guid isPermaLink="true">https://arxiv.org/abs/2605.27820</guid>
-    <pubDate>Sat, 10 Oct 2026 04:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>arXiv:2605.27820v2 Announce Type: replace Abstract: As AI agents increasingly operate in open, real-world environments, they require a deep synergy of multimodal perception, tool invocation with multi-hop reasoning, and dynamic interaction with users. However, existing benchmarks fail to jointly…</description>
-  </item>
-  <item>
     <title>US venture deal value reaches record $515.8B as exits fail to keep pace</title>
     <link>https://siliconangle.com/2026/10/08/us-venture-deal-value-reaches-record-515-8b-as-exits-fail-to-keep-pace/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/us-venture-deal-value-reaches-record-515-8b-as-exits-fail-to-keep-pace/</guid>
@@ -645,6 +621,30 @@
     <pubDate>Thu, 08 Oct 2026 20:01:12 GMT</pubDate>
     <category>AI Business</category>
     <description>Artificial intelligence and hardware startup Natura has reportedly debuted a smart ring designed to let users interact with AI agents. The company’s new Interface ring, the subject of a Thursday (Oct. 8) TechCrunch report, sells for $99 and allows users to have AI agents complete tasks while also…</description>
+  </item>
+  <item>
+    <title>JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents</title>
+    <link>https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/</guid>
+    <pubDate>Thu, 08 Oct 2026 16:17:35 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0. The post JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents appeared first on MarkTechPost .</description>
+  </item>
+  <item>
+    <title>Aston Martin puts back-end AI to work while keeping agents off its website</title>
+    <link>https://siliconangle.com/2026/10/07/aston-martin-puts-back-end-ai-work-inforvelocity/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/07/aston-martin-puts-back-end-ai-work-inforvelocity/</guid>
+    <pubDate>Wed, 07 Oct 2026 20:30:40 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Back-end AI gives manufacturers opportunities to improve operations, but choosing where to apply it requires attention to business value. For Aston Martin Lagonda Ltd., that means evaluating operational use cases while preserving its personalized customer experience. That decision is sharper for a…</description>
+  </item>
+  <item>
+    <title>Infor uses industry-specific AI to address agent hallucinations</title>
+    <link>https://siliconangle.com/2026/10/07/infor-uses-industry-specific-ai-address-agent-hallucinations-inforvelocity/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/07/infor-uses-industry-specific-ai-address-agent-hallucinations-inforvelocity/</guid>
+    <pubDate>Wed, 07 Oct 2026 18:20:42 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Industry-specific AI brings business context to agents handling enterprise workflows. Building around industry processes can help companies address reliability concerns as they automate more tasks. Infor (US) LLC is developing industry-specific AI agents for several key industries, including…</description>
   </item>
 </channel>
 </rss>
