@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T04:23:13.965Z",
-  "count": 357,
+  "generatedAt": "2026-10-11T04:23:30.986Z",
+  "count": 355,
   "focusCount": 224,
   "topics": [
     "Game Dev",
@@ -3948,20 +3948,6 @@
       "isFocus": false
     },
     {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
-      "summary": "Who chooses what AI gets to do?",
-      "source": "Import AI",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-05T12:32:30.000Z",
-      "topic": "Research",
-      "importance": 6.4,
-      "isFocus": false
-    },
-    {
       "title": "How Diffusion Controller unifies and simplifies AI image generation",
       "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
       "summary": "Algorithms & Theory",
@@ -4266,20 +4252,6 @@
       "researchOnly": false,
       "date": "2026-10-05T13:12:59.000Z",
       "topic": "Open Source",
-      "importance": 5.6,
-      "isFocus": false
-    },
-    {
-      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
-      "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
-      "summary": "Where do you exceed the capabilities of an LLM?",
-      "source": "Import AI",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-09-28T12:32:03.000Z",
-      "topic": "Research",
       "importance": 5.6,
       "isFocus": false
     },
