@@ -28,7 +28,7 @@ const AS_JSON = process.argv.indexOf("--json") >= 0;
 const SITE = "https://wetiu.github.io/ai-pulse/";
 
 // Order matters: this is the priority order for a builder digest.
-const FOCUS = ["Game Dev", "Web Dev", "App Dev", "AI Business"];
+const FOCUS = ["Game Dev", "Web Dev", "App Dev", "Art & Creative", "AI Business"];
 
 function digest(items, now) {
   const cutoff = now - HOURS * 3600000;

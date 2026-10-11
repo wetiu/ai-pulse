@@ -10,10 +10,12 @@ Only AI news, ranked by importance, weighted toward four focus areas:
 1. **Game Dev** - AI in game engines, studios, tooling and production
 2. **Web Dev** - AI for browsers, frontends, frameworks and hosting
 3. **App Dev** - AI for iOS/Android, SDKs and on-device models
-4. **AI Business** - funding, launches, acquisitions, partnerships, market moves
+4. **Art & Creative** - AI in 3D, VFX, illustration, design and creative tooling
+5. **AI Business** - funding, launches, acquisitions, partnerships, market moves
 
 Everything else lands in `Models & Labs`, `Open Source` or `Research` and stays
-in the minority (roughly 2 focus stories for every 1 other story).
+in the minority (roughly 2 focus stories for every 1 other story). Pure-research
+feeds are pinned to `Research` so a paper can never pose as a builder story.
 
 ## What the build produces
 

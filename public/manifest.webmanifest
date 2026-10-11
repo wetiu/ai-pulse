@@ -1,7 +1,7 @@
 {
   "name": "AI Pulse",
   "short_name": "AI Pulse",
-  "description": "Important AI news for builders - game dev, web dev, app dev and the AI business.",
+  "description": "Important AI news for builders - game dev, web dev, app dev, art & creative, and the AI business.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

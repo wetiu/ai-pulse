@@ -3,7 +3,7 @@
  * AI Pulse - zero-dependency AI news site generator.
  *
  * Focus: important AI news, weighted toward game development, web development,
- * app development and the AI business.
+ * app development, art & creative work, and the AI business.
  *
  * Pipeline: fetch feeds -> parse -> require an AI signal -> classify topic ->
  * score importance -> render site, archives, feeds, PWA and SEO files.
@@ -21,7 +21,7 @@ const ASSETS = join(__dirname, "assets");
 const ADS_ENABLED = false;          // flip to true once you add an ad network
 const ARCHIVE_RENDER_DAYS = 60;     // how many past days get an HTML page
 const SITE_NAME = "AI Pulse";
-const SITE_TAGLINE = "Important AI news for builders - game dev, web dev, app dev and the AI business.";
+const SITE_TAGLINE = "Important AI news for builders - game dev, web dev, app dev, art & creative, and the AI business.";
 // Absolute base URL: social crawlers, sitemaps and feeds all REQUIRE absolute URLs.
 const SITE_URL = (process.env.AIPULSE_SITE_URL || "https://wetiu.github.io/ai-pulse/").replace(/\/?$/, "/");
 
@@ -74,12 +74,20 @@ const FEEDS = [
   { name: "PyTorch",           url: "https://pytorch.org/blog/feed.xml",          topic: "Open Source", weight: 2, native: true },
   { name: "TensorFlow",        url: "https://blog.tensorflow.org/feeds/posts/default", topic: "Open Source", weight: 2, native: true },
   { name: "AWS ML Blog",       url: "https://aws.amazon.com/blogs/machine-learning/feed/", topic: "Models & Labs", weight: 1.5, native: true },
+  { name: "Creative Bloq",     url: "https://www.creativebloq.com/feeds/all",     topic: "Art & Creative", weight: 1.5, native: false },
+  { name: "It's Nice That",    url: "https://www.itsnicethat.com/articles.atom",  topic: "Art & Creative", weight: 1.5, native: false },
+  { name: "Blender",           url: "https://www.blender.org/feed/",              topic: "Art & Creative", weight: 2, native: false },
+  { name: "CG Channel",        url: "https://www.cgchannel.com/feed/",            topic: "Art & Creative", weight: 1.5, native: false },
+  { name: "FXGuide",           url: "https://www.fxguide.com/feed/",              topic: "Art & Creative", weight: 1.5, native: false },
+  { name: "VFX Voice",         url: "https://www.vfxvoice.com/feed/",             topic: "Art & Creative", weight: 1.5, native: false },
+  { name: "Creative Applications", url: "https://www.creativeapplications.net/feed/", topic: "Art & Creative", weight: 1.5, native: false },
 ];
 
-const FOCUS = ["Game Dev", "Web Dev", "App Dev", "AI Business"];
+const FOCUS = ["Game Dev", "Web Dev", "App Dev", "Art & Creative", "AI Business"];
 const TOPICS = FOCUS.concat(["Models & Labs", "Open Source", "Research"]);
 const TOP_N = 10;
 
+const DEBUG = process.env.AIPULSE_DEBUG === "1";
 const UA = "AIPulseBot/1.0 (static AI news aggregator)";
 const MAX_ITEMS = 500;
 const PER_SOURCE_CAP = 25;
@@ -120,6 +128,15 @@ const TOPIC_RULES = {
     "kotlin", "jetpack compose", "flutter", "react native", "xcode", "android studio",
     "app store", "play store", "wear os", "watchos", "visionos", "sdk", "push notification",
     "mobile development", "app development", "on-device", "edge device", "native app",
+  ],
+  "Art & Creative": [
+    "art", "artist", "artists", "artwork", "concept art", "illustration", "illustrator",
+    "design", "designer", "designers", "graphic design", "typography", "branding",
+    "generative art", "image generation", "image model", "text-to-image", "text-to-video",
+    "video generation", "midjourney", "stable diffusion", "comfyui", "photoshop", "adobe",
+    "figma", "blender", "3d model", "render", "rendering", "texture", "animation",
+    "animator", "vfx", "visual effects", "motion graphics", "storyboard", "creative",
+    "creativity", "photo editing", "upscal", "style transfer", "media generation",
   ],
   "AI Business": [
     "funding", "raises", "raised", "series a", "series b", "series c", "seed round",
@@ -181,7 +198,10 @@ function decodeEntities(s) {
 }
 function clean(s) {
   if (!s) return "";
-  return decodeEntities(stripCdata(s.replace(/<[^>]*>/g, " "))).replace(/\s+/g, " ").trim();
+  // Unwrap CDATA FIRST. Stripping tags first would match the "]]>" end marker
+  // as if it closed a tag and delete the whole value - which silently dropped
+  // every article from CDATA-based feeds.
+  return decodeEntities(stripCdata(s).replace(/<[^>]*>/g, " ")).replace(/\s+/g, " ").trim();
 }
 // Feeds sometimes leak escaped newlines, JSON fragments or CDATA leftovers into
 // titles and summaries. Strip that noise so cards read like prose.
@@ -278,6 +298,9 @@ function classify(item) {
       const s = hits(titleN, rules) * 2 + hits(all, rules);
       if (s > best) { best = s; topic = t; }
     }
+    // A single weak keyword hit should not drag a technical post into a builder
+    // area - keep the feed's own topic unless the signal is meaningful.
+    if (best < 2) { topic = item.feedTopic; best = 0; }
   }
   const isFocus = FOCUS.indexOf(topic) >= 0;
   const importance = item.weight * 2
@@ -514,7 +537,7 @@ function renderIndex(items, now, opts) {
   lines.push('<div class="stats">');
   lines.push('<span class="pill"><b>' + items.length + "</b> stories</span>");
   lines.push('<span class="pill"><b>' + sources.length + "</b> sources</span>");
-  lines.push('<span class="pill"><b>' + Math.round((focusCount / Math.max(1, items.length)) * 100) + "%</b> in the four focus areas</span>");
+  lines.push('<span class="pill"><b>' + Math.round((focusCount / Math.max(1, items.length)) * 100) + "%</b> in your focus areas</span>");
   lines.push('<span class="pill">Updated ' + esc(stamp) + " (UTC+7)</span>");
   lines.push("</div>");
   lines.push("</section>");
@@ -631,8 +654,8 @@ const ABOUT = renderPage({
   heading: "About AI Pulse",
   lede: "Important AI news for people who build with AI.",
   paragraphs: [
-    "AI Pulse collects important AI news for people who build with AI, with a bias toward game development, web development, app development and the AI business.",
-    "Every story is scored by source weight, AI relevance and announcement keywords (launch, raises, acquires, open-sources), and the four focus areas are kept in the majority of the list.",
+    "AI Pulse collects important AI news for people who build with AI, with a bias toward game development, web development, app development, art & creative work, and the AI business.",
+    "Every story is scored by source weight, AI relevance and announcement keywords (launch, raises, acquires, open-sources), and the focus areas are kept in the majority of the list.",
     "The site is a static page rebuilt automatically every day from about 48 public feeds. No tracking, no cookies, no accounts.",
     "Stories link straight to their original publishers. Headlines and short excerpts are shown for orientation only.",
   ],
@@ -661,6 +684,8 @@ async function main() {
   const seen = new Set();
   const items = [];
   let dropped = 0;
+  const dbg = {};
+  for (const it of raw) { const s = dbg[it.source] || (dbg[it.source] = { raw: 0, kept: 0 }); s.raw++; }
   for (const it of raw) {
     const key = it.url.replace(/[#?].*$/, "") || it.title.toLowerCase();
     if (seen.has(key)) continue;
@@ -669,9 +694,19 @@ async function main() {
     if (new Date(it.date).getTime() < now - DAYS_WINDOW * 86400000) continue;
     const c = classify(it);
     if (!c) { dropped++; continue; }
+    if (DEBUG) {
+      const s = dbg[it.source] || (dbg[it.source] = { raw: 0, kept: 0 });
+      s.kept++;
+    }
     items.push(Object.assign({}, it, { topic: c.topic, importance: c.importance, isFocus: c.isFocus }));
   }
   console.log("Kept: " + items.length + "  (filtered out " + dropped + " off-topic)");
+  if (DEBUG) {
+    for (const src of Object.keys(dbg).sort()) {
+      const s = dbg[src];
+      console.log("  " + src.padEnd(24) + " raw=" + String(s.raw).padStart(4) + " kept=" + String(s.kept).padStart(4));
+    }
+  }
 
   items.sort(function (a, b) {
     if (b.importance !== a.importance) return b.importance - a.importance;
