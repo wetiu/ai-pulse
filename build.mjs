@@ -22,6 +22,8 @@ const ADS_ENABLED = false;          // flip to true once you add an ad network
 const ARCHIVE_RENDER_DAYS = 60;     // how many past days get an HTML page
 const SITE_NAME = "AI Pulse";
 const SITE_TAGLINE = "Important AI news for builders - game dev, web dev, app dev and the AI business.";
+// Absolute base URL: social crawlers, sitemaps and feeds all REQUIRE absolute URLs.
+const SITE_URL = (process.env.AIPULSE_SITE_URL || "https://wetiu.github.io/ai-pulse/").replace(/\/?$/, "/");
 
 const FEEDS = [
   { name: "OpenAI",            url: "https://openai.com/news/rss.xml",            topic: "Models & Labs", weight: 3, native: true },
@@ -390,6 +392,12 @@ const SCRIPT = [
   "if('serviceWorker' in navigator&&location.protocol.indexOf('http')===0){navigator.serviceWorker.register(root0+'sw.js').catch(function(){});}",
 ].join("\n");
 
+const NOFLASH = [
+  "<script>",
+  "try{var s=localStorage.getItem('aipulse-theme');var d=s||((window.matchMedia&&window.matchMedia('(prefers-color-scheme: light)').matches)?'light':'dark');document.documentElement.setAttribute('data-theme',d);}catch(e){}",
+  "</" + "script>",
+].join("\n");
+
 function cardHtml(i, rank, now, featured) {
   const isNew = i.date && now - new Date(i.date).getTime() < 86400000;
   const focus = i.isFocus ? " focus" : "";
@@ -411,29 +419,34 @@ function cardHtml(i, rank, now, featured) {
 
 function headHtml(opts) {
   const rootPath = opts.root || "./";
-  const canonical = opts.canonical || "";
+  const canonical = SITE_URL + (opts.canonicalPath || "");
   return [
     "<head>",
     '<meta charset="utf-8" />',
     '<meta name="viewport" content="width=device-width, initial-scale=1" />',
     "<title>" + esc(opts.title) + "</title>",
     '<meta name="description" content="' + esc(opts.description) + '" />',
-    canonical ? '<link rel="canonical" href="' + esc(canonical) + '" />' : "",
+    '<link rel="canonical" href="' + esc(canonical) + '" />',
+    '<meta name="robots" content="index,follow,max-image-preview:large" />',
     '<meta property="og:type" content="website" />',
     '<meta property="og:site_name" content="' + SITE_NAME + '" />',
+    '<meta property="og:url" content="' + esc(canonical) + '" />',
     '<meta property="og:title" content="' + esc(opts.title) + '" />',
     '<meta property="og:description" content="' + esc(opts.description) + '" />',
-    '<meta property="og:image" content="' + rootPath + 'icons/og.png" />',
+    '<meta property="og:image" content="' + SITE_URL + 'icons/og.png" />',
+    '<meta property="og:image:width" content="1200" />',
+    '<meta property="og:image:height" content="630" />',
     '<meta name="twitter:card" content="summary_large_image" />',
     '<meta name="twitter:title" content="' + esc(opts.title) + '" />',
     '<meta name="twitter:description" content="' + esc(opts.description) + '" />',
-    '<meta name="twitter:image" content="' + rootPath + 'icons/og.png" />',
+    '<meta name="twitter:image" content="' + SITE_URL + 'icons/og.png" />',
     '<meta name="theme-color" content="#0a0c11" />',
     '<link rel="icon" href="' + rootPath + 'icons/icon-192.png" />',
     '<link rel="apple-touch-icon" href="' + rootPath + 'icons/apple-touch-icon.png" />',
     '<link rel="manifest" href="' + rootPath + 'manifest.webmanifest" />',
     '<link rel="alternate" type="application/rss+xml" title="' + SITE_NAME + '" href="' + rootPath + 'feed.xml" />',
     "<style>", STYLE, "</style>",
+    NOFLASH,
     "</head>",
   ].join("\n");
 }
@@ -458,15 +471,16 @@ function shellHtml(opts) {
   return lines;
 }
 function shellEnd(rootPath) {
+  const r = rootPath || "./";
   return [
     '<footer><div class="cols">',
     "<div><h4>AI Pulse</h4><p>" + SITE_TAGLINE + "</p><p>Ranked by source weight, AI relevance and announcement keywords. Static site, no tracking, no cookies.</p></div>",
-    '<div><h4>Explore</h4><ul><li><a href="./archive/">Archive</a></li><li><a href="./">Today</a></li><li><a href="./feed.xml">RSS feed</a></li><li><a href="./data.json">JSON API</a></li><li><a href="./sitemap.xml">Sitemap</a></li></ul></div>',
-    '<div><h4>Info</h4><ul><li><a href="./about/">About</a></li><li><a href="./sponsor/">Sponsor</a></li></ul></div>',
+    '<div><h4>Explore</h4><ul><li><a href="' + r + 'archive/">Archive</a></li><li><a href="' + r + '">Today</a></li><li><a href="' + r + 'feed.xml">RSS feed</a></li><li><a href="' + r + 'data.json">JSON API</a></li><li><a href="' + r + 'sitemap.xml">Sitemap</a></li></ul></div>',
+    '<div><h4>Info</h4><ul><li><a href="' + r + 'about/">About</a></li><li><a href="' + r + 'sponsor/">Sponsor</a></li></ul></div>',
     "</div></footer>",
     "</div>",
     '<button class="toTop" id="toTop">Back to top</button>',
-    "<script>", SCRIPT.replace(/root0/g, JSON.stringify(rootPath)), "</" + "script>",
+    "<script>", SCRIPT.replace(/root0/g, JSON.stringify(r)), "</" + "script>",
     "</body>",
     "</html>",
   ].join("\n");
@@ -484,6 +498,7 @@ function renderIndex(items, now, opts) {
     root: rootPath,
     title: opts.title || (SITE_NAME + " - AI news for builders"),
     description: SITE_TAGLINE + " Updated daily.",
+    canonicalPath: opts.canonicalPath || "",
   });
   lines.push('<section class="hero">');
   lines.push("<h1>AI Pulse<span class=\"dot\">.</span></h1>");
@@ -526,6 +541,7 @@ function renderArchiveIndex(days, now) {
     root: "./",
     title: "Archive - " + SITE_NAME,
     description: "Every daily edition of AI Pulse.",
+    canonicalPath: "archive/",
   });
   lines.push('<section class="hero"><h1>Archive<span class="dot">.</span></h1>');
   lines.push('<p class="tagline">Every daily edition, newest first.</p></section>');
@@ -543,8 +559,9 @@ function renderArchiveIndex(days, now) {
 }
 
 function renderRss(items, now) {
-  const head = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n<channel>\n'
-    + "  <title>" + SITE_NAME + "</title>\n  <link>./</link>\n"
+  const head = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n<channel>\n'
+    + "  <title>" + SITE_NAME + "</title>\n  <link>" + SITE_URL + "</link>\n"
+    + "  <atom:link href=\"" + SITE_URL + "feed.xml\" rel=\"self\" type=\"application/rss+xml\" />\n"
     + "  <description>" + esc(SITE_TAGLINE) + "</description>\n"
     + "  <lastBuildDate>" + new Date(now).toUTCString() + "</lastBuildDate>\n";
   const body = items.slice(0, 80).map(function (i) {
@@ -580,33 +597,52 @@ const SW = [
   "}});",
 ].join("\n") + "\n";
 
-const ABOUT = [
-  "<!doctype html><html lang=\"en\" data-theme=\"dark\"><head><meta charset=\"utf-8\">",
-  "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">",
-  "<title>About - " + SITE_NAME + "</title>",
-  "<style>body{margin:0;background:#0a0c11;color:#e9edf5;font:16px/1.6 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}",
-  ".w{max-width:760px;margin:0 auto;padding:48px 20px}a{color:#6ea8fe}h1{letter-spacing:-.03em}.mut{color:#8b97ad}</style></head><body><div class=\"w\">",
-  "<p><a href=\"../\">Back to AI Pulse</a></p>",
-  "<h1>About AI Pulse</h1>",
-  "<p>AI Pulse collects important AI news for people who build with AI, with a bias toward game development, web development, app development and the AI business.</p>",
-  "<p class=\"mut\">Every story is scored by source weight, AI relevance and announcement keywords (launch, raises, acquires, open-sources), and the four focus areas are kept in the majority.</p>",
-  "<p class=\"mut\">The site is a static page rebuilt automatically every day. No tracking, no cookies, no accounts.</p>",
-  "</div></body></html>",
-].join("\n") + "\n";
+function renderPage(opts) {
+  const rootPath = opts.root || "./";
+  const lines = shellHtml({
+    root: rootPath,
+    title: opts.title,
+    description: opts.description,
+    canonicalPath: opts.canonicalPath,
+  });
+  lines.push('<section class="hero"><h1>' + esc(opts.heading) + "</h1>");
+  if (opts.lede) lines.push('<p class="tagline">' + esc(opts.lede) + "</p>");
+  lines.push("</section>");
+  lines.push('<main><div class="grid"><article class="card">');
+  for (const para of opts.paragraphs) lines.push("<p>" + esc(para) + "</p>");
+  lines.push("</article></div></main>");
+  lines.push(shellEnd(rootPath));
+  return lines.join("\n") + "\n";
+}
 
-const SPONSOR = [
-  "<!doctype html><html lang=\"en\" data-theme=\"dark\"><head><meta charset=\"utf-8\">",
-  "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">",
-  "<title>Sponsor - " + SITE_NAME + "</title>",
-  "<style>body{margin:0;background:#0a0c11;color:#e9edf5;font:16px/1.6 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}",
-  ".w{max-width:760px;margin:0 auto;padding:48px 20px}a{color:#6ea8fe}h1{letter-spacing:-.03em}.mut{color:#8b97ad}</style></head><body><div class=\"w\">",
-  "<p><a href=\"../\">Back to AI Pulse</a></p>",
-  "<h1>Sponsor AI Pulse</h1>",
-  "<p>AI Pulse reaches developers who ship with AI - game, web and app developers, and the people building AI businesses.</p>",
-  "<p class=\"mut\">Placements: top banner, in-feed card, or a sponsored story clearly labelled as sponsored.</p>",
-  "<p class=\"mut\">Get in touch: <em>add your contact email here</em>.</p>",
-  "</div></body></html>",
-].join("\n") + "\n";
+const ABOUT = renderPage({
+  root: "../",
+  title: "About - " + SITE_NAME,
+  description: "What AI Pulse is and how stories are ranked.",
+  canonicalPath: "about/",
+  heading: "About AI Pulse",
+  lede: "Important AI news for people who build with AI.",
+  paragraphs: [
+    "AI Pulse collects important AI news for people who build with AI, with a bias toward game development, web development, app development and the AI business.",
+    "Every story is scored by source weight, AI relevance and announcement keywords (launch, raises, acquires, open-sources), and the four focus areas are kept in the majority of the list.",
+    "The site is a static page rebuilt automatically every day from about 48 public feeds. No tracking, no cookies, no accounts.",
+    "Stories link straight to their original publishers. Headlines and short excerpts are shown for orientation only.",
+  ],
+});
+
+const SPONSOR = renderPage({
+  root: "../",
+  title: "Sponsor - " + SITE_NAME,
+  description: "Reach developers who ship with AI.",
+  canonicalPath: "sponsor/",
+  heading: "Sponsor AI Pulse",
+  lede: "Reach developers who ship with AI.",
+  paragraphs: [
+    "AI Pulse reaches developers who build with AI - game, web and app developers, and the people building AI businesses.",
+    "Placements: top banner, in-feed card, or a sponsored story clearly labelled as sponsored.",
+    "Get in touch: replace this line with your contact email before pitching sponsors.",
+  ],
+});
 
 async function main() {
   const now = Date.now();
@@ -672,7 +708,7 @@ async function main() {
   await writeFile(join(OUT, "about", "index.html"), ABOUT);
   await writeFile(join(OUT, "sponsor", "index.html"), SPONSOR);
   await writeFile(join(OUT, ".nojekyll"), "");
-  await writeFile(join(OUT, "robots.txt"), "User-agent: *\nAllow: /\nSitemap: ./sitemap.xml\n");
+  await writeFile(join(OUT, "robots.txt"), "User-agent: *\nAllow: /\nSitemap: " + SITE_URL + "sitemap.xml\n");
 
   const day = new Date(now).toISOString().slice(0, 10);
   await writeFile(join(OUT, "archive", day + ".json"), JSON.stringify({ date: day, items: kept }));
@@ -691,15 +727,16 @@ async function main() {
         await writeFile(join(OUT, "archive", d + ".html"), renderIndex(data.items, new Date(d + "T20:00:00Z").getTime(), {
           root: "../",
           title: SITE_NAME + " - " + d + " edition",
+          canonicalPath: "archive/" + d + ".html",
         }));
       }
     } catch (e) { /* skip unreadable archive */ }
   }
   await writeFile(join(OUT, "archive", "index.html"), renderArchiveIndex(days, now));
 
-  const urls = ["./", "./archive/"].concat(days.slice(0, ARCHIVE_RENDER_DAYS).map(function (d) { return "./archive/" + d + ".html"; }));
+  const urls = ["", "archive/"].concat(days.slice(0, ARCHIVE_RENDER_DAYS).map(function (d) { return "archive/" + d.date + ".html"; }));
   const sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-    + urls.map(function (u) { return "  <url><loc>" + u + "</loc></url>"; }).join("\n")
+    + urls.map(function (u) { return "  <url><loc>" + SITE_URL + u + "</loc></url>"; }).join("\n")
     + "\n</urlset>\n";
   await writeFile(join(OUT, "sitemap.xml"), sitemap);
 

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>AI Pulse</title>
-  <link>./</link>
+  <link>https://wetiu.github.io/ai-pulse/</link>
+  <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev and the AI business.</description>
-  <lastBuildDate>Sun, 11 Oct 2026 03:06:59 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 03:10:48 GMT</lastBuildDate>
   <item>
     <title>Anthropic launches a free AI scanner for open-source projects</title>
     <link>https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/</link>

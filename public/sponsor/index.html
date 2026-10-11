@@ -1,11 +1,142 @@
-<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Sponsor - AI Pulse</title>
-<style>body{margin:0;background:#0a0c11;color:#e9edf5;font:16px/1.6 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
-.w{max-width:760px;margin:0 auto;padding:48px 20px}a{color:#6ea8fe}h1{letter-spacing:-.03em}.mut{color:#8b97ad}</style></head><body><div class="w">
-<p><a href="../">Back to AI Pulse</a></p>
-<h1>Sponsor AI Pulse</h1>
-<p>AI Pulse reaches developers who ship with AI - game, web and app developers, and the people building AI businesses.</p>
-<p class="mut">Placements: top banner, in-feed card, or a sponsored story clearly labelled as sponsored.</p>
-<p class="mut">Get in touch: <em>add your contact email here</em>.</p>
-</div></body></html>
+<meta name="description" content="Reach developers who ship with AI." />
+<link rel="canonical" href="https://wetiu.github.io/ai-pulse/sponsor/" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="AI Pulse" />
+<meta property="og:url" content="https://wetiu.github.io/ai-pulse/sponsor/" />
+<meta property="og:title" content="Sponsor - AI Pulse" />
+<meta property="og:description" content="Reach developers who ship with AI." />
+<meta property="og:image" content="https://wetiu.github.io/ai-pulse/icons/og.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Sponsor - AI Pulse" />
+<meta name="twitter:description" content="Reach developers who ship with AI." />
+<meta name="twitter:image" content="https://wetiu.github.io/ai-pulse/icons/og.png" />
+<meta name="theme-color" content="#0a0c11" />
+<link rel="icon" href="../icons/icon-192.png" />
+<link rel="apple-touch-icon" href="../icons/apple-touch-icon.png" />
+<link rel="manifest" href="../manifest.webmanifest" />
+<link rel="alternate" type="application/rss+xml" title="AI Pulse" href="../feed.xml" />
+<style>
+:root{--bg:#0a0c11;--panel:#12161f;--panel2:#171c28;--fg:#e9edf5;--mut:#8b97ad;--acc:#6ea8fe;--acc2:#8ef0c0;--gold:#f5c451;--bd:#232b3c;--glow:rgba(110,168,254,.10)}
+html[data-theme=light]{--bg:#f6f8fc;--panel:#ffffff;--panel2:#eef2f9;--fg:#0f1520;--mut:#5b6678;--acc:#1f6feb;--acc2:#0f9d6a;--gold:#a5761b;--bd:#dde4ee;--glow:rgba(31,111,235,.08)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;-webkit-font-smoothing:antialiased}
+.bg-glow{position:fixed;inset:-20% -20% auto -20%;height:60vh;background:radial-gradient(closest-side,var(--glow),transparent 70%);pointer-events:none;z-index:0}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px;position:relative;z-index:1}
+.bar{display:flex;align-items:center;justify-content:space-between;padding:16px 0}
+.brand{font-weight:800;font-size:1.15rem;color:var(--fg);letter-spacing:-.02em}
+.brand .dot{color:var(--acc2)}
+.bar nav{display:flex;align-items:center;gap:16px;font-size:.9rem}
+.bar nav a{color:var(--mut)}.bar nav a:hover{color:var(--fg);text-decoration:none}
+button.icon{background:var(--panel);border:1px solid var(--bd);color:var(--fg);border-radius:10px;width:38px;height:34px;cursor:pointer;font-size:1rem}
+button.icon:hover{border-color:var(--acc)}
+.hero{padding:26px 0 6px}
+h1{margin:0;font-size:clamp(2rem,5.2vw,3.4rem);letter-spacing:-.035em;line-height:1.05}
+h1 .dot{color:var(--acc2)}
+.tagline{color:var(--mut);margin:.7rem 0 0;font-size:1.05rem;max-width:62ch}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.pill{background:var(--panel);border:1px solid var(--bd);border-radius:999px;padding:7px 14px;font-size:.82rem;color:var(--mut)}
+.pill b{color:var(--fg)}
+.controls{padding:20px 0 6px;position:sticky;top:0;background:linear-gradient(180deg,var(--bg) 78%,transparent);z-index:5;padding-bottom:10px}
+input[type=search]{width:100%;padding:14px 16px;border-radius:14px;border:1px solid var(--bd);background:var(--panel);color:var(--fg);font-size:1rem;outline:none}
+input[type=search]:focus{border-color:var(--acc);box-shadow:0 0 0 3px var(--glow)}
+.chips{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0 0}
+.chip{padding:6px 12px;border-radius:999px;border:1px solid var(--bd);background:var(--panel);color:var(--mut);cursor:pointer;font-size:.82rem;white-space:nowrap}
+.chip:hover{color:var(--fg)}
+.chip.active{background:var(--acc);border-color:var(--acc);color:#fff;font-weight:600}
+.chip.focus{border-color:var(--gold);color:var(--gold)}
+.chip.focus.active{background:var(--gold);border-color:var(--gold);color:#1a1200}
+main{padding:14px 0 40px}
+.grid{display:grid;grid-template-columns:1fr;gap:14px}
+@media(min-width:820px){.grid{grid-template-columns:1fr 1fr}.card.featured{grid-column:1/-1}}
+.card{background:var(--panel);border:1px solid var(--bd);border-radius:16px;padding:18px;transition:border-color .15s,transform .15s;display:flex;flex-direction:column}
+.card:hover{border-color:var(--acc);transform:translateY(-2px)}
+.card.featured{background:linear-gradient(135deg,var(--panel2),var(--panel));border-color:var(--gold)}
+.card.featured h3{font-size:clamp(1.2rem,2.6vw,1.6rem)}
+.meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:.74rem}
+.src{display:inline-flex;align-items:center;gap:6px;color:var(--acc2);font-weight:600}
+.src img{width:14px;height:14px;border-radius:3px}
+.cat{color:var(--mut);border:1px solid var(--bd);border-radius:999px;padding:1px 8px}
+.cat.focus{color:var(--gold);border-color:color-mix(in srgb,var(--gold) 40%,transparent)}
+.badge{background:var(--acc);color:#fff;border-radius:999px;padding:1px 8px;font-weight:700}
+.hot{background:var(--gold);color:#1a1200;border-radius:999px;padding:1px 8px;font-weight:700}
+.time{color:var(--mut);margin-left:auto}
+.card h3{margin:.5rem 0 .35rem;font-size:1.06rem;line-height:1.35}
+.card h3 a{color:var(--fg)}
+.card p{margin:.1rem 0 0;color:var(--mut);font-size:.9rem}
+.foot{margin-top:auto;padding-top:12px;color:var(--mut);font-size:.74rem}
+.empty{color:var(--mut);text-align:center;padding:40px 0}
+.ad-slot{border:1px dashed var(--bd);border-radius:16px;padding:22px;text-align:center;color:var(--mut);font-size:.85rem;margin:14px 0}
+footer{border-top:1px solid var(--bd);padding:26px 0 60px;color:var(--mut);font-size:.85rem}
+footer .cols{display:grid;gap:18px;grid-template-columns:1fr}
+@media(min-width:700px){footer .cols{grid-template-columns:2fr 1fr 1fr}}
+footer a{color:var(--mut)}footer a:hover{color:var(--fg)}
+footer h4{color:var(--fg);margin:0 0 8px;font-size:.9rem}
+footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.toTop{position:fixed;right:18px;bottom:18px;background:var(--acc);color:#fff;border:none;border-radius:999px;padding:10px 14px;cursor:pointer;font-size:.85rem;display:none;z-index:9}
+</style>
+<script>
+try{var s=localStorage.getItem('aipulse-theme');var d=s||((window.matchMedia&&window.matchMedia('(prefers-color-scheme: light)').matches)?'light':'dark');document.documentElement.setAttribute('data-theme',d);}catch(e){}
+</script>
+</head>
+<body>
+<div class="bg-glow"></div>
+<div class="wrap">
+<div class="bar">
+<a class="brand" href="../">AI Pulse<span class="dot">.</span></a>
+<nav>
+<a href="../archive/">Archive</a>
+<a href="../feed.xml">RSS</a>
+<button class="icon" id="theme" title="Switch theme" aria-label="Switch theme">&#9788;</button>
+</nav>
+</div>
+<section class="hero"><h1>Sponsor AI Pulse</h1>
+<p class="tagline">Reach developers who ship with AI.</p>
+</section>
+<main><div class="grid"><article class="card">
+<p>AI Pulse reaches developers who build with AI - game, web and app developers, and the people building AI businesses.</p>
+<p>Placements: top banner, in-feed card, or a sponsored story clearly labelled as sponsored.</p>
+<p>Get in touch: replace this line with your contact email before pitching sponsors.</p>
+</article></div></main>
+<footer><div class="cols">
+<div><h4>AI Pulse</h4><p>Important AI news for builders - game dev, web dev, app dev and the AI business.</p><p>Ranked by source weight, AI relevance and announcement keywords. Static site, no tracking, no cookies.</p></div>
+<div><h4>Explore</h4><ul><li><a href="../archive/">Archive</a></li><li><a href="../">Today</a></li><li><a href="../feed.xml">RSS feed</a></li><li><a href="../data.json">JSON API</a></li><li><a href="../sitemap.xml">Sitemap</a></li></ul></div>
+<div><h4>Info</h4><ul><li><a href="../about/">About</a></li><li><a href="../sponsor/">Sponsor</a></li></ul></div>
+</div></footer>
+</div>
+<button class="toTop" id="toTop">Back to top</button>
+<script>
+var root=document.documentElement;
+try{var saved=localStorage.getItem('aipulse-theme');if(saved){root.setAttribute('data-theme',saved);}else if(window.matchMedia&&window.matchMedia('(prefers-color-scheme: light)').matches){root.setAttribute('data-theme','light');}}catch(e){}
+var tb=document.getElementById('theme');
+function paint(){if(tb)tb.textContent=root.getAttribute('data-theme')==='light'?'\u263e':'\u2600';}
+paint();
+if(tb)tb.addEventListener('click',function(){var next=root.getAttribute('data-theme')==='light'?'dark':'light';root.setAttribute('data-theme',next);try{localStorage.setItem('aipulse-theme',next);}catch(e){}paint();});
+var state={q:'',topic:'all',source:'all'};
+var cards=Array.prototype.slice.call(document.querySelectorAll('.card'));
+var empty=document.getElementById('empty');
+function apply(){var n=0;for(var i=0;i<cards.length;i++){var c=cards[i];
+var ok=(state.topic==='all'||c.dataset.topic===state.topic)&&(state.source==='all'||c.dataset.source===state.source)&&(!state.q||c.dataset.search.indexOf(state.q)>=0);
+c.style.display=ok?'':'none';if(ok)n++;}if(empty)empty.style.display=n?'none':'block';}
+var qi=document.getElementById('q');if(qi)qi.addEventListener('input',function(e){state.q=e.target.value.trim().toLowerCase();apply();});
+['topicChips','srcChips'].forEach(function(id){var box=document.getElementById(id);if(!box)return;box.addEventListener('click',function(e){
+var btn=e.target.closest('.chip');if(!btn)return;
+var all=e.currentTarget.querySelectorAll('.chip');for(var i=0;i<all.length;i++){all[i].classList.toggle('active',all[i]===btn);}
+state[btn.dataset.filter]=btn.dataset.value;apply();});});
+var tt=document.getElementById('toTop');
+window.addEventListener('scroll',function(){if(tt)tt.style.display=window.scrollY>800?'block':'none';});
+if(tt)tt.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'});});
+if('serviceWorker' in navigator&&location.protocol.indexOf('http')===0){navigator.serviceWorker.register("../"+'sw.js').catch(function(){});}
+</script>
+</body>
+</html>
