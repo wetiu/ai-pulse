@@ -224,12 +224,18 @@ function parseFeed(xml, feed) {
     if (!title || !url) continue;
     const d = dateStr ? new Date(dateStr) : null;
     items.push({
-      title: title, url: url, summary: summary.slice(0, 300),
+      title: title, url: url, summary: trimSummary(summary),
       source: feed.name, feedTopic: feed.topic, weight: feed.weight, native: feed.native,
       date: d && !isNaN(d.getTime()) ? d.toISOString() : null,
     });
   }
   return items;
+}
+// Cut on a word boundary so excerpts never end mid-word, and mark the cut.
+function trimSummary(s) {
+  if (!s) return "";
+  if (s.length <= 300) return s;
+  return s.slice(0, 300).replace(/\s+\S*$/, "") + "\u2026";
 }
 function sleep(ms) { return new Promise(function (r) { setTimeout(r, ms); }); }
 async function fetchFeed(feed) {
@@ -356,6 +362,7 @@ const STYLE = [
   ".card h3{margin:.5rem 0 .35rem;font-size:1.06rem;line-height:1.35}",
   ".card h3 a{color:var(--fg)}",
   ".card p{margin:.1rem 0 0;color:var(--mut);font-size:.9rem}",
+  ".card p + p{margin-top:.75rem}",
   ".foot{margin-top:auto;padding-top:12px;color:var(--mut);font-size:.74rem}",
   ".empty{color:var(--mut);text-align:center;padding:40px 0}",
   ".ad-slot{border:1px dashed var(--bd);border-radius:16px;padding:22px;text-align:center;color:var(--mut);font-size:.85rem;margin:14px 0}",
@@ -640,7 +647,7 @@ const SPONSOR = renderPage({
   paragraphs: [
     "AI Pulse reaches developers who build with AI - game, web and app developers, and the people building AI businesses.",
     "Placements: top banner, in-feed card, or a sponsored story clearly labelled as sponsored.",
-    "Get in touch: replace this line with your contact email before pitching sponsors.",
+    "Get in touch: open an issue on the AI Pulse GitHub repository, or reply to any edition.",
   ],
 });
 

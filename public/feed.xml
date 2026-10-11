@@ -5,14 +5,14 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev and the AI business.</description>
-  <lastBuildDate>Sun, 11 Oct 2026 03:11:06 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 03:12:14 GMT</lastBuildDate>
   <item>
     <title>Anthropic launches a free AI scanner for open-source projects</title>
     <link>https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/</link>
     <guid isPermaLink="true">https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/</guid>
     <pubDate>Fri, 09 Oct 2026 17:54:44 GMT</pubDate>
     <category>AI Business</category>
-    <description>Anthropic has launched Cyber Mission, a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulner</description>
+    <description>Anthropic has launched Cyber Mission, a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for…</description>
   </item>
   <item>
     <title>$100M ARR, $7.5B valuation 3 weeks after launch</title>
@@ -20,7 +20,7 @@
     <guid isPermaLink="true">https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b</guid>
     <pubDate>Sat, 10 Oct 2026 06:45:57 GMT</pubDate>
     <category>AI Business</category>
-    <description>As you can see in the AINews X recap section below, everyone on earth has cloned the Jev API, but only one company can ever create the category. TypeSafe announced their “ Series AI ” and Sequoia “ leaked ” that they crossed 100M ARR in their first week. @a16z it&#39;s been 3 weeks we would like to slee</description>
+    <description>As you can see in the AINews X recap section below, everyone on earth has cloned the Jev API, but only one company can ever create the category. TypeSafe announced their “ Series AI ” and Sequoia “ leaked ” that they crossed 100M ARR in their first week. @a16z it&#39;s been 3 weeks we would like to…</description>
   </item>
   <item>
     <title>Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work</title>
@@ -28,7 +28,7 @@
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/</guid>
     <pubDate>Fri, 09 Oct 2026 06:47:56 GMT</pubDate>
     <category>AI Business</category>
-    <description>Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For develop</description>
+    <description>Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For…</description>
   </item>
   <item>
     <title>From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI</title>
@@ -36,7 +36,7 @@
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</guid>
     <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
     <category>AI Business</category>
-    <description>Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to prod</description>
+    <description>Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to…</description>
   </item>
   <item>
     <title>AI agent developer Manus raises $500M+ at reported $4B valuation</title>
@@ -44,7 +44,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/</guid>
     <pubDate>Thu, 08 Oct 2026 20:25:46 GMT</pubDate>
     <category>AI Business</category>
-    <description>Manus, the creator of the eponymous artificial intelligence agent, has raised more than $500 million in funding. The Chinese startup announced the round today. It said the private equity firm Boyu Capital led the investment with contributions from Tencent Holdings Ltd., one of China’s largest tech f</description>
+    <description>Manus, the creator of the eponymous artificial intelligence agent, has raised more than $500 million in funding. The Chinese startup announced the round today. It said the private equity firm Boyu Capital led the investment with contributions from Tencent Holdings Ltd., one of China’s largest tech…</description>
   </item>
   <item>
     <title>Sony introduces AI upscaling to base PS5; Marvel&#39;s Wolverine and Ghost of Yōtei are first games to implement new tech</title>
@@ -68,7 +68,7 @@
     <guid isPermaLink="true">https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel</guid>
     <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Giv</description>
+    <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
   </item>
   <item>
     <title>Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices</title>
@@ -76,7 +76,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/</guid>
     <pubDate>Wed, 07 Oct 2026 22:28:07 GMT</pubDate>
     <category>AI Business</category>
-    <description>Anthropic PBC today released Claude Haiku 5.5, pricing its newest small model at roughly a quarter of what Haiku 4.5 costs to run. Claude Sonnet 5.5 is getting cheaper as well, since the company is halving what it charges for cache reads on that model. Two weeks after Opus 5.5 launched Sept. 22, Hai</description>
+    <description>Anthropic PBC today released Claude Haiku 5.5, pricing its newest small model at roughly a quarter of what Haiku 4.5 costs to run. Claude Sonnet 5.5 is getting cheaper as well, since the company is halving what it charges for cache reads on that model. Two weeks after Opus 5.5 launched Sept. 22,…</description>
   </item>
   <item>
     <title>Anthropic&#39;s Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows</title>
@@ -84,7 +84,7 @@
     <guid isPermaLink="true">https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/</guid>
     <pubDate>Fri, 09 Oct 2026 18:28:25 GMT</pubDate>
     <category>AI Business</category>
-    <description>Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The article Anthropic&#39;s Cla</description>
+    <description>Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The article Anthropic&#39;s…</description>
   </item>
   <item>
     <title>Google Cloud introduces Gemini agent to change enterprise work</title>
@@ -92,7 +92,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/google-cloud-introduces-gemini-agent-to-change-enterprise-work/</guid>
     <pubDate>Thu, 08 Oct 2026 12:00:22 GMT</pubDate>
     <category>AI Business</category>
-    <description>Google LLC’s Cloud division today introduced Gemini agent, a unified artificial intelligence assistant that can act autonomously, generate code and complete work across any device, including web, mobile and desktop. The new agentic AI experience can be accessed anywhere and through any channel, incl</description>
+    <description>Google LLC’s Cloud division today introduced Gemini agent, a unified artificial intelligence assistant that can act autonomously, generate code and complete work across any device, including web, mobile and desktop. The new agentic AI experience can be accessed anywhere and through any channel,…</description>
   </item>
   <item>
     <title>The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
@@ -108,7 +108,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/</guid>
     <pubDate>Thu, 08 Oct 2026 00:14:38 GMT</pubDate>
     <category>AI Business</category>
-    <description>Nous Research Inc., the developer of the popular Hermes artificial intelligence agent, today announced that it has raised $90 million in funding. Early-stage startup fund Robot Ventures led the Series B round. It was joined by Nvidia Corp., Samsung Electronics Co., Y Combinator and several others. N</description>
+    <description>Nous Research Inc., the developer of the popular Hermes artificial intelligence agent, today announced that it has raised $90 million in funding. Early-stage startup fund Robot Ventures led the Series B round. It was joined by Nvidia Corp., Samsung Electronics Co., Y Combinator and several others.…</description>
   </item>
   <item>
     <title>OpenAI Decisions API now available on AI Gateway</title>
@@ -116,7 +116,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/openai-decisions-api-now-available-on-ai-gateway</guid>
     <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>OpenAI’s Decisions API is now available through AI Gateway at /v1/decisions . It uses the same request and response format as OpenAI, so existing OpenAI SDK integrations can switch by changing the base URL, credentials, and model ID. Decision models answer typed questions about shared input and retu</description>
+    <description>OpenAI’s Decisions API is now available through AI Gateway at /v1/decisions . It uses the same request and response format as OpenAI, so existing OpenAI SDK integrations can switch by changing the base URL, credentials, and model ID. Decision models answer typed questions about shared input and…</description>
   </item>
   <item>
     <title>OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers</title>
@@ -124,7 +124,7 @@
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/</guid>
     <pubDate>Fri, 09 Oct 2026 20:05:07 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared firs</description>
+    <description>OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared…</description>
   </item>
   <item>
     <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
@@ -140,7 +140,7 @@
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</guid>
     <pubDate>Thu, 01 Oct 2026 13:00:49 GMT</pubDate>
     <category>AI Business</category>
-    <description>AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory </description>
+    <description>AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory…</description>
   </item>
   <item>
     <title>Step 5 Preview now available on AI Gateway</title>
@@ -148,7 +148,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway</guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Step 5 Preview , StepFun&#39;s flagship model, is now available on AI Gateway . It&#39;s built for agentic coding, professional knowledge work, and financial analysis, from building apps and debugging code to research and analytical reports. Step 5 Preview supports text and image input with a 1M-token conte</description>
+    <description>Step 5 Preview , StepFun&#39;s flagship model, is now available on AI Gateway . It&#39;s built for agentic coding, professional knowledge work, and financial analysis, from building apps and debugging code to research and analytical reports. Step 5 Preview supports text and image input with a 1M-token…</description>
   </item>
   <item>
     <title>Unity unveils a web-based AI game creation platform</title>
@@ -164,7 +164,7 @@
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</guid>
     <pubDate>Thu, 01 Oct 2026 23:44:13 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs , is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x fas</description>
+    <description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs , is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x…</description>
   </item>
   <item>
     <title>Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition</title>
@@ -172,7 +172,7 @@
     <guid isPermaLink="true">https://arxiv.org/abs/2610.12341</guid>
     <pubDate>Sat, 10 Oct 2026 04:00:00 GMT</pubDate>
     <category>Game Dev</category>
-    <description>arXiv:2610.12341v1 Announce Type: new Abstract: Adversarial games have driven advances from heuristic search to reinforcement learning, yet learning and adapting strategies from limited samples remain challenging. AI agents offer an alternative by turning game experience into revisions of executable</description>
+    <description>arXiv:2610.12341v1 Announce Type: new Abstract: Adversarial games have driven advances from heuristic search to reinforcement learning, yet learning and adapting strategies from limited samples remain challenging. AI agents offer an alternative by turning game experience into revisions of…</description>
   </item>
   <item>
     <title>Session-Aware Agentic Inference with NVIDIA Dynamo</title>
@@ -196,7 +196,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/gallatin-ai-raises-50m-in-funding-for-its-military-logistics-platform/</guid>
     <pubDate>Fri, 09 Oct 2026 00:12:16 GMT</pubDate>
     <category>AI Business</category>
-    <description>Gallatin AI Inc., a developer of military logistics software, today announced that it has raised $50 million in funding. The Series A round included contributions from 8VC, Silent Ventures and several others. It follows a $15 million seed raise in 2024. El Segundo, California-based Gallatin has buil</description>
+    <description>Gallatin AI Inc., a developer of military logistics software, today announced that it has raised $50 million in funding. The Series A round included contributions from 8VC, Silent Ventures and several others. It follows a $15 million seed raise in 2024. El Segundo, California-based Gallatin has…</description>
   </item>
   <item>
     <title>The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds</title>
@@ -204,7 +204,7 @@
     <guid isPermaLink="true">https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/</guid>
     <pubDate>Fri, 09 Oct 2026 18:28:35 GMT</pubDate>
     <category>AI Business</category>
-    <description>Want to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out T he Crunchbase Megadeals Board . This is a weekly feature that runs down the week’s Top 10 announced funding rounds in the U.S. Check out last </description>
+    <description>Want to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out T he Crunchbase Megadeals Board . This is a weekly feature that runs down the week’s Top 10 announced funding rounds in the U.S. Check out last…</description>
   </item>
   <item>
     <title>Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up</title>
@@ -212,7 +212,7 @@
     <guid isPermaLink="true">https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/</guid>
     <pubDate>Mon, 05 Oct 2026 11:00:13 GMT</pubDate>
     <category>AI Business</category>
-    <description>Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022. Funding to private companies has skyrocketed thi</description>
+    <description>Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022. Funding to private companies has skyrocketed…</description>
   </item>
   <item>
     <title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
@@ -236,7 +236,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/</guid>
     <pubDate>Thu, 08 Oct 2026 18:05:27 GMT</pubDate>
     <category>AI Business</category>
-    <description>Automation Anywhere Inc., an enterprise agentic automation and orchestration firm, announced Wednesday an agreement to acquire Boost.ai Inc., a conversational voice artificial intelligence company, from Nordic Capital. The firm seeks to build the “autonomous enterprise,” an operating model where bus</description>
+    <description>Automation Anywhere Inc., an enterprise agentic automation and orchestration firm, announced Wednesday an agreement to acquire Boost.ai Inc., a conversational voice artificial intelligence company, from Nordic Capital. The firm seeks to build the “autonomous enterprise,” an operating model where…</description>
   </item>
   <item>
     <title>Get started with the GitHub Copilot app: a free, hands-on course</title>
@@ -252,7 +252,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/claude-haiku-5-5-now-available-on-ai-gateway</guid>
     <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It&#39;s the fastest Claude model </description>
+    <description>Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It&#39;s the fastest Claude model…</description>
   </item>
   <item>
     <title>Introducing Mistral Large 4: Le chonk</title>
@@ -260,7 +260,7 @@
     <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/le-chonk/</guid>
     <pubDate>Tue, 06 Oct 2026 20:18:19 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://mistral.ai/news/mistral-large-4/ &gt;Introducing Mistral Large 4: Le chonk&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Mistral are back in the game. Today they&#39;re releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVI</description>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://mistral.ai/news/mistral-large-4/ &gt;Introducing Mistral Large 4: Le chonk&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Mistral are back in the game. Today they&#39;re releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800…</description>
   </item>
   <item>
     <title>Mistral Large 4 now available on AI Gateway</title>
@@ -268,7 +268,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway</guid>
     <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a sepa</description>
+    <description>Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a…</description>
   </item>
   <item>
     <title>New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent</title>
@@ -276,7 +276,7 @@
     <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/</guid>
     <pubDate>Mon, 05 Oct 2026 17:23:19 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable SageMaker</description>
+    <description>Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable…</description>
   </item>
   <item>
     <title>ReviewBench: An open benchmark for AI code review</title>
@@ -292,7 +292,7 @@
     <guid isPermaLink="true">https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/</guid>
     <pubDate>Fri, 09 Oct 2026 17:20:34 GMT</pubDate>
     <category>AI Business</category>
-    <description>OpenAI&#39;s annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 billion in fresh capital at a $1.4 trillion valuati</description>
+    <description>OpenAI&#39;s annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 billion in fresh capital at a $1.4 trillion…</description>
   </item>
   <item>
     <title>OpenAI’s revenue is reportedly $20 billion less than previously projected</title>
@@ -308,7 +308,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway</guid>
     <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Early access to Glyph Cluster is now available on AI Gateway for teams on a Pro or Enterprise plan with purchased AI Gateway credits. Usage is free during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, with a 256K-token context window. Use it to review c</description>
+    <description>Early access to Glyph Cluster is now available on AI Gateway for teams on a Pro or Enterprise plan with purchased AI Gateway credits. Usage is free during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, with a 256K-token context window. Use it to review…</description>
   </item>
   <item>
     <title>How Rogo ships agent-written code to production in 5 minutes on Vercel</title>
@@ -316,7 +316,7 @@
     <guid isPermaLink="true">https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel</guid>
     <pubDate>Fri, 02 Oct 2026 04:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Rogo on Vercel 73,000+ deployments in a single month Agent-written code shipped to production in 5 minutes 6 production AI agents automating work from churn analysis to deal desk Zero manual triage during production incidents with agent swarms on AI SDK Rogo builds Felix, an AI agent that generates </description>
+    <description>Rogo on Vercel 73,000+ deployments in a single month Agent-written code shipped to production in 5 minutes 6 production AI agents automating work from churn analysis to deal desk Zero manual triage during production incidents with agent swarms on AI SDK Rogo builds Felix, an AI agent that generates…</description>
   </item>
   <item>
     <title>Laya decision model now available on AI Gateway, free through October 31</title>
@@ -324,7 +324,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31</guid>
     <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Laya from Convai Innovations is free to use on AI Gateway for 1 month through October 31, 2026 via Boundless . Laya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to: Tr</description>
+    <description>Laya from Convai Innovations is free to use on AI Gateway for 1 month through October 31, 2026 via Boundless . Laya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to:…</description>
   </item>
   <item>
     <title>CoreWeave targets AI inference bottlenecks with full-stack optimization</title>
@@ -332,7 +332,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/ai-inference-gets-full-stack-coreweave-launches-forge-fullyconnected/</guid>
     <pubDate>Fri, 09 Oct 2026 02:30:18 GMT</pubDate>
     <category>AI Business</category>
-    <description>AI inference is fast becoming the workload that decides the economics of the AI boom. Training built the first wave of GPU clouds, but serving models faster and cheaper will define the next. That shift is pushing specialized cloud providers beyond raw GPU capacity into storage, networking and softwa</description>
+    <description>AI inference is fast becoming the workload that decides the economics of the AI boom. Training built the first wave of GPU clouds, but serving models faster and cheaper will define the next. That shift is pushing specialized cloud providers beyond raw GPU capacity into storage, networking and…</description>
   </item>
   <item>
     <title>Tech Giants Contribute $2.4 Billion in AI Resources to White House Science Mission</title>
@@ -340,7 +340,7 @@
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/tech-giants-contribute-2-billion-dollars-ai-resources-white-house-science-mission/</guid>
     <pubDate>Thu, 08 Oct 2026 21:52:28 GMT</pubDate>
     <category>AI Business</category>
-    <description>The White House announced Thursday (Oct. 8) that 11 companies have committed a total of $2.4 billion in artificial intelligence, which the administration dubs “super intelligence,” to support federal agencies working on energy, health, space and other challenges. The contributions include AI for sci</description>
+    <description>The White House announced Thursday (Oct. 8) that 11 companies have committed a total of $2.4 billion in artificial intelligence, which the administration dubs “super intelligence,” to support federal agencies working on energy, health, space and other challenges. The contributions include AI for…</description>
   </item>
   <item>
     <title>Introducing the Agent Experience (AX) Practitioner Playbook</title>
@@ -348,7 +348,7 @@
     <guid isPermaLink="true">https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/</guid>
     <pubDate>Fri, 09 Oct 2026 09:44:25 GMT</pubDate>
     <category>App Dev</category>
-    <description>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don&#39;t. The post Introducing the Agent Experience (AX) Practitioner</description>
+    <description>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don&#39;t. The post Introducing the Agent Experience (AX)…</description>
   </item>
   <item>
     <title>Optimizing Jagged Flash Attention with TLX: The Road Toward SOTA FA4 on Blackwell</title>
@@ -372,7 +372,7 @@
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/</guid>
     <pubDate>Fri, 09 Oct 2026 20:33:17 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture, p</description>
+    <description>Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture,…</description>
   </item>
   <item>
     <title>OpenAI Ultrafast mode now available on AI Gateway</title>
@@ -380,7 +380,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>AI Gateway now supports OpenAI&#39;s Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat Completi</description>
+    <description>AI Gateway now supports OpenAI&#39;s Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat…</description>
   </item>
   <item>
     <title>Claude Sonnet 5.5 now available on AI Gateway</title>
@@ -388,7 +388,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway</guid>
     <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Claude Sonnet 5.5 from Anthropic is now available on AI Gateway as anthropic/claude-sonnet-5.5 . Sonnet 5.5 improves on Claude Sonnet 5 for well-scoped everyday work, from building features and fixing bugs to creating documents, slides, and spreadsheets. On coding tasks, Sonnet 5.5 carries changes t</description>
+    <description>Claude Sonnet 5.5 from Anthropic is now available on AI Gateway as anthropic/claude-sonnet-5.5 . Sonnet 5.5 improves on Claude Sonnet 5 for well-scoped everyday work, from building features and fixing bugs to creating documents, slides, and spreadsheets. On coding tasks, Sonnet 5.5 carries changes…</description>
   </item>
   <item>
     <title>Bending Spoons Deploys AI to Overhaul Acquired Software Companies</title>
@@ -396,7 +396,7 @@
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/bending-spoons-deploys-ai-to-overhaul-acquired-software-companies/</guid>
     <pubDate>Fri, 09 Oct 2026 17:41:41 GMT</pubDate>
     <category>AI Business</category>
-    <description>Artificial intelligence has been valuable to Bending Spoons, a company that buys digital businesses and then increases their revenue per customer, CEO Luca Ferrari told Bloomberg in a report published Friday (Oct. 9). Bending Spoons’ portfolio includes AOL, Vimeo, WeTransfer and Evernote. When the f</description>
+    <description>Artificial intelligence has been valuable to Bending Spoons, a company that buys digital businesses and then increases their revenue per customer, CEO Luca Ferrari told Bloomberg in a report published Friday (Oct. 9). Bending Spoons’ portfolio includes AOL, Vimeo, WeTransfer and Evernote. When the…</description>
   </item>
   <item>
     <title>Splitit CEO Says AI Agents Need the Full Financial Picture to Pick Pay Later</title>
@@ -404,7 +404,7 @@
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/splitit-ceo-says-ai-agents-need-the-full-financial-picture-to-pick-pay-later/</guid>
     <pubDate>Fri, 09 Oct 2026 08:03:54 GMT</pubDate>
     <category>AI Business</category>
-    <description>Watch more: Need to Know With Splitit’s Nandan Sheth Artificial intelligence could turn pay later from an offer at checkout into advice about whether financing the purchase makes sense in the first place. Doing that requires more than finding the lowest monthly payment. An agent needs enough context</description>
+    <description>Watch more: Need to Know With Splitit’s Nandan Sheth Artificial intelligence could turn pay later from an offer at checkout into advice about whether financing the purchase makes sense in the first place. Doing that requires more than finding the lowest monthly payment. An agent needs enough…</description>
   </item>
   <item>
     <title>AI Answers Get Cheaper as Model Choices Multiply</title>
@@ -412,7 +412,7 @@
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/ai-answers-get-cheaper-as-model-choices-multiply/</guid>
     <pubDate>Thu, 08 Oct 2026 19:50:40 GMT</pubDate>
     <category>AI Business</category>
-    <description>A bank’s customer-service team fields thousands of routine questions a day. Where is my card? Why was I charged twice? Each answer artificial intelligence writes carries a small cost, and at that volume, the costs add up fast. This week, that math changed. The price of a basic AI answer fell, and co</description>
+    <description>A bank’s customer-service team fields thousands of routine questions a day. Where is my card? Why was I charged twice? Each answer artificial intelligence writes carries a small cost, and at that volume, the costs add up fast. This week, that math changed. The price of a basic AI answer fell, and…</description>
   </item>
   <item>
     <title>OpenAI publishes 722 AI-generated math discoveries in major scientific milestone</title>
@@ -420,7 +420,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/07/openai-publishes-722-ai-generated-math-discoveries-in-major-scientific-milestone/</guid>
     <pubDate>Wed, 07 Oct 2026 20:37:22 GMT</pubDate>
     <category>AI Business</category>
-    <description>OpenAI Group PBC has published 722 math papers that it generated using an unreleased artificial intelligence model. Some of the papers, which were posted to GitHub late Tuesday, prove long-running hypotheses. Others disapprove proposed explanations of mathematical phenomena or narrow down the possib</description>
+    <description>OpenAI Group PBC has published 722 math papers that it generated using an unreleased artificial intelligence model. Some of the papers, which were posted to GitHub late Tuesday, prove long-running hypotheses. Others disapprove proposed explanations of mathematical phenomena or narrow down the…</description>
   </item>
   <item>
     <title>Introducing Claude Haiku 5.5 on AWS</title>
@@ -428,7 +428,7 @@
     <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/</guid>
     <pubDate>Wed, 07 Oct 2026 18:52:10 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This pos</description>
+    <description>Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This…</description>
   </item>
   <item>
     <title>Introducing Warm Agents, a TeamCity Plugin</title>
@@ -436,7 +436,7 @@
     <guid isPermaLink="true">https://blog.jetbrains.com/teamcity/2026/10/teamcity-warm-agents-plugin/</guid>
     <pubDate>Wed, 07 Oct 2026 14:23:08 GMT</pubDate>
     <category>App Dev</category>
-    <description>Waiting on “waiting for a starting agent” is a special kind of annoying when you just want your PR tests to run. It stings most when a quick one-minute build sits in the queue for ten minutes while that one slow Windows cloud instance spins up. The Warm Agents plugin is our answer to this delay. Wit</description>
+    <description>Waiting on “waiting for a starting agent” is a special kind of annoying when you just want your PR tests to run. It stings most when a quick one-minute build sits in the queue for ten minutes while that one slow Windows cloud instance spins up. The Warm Agents plugin is our answer to this delay.…</description>
   </item>
   <item>
     <title>Willow taps CoreWeave to simplify AI model training</title>
@@ -444,7 +444,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/willow-taps-coreweave-simplify-ai-model-training-fullyconnected/</guid>
     <pubDate>Thu, 08 Oct 2026 15:50:43 GMT</pubDate>
     <category>AI Business</category>
-    <description>AI model training can leave startups managing infrastructure alongside the products they are trying to build. Willow Care Inc., the company behind AI dictation app Willow Voice, chose CoreWeave Inc. for its forward-deployed support rather than compute alone. The application combines speech recogniti</description>
+    <description>AI model training can leave startups managing infrastructure alongside the products they are trying to build. Willow Care Inc., the company behind AI dictation app Willow Voice, chose CoreWeave Inc. for its forward-deployed support rather than compute alone. The application combines speech…</description>
   </item>
   <item>
     <title>Deno is joining Cloudflare</title>
@@ -452,7 +452,7 @@
     <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</guid>
     <pubDate>Fri, 09 Oct 2026 22:48:37 GMT</pubDate>
     <category>Web Dev</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://deno.com/blog/cloudflare &gt;Deno is joining Cloudflare&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; The Deno team released the first version of &lt;a href= https://github.com/denoland/celld &gt;celld&lt;/a&gt; back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers</description>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://deno.com/blog/cloudflare &gt;Deno is joining Cloudflare&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; The Deno team released the first version of &lt;a href= https://github.com/denoland/celld &gt;celld&lt;/a&gt; back in August - their open source implementation of the Durable Objects pattern from Cloudflare…</description>
   </item>
   <item>
     <title>Here are the top AI agents that can live in your text messages</title>
@@ -468,7 +468,7 @@
     <guid isPermaLink="true">https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/</guid>
     <pubDate>Sat, 10 Oct 2026 10:16:26 GMT</pubDate>
     <category>AI Business</category>
-    <description>Anthropic&#39;s Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic cuts</description>
+    <description>Anthropic&#39;s Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic…</description>
   </item>
   <item>
     <title>Google&#39;s Gemini 4 Carbon model reportedly feels like Anthropic&#39;s Opus 5.5 coding performance</title>
@@ -476,7 +476,7 @@
     <guid isPermaLink="true">https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/</guid>
     <pubDate>Sat, 10 Oct 2026 08:59:49 GMT</pubDate>
     <category>AI Business</category>
-    <description>Gemini 4 Argon isn&#39;t even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon&#39;s coding abilities to Anthropic&#39;s Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and A</description>
+    <description>Gemini 4 Argon isn&#39;t even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon&#39;s coding abilities to Anthropic&#39;s Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and…</description>
   </item>
   <item>
     <title>Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
@@ -500,7 +500,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway</guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>Grok Imagine Video 1.5 Lite from xAI is now available on AI Gateway. This lightweight model turns text prompts and images into video with native audio. The model produces clips from 1 to 15 seconds long in 480p, 720p, and 1080p. Seven aspect ratios cover widescreen, square, and portrait formats, so </description>
+    <description>Grok Imagine Video 1.5 Lite from xAI is now available on AI Gateway. This lightweight model turns text prompts and images into video with native audio. The model produces clips from 1 to 15 seconds long in 480p, 720p, and 1080p. Seven aspect ratios cover widescreen, square, and portrait formats, so…</description>
   </item>
   <item>
     <title>Wizards of the Coast union expands, demands company stop pushing generative AI</title>
@@ -524,7 +524,7 @@
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-projects-20-billion-jump-in-annualized-revenue-before-year-end/</guid>
     <pubDate>Fri, 09 Oct 2026 13:55:10 GMT</pubDate>
     <category>AI Business</category>
-    <description>OpenAI expects its annualized revenue to reach at least $70 billion by the end of the year, up from $50 billion at the end of September, Bloomberg reported Friday (Oct. 9), citing unnamed sources. The expected gains are being driven by growth in OpenAI’s enterprise business, according to the report.</description>
+    <description>OpenAI expects its annualized revenue to reach at least $70 billion by the end of the year, up from $50 billion at the end of September, Bloomberg reported Friday (Oct. 9), citing unnamed sources. The expected gains are being driven by growth in OpenAI’s enterprise business, according to the…</description>
   </item>
   <item>
     <title>AI stocks crumble on report that OpenAI’s annualized revenue is much lower than believed</title>
@@ -532,7 +532,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/ai-stocks-crumble-on-report-that-openais-annualized-revenue-is-much-lower-than-previously-believed/</guid>
     <pubDate>Fri, 09 Oct 2026 00:44:27 GMT</pubDate>
     <category>AI Business</category>
-    <description>Technology stocks fell lower today following a report that artificial intelligence giant OpenAI Group PBC’s annualized revenue this year is about $20 billion less than what was previously reported by the media, sending shockwaves through the industry. A report today by the Financial Times revealed t</description>
+    <description>Technology stocks fell lower today following a report that artificial intelligence giant OpenAI Group PBC’s annualized revenue this year is about $20 billion less than what was previously reported by the media, sending shockwaves through the industry. A report today by the Financial Times revealed…</description>
   </item>
   <item>
     <title>Apple changes full-disk access permissions to curb abuse from AI agents</title>
@@ -540,7 +540,7 @@
     <guid isPermaLink="true">https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/</guid>
     <pubDate>Fri, 02 Oct 2026 23:03:16 GMT</pubDate>
     <category>App Dev</category>
-    <description>Apple says it is changing its macOS privacy settings to stop third-party app developers from misusing them to access message histories. Friday&#39;s announcement comes two weeks after tech columnist Jason Aten said that Meta’s new general-purpose AI agent Muse sent him an unsolicited notification refere</description>
+    <description>Apple says it is changing its macOS privacy settings to stop third-party app developers from misusing them to access message histories. Friday&#39;s announcement comes two weeks after tech columnist Jason Aten said that Meta’s new general-purpose AI agent Muse sent him an unsolicited notification…</description>
   </item>
   <item>
     <title>Building a High-Performance and Portable vLLM Linear Backend with Helion</title>
@@ -548,7 +548,7 @@
     <guid isPermaLink="true">https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion/</guid>
     <pubDate>Fri, 02 Oct 2026 19:55:07 GMT</pubDate>
     <category>Web Dev</category>
-    <description>TL;DR We integrated Helion into vLLM’s linear backend to explore how an autotuned, high-level kernel DSL can improve LLM inference performance while reducing kernel implementation complexity. A single Helion general... The post Building a High-Performance and Portable vLLM Linear Backend with Helion</description>
+    <description>TL;DR We integrated Helion into vLLM’s linear backend to explore how an autotuned, high-level kernel DSL can improve LLM inference performance while reducing kernel implementation complexity. A single Helion general... The post Building a High-Performance and Portable vLLM Linear Backend with…</description>
   </item>
   <item>
     <title>Midwest Wheel builds toward AI agents that fix problems</title>
@@ -556,7 +556,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/07/midwest-wheel-builds-ai-agents-fix-problems-inforvelocity/</guid>
     <pubDate>Wed, 07 Oct 2026 19:46:46 GMT</pubDate>
     <category>AI Business</category>
-    <description>Agentic AI governance helps midsized distributors decide which tasks software agents can handle and which require human oversight. For lean IT teams, automating more work also means checking the data and rules behind those decisions. Infor (US) LLC is embedding industry-specific AI agents into its a</description>
+    <description>Agentic AI governance helps midsized distributors decide which tasks software agents can handle and which require human oversight. For lean IT teams, automating more work also means checking the data and rules behind those decisions. Infor (US) LLC is embedding industry-specific AI agents into its…</description>
   </item>
   <item>
     <title>From Upstream Changes to Downstream Confidence: Inside Torch Spyre’s Integration with PyTorch CRCR</title>
@@ -564,7 +564,7 @@
     <guid isPermaLink="true">https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr/</guid>
     <pubDate>Wed, 30 Sep 2026 13:40:56 GMT</pubDate>
     <category>Web Dev</category>
-    <description>TL;DR PyTorch’s Cross-Repository CI Relay (CRCR) gives out-of-tree accelerators a clean, scalable way to plug into upstream CI – and it leaves each backend free to decide which of PyTorch’s... The post From Upstream Changes to Downstream Confidence: Inside Torch Spyre’s Integration with PyTorch CRCR</description>
+    <description>TL;DR PyTorch’s Cross-Repository CI Relay (CRCR) gives out-of-tree accelerators a clean, scalable way to plug into upstream CI – and it leaves each backend free to decide which of PyTorch’s... The post From Upstream Changes to Downstream Confidence: Inside Torch Spyre’s Integration with PyTorch…</description>
   </item>
   <item>
     <title>Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling</title>
@@ -572,7 +572,7 @@
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/</guid>
     <pubDate>Fri, 09 Oct 2026 07:23:36 GMT</pubDate>
     <category>AI Business</category>
-    <description>Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning. The post Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling appeared first on MarkTe</description>
+    <description>Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning. The post Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling appeared first on…</description>
   </item>
   <item>
     <title>PyTorch Hardware Enablement: Updates from the Accelerator Integration Working Group</title>
@@ -580,7 +580,7 @@
     <guid isPermaLink="true">https://pytorch.org/blog/pytorch-hardware-enablement-updates-from-the-acceleration-integration-working-group/</guid>
     <pubDate>Mon, 05 Oct 2026 13:12:59 GMT</pubDate>
     <category>AI Business</category>
-    <description>TL;DR The Accelerator Integration Working Group plays a vital role in standardizing how new hardware architectures connect to the open source AI ecosystem. As compute platforms diversify across cloud, edge,... The post PyTorch Hardware Enablement: Updates from the Accelerator Integration Working Gro</description>
+    <description>TL;DR The Accelerator Integration Working Group plays a vital role in standardizing how new hardware architectures connect to the open source AI ecosystem. As compute platforms diversify across cloud, edge,... The post PyTorch Hardware Enablement: Updates from the Accelerator Integration Working…</description>
   </item>
   <item>
     <title>AI is changing developer work. Here are three skills to strengthen.</title>
@@ -596,7 +596,7 @@
     <guid isPermaLink="true">https://arxiv.org/abs/2610.12463</guid>
     <pubDate>Sat, 10 Oct 2026 04:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>arXiv:2610.12463v1 Announce Type: cross Abstract: In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compro</description>
+    <description>arXiv:2610.12463v1 Announce Type: cross Abstract: In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and…</description>
   </item>
   <item>
     <title>EgoBench: An Interactive Egocentric Multimodal Benchmark for Tool-Using Agents</title>
@@ -604,7 +604,7 @@
     <guid isPermaLink="true">https://arxiv.org/abs/2605.27820</guid>
     <pubDate>Sat, 10 Oct 2026 04:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>arXiv:2605.27820v2 Announce Type: replace Abstract: As AI agents increasingly operate in open, real-world environments, they require a deep synergy of multimodal perception, tool invocation with multi-hop reasoning, and dynamic interaction with users. However, existing benchmarks fail to jointly eva</description>
+    <description>arXiv:2605.27820v2 Announce Type: replace Abstract: As AI agents increasingly operate in open, real-world environments, they require a deep synergy of multimodal perception, tool invocation with multi-hop reasoning, and dynamic interaction with users. However, existing benchmarks fail to jointly…</description>
   </item>
   <item>
     <title>US venture deal value reaches record $515.8B as exits fail to keep pace</title>
@@ -612,7 +612,7 @@
     <guid isPermaLink="true">https://siliconangle.com/2026/10/08/us-venture-deal-value-reaches-record-515-8b-as-exits-fail-to-keep-pace/</guid>
     <pubDate>Thu, 08 Oct 2026 04:01:51 GMT</pubDate>
     <category>AI Business</category>
-    <description>Giant artificial intelligence rounds have pushed U.S. venture capital deal value about 44% past its previous annual record with a quarter still to go, according to the quarterly PitchBook-NVCA Venture Monitor report released today, but the exits needed to return that money to investors have not kept</description>
+    <description>Giant artificial intelligence rounds have pushed U.S. venture capital deal value about 44% past its previous annual record with a quarter still to go, according to the quarterly PitchBook-NVCA Venture Monitor report released today, but the exits needed to return that money to investors have not…</description>
   </item>
   <item>
     <title>North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets</title>
@@ -620,7 +620,7 @@
     <guid isPermaLink="true">https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/</guid>
     <pubDate>Wed, 07 Oct 2026 11:00:05 GMT</pubDate>
     <category>AI Business</category>
-    <description>Funding to North American startups declined sequentially in the third quarter and came in well below the all-time peak. However, the dip is largely due to the absence of new megarounds for OpenAI and Anthropic and doesn’t appear to reflect any broad weakening in the venture investment climate. In to</description>
+    <description>Funding to North American startups declined sequentially in the third quarter and came in well below the all-time peak. However, the dip is largely due to the absence of new megarounds for OpenAI and Anthropic and doesn’t appear to reflect any broad weakening in the venture investment climate. In…</description>
   </item>
   <item>
     <title>GPT-6.1 Sol now available on AI Gateway</title>
@@ -628,7 +628,7 @@
     <guid isPermaLink="true">https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway</guid>
     <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
-    <description>GPT-6.1 Sol from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows. The model is suited to agents that need to debug code, work through business tasks, or extract </description>
+    <description>GPT-6.1 Sol from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows. The model is suited to agents that need to debug code, work through business tasks, or extract…</description>
   </item>
   <item>
     <title>Banks Put AI Agents Through Performance Reviews</title>
@@ -636,7 +636,7 @@
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/banks-put-ai-agents-through-performance-reviews/</guid>
     <pubDate>Fri, 09 Oct 2026 17:35:28 GMT</pubDate>
     <category>AI Business</category>
-    <description>A fund manager in Hong Kong emails BNY at 2 a.m. New York time about a transfer that hasn’t settled. A software agent can read it, pull the records and draft a reply. A human manager reviews the draft before it goes out, Microsoft reported in a case study published in May. That agent is … The post B</description>
+    <description>A fund manager in Hong Kong emails BNY at 2 a.m. New York time about a transfer that hasn’t settled. A software agent can read it, pull the records and draft a reply. A human manager reviews the draft before it goes out, Microsoft reported in a case study published in May. That agent is … The post…</description>
   </item>
   <item>
     <title>Natura Wants People Controlling AI Agents From Their Fingers</title>
@@ -644,7 +644,7 @@
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/natura-wants-people-controlling-ai-agents-from-their-fingers/</guid>
     <pubDate>Thu, 08 Oct 2026 20:01:12 GMT</pubDate>
     <category>AI Business</category>
-    <description>Artificial intelligence and hardware startup Natura has reportedly debuted a smart ring designed to let users interact with AI agents. The company’s new Interface ring, the subject of a Thursday (Oct. 8) TechCrunch report, sells for $99 and allows users to have AI agents complete tasks while also tr</description>
+    <description>Artificial intelligence and hardware startup Natura has reportedly debuted a smart ring designed to let users interact with AI agents. The company’s new Interface ring, the subject of a Thursday (Oct. 8) TechCrunch report, sells for $99 and allows users to have AI agents complete tasks while also…</description>
   </item>
 </channel>
 </rss>
