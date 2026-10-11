@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 11 Oct 2026 04:23:30 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 11:26:48 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -21,14 +21,6 @@
     <pubDate>Wed, 30 Sep 2026 05:53:10 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>the most confident DevDay yet.</description>
-  </item>
-  <item>
-    <title>Anthropic launches a free AI scanner for open-source projects</title>
-    <link>https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/</guid>
-    <pubDate>Fri, 09 Oct 2026 17:54:44 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic has launched Cyber Mission, a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for…</description>
   </item>
   <item>
     <title>Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work</title>
@@ -133,14 +125,6 @@
     <pubDate>Wed, 07 Oct 2026 22:28:07 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic PBC today released Claude Haiku 5.5, pricing its newest small model at roughly a quarter of what Haiku 4.5 costs to run. Claude Sonnet 5.5 is getting cheaper as well, since the company is halving what it charges for cache reads on that model. Two weeks after Opus 5.5 launched Sept. 22,…</description>
-  </item>
-  <item>
-    <title>Anthropic&#39;s Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows</title>
-    <link>https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/</guid>
-    <pubDate>Fri, 09 Oct 2026 18:28:25 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The article Anthropic&#39;s…</description>
   </item>
   <item>
     <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
@@ -287,6 +271,14 @@
     <description>Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022. We take a look at where the funding went.</description>
   </item>
   <item>
+    <title>Cheaper AI tokens are driving more demand, and that&#39;s Jensen Huang&#39;s best-case scenario</title>
+    <link>https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/</link>
+    <guid isPermaLink="true">https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/</guid>
+    <pubDate>Sun, 11 Oct 2026 09:49:59 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that demand flattens, the chain from chip makers to cloud providers takes a hit. The article Cheaper AI tokens are…</description>
+  </item>
+  <item>
     <title>OpenAI’s revenue is reportedly $20 billion less than previously projected</title>
     <link>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</guid>
@@ -332,7 +324,7 @@
     <guid isPermaLink="true">https://github.com/rociiu/talorys</guid>
     <pubDate>Sat, 10 Oct 2026 10:52:09 GMT</pubDate>
     <category>AI Business</category>
-    <description>Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 265 # Comments: 123</description>
+    <description>Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 299 # Comments: 135</description>
   </item>
   <item>
     <title>Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌</title>
@@ -399,14 +391,6 @@
     <description>As the AI startup boom progresses, investors appear to be leaving few niches unfunded. That was apparent in this week’s lineup of large funding rounds, which featured AI infrastructure providers, a foundational model developer, a content protection platform for the AI age, and other AI-focused…</description>
   </item>
   <item>
-    <title>OpenAI revenue keeps surging as company seeks $30 billion in fresh capital</title>
-    <link>https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/</link>
-    <guid isPermaLink="true">https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/</guid>
-    <pubDate>Fri, 09 Oct 2026 17:20:34 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI&#39;s annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 billion in fresh capital at a $1.4 trillion…</description>
-  </item>
-  <item>
     <title>Unity unveils Unity Spark, an prompt-based tool for Google&#39;s AI game platform</title>
     <link>https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform</link>
     <guid isPermaLink="true">https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform</guid>
@@ -445,6 +429,14 @@
     <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Laya from Convai Innovations is free to use on AI Gateway for 1 month through October 31, 2026 via Boundless . Laya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to:…</description>
+  </item>
+  <item>
+    <title>Microsoft&#39;s Nadella bows to Trump&#39;s language diktat on Super Intelligence and uses it to attack OpenAI and Anthropic</title>
+    <link>https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/</link>
+    <guid isPermaLink="true">https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/</guid>
+    <pubDate>Sun, 11 Oct 2026 09:08:35 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Microsoft CEO Satya Nadella now calls artificial intelligence super intelligence instead of artificial intelligence, falling in line with Trump&#39;s preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and Anthropic. The real…</description>
   </item>
   <item>
     <title>CoreWeave targets AI inference bottlenecks with full-stack optimization</title>
@@ -580,7 +572,7 @@
     <guid isPermaLink="true">https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</guid>
     <pubDate>Fri, 09 Oct 2026 22:00:35 GMT</pubDate>
     <category>AI Business</category>
-    <description>Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 208 # Comments: 153</description>
+    <description>Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 209 # Comments: 154</description>
   </item>
   <item>
     <title>Willow taps CoreWeave to simplify AI model training</title>
@@ -645,6 +637,14 @@
     <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.</description>
+  </item>
+  <item>
+    <title>Building advertising for the way people use AI</title>
+    <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+    <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
+    <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</description>
   </item>
 </channel>
 </rss>
