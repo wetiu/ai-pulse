@@ -2,8 +2,11 @@ name: Update AI Pulse
 
 on:
   schedule:
-    # Runs daily at 05:17 UTC (12:17 Asia/Saigon). Change if you like.
-    - cron: "17 5 * * *"
+    # Four times a day at :17 past the hour. GitHub delays scheduled runs and
+    # can drop them entirely under load, so one daily slot is not reliable
+    # enough for "always up to date". Each run is idempotent: it refetches the
+    # feeds and only commits when something actually changed.
+    - cron: "17 */6 * * *"
   workflow_dispatch: {}
   push:
     branches: [main]

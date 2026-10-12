@@ -74,7 +74,8 @@ python3 -m http.server 8137 --directory public
 - **Balance:** `FOCUS` plus the non-focus cap in `main()`.
 - **Ads:** `ADS_ENABLED` (see `MONETIZATION.md`).
 - **Branding:** `SITE_NAME`, `SITE_TAGLINE`.
-- **Schedule:** the `cron:` line in `.github/workflows/daily.yml` (UTC).
+- **Schedule:** the `cron:` line in `.github/workflows/daily.yml` (UTC). It runs
+  four times a day because GitHub delays or drops scheduled runs under load.
 
 ## Making money
 
