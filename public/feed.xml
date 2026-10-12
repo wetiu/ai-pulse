@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Mon, 12 Oct 2026 10:14:59 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 21:16:11 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -39,6 +39,14 @@
     <description>Nvidia’s new system is designed to contain rogue AI agents as companies race to secure increasingly autonomous systems. But it has not been proven yet.</description>
   </item>
   <item>
+    <title>Meta releases its first frontier model, Muse Wonder</title>
+    <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</guid>
+    <pubDate>Mon, 12 Oct 2026 17:56:56 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.</description>
+  </item>
+  <item>
     <title>From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI</title>
     <link>https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</guid>
@@ -55,6 +63,14 @@
     <description>Manus, the creator of the eponymous artificial intelligence agent, has raised more than $500 million in funding. The Chinese startup announced the round today. It said the private equity firm Boyu Capital led the investment with contributions from Tencent Holdings Ltd., one of China’s largest tech…</description>
   </item>
   <item>
+    <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
+    <link>https://android-developers.googleblog.com/feeds/678717441858472980/comments/default</link>
+    <guid isPermaLink="true">https://android-developers.googleblog.com/feeds/678717441858472980/comments/default</guid>
+    <pubDate>Mon, 12 Oct 2026 18:00:00 GMT</pubDate>
+    <category>App Dev</category>
+    <description>&lt;div&gt;&lt;div style= display: none; &gt; &lt;img src=…</description>
+  </item>
+  <item>
     <title>Anthropic opens cybersecurity program applications, releases cheaper Haiku</title>
     <link>https://aibusiness.com/responsible-ai/anthropic-opens-cybersecurity-program-applications</link>
     <guid isPermaLink="true">https://aibusiness.com/responsible-ai/anthropic-opens-cybersecurity-program-applications</guid>
@@ -69,6 +85,14 @@
     <pubDate>Mon, 05 Oct 2026 13:35:22 GMT</pubDate>
     <category>Game Dev</category>
     <description>Sony Interactive Entertainment has introduced new AI upscaling technology to the base PlayStation 5, called Quick Spectral Super Resolution (QSSR) . Read more</description>
+  </item>
+  <item>
+    <title>Anthropic&#39;s Andrej Karpathy says the external world has seen the preview of what AI can actually do</title>
+    <link>https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/</guid>
+    <pubDate>Mon, 12 Oct 2026 12:51:21 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world&#39;s population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would take top experts…</description>
   </item>
   <item>
     <title>AINews TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch</title>
@@ -103,14 +127,6 @@
     <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
   </item>
   <item>
-    <title>Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices</title>
-    <link>https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/</guid>
-    <pubDate>Wed, 07 Oct 2026 22:28:07 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic PBC today released Claude Haiku 5.5, pricing its newest small model at roughly a quarter of what Haiku 4.5 costs to run. Claude Sonnet 5.5 is getting cheaper as well, since the company is halving what it charges for cache reads on that model. Two weeks after Opus 5.5 launched Sept. 22,…</description>
-  </item>
-  <item>
     <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
     <link>https://openai.com/index/asana-browser-agent</link>
     <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
@@ -119,28 +135,12 @@
     <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
   </item>
   <item>
-    <title>Google Cloud introduces Gemini agent to change enterprise work</title>
-    <link>https://siliconangle.com/2026/10/08/google-cloud-introduces-gemini-agent-to-change-enterprise-work/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/08/google-cloud-introduces-gemini-agent-to-change-enterprise-work/</guid>
-    <pubDate>Thu, 08 Oct 2026 12:00:22 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google LLC’s Cloud division today introduced Gemini agent, a unified artificial intelligence assistant that can act autonomously, generate code and complete work across any device, including web, mobile and desktop. The new agentic AI experience can be accessed anywhere and through any channel,…</description>
-  </item>
-  <item>
     <title>The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
     <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</guid>
     <pubDate>Fri, 09 Oct 2026 21:41:29 GMT</pubDate>
     <category>AI Business</category>
     <description>What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.</description>
-  </item>
-  <item>
-    <title>Nvidia, Samsung back $90M round for AI agent startup Nous Research</title>
-    <link>https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/</guid>
-    <pubDate>Thu, 08 Oct 2026 00:14:38 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Nous Research Inc., the developer of the popular Hermes artificial intelligence agent, today announced that it has raised $90 million in funding. Early-stage startup fund Robot Ventures led the Series B round. It was joined by Nvidia Corp., Samsung Electronics Co., Y Combinator and several others.…</description>
   </item>
   <item>
     <title>Aleph Alpha and Mistral releases raise hopes for Europe’s sovereign AI ambitions</title>
@@ -199,6 +199,22 @@
     <description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x…</description>
   </item>
   <item>
+    <title>How Anthropic’s Dynamic Workflows Coordinate Claude Agents</title>
+    <link>https://www.latent.space/p/claude-dynamic-workflows</link>
+    <guid isPermaLink="true">https://www.latent.space/p/claude-dynamic-workflows</guid>
+    <pubDate>Mon, 12 Oct 2026 18:18:17 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.</description>
+  </item>
+  <item>
+    <title>Run multi-node inference workloads using Ray LLM Deep Learning Containers</title>
+    <link>https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/</link>
+    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/</guid>
+    <pubDate>Mon, 12 Oct 2026 15:50:14 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the…</description>
+  </item>
+  <item>
     <title>Session-Aware Agentic Inference with NVIDIA Dynamo</title>
     <link>https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo/</link>
     <guid isPermaLink="true">https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo/</guid>
@@ -213,6 +229,14 @@
     <pubDate>Fri, 02 Oct 2026 04:01:31 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
+  </item>
+  <item>
+    <title>Meta&#39;s new frontier model Muse Wonder Full breaks into the AI top tier</title>
+    <link>https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/</link>
+    <guid isPermaLink="true">https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/</guid>
+    <pubDate>Mon, 12 Oct 2026 18:48:29 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Meta&#39;s new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled. The article Meta&#39;s new frontier model Muse Wonder Full breaks into the AI top tier appeared first on The Decoder .</description>
   </item>
   <item>
     <title>Gallatin AI raises $50M in funding for its military logistics platform</title>
@@ -231,6 +255,14 @@
     <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
   </item>
   <item>
+    <title>Former Plaud exec raises $26M for AI app that listens to you in the background</title>
+    <link>https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</guid>
+    <pubDate>Mon, 12 Oct 2026 12:47:59 GMT</pubDate>
+    <category>AI Business</category>
+    <description>One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you&#39;ll believe the tech companies, requires apps and devices to listen, watch, or record users&#39; activity all the time and gather…</description>
+  </item>
+  <item>
     <title>Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up</title>
     <link>https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/</link>
     <guid isPermaLink="true">https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/</guid>
@@ -247,12 +279,28 @@
     <description>Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that demand flattens, the chain from chip makers to cloud providers takes a hit. The article Cheaper AI tokens are…</description>
   </item>
   <item>
+    <title>Prompt: AI agents are running into the limits of access</title>
+    <link>https://aibusiness.com/agentic-ai/prompt-ai-agents-running-into-limits-of-access</link>
+    <guid isPermaLink="true">https://aibusiness.com/agentic-ai/prompt-ai-agents-running-into-limits-of-access</guid>
+    <pubDate>Mon, 12 Oct 2026 12:34:27 GMT</pubDate>
+    <category>AI Business</category>
+    <description>As agents take on more work for users, companies are deciding whether to let outside AI systems act on their platforms.</description>
+  </item>
+  <item>
     <title>AI agent teams waste massive tokens for barely measurable quality gains, research finds</title>
     <link>https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/</link>
     <guid isPermaLink="true">https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/</guid>
     <pubDate>Sun, 11 Oct 2026 15:39:26 GMT</pubDate>
     <category>AI Business</category>
     <description>Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic&#39;s own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing. The…</description>
+  </item>
+  <item>
+    <title>Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead</title>
+    <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</guid>
+    <pubDate>Sat, 10 Oct 2026 00:18:32 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false murder tip to the…</description>
   </item>
   <item>
     <title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
@@ -279,20 +327,12 @@
     <description>It seems nearly everyone is calling for regulation. Chief among them is Anthropic, whose AI agents are also key troublemakers.</description>
   </item>
   <item>
-    <title>Get started with the GitHub Copilot app: a free, hands-on course</title>
-    <link>https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/</link>
-    <guid isPermaLink="true">https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/</guid>
-    <pubDate>Mon, 28 Sep 2026 18:05:00 GMT</pubDate>
-    <category>App Dev</category>
-    <description>Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft for Developers .</description>
-  </item>
-  <item>
     <title>Talorys – A self-hosted personal AI agent on Cloudflare&#39;s free tier</title>
     <link>https://github.com/rociiu/talorys</link>
     <guid isPermaLink="true">https://github.com/rociiu/talorys</guid>
     <pubDate>Sat, 10 Oct 2026 10:52:09 GMT</pubDate>
     <category>AI Business</category>
-    <description>Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 323 # Comments: 153</description>
+    <description>Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 327 # Comments: 155</description>
   </item>
   <item>
     <title>Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌</title>
@@ -327,14 +367,6 @@
     <description>Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a…</description>
   </item>
   <item>
-    <title>New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/</guid>
-    <pubDate>Mon, 05 Oct 2026 17:23:19 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable…</description>
-  </item>
-  <item>
     <title>ReviewBench: An open benchmark for AI code review</title>
     <link>https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/</link>
     <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/</guid>
@@ -349,6 +381,22 @@
     <pubDate>Wed, 30 Sep 2026 17:08:35 GMT</pubDate>
     <category>AI Business</category>
     <description>The generative AI vendor delayed the release of GPT-6.1 Astra after testing exposed new safety concerns, showing why AI models need continued evaluation and enterprise runtime controls.</description>
+  </item>
+  <item>
+    <title>Epic Games delays Disney game and tells developers to go AI first</title>
+    <link>https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</link>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</guid>
+    <pubDate>Mon, 12 Oct 2026 19:54:58 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars franchises - and told developers to move to an AI first production model. Read more</description>
+  </item>
+  <item>
+    <title>Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes</title>
+    <link>https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes</link>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes</guid>
+    <pubDate>Mon, 12 Oct 2026 18:49:25 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes. Read more</description>
   </item>
   <item>
     <title>The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds</title>
@@ -399,20 +447,28 @@
     <description>Laya from Convai Innovations is free to use on AI Gateway for 1 month through October 31, 2026 via Boundless . Laya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to:…</description>
   </item>
   <item>
+    <title>Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding</title>
+    <link>https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/</guid>
+    <pubDate>Mon, 12 Oct 2026 13:00:06 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Ambient intelligence startup Mistlabs Ltd. today brought its Ambi artificial intelligence system out of beta test on Apple Inc. devices, backed by $26 million in new funding. Ambi is designed to act without being asked. Chief Executive Peter Mo said most AI platforms are built to complete tasks,…</description>
+  </item>
+  <item>
+    <title>E-commerce AI startup Loops raises $3.5M to create smoother online shopping experiences</title>
+    <link>https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/</guid>
+    <pubDate>Mon, 12 Oct 2026 12:00:10 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Agentic e-commerce startup Loops Smart AI wants to help online retailers create more seamless buying journeys and streamline the shopping experience after raising $3.5 million in seed funding today. Andreessen Horowitz’s a16z speedrun accelerator led the round, with NTT Docomo, Connecticut…</description>
+  </item>
+  <item>
     <title>AI agents overstate their results and remain far from autonomous research, study finds</title>
     <link>https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/</link>
     <guid isPermaLink="true">https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/</guid>
     <pubDate>Sun, 11 Oct 2026 13:44:32 GMT</pubDate>
     <category>AI Business</category>
     <description>Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods…</description>
-  </item>
-  <item>
-    <title>Microsoft&#39;s Nadella bows to Trump&#39;s language diktat on Super Intelligence and uses it to attack OpenAI and Anthropic</title>
-    <link>https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/</link>
-    <guid isPermaLink="true">https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/</guid>
-    <pubDate>Sun, 11 Oct 2026 09:08:35 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Microsoft CEO Satya Nadella now calls artificial intelligence super intelligence instead of artificial intelligence, falling in line with Trump&#39;s preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and Anthropic. The real…</description>
   </item>
   <item>
     <title>CoreWeave targets AI inference bottlenecks with full-stack optimization</title>
@@ -455,14 +511,6 @@
     <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
   </item>
   <item>
-    <title>How we found 24 Android vulnerabilities using our open source AI security agent</title>
-    <link>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</link>
-    <guid isPermaLink="true">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</guid>
-    <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog .</description>
-  </item>
-  <item>
     <title>Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model</title>
     <link>https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/</guid>
@@ -501,6 +549,14 @@
     <pubDate>Wed, 07 Oct 2026 14:23:08 GMT</pubDate>
     <category>App Dev</category>
     <description>Waiting on “waiting for a starting agent” is a special kind of annoying when you just want your PR tests to run. It stings most when a quick one-minute build sits in the queue for ten minutes while that one slow Windows cloud instance spins up. The Warm Agents plugin is our answer to this …</description>
+  </item>
+  <item>
+    <title>Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan</title>
+    <link>https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/</link>
+    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/</guid>
+    <pubDate>Mon, 12 Oct 2026 17:52:22 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your…</description>
   </item>
   <item>
     <title>Will the HomeView be Apple’s first smart home success?</title>
@@ -559,6 +615,14 @@
     <description></description>
   </item>
   <item>
+    <title>Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027</title>
+    <link>https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/</link>
+    <guid isPermaLink="true">https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/</guid>
+    <pubDate>Mon, 12 Oct 2026 15:24:03 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300 should deliver 40 percent more tokens per megawatt than leading GPU systems. CEO Satya Nadella calls it our biggest bet…</description>
+  </item>
+  <item>
     <title>Deno is joining Cloudflare</title>
     <link>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</link>
     <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</guid>
@@ -581,70 +645,6 @@
     <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</description>
-  </item>
-  <item>
-    <title>These execs think voice AI hasn’t reached its ChatGPT moment yet</title>
-    <link>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</guid>
-    <pubDate>Sun, 11 Oct 2026 14:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Voice AI&#39;s often misses important points for its context layer, and causes the whole pipeline to break</description>
-  </item>
-  <item>
-    <title>Here are the top AI agents that can live in your text messages</title>
-    <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-    <pubDate>Sat, 10 Oct 2026 14:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
-  </item>
-  <item>
-    <title>Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
-    <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</guid>
-    <pubDate>Sat, 10 Oct 2026 00:18:32 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic said it turned off live internet access for all our internal evaluations until further notice.</description>
-  </item>
-  <item>
-    <title>Amazon drops data center NDAs, and AI agents want your credit card</title>
-    <link>https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/</link>
-    <guid isPermaLink="true">https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/</guid>
-    <pubDate>Fri, 09 Oct 2026 16:53:02 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New…</description>
-  </item>
-  <item>
-    <title>Revolut to roll out agentic shopping as AI commerce takes off</title>
-    <link>https://sifted.eu/articles/revolut-agentic-shopping/</link>
-    <guid isPermaLink="true">https://sifted.eu/articles/revolut-agentic-shopping/</guid>
-    <pubDate>Fri, 09 Oct 2026 15:15:36 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
-    <title>Grok Imagine Video 1.5 Lite on AI Gateway</title>
-    <link>https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway</guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Grok Imagine Video 1.5 Lite from xAI is now available on AI Gateway. This lightweight model turns text prompts and images into video with native audio. The model produces clips from 1 to 15 seconds long in 480p, 720p, and 1080p. Seven aspect ratios cover widescreen, square, and portrait formats, so…</description>
-  </item>
-  <item>
-    <title>Reflection Beam aims U.S. open-weight AI model at Chinese rivals</title>
-    <link>https://aibusiness.com/generative-ai/reflection-beam-aims-u-s-open-weight-ai-model-chinese-rivals</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/reflection-beam-aims-u-s-open-weight-ai-model-chinese-rivals</guid>
-    <pubDate>Wed, 07 Oct 2026 19:46:55 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Nvidia-backed open source startup makes splashy entrance. AI hits U.S. K-8 education.</description>
-  </item>
-  <item>
-    <title>The context factor for AI agents</title>
-    <link>https://aibusiness.com/generative-ai/the-context-factor-for-ai-agents</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/the-context-factor-for-ai-agents</guid>
-    <pubDate>Wed, 07 Oct 2026 17:07:38 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Process Intelligence helps organizations provide AI agents with the right context and data needed to know how their businesses run.</description>
   </item>
 </channel>
 </rss>
