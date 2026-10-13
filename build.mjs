@@ -224,11 +224,34 @@ function tagOf(block, names) {
   }
   return "";
 }
+// Pick the human-facing article URL. Atom entries list several <link> tags and
+// the FIRST one is often the comments feed (Blogger) or an edit/self endpoint -
+// taking the first href blindly shipped dead links.
 function linkOf(block) {
-  const href = block.match(/<link[^>]*\shref=["']([^"']+)["'][^>]*>/i);
-  if (href) return decodeEntities(href[1].trim());
+  const tags = block.match(/<link\b[^>]*>/gi) || [];
+  let fallback = "";
+  for (const t of tags) {
+    const rel = (t.match(/\brel\s*=\s*["']([^"']+)["']/i) || [])[1] || "";
+    const href = (t.match(/\bhref\s*=\s*["']([^"']+)["']/i) || [])[1] || "";
+    if (!href) continue;
+    const url = decodeEntities(href.trim());
+    if (!/^https?:\/\//i.test(url)) continue;
+    if (isFeedEndpoint(url)) continue;
+    if (/alternate/i.test(rel)) return url;
+    if (!fallback && !/^(replies|edit|self|enclosure|hub|license)$/i.test(rel)) fallback = url;
+  }
+  if (fallback) return fallback;
   const m = block.match(/<link(?:\s[^>]*)?>([\s\S]*?)<\/link>/i);
-  return m ? clean(m[1]) : "";
+  const text = m ? clean(m[1]) : "";
+  return /^https?:\/\//i.test(text) && !isFeedEndpoint(text) ? text : "";
+}
+// Comment feeds, edit/self endpoints and other machine URLs are not articles.
+function isFeedEndpoint(url) {
+  return /\/comments\//i.test(url)
+    || /\/feeds\//i.test(url)
+    || /blogger\.com\/feeds/i.test(url)
+    || /\/rss(\/|$)/i.test(url)
+    || /\?format=rss/i.test(url);
 }
 function parseFeed(xml, feed) {
   const raw = [];
@@ -242,6 +265,7 @@ function parseFeed(xml, feed) {
     const dateStr = tagOf(b, ["pubDate", "published", "updated", "dc:date", "date"]);
     const summary = tidy(tagOf(b, ["description", "summary", "content:encoded", "content"]));
     if (!title || !url) continue;
+    if (!/^https?:\/\//i.test(url) || isFeedEndpoint(url)) continue;
     const d = dateStr ? new Date(dateStr) : null;
     items.push({
       title: title, url: url, summary: trimSummary(summary),

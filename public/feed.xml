@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Mon, 12 Oct 2026 21:16:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 05:36:17 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -29,14 +29,6 @@
     <pubDate>Fri, 02 Oct 2026 01:38:37 GMT</pubDate>
     <category>AI Business</category>
     <description>The AI chipmaker’s new safety platform adds controls around AI agents, while enterprises remain responsible for defining their authority and setting boundaries.</description>
-  </item>
-  <item>
-    <title>Nvidia launches AI safety platform after agent security breaches</title>
-    <link>https://aibusiness.com/responsible-ai/nvidia-launches-ai-safety-platform</link>
-    <guid isPermaLink="true">https://aibusiness.com/responsible-ai/nvidia-launches-ai-safety-platform</guid>
-    <pubDate>Tue, 29 Sep 2026 01:55:54 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Nvidia’s new system is designed to contain rogue AI agents as companies race to secure increasingly autonomous systems. But it has not been proven yet.</description>
   </item>
   <item>
     <title>Meta releases its first frontier model, Muse Wonder</title>
@@ -64,8 +56,8 @@
   </item>
   <item>
     <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
-    <link>https://android-developers.googleblog.com/feeds/678717441858472980/comments/default</link>
-    <guid isPermaLink="true">https://android-developers.googleblog.com/feeds/678717441858472980/comments/default</guid>
+    <link>https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html</link>
+    <guid isPermaLink="true">https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html</guid>
     <pubDate>Mon, 12 Oct 2026 18:00:00 GMT</pubDate>
     <category>App Dev</category>
     <description>&lt;div&gt;&lt;div style= display: none; &gt; &lt;img src=…</description>
@@ -127,6 +119,14 @@
     <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
   </item>
   <item>
+    <title>Meta releases Muse Wonder AI models built to run personal and professional agents</title>
+    <link>https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/</guid>
+    <pubDate>Mon, 12 Oct 2026 22:36:05 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, multistep jobs people hand off to an AI agent. One example it…</description>
+  </item>
+  <item>
     <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
     <link>https://openai.com/index/asana-browser-agent</link>
     <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
@@ -141,14 +141,6 @@
     <pubDate>Fri, 09 Oct 2026 21:41:29 GMT</pubDate>
     <category>AI Business</category>
     <description>What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.</description>
-  </item>
-  <item>
-    <title>Aleph Alpha and Mistral releases raise hopes for Europe’s sovereign AI ambitions</title>
-    <link>https://sifted.eu/articles/aleph-alpha-kolibri-mistral-chonk-frontier-ai/</link>
-    <guid isPermaLink="true">https://sifted.eu/articles/aleph-alpha-kolibri-mistral-chonk-frontier-ai/</guid>
-    <pubDate>Wed, 07 Oct 2026 12:39:36 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
   </item>
   <item>
     <title>OpenAI Decisions API now available on AI Gateway</title>
@@ -279,6 +271,14 @@
     <description>Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that demand flattens, the chain from chip makers to cloud providers takes a hit. The article Cheaper AI tokens are…</description>
   </item>
   <item>
+    <title>Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents</title>
+    <link>https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/</guid>
+    <pubDate>Mon, 12 Oct 2026 21:41:50 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning system from Alibaba that trains coding agents through unmodified, black-box harnesses. It targets rollouts that run for…</description>
+  </item>
+  <item>
     <title>Prompt: AI agents are running into the limits of access</title>
     <link>https://aibusiness.com/agentic-ai/prompt-ai-agents-running-into-limits-of-access</link>
     <guid isPermaLink="true">https://aibusiness.com/agentic-ai/prompt-ai-agents-running-into-limits-of-access</guid>
@@ -309,14 +309,6 @@
     <pubDate>Fri, 09 Oct 2026 19:36:56 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic did not discover this behavior until over two months after its AI submitted the false tip.</description>
-  </item>
-  <item>
-    <title>Automation Anywhere acquires Boost.ai to expand customer-facing voice AI</title>
-    <link>https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/</guid>
-    <pubDate>Thu, 08 Oct 2026 18:05:27 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Automation Anywhere Inc., an enterprise agentic automation and orchestration firm, announced Wednesday an agreement to acquire Boost.ai Inc., a conversational voice artificial intelligence company, from Nordic Capital. The firm seeks to build the “autonomous enterprise,” an operating model where…</description>
   </item>
   <item>
     <title>While agents cause trouble, calls for AI regulation mount from Anthropic, lawmakers</title>
@@ -511,28 +503,12 @@
     <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
   </item>
   <item>
-    <title>Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model</title>
-    <link>https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/</guid>
-    <pubDate>Fri, 09 Oct 2026 20:33:17 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture,…</description>
-  </item>
-  <item>
     <title>OpenAI Ultrafast mode now available on AI Gateway</title>
     <link>https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</link>
     <guid isPermaLink="true">https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</guid>
     <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>AI Gateway now supports OpenAI&#39;s Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat…</description>
-  </item>
-  <item>
-    <title>Amazon Weighs $7 Billion Purchase of AI Startup Decart</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/amazon-weighs-7-billion-purchase-of-ai-startup-decart/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/amazon-weighs-7-billion-purchase-of-ai-startup-decart/</guid>
-    <pubDate>Mon, 12 Oct 2026 01:02:37 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Amazon is reportedly in discussions to purchase artificial intelligence startup Decart in a roughly $7 billion deal. That’s according to a report Sunday (Oct. 11) by The Wall Street Journal (WSJ), citing sources familiar with the matter. Those sources say a deal could come together soon, provided…</description>
   </item>
   <item>
     <title>Introducing Claude Haiku 5.5 on AWS</title>
@@ -572,15 +548,7 @@
     <guid isPermaLink="true">https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</guid>
     <pubDate>Fri, 09 Oct 2026 22:00:35 GMT</pubDate>
     <category>AI Business</category>
-    <description>Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 156</description>
-  </item>
-  <item>
-    <title>Willow taps CoreWeave to simplify AI model training</title>
-    <link>https://siliconangle.com/2026/10/08/willow-taps-coreweave-simplify-ai-model-training-fullyconnected/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/08/willow-taps-coreweave-simplify-ai-model-training-fullyconnected/</guid>
-    <pubDate>Thu, 08 Oct 2026 15:50:43 GMT</pubDate>
-    <category>AI Business</category>
-    <description>AI model training can leave startups managing infrastructure alongside the products they are trying to build. Willow Care Inc., the company behind AI dictation app Willow Voice, chose CoreWeave Inc. for its forward-deployed support rather than compute alone. The application combines speech…</description>
+    <description>Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 157</description>
   </item>
   <item>
     <title>ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖</title>
@@ -645,6 +613,38 @@
     <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</description>
+  </item>
+  <item>
+    <title>Clearing chat history helps AI agents find better solutions</title>
+    <link>https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/</link>
+    <guid isPermaLink="true">https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/</guid>
+    <pubDate>Mon, 12 Oct 2026 16:10:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Microsoft researchers found that autonomous AI agents get trapped in what they call idea basins because of their growing chat context, local solution regions they can&#39;t escape. Their Fork-and-Flush method clears the chat history but keeps the workspace, achieving up to 66 percent better results on…</description>
+  </item>
+  <item>
+    <title>The happiest man in gaming hates generative AI</title>
+    <link>https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai</link>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai</guid>
+    <pubDate>Mon, 12 Oct 2026 13:11:17 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>It&#39;s impossible to not be swept up in Tarn Adams&#39; enthusiasm. To speak to him is to feel like you&#39;re talking to the happiest man in gaming. Along with his brother Zach, he&#39;s been working on the wonderfully chaotic procedurally generated world of Dwarf Fortress since 2002, and he is far from tired…</description>
+  </item>
+  <item>
+    <title>These execs think voice AI hasn’t reached its ChatGPT moment yet</title>
+    <link>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</guid>
+    <pubDate>Sun, 11 Oct 2026 14:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Voice AI often misses important points for its context layer, and causes the whole pipeline to break.</description>
+  </item>
+  <item>
+    <title>Here are the top AI agents that can live in your text messages</title>
+    <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+    <pubDate>Sat, 10 Oct 2026 14:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
   </item>
 </channel>
 </rss>
