@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T05:36:17.519Z",
-  "count": 354,
+  "generatedAt": "2026-10-13T05:36:34.746Z",
+  "count": 352,
   "focusCount": 223,
   "topics": [
     "Game Dev",
@@ -3976,20 +3976,6 @@
       "isFocus": false
     },
     {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
-      "summary": "Who chooses what AI gets to do?",
-      "source": "Import AI",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-05T12:32:30.000Z",
-      "topic": "Research",
-      "importance": 6.4,
-      "isFocus": false
-    },
-    {
       "title": "How Diffusion Controller unifies and simplifies AI image generation",
       "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
       "summary": "Algorithms & Theory",
@@ -4365,20 +4351,6 @@
       "date": "2026-10-12T15:54:36.000Z",
       "topic": "Open Source",
       "importance": 5.3,
-      "isFocus": false
-    },
-    {
-      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
-      "summary": "Will we give robots the moon?",
-      "source": "Import AI",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-12T12:30:39.000Z",
-      "topic": "Research",
-      "importance": 5.2,
       "isFocus": false
     },
     {
