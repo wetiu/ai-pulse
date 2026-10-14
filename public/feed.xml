@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 14 Oct 2026 17:09:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 21:40:17 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -101,6 +101,14 @@
     <pubDate>Wed, 14 Oct 2026 12:00:43 GMT</pubDate>
     <category>AI Business</category>
     <description>Agentic artificial intelligence startup Uvi said today it has raised $7.5 million in seed funding to tackle an expensive problem around business context that’s draining millions of dollars annually from the coffers of enterprises using autonomous AI agents. It’s backed by CT Innovations, which led…</description>
+  </item>
+  <item>
+    <title>NVIDIA Announces New Investments in the UK Startup Ecosystem</title>
+    <link>https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</guid>
+    <pubDate>Wed, 14 Oct 2026 06:04:15 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250…</description>
   </item>
   <item>
     <title>AINews TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch</title>
@@ -319,14 +327,6 @@
     <description>New research shows that consumers are rapidly adopting artificial intelligence (AI) tools to conduct their product research. An October PYMNTS Intelligence report titled “From Prompt to Purchase: Who Wins the AI Shopper?” argues that this shift has created a major commercial opportunity for…</description>
   </item>
   <item>
-    <title>Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation</title>
-    <link>https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/</guid>
-    <pubDate>Tue, 13 Oct 2026 11:06:46 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic says it has cut the extraction of Claude&#39;s internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moonshot, and has already banned tens of thousands of accounts. The article Anthropic says it cut Claude…</description>
-  </item>
-  <item>
     <title>Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents</title>
     <link>https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/</guid>
@@ -349,6 +349,14 @@
     <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
+  </item>
+  <item>
+    <title>Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it</title>
+    <link>https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/</link>
+    <guid isPermaLink="true">https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/</guid>
+    <pubDate>Wed, 14 Oct 2026 18:07:37 GMT</pubDate>
+    <category>AI Business</category>
+    <description>For the first time, researchers have tracked down an uncontrolled fleet of Chinese AI agents in the wild and communicated with them via a web mailbox. The agents, running on Tencent Cloud, had launched more than 2,600 attempts to scrape data from Alibaba&#39;s mapping service Amap, finding their own…</description>
   </item>
   <item>
     <title>Building agents that transact with Anchor Browser and AgentCore payments</title>
@@ -487,14 +495,6 @@
     <description>Observability and information technology management software company SolarWinds Worldwide LLC today unveiled Avior, a standalone agentic artificial intelligence system built to take on first-line operations work for enterprise IT teams. The launch goes after the reliability problem that comes with…</description>
   </item>
   <item>
-    <title>From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA</title>
-    <link>https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</guid>
-    <pubDate>Wed, 14 Oct 2026 06:04:15 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250…</description>
-  </item>
-  <item>
     <title>Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding</title>
     <link>https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/</guid>
@@ -551,20 +551,20 @@
     <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
   </item>
   <item>
-    <title>Shopify opens its catalog up to more AI agents</title>
-    <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
-    <guid isPermaLink="true">https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</guid>
-    <pubDate>Tue, 13 Oct 2026 19:42:42 GMT</pubDate>
+    <title>IBM: Agentic AI is reshaping governance, controls and trust</title>
+    <link>https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust</guid>
+    <pubDate>Wed, 14 Oct 2026 20:35:20 GMT</pubDate>
     <category>AI Business</category>
-    <description>More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company&#39;s agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion…</description>
+    <description>As AI agents move from answering questions to making decisions and acting, businesses face a growing challenge of keeping accountability in step with the pace of change.</description>
   </item>
   <item>
-    <title>SpaceXSI bundles X Premium, Grok, and Cursor into one subscription</title>
-    <link>https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/</guid>
-    <pubDate>Tue, 13 Oct 2026 13:50:19 GMT</pubDate>
+    <title>Musing about Muse’s new AI models, unruly DeepSeek</title>
+    <link>https://aibusiness.com/generative-ai/musing-muse-s-new-supporting-ai-models-unruly-deepseek-models</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/musing-muse-s-new-supporting-ai-models-unruly-deepseek-models</guid>
+    <pubDate>Wed, 14 Oct 2026 19:36:02 GMT</pubDate>
     <category>AI Business</category>
-    <description>The new X Subscription combines X&#39;s paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.</description>
+    <description>The social media giant tries to capitalize on, monetize its successful personal agent and maybe crack the business market. Chinese models go astray, like their U.S. counterparts.</description>
   </item>
   <item>
     <title>Gemini 4 Argon now available on AI Gateway</title>
@@ -597,14 +597,6 @@
     <pubDate>Tue, 13 Oct 2026 17:05:48 GMT</pubDate>
     <category>App Dev</category>
     <description></description>
-  </item>
-  <item>
-    <title>Ramp’s $1.5 Million Week of Spending Leads to Glass AI Tool</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/ramp-1-million-week-spending-leads-glass-ai-tool/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/ramp-1-million-week-spending-leads-glass-ai-tool/</guid>
-    <pubDate>Tue, 13 Oct 2026 17:00:43 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Ramp will begin offering its in-house artificial intelligence tool, Glass, to other companies, according to a Tuesday (Oct. 13) company blog post written by Co-Founder and Co-CEO Eric Glyman. Ramp built Glass following a week in May in which the spend management firm burned through $1.5 million in…</description>
   </item>
   <item>
     <title>Introducing Claude Haiku 5.5 on AWS</title>
@@ -645,6 +637,14 @@
     <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.</description>
+  </item>
+  <item>
+    <title>Prime Inference 📈, agent population 📈, Claude academy 🎓</title>
+    <link>https://tldr.tech/ai/2026-10-05</link>
+    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
   </item>
 </channel>
 </rss>
