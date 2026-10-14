@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 14 Oct 2026 04:51:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 11:50:23 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -15,20 +15,20 @@
     <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
   </item>
   <item>
-    <title>AINews OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU</title>
-    <link>https://www.latent.space/p/ainews-openai-devday-2026-dots-61</link>
-    <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-devday-2026-dots-61</guid>
-    <pubDate>Wed, 30 Sep 2026 05:53:10 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>the most confident DevDay yet.</description>
-  </item>
-  <item>
     <title>Nvidia agent safety push raises questions about who governs AI autonomy</title>
     <link>https://aibusiness.com/responsible-ai/nvidia-agent-safety-push-raises-questions</link>
     <guid isPermaLink="true">https://aibusiness.com/responsible-ai/nvidia-agent-safety-push-raises-questions</guid>
     <pubDate>Fri, 02 Oct 2026 01:38:37 GMT</pubDate>
     <category>AI Business</category>
     <description>The AI chipmaker’s new safety platform adds controls around AI agents, while enterprises remain responsible for defining their authority and setting boundaries.</description>
+  </item>
+  <item>
+    <title>Google Releases Gemini 4 Argon API With 1M Token Output Limit</title>
+    <link>https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/</guid>
+    <pubDate>Wed, 14 Oct 2026 05:03:34 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. The post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost .</description>
   </item>
   <item>
     <title>Meta releases its first frontier model, Muse Wonder</title>
@@ -47,12 +47,28 @@
     <description>Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to…</description>
   </item>
   <item>
+    <title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
+    <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
+    <pubDate>Wed, 14 Oct 2026 02:00:14 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.</description>
+  </item>
+  <item>
     <title>NVIDIA Announces New Investments in France’s Startups</title>
     <link>https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/</guid>
     <pubDate>Tue, 13 Oct 2026 05:00:31 GMT</pubDate>
     <category>AI Business</category>
     <description>Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action…</description>
+  </item>
+  <item>
+    <title>Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents</title>
+    <link>https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/</guid>
+    <pubDate>Wed, 14 Oct 2026 07:50:40 GMT</pubDate>
+    <category>App Dev</category>
+    <description>Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents…</description>
   </item>
   <item>
     <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
@@ -199,14 +215,6 @@
     <description>At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.</description>
   </item>
   <item>
-    <title>Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams</title>
-    <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
-    <guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
-    <pubDate>Wed, 14 Oct 2026 02:00:14 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.</description>
-  </item>
-  <item>
     <title>Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB</title>
     <link>https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/</guid>
@@ -253,6 +261,14 @@
     <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
+  </item>
+  <item>
+    <title>Scimplify raises $25M to challenge China’s grip on critical materials with AI</title>
+    <link>https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/</guid>
+    <pubDate>Wed, 14 Oct 2026 11:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Scimplify&#39;s annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.</description>
   </item>
   <item>
     <title>Gemini 4 Argon is now available worldwide as Google&#39;s most capable frontier model</title>
@@ -439,6 +455,22 @@
     <description>Laya from Convai Innovations is free to use on AI Gateway for 1 month through October 31, 2026 via Boundless . Laya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to:…</description>
   </item>
   <item>
+    <title>SolarWinds’ Avior pairs AI agents with deterministic execution for enterprise IT</title>
+    <link>https://siliconangle.com/2026/10/14/solarwinds-avior-pairs-ai-agents-with-deterministic-execution-for-enterprise-it/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/14/solarwinds-avior-pairs-ai-agents-with-deterministic-execution-for-enterprise-it/</guid>
+    <pubDate>Wed, 14 Oct 2026 10:00:09 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Observability and information technology management software company SolarWinds Worldwide LLC today unveiled Avior, a standalone agentic artificial intelligence system built to take on first-line operations work for enterprise IT teams. The launch goes after the reliability problem that comes with…</description>
+  </item>
+  <item>
+    <title>From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA</title>
+    <link>https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</guid>
+    <pubDate>Wed, 14 Oct 2026 06:04:15 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250…</description>
+  </item>
+  <item>
     <title>Google finally releases Gemini 4 Argon</title>
     <link>https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon</link>
     <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon</guid>
@@ -461,14 +493,6 @@
     <pubDate>Mon, 12 Oct 2026 12:00:10 GMT</pubDate>
     <category>AI Business</category>
     <description>Agentic e-commerce startup Loops Smart AI wants to help online retailers create more seamless buying journeys and streamline the shopping experience after raising $3.5 million in seed funding today. Andreessen Horowitz’s a16z speedrun accelerator led the round, with NTT Docomo, Connecticut…</description>
-  </item>
-  <item>
-    <title>CoreWeave targets AI inference bottlenecks with full-stack optimization</title>
-    <link>https://siliconangle.com/2026/10/08/ai-inference-gets-full-stack-coreweave-launches-forge-fullyconnected/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/08/ai-inference-gets-full-stack-coreweave-launches-forge-fullyconnected/</guid>
-    <pubDate>Fri, 09 Oct 2026 02:30:18 GMT</pubDate>
-    <category>AI Business</category>
-    <description>AI inference is fast becoming the workload that decides the economics of the AI boom. Training built the first wave of GPU clouds, but serving models faster and cheaper will define the next. That shift is pushing specialized cloud providers beyond raw GPU capacity into storage, networking and…</description>
   </item>
   <item>
     <title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
@@ -599,14 +623,6 @@
     <description>Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your…</description>
   </item>
   <item>
-    <title>Anthropic AI model submits false tip on unsolved Philly murder, police say</title>
-    <link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
-    <guid isPermaLink="true">https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</guid>
-    <pubDate>Fri, 09 Oct 2026 22:00:35 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 213 # Comments: 157</description>
-  </item>
-  <item>
     <title>ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖</title>
     <link>https://tldr.tech/ai/2026-10-08</link>
     <guid isPermaLink="true">https://tldr.tech/ai/2026-10-08</guid>
@@ -629,22 +645,6 @@
     <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
-  </item>
-  <item>
-    <title>Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️</title>
-    <link>https://tldr.tech/ai/2026-10-01</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
-    <title>Meta joins enterprise agent race with Muse Wonder, facing a trust gap</title>
-    <link>https://aibusiness.com/agentic-ai/meta-joins-enterprise-agent-race-with-muse-wonder</link>
-    <guid isPermaLink="true">https://aibusiness.com/agentic-ai/meta-joins-enterprise-agent-race-with-muse-wonder</guid>
-    <pubDate>Tue, 13 Oct 2026 12:55:58 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The company’s new releases point to an AI market becoming more personal, with agents and models completing tasks, but enterprises still aren’t ready for this new phase of AI.</description>
   </item>
 </channel>
 </rss>
