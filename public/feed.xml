@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 15 Oct 2026 04:36:52 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 11:27:16 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -199,6 +199,14 @@
     <description>AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory…</description>
   </item>
   <item>
+    <title>AINews Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
+    <link>https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</link>
+    <guid isPermaLink="true">https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</guid>
+    <pubDate>Thu, 15 Oct 2026 10:08:08 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Sandboxes are all you need.</description>
+  </item>
+  <item>
     <title>Step 5 Preview now available on AI Gateway</title>
     <link>https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway</link>
     <guid isPermaLink="true">https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway</guid>
@@ -327,14 +335,6 @@
     <description>Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic&#39;s Claude Opus 5.5 and Meta&#39;s Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks…</description>
   </item>
   <item>
-    <title>Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents</title>
-    <link>https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/</guid>
-    <pubDate>Mon, 12 Oct 2026 21:41:50 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning system from Alibaba that trains coding agents through unmodified, black-box harnesses. It targets rollouts that run for…</description>
-  </item>
-  <item>
     <title>Prompt: AI agents are running into the limits of access</title>
     <link>https://aibusiness.com/agentic-ai/prompt-ai-agents-running-into-limits-of-access</link>
     <guid isPermaLink="true">https://aibusiness.com/agentic-ai/prompt-ai-agents-running-into-limits-of-access</guid>
@@ -397,6 +397,14 @@
     <pubDate>Mon, 05 Oct 2026 15:59:40 GMT</pubDate>
     <category>Web Dev</category>
     <description>We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .</description>
+  </item>
+  <item>
+    <title>Nvidia unveils investments in five more UK startups</title>
+    <link>https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/</guid>
+    <pubDate>Thu, 15 Oct 2026 11:50:03 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
   </item>
   <item>
     <title>AI personal finance platform Matters raises $5m pre-seed</title>
@@ -615,12 +623,12 @@
     <description>Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This…</description>
   </item>
   <item>
-    <title>Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy</title>
-    <link>https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/</link>
-    <guid isPermaLink="true">https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/</guid>
-    <pubDate>Tue, 13 Oct 2026 15:27:39 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Character.ai has filed for bankruptcy and is looking for a buyer. If none steps up, the platform shuts down. Founded by ex-Google researchers, the company once had over 20 million users but is now battling lawsuits over harm to minors and operational problems. The sale should close by the end of…</description>
+    <title>How Netflix Made AI Coding Agents More Efficient with JetBrains IDE Intelligence</title>
+    <link>https://blog.jetbrains.com/ai/2026/10/how-netflix-made-ai-coding-agents-more-efficient/</link>
+    <guid isPermaLink="true">https://blog.jetbrains.com/ai/2026/10/how-netflix-made-ai-coding-agents-more-efficient/</guid>
+    <pubDate>Thu, 15 Oct 2026 09:29:14 GMT</pubDate>
+    <category>App Dev</category>
+    <description>Netflix plugged JetBrains’ headless code-intelligence engine – the same one behind IntelliJ IDEA – into Claude Code and Codex, then benchmarked it against a variety of scenarios. The details and numbers are available below. At a glance Company Netflix – Application Development Platform (ADP), GenAI…</description>
   </item>
   <item>
     <title>Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan</title>
@@ -637,14 +645,6 @@
     <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
-  </item>
-  <item>
-    <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
-    <link>https://openai.com/index/radisson</link>
-    <guid isPermaLink="true">https://openai.com/index/radisson</guid>
-    <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.</description>
   </item>
 </channel>
 </rss>
