@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 14 Oct 2026 21:40:17 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 04:36:52 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -223,6 +223,14 @@
     <description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x…</description>
   </item>
   <item>
+    <title>Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents</title>
+    <link>https://www.latent.space/p/crossing-the-threshold</link>
+    <guid isPermaLink="true">https://www.latent.space/p/crossing-the-threshold</guid>
+    <pubDate>Wed, 14 Oct 2026 21:40:52 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.</description>
+  </item>
+  <item>
     <title>Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It</title>
     <link>https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/</guid>
@@ -319,14 +327,6 @@
     <description>Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic&#39;s Claude Opus 5.5 and Meta&#39;s Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks…</description>
   </item>
   <item>
-    <title>61 Million Shoppers Now Start Their Search With AI Assistance</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/61-million-shoppers-now-start-their-search-with-ai-assistance/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/61-million-shoppers-now-start-their-search-with-ai-assistance/</guid>
-    <pubDate>Tue, 13 Oct 2026 19:18:25 GMT</pubDate>
-    <category>AI Business</category>
-    <description>New research shows that consumers are rapidly adopting artificial intelligence (AI) tools to conduct their product research. An October PYMNTS Intelligence report titled “From Prompt to Purchase: Who Wins the AI Shopper?” argues that this shift has created a major commercial opportunity for…</description>
-  </item>
-  <item>
     <title>Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents</title>
     <link>https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/</guid>
@@ -399,6 +399,22 @@
     <description>We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .</description>
   </item>
   <item>
+    <title>AI personal finance platform Matters raises $5m pre-seed</title>
+    <link>https://sifted.eu/articles/matters-5m-pre-seed/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/matters-5m-pre-seed/</guid>
+    <pubDate>Thu, 15 Oct 2026 05:00:31 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Figma announces new features to define how agents work on its platform</title>
+    <link>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</guid>
+    <pubDate>Thu, 15 Oct 2026 04:30:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Figma is also releasing its code layers feature in open beta.</description>
+  </item>
+  <item>
     <title>Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace</title>
     <link>https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/</guid>
@@ -413,14 +429,6 @@
     <pubDate>Tue, 13 Oct 2026 21:09:39 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
-  </item>
-  <item>
-    <title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
-    <link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</guid>
-    <pubDate>Tue, 13 Oct 2026 17:18:25 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.</description>
   </item>
   <item>
     <title>Epic Games delays Disney game and tells developers to go AI first</title>
@@ -477,14 +485,6 @@
     <pubDate>Fri, 02 Oct 2026 04:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Rogo on Vercel 73,000+ deployments in a single month Agent-written code shipped to production in 5 minutes 6 production AI agents automating work from churn analysis to deal desk Zero manual triage during production incidents with agent swarms on AI SDK Rogo builds Felix, an AI agent that generates…</description>
-  </item>
-  <item>
-    <title>Laya decision model now available on AI Gateway, free through October 31</title>
-    <link>https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31</guid>
-    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Laya from Convai Innovations is free to use on AI Gateway for 1 month through October 31, 2026 via Boundless . Laya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to:…</description>
   </item>
   <item>
     <title>SolarWinds’ Avior pairs AI agents with deterministic execution for enterprise IT</title>
@@ -583,6 +583,14 @@
     <description>AI Gateway now supports OpenAI&#39;s Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat…</description>
   </item>
   <item>
+    <title>Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech index</title>
+    <link>https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/</guid>
+    <pubDate>Wed, 14 Oct 2026 22:27:54 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Elon Musk’s artificial intelligence company SpaceXSI, formerly xAI, today released Grok Voice 3.0, a new version of the speech-to-speech model behind its Voice Agent API. SpaceXSI is pitching the model to businesses that handle customer support and sales calls with voice agents. Independent testing…</description>
+  </item>
+  <item>
     <title>AI is mass decompiling games. That&#39;s both awesome and scary.</title>
     <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
     <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
@@ -637,14 +645,6 @@
     <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.</description>
-  </item>
-  <item>
-    <title>Prime Inference 📈, agent population 📈, Claude academy 🎓</title>
-    <link>https://tldr.tech/ai/2026-10-05</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
   </item>
 </channel>
 </rss>
