@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T11:27:16.116Z",
-  "count": 377,
-  "focusCount": 227,
+  "generatedAt": "2026-10-15T16:59:56.378Z",
+  "count": 380,
+  "focusCount": 229,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -252,6 +252,20 @@
       "isFocus": true
     },
     {
+      "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
+      "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
+      "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware.…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T16:09:44.000Z",
+      "topic": "AI Business",
+      "importance": 11.9,
+      "isFocus": true
+    },
+    {
       "title": "Meta releases Muse Wonder AI models built to run personal and professional agents",
       "url": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/",
       "summary": "Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, multistep jobs people hand off to an AI agent. One example it…",
@@ -277,6 +291,20 @@
       "date": "2026-10-09T07:00:00.000Z",
       "topic": "Web Dev",
       "importance": 11.8,
+      "isFocus": true
+    },
+    {
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting…",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T12:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 11.799999999999999,
       "isFocus": true
     },
     {
@@ -308,6 +336,20 @@
       "isFocus": true
     },
     {
+      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+      "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+      "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Google wants Gemini 4…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T16:35:47.000Z",
+      "topic": "AI Business",
+      "importance": 11.4,
+      "isFocus": true
+    },
+    {
       "title": "DeepSeek and what enterprises should learn from AI agent exploits",
       "url": "https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits",
       "summary": "A new case of an out-of-control AI model shows that enterprises should treat models and agents as toddlers that need supervision and explicit instructions.",
@@ -336,17 +378,17 @@
       "isFocus": false
     },
     {
-      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-      "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory…",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "summary": "<p><strong><a href= https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1 >Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a></strong></p> The phrase told investors appears four times in this FT article, which reports on Anthropic's day of…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
       "weight": 2,
-      "native": false,
+      "native": true,
       "researchOnly": false,
-      "date": "2026-10-01T13:00:49.000Z",
+      "date": "2026-10-15T13:04:03.000Z",
       "topic": "AI Business",
-      "importance": 11.4,
+      "importance": 11.2,
       "isFocus": true
     },
     {
@@ -389,6 +431,20 @@
       "date": "2026-10-07T12:00:00.000Z",
       "topic": "Game Dev",
       "importance": 11.2,
+      "isFocus": true
+    },
+    {
+      "title": "Cerebras positions inference speed as a competitive edge in agentic AI",
+      "url": "https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/",
+      "summary": "Agentic workflows are making speed a condition for whole classes of AI applications to exist, and the fastest tokens will determine which platforms win the next phase of AI. Cerebras Systems Inc., which raised $5.5 billion in its May 2026 initial public offering, built its business on making…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T15:35:03.000Z",
+      "topic": "AI Business",
+      "importance": 11.1,
       "isFocus": true
     },
     {
@@ -460,20 +516,6 @@
       "topic": "AI Business",
       "importance": 10.9,
       "isFocus": true
-    },
-    {
-      "title": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
-      "url": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
-      "summary": "Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application. The post Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB appeared first on MarkTechPost .",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T08:19:54.000Z",
-      "topic": "Models & Labs",
-      "importance": 10.9,
-      "isFocus": false
     },
     {
       "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
@@ -560,6 +602,20 @@
       "isFocus": true
     },
     {
+      "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+      "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-15T13:00:59.000Z",
+      "topic": "Game Dev",
+      "importance": 10.7,
+      "isFocus": true
+    },
+    {
       "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
       "url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
       "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works on a public page.…",
@@ -569,20 +625,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T16:14:16.000Z",
-      "topic": "AI Business",
-      "importance": 10.7,
-      "isFocus": true
-    },
-    {
-      "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
-      "url": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
-      "summary": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T18:00:49.000Z",
       "topic": "AI Business",
       "importance": 10.7,
       "isFocus": true
@@ -656,20 +698,6 @@
       "topic": "Web Dev",
       "importance": 10.3,
       "isFocus": true
-    },
-    {
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "summary": "<p><strong><a href= https://mistral.ai/news/mistral-large-4/ >Introducing Mistral Large 4: Le chonk</a></strong></p> Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-06T20:18:19.000Z",
-      "topic": "Models & Labs",
-      "importance": 10.3,
-      "isFocus": false
     },
     {
       "title": "Mistral Large 4 now available on AI Gateway",
@@ -966,6 +994,20 @@
       "isFocus": false
     },
     {
+      "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
+      "url": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
+      "summary": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports. The article Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models appeared first on The Decoder…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T15:27:25.000Z",
+      "topic": "AI Business",
+      "importance": 9.9,
+      "isFocus": true
+    },
+    {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
@@ -1036,6 +1078,20 @@
       "isFocus": true
     },
     {
+      "title": "ServiceNow adds AI agent controls and employee automation tools",
+      "url": "https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools/",
+      "summary": "ServiceNow Inc. today announced new controls for governing artificial intelligence agents alongside updates to its EmployeeWorks information portal (pictured) that let employees build specialized assistants and automate routine tasks without writing code. The announcements address two connected…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T13:00:48.000Z",
+      "topic": "AI Business",
+      "importance": 9.7,
+      "isFocus": true
+    },
+    {
       "title": "Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech index",
       "url": "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/",
       "summary": "Elon Musk’s artificial intelligence company SpaceXSI, formerly xAI, today released Grok Voice 3.0, a new version of the speech-to-speech model behind its Voice Agent API. SpaceXSI is pitching the model to businesses that handle customer support and sales calls with voice agents. Independent testing…",
@@ -1090,6 +1146,20 @@
       "topic": "Models & Labs",
       "importance": 9.7,
       "isFocus": false
+    },
+    {
+      "title": "I used Nvidia RTX Spark's AI agent to run Blender – here's what happened",
+      "url": "https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened",
+      "summary": "It promised it could handle my tasks, but did it work out?",
+      "source": "Creative Bloq",
+      "feedTopic": "Art & Creative",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-15T12:36:17.000Z",
+      "topic": "Art & Creative",
+      "importance": 9.6,
+      "isFocus": true
     },
     {
       "title": "How Netflix Made AI Coding Agents More Efficient with JetBrains IDE Intelligence",
@@ -1159,6 +1229,20 @@
       "date": "2026-10-05T00:00:00.000Z",
       "topic": "AI Business",
       "importance": 9.6,
+      "isFocus": true
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:29:33.000Z",
+      "topic": "AI Business",
+      "importance": 9.5,
       "isFocus": true
     },
     {
@@ -1246,6 +1330,20 @@
       "isFocus": false
     },
     {
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming AI & Autonomy Day event in December.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T15:02:36.000Z",
+      "topic": "AI Business",
+      "importance": 9.4,
+      "isFocus": true
+    },
+    {
       "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
       "url": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
       "summary": "SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial Analysis Speech-to-Speech Index with a score of 86.9. For developers, the endpoint, events and $0.08 per minute price are…",
@@ -1283,34 +1381,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T15:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 9.4,
-      "isFocus": true
-    },
-    {
-      "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
-      "url": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
-      "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he faces up to…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T12:37:05.000Z",
-      "topic": "AI Business",
-      "importance": 9.4,
-      "isFocus": true
-    },
-    {
-      "title": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as grand moralizing performance",
-      "url": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/",
-      "summary": "Michael I. Jordan, described by Science as the most influential computer scientist, considers warnings about superintelligence pure science fiction. He calls the resignations of young AI researchers a grand moralizing performance and companies' demands for regulation theater. On Hinton's thesis…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T17:12:41.000Z",
       "topic": "AI Business",
       "importance": 9.4,
       "isFocus": true
@@ -1428,6 +1498,20 @@
       "isFocus": true
     },
     {
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 116 # Comments: 77",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:58:48.000Z",
+      "topic": "AI Business",
+      "importance": 9.3,
+      "isFocus": true
+    },
+    {
       "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
       "url": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
       "summary": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license. The post Fish Audio Releases Drama 3, a 35B Open-Weight MoE…",
@@ -1467,20 +1551,6 @@
       "date": "2026-10-02T19:55:07.000Z",
       "topic": "Web Dev",
       "importance": 9.3,
-      "isFocus": true
-    },
-    {
-      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
-      "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
-      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process. The article AI…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T13:24:22.000Z",
-      "topic": "AI Business",
-      "importance": 9.1,
       "isFocus": true
     },
     {
@@ -1554,20 +1624,6 @@
       "isFocus": true
     },
     {
-      "title": "Facebook is giving users more control over their algorithm",
-      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T18:05:24.000Z",
-      "topic": "AI Business",
-      "importance": 9,
-      "isFocus": true
-    },
-    {
       "title": "Jamie Dimon Slams the Door on Rogue AI Agents",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jamie-dimon-slams-the-door-on-rogue-ai-agents/",
       "summary": "Artificial intelligence (AI) agents are knocking at JPMorgan Chase’s door, and CEO Jamie Dimon is not letting them in. The bank will not allow unvetted outside AI agents into its systems, Dimon said Tuesday (Oct. 13) on JPMorgan’s third-quarter earnings call, PYMNTS reported. “You don’t want rogue…",
@@ -1622,20 +1678,6 @@
       "topic": "AI Business",
       "importance": 8.8,
       "isFocus": true
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-01T16:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 8.8,
-      "isFocus": false
     },
     {
       "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
@@ -1778,6 +1820,34 @@
       "isFocus": true
     },
     {
+      "title": "Startup nFox to open-source its ‘sandbox’ for open AI models",
+      "url": "https://siliconangle.com/2026/10/15/startup-nfox-to-open-source-its-sandbox-for-open-ai-models/",
+      "summary": "Artificial intelligence governance startup nFOX Lab today launched a platform for managing owned large language models and announced plans to open-source Blockhouse, a security sandbox designed to restrict what AI workloads can access and do. The firm, which emerged from stealth this week, aims to…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T15:54:52.000Z",
+      "topic": "AI Business",
+      "importance": 8.6,
+      "isFocus": true
+    },
+    {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear …",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:30:00.000Z",
+      "topic": "AI Business",
+      "importance": 8.6,
+      "isFocus": true
+    },
+    {
       "title": "Forgepoint raises $9.8M to automate custom price quotes for manufacturing firms",
       "url": "https://siliconangle.com/2026/10/14/forgepoint-raises-9-8m-to-automate-custom-price-quotes-for-manufacturing-firms/",
       "summary": "One of President Donald Trump’s main priorities is to revive America’s manufacturing industry in order to reduce its reliance on foreign imports and create more jobs, and a startup called Forgepoint Inc. shares the same goal after raising $9.8 million in seed funding today. The round was co-led by…",
@@ -1876,6 +1946,20 @@
       "isFocus": false
     },
     {
+      "title": "Friends don’t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of AI personal assistants like Meta's Muse, you're being cheerfully asked not just to give up…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T16:21:45.000Z",
+      "topic": "AI Business",
+      "importance": 8.4,
+      "isFocus": true
+    },
+    {
       "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
       "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and…",
@@ -1904,7 +1988,7 @@
       "isFocus": false
     },
     {
-      "title": "Vast Data bets stitched-together AI pipelines can’t keep sensitive data in sync",
+      "title": "Vast Data challenges fragmented AI pipelines as data sovereignty demands grow",
       "url": "https://siliconangle.com/2026/10/14/data-sovereignty-strains-best-breed-ai-pipelines-aidatapipelineforum/",
       "summary": "Data sovereignty is becoming an architectural problem as enterprises push artificial intelligence inference toward their most sensitive information. Pipelines assembled from separate tools struggle to keep embeddings, permissions and source data aligned, leaving many valuable data sets out of AI’s…",
       "source": "SiliconANGLE AI",
@@ -1920,7 +2004,7 @@
     {
       "title": "TV4 postpones show after AI agent erases edited material",
       "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 147 # Comments: 83",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 152 # Comments: 86",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2016,20 +2100,6 @@
       "isFocus": true
     },
     {
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 364 # Comments: 309",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-12T17:14:01.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
-    },
-    {
       "title": "Gemini 4 Carbon 🧠, Nvidia weighs Reflection acquihire 💰, decision model race 🤖",
       "url": "https://tldr.tech/ai/2026-10-12",
       "summary": "",
@@ -2100,6 +2170,20 @@
       "isFocus": true
     },
     {
+      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
+      "url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+      "summary": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:19:27.000Z",
+      "topic": "Research",
+      "importance": 8.3,
+      "isFocus": false
+    },
+    {
       "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
       "url": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
       "summary": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers…",
@@ -2140,6 +2224,62 @@
       "topic": "Models & Labs",
       "importance": 8.3,
       "isFocus": false
+    },
+    {
+      "title": "Exclusive: Accel set to lead DeepMind alum’s $60m round",
+      "url": "https://sifted.eu/articles/accel-deepmind-researcher-60m/",
+      "summary": "",
+      "source": "Sifted",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-15T16:48:11.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "Jensen Huang wants Europe to dream bigger — with Nvidia’s help",
+      "url": "https://sifted.eu/articles/jensen-huang-london-2026/",
+      "summary": "",
+      "source": "Sifted",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-15T16:16:43.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-15T15:00:24.000Z",
+      "topic": "Models & Labs",
+      "importance": 8.2,
+      "isFocus": false
+    },
+    {
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:03:42.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
     },
     {
       "title": "Nick Clegg on Europe, AI and big tech",
@@ -2200,7 +2340,7 @@
     {
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
       "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories…",
+      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
       "source": "TechCrunch AI",
       "feedTopic": "AI Business",
       "weight": 2,
@@ -2208,6 +2348,20 @@
       "researchOnly": false,
       "date": "2026-10-15T00:00:00.000Z",
       "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
+      "url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+      "summary": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for…",
+      "source": "Vercel",
+      "feedTopic": "Web Dev",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-15T00:00:00.000Z",
+      "topic": "Web Dev",
       "importance": 8.2,
       "isFocus": true
     },
@@ -2268,48 +2422,6 @@
       "isFocus": true
     },
     {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T20:36:44.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "406 scientists demand AI models be cut off from the internet immediately",
-      "url": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
-      "summary": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet. Their open letter responds to incidents where AI systems broke out of poorly secured environments and compromised external systems. The…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T18:50:44.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T18:30:00.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
       "title": "Bringing our latest frontier model to Android Developers",
       "url": "https://android-developers.googleblog.com/2026/10/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli.html",
       "summary": "<div style= display: none; > <img src=…",
@@ -2333,20 +2445,6 @@
       "native": false,
       "researchOnly": false,
       "date": "2026-10-13T05:00:36.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "This ex-Pleo exec plans on taking on US rivals with his ‘AI CFO’ startup",
-      "url": "https://sifted.eu/articles/light-jonathan-sanders-interview/",
-      "summary": "",
-      "source": "Sifted",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-13T05:00:34.000Z",
       "topic": "AI Business",
       "importance": 8.2,
       "isFocus": true
@@ -2590,6 +2688,34 @@
       "isFocus": true
     },
     {
+      "title": "FSB Says Banks Need to Have Company-Wide AI Regulation",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fsb-says-banks-need-to-have-company-wide-ai-regulation/",
+      "summary": "A global financial watchdog is calling on banks to increase their oversight of agentic AI. The Financial Stability Board (FSB) made that call in a report published Thursday (Oct. 15) outlining proper practices for adopting artificial intelligence (AI). “As adoption expands in scale and…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T13:05:13.000Z",
+      "topic": "AI Business",
+      "importance": 8,
+      "isFocus": true
+    },
+    {
+      "title": "Payroc Says AI Makes Building Payments Software Easier, but Running It Is Another Story",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/payroc-ai-makes-building-payments-software-easier-running-it-is-another-story/",
+      "summary": "Watch more: Digital Shift with Payroc’s Paul Vienneau The most important question for software companies building payments used to be whether they had the engineers, budget and time to do it themselves. Agentic artificial intelligence has already made that question obsolete. “The question has…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T08:02:37.000Z",
+      "topic": "AI Business",
+      "importance": 8,
+      "isFocus": true
+    },
+    {
       "title": "The AI race is back on",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
       "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish…",
@@ -2632,34 +2758,6 @@
       "isFocus": true
     },
     {
-      "title": "What to expect during the AI Data Pipeline Forum: Join theCUBE Oct. 13",
-      "url": "https://siliconangle.com/2026/10/10/ai-infrastructure-bottlenecks-forum-aidatapipelineforum/",
-      "summary": "The artificial intelligence infrastructure race is no longer just about building faster chips. AI infrastructure bottlenecks are shifting attention to a bigger challenge: keeping those chips supplied with data, connected through high-speed networks and operating within increasingly demanding power…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-10T22:06:15.000Z",
-      "topic": "AI Business",
-      "importance": 8,
-      "isFocus": true
-    },
-    {
-      "title": "AI reshapes professional services around trust and business outcomes",
-      "url": "https://siliconangle.com/2026/10/10/human-judgment-ai-professional-services-certinia/",
-      "summary": "Professional services firms are rethinking how they deliver client value as artificial intelligence takes on more routine work, shifting attention toward human judgment, trusted outcomes and new operating models. The transition is changing how firms structure projects, manage knowledge and measure…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-10T20:22:06.000Z",
-      "topic": "AI Business",
-      "importance": 8,
-      "isFocus": true
-    },
-    {
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
@@ -2671,6 +2769,20 @@
       "date": "2026-10-02T16:15:00.000Z",
       "topic": "Models & Labs",
       "importance": 8,
+      "isFocus": false
+    },
+    {
+      "title": "Missed a lecture? This AI agent at Bar-Ilan University helps students catch up",
+      "url": "https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/",
+      "summary": "The post Missed a lecture? This AI agent at Bar-Ilan University helps students catch up appeared first on Source .",
+      "source": "Microsoft AI",
+      "feedTopic": "Models & Labs",
+      "weight": 2.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T15:22:58.000Z",
+      "topic": "Models & Labs",
+      "importance": 7.9,
       "isFocus": false
     },
     {
@@ -2716,6 +2828,20 @@
       "isFocus": false
     },
     {
+      "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
+      "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
+      "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors. But the researchers say physics hasn't had a…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T15:24:15.000Z",
+      "topic": "AI Business",
+      "importance": 7.8,
+      "isFocus": true
+    },
+    {
       "title": "38 Companies Join The Crunchbase Unicorn Board In Blockbuster September, Led By Semiconductor, Fintech And Space Tech Companies",
       "url": "https://news.crunchbase.com/venture/september-2026-new-unicorns-semiconductors-ai-fintech-space/",
       "summary": "Semiconductors, financial services and space technology led for new Unicorn Board counts with the remainder hailing from a broad swath of industries including biotech, AI infrastructure, AI training, security and frontier labs.",
@@ -2725,20 +2851,6 @@
       "native": false,
       "researchOnly": false,
       "date": "2026-10-14T11:00:04.000Z",
-      "topic": "AI Business",
-      "importance": 7.8,
-      "isFocus": true
-    },
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T17:30:00.000Z",
       "topic": "AI Business",
       "importance": 7.8,
       "isFocus": true
@@ -2772,6 +2884,34 @@
       "isFocus": true
     },
     {
+      "title": "AI Startup Cohere Moves to Acquire Cybersecurity Firm AISLE",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-startup-cohere-moves-to-acquire-cybersecurity-firm-aisle/",
+      "summary": "AI startup Cohere says it plans to acquire AISLE, a company developing autonomous systems to find and repair vulnerabilities in critical software. The deal is happening at a time when security “is becoming the defining challenge of enterprise AI,” Cohere said in announcing the proposed acquisition…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:17:24.000Z",
+      "topic": "AI Business",
+      "importance": 7.7,
+      "isFocus": true
+    },
+    {
+      "title": "IntelliJ IDEA’s Java and Kotlin for Cursor and VS Code Hits 1.0",
+      "url": "https://blog.jetbrains.com/idea/2026/10/intellij-idea-s-java-and-kotlin-for-cursor-and-vs-code-hits-1-0/",
+      "summary": "Ten weeks ago, we opened up a preview of an LSP-powered extension that brings IntelliJ IDEA’s smartness for Java and Kotlin into VS Code and Cursor. As mentioned in that blog post, this is part of a bigger initiative: moving our JVM intelligence to wherever our users are, no matter what editor or…",
+      "source": "JetBrains",
+      "feedTopic": "App Dev",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-15T13:06:31.000Z",
+      "topic": "App Dev",
+      "importance": 7.7,
+      "isFocus": true
+    },
+    {
       "title": "Law Firm Freshfields Weighs Billion-Dollar Spinoff for AI Unit",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/law-firm-freshfields-weighs-billion-dollar-spinoff-ai-unit/",
       "summary": "Senior partners at global law firm Freshfields have discussed making its in-house legal technology unit, Freshfields Lab, a separate company that could be opened to external investors, the Financial Times reported Wednesday (Oct. 14). The senior partners believe the unit, which develops artificial…",
@@ -2781,20 +2921,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T21:33:29.000Z",
-      "topic": "AI Business",
-      "importance": 7.7,
-      "isFocus": true
-    },
-    {
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new enhanced protection setting will be…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T16:00:00.000Z",
       "topic": "AI Business",
       "importance": 7.7,
       "isFocus": true
@@ -2856,20 +2982,6 @@
       "isFocus": false
     },
     {
-      "title": "Coding, Math, and AI: What’s Ahead for School Students in 2026–2027",
-      "url": "https://blog.jetbrains.com/education/2026/10/13/coding-math-and-ai-what-s-ahead-for-school-students-in-2026-2027/",
-      "summary": "Looking for new ways to challenge your programming skills, explore AI, or get better at solving math problems? This school year, JetBrains is bringing even more opportunities to young people interested in technology. From free online clubs and coding competitions across Europe to intensive…",
-      "source": "JetBrains",
-      "feedTopic": "App Dev",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-13T08:12:22.000Z",
-      "topic": "App Dev",
-      "importance": 7.7,
-      "isFocus": true
-    },
-    {
       "title": "Agentic workloads break assumptions about software testing. Here’s how to cope",
       "url": "https://siliconangle.com/2026/10/11/agentic-workloads-break-assumptions-about-software-testing-heres-how-to-cope/",
       "summary": "Most traditional enterprise systems were built around three assumptions: Jobs finish quickly, retrying one is free and the same input always produces the same output. Agentic workloads break all three of these expectations, which is why pilots that perform well turn into operational problems once…",
@@ -2912,6 +3024,20 @@
       "isFocus": true
     },
     {
+      "title": "NVIDIA RTX Spark: All creatives need to know",
+      "url": "https://www.creativebloq.com/features/nvidia-rtx-spark-all-you-need-to-know-as-a-creative",
+      "summary": "The agentic age of computing is here.",
+      "source": "Creative Bloq",
+      "feedTopic": "Art & Creative",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-15T12:00:00.000Z",
+      "topic": "Art & Creative",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
       "title": "OpenAI Expands Uday Ruddarraju’s Role to Head Compute and Infrastructure Units",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-expands-uday-ruddarrajus-role-to-head-compute-and-infrastructure-units/",
       "summary": "OpenAI’s infrastructure and compute businesses have a new leader, Bloomberg reported Wednesday (Oct. 14). The artificial intelligence company appointed its chief technology officer for compute, Uday Ruddarraju, to head both the infrastructure and compute businesses. The previous head of the…",
@@ -2921,34 +3047,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T19:40:56.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T16:05:21.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an agentic, conversational voice layer that fully understands a seller's menu and listens and…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T16:00:00.000Z",
       "topic": "AI Business",
       "importance": 7.6,
       "isFocus": true
@@ -2977,48 +3075,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T09:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "Google Says New Frontier Model Excels at Deep Work Across Domains",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-says-new-frontier-model-excels-at-deep-work-across-domains/",
-      "summary": "Google’s new frontier model, Gemini 4 Argon, is now available to developers, enterprises, scientists and consumers, the company said in a Tuesday (Oct. 13) blog post. “Argon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity and science,”…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T23:07:48.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "Goldman Sachs CEO Flags Financing Risk in AI Buildout",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-ceo-david-solomon-flags-financing-risk-ai-buildout/",
-      "summary": "Goldman Sachs CEO David Solomon’s comments on artificial intelligence flagged a financing risk with implications beyond Wall Street. How will companies fund an infrastructure expansion that could require trillions of dollars, and which projects will justify the expense? The bank’s third-quarter…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T21:25:10.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "400 Scientists Call for AI Containment Systems and Incident Reports",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/400-scientists-call-for-ai-containment-systems-and-incident-reports/",
-      "summary": "More than 400 scientists have signed an open letter calling for additional measures on artificial intelligence (AI) and cybersecurity. The scientists recommend that organizations involved with cyber-capable AI models adopt high-assurance containment systems; work with governments and experts in the…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T20:45:00.000Z",
       "topic": "AI Business",
       "importance": 7.6,
       "isFocus": true
@@ -3066,20 +3122,6 @@
       "isFocus": false
     },
     {
-      "title": "Now AI isn't just faking art, it's faking artists' signatures as well",
-      "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
-      "summary": "ChatGPT has been making fake New Yorker cartoons",
-      "source": "Creative Bloq",
-      "feedTopic": "Art & Creative",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-12T09:00:00.000Z",
-      "topic": "Art & Creative",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
       "title": "BotMan AI uses knowledge graphs for legacy modernization",
       "url": "https://siliconangle.com/2026/10/11/botman-ai-uses-knowledge-graphs-for-legacy-modernization-neo4jdatatoknowledge/",
       "summary": "Legacy modernization requires understanding how an application’s code, data and business rules fit together before rebuilding it. BotMan AI uses an AI-powered migration pipeline that maps an application’s dependencies, business logic and data models in a knowledge graph. That context helps agents…",
@@ -3089,20 +3131,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-12T01:46:26.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "The AI control gap: Who gets to say ‘It’s safe’?",
-      "url": "https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say-its-safe/",
-      "summary": "We see a control gap between what artificial intelligence can do and what the evidence supports trusting it to do. A great demo doesn’t prove that a system will stay within the limits of an intended deployment’s goals. The question is: Who gets to decide when the evidence is sufficient to declare…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-10T16:54:10.000Z",
       "topic": "AI Business",
       "importance": 7.6,
       "isFocus": true
@@ -3175,6 +3203,20 @@
       "date": "2026-10-05T08:00:00.000Z",
       "topic": "AI Business",
       "importance": 7.6,
+      "isFocus": true
+    },
+    {
+      "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
+      "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperforms proprietary…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T16:57:14.000Z",
+      "topic": "AI Business",
+      "importance": 7.5,
       "isFocus": true
     },
     {
@@ -3290,6 +3332,34 @@
       "isFocus": true
     },
     {
+      "title": "AI was great until it was not",
+      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 111 # Comments: 73",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T08:18:38.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "Jev 1.14 ⚡, Grok Voice 3 🎙️, RSI 🔁",
+      "url": "https://tldr.tech/ai/2026-10-15",
+      "summary": "",
+      "source": "TLDR AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T00:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "McKinsey is making job applicants spar with a fake AI client",
       "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
       "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation aims to reflect 80% of the scenarios McKinsey consultants might…",
@@ -3306,7 +3376,7 @@
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 368 # Comments: 258",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 375 # Comments: 264",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3334,7 +3404,7 @@
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 911 # Comments: 544",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 933 # Comments: 593",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3346,37 +3416,9 @@
       "isFocus": true
     },
     {
-      "title": "My AI doppelganger tells me what to eat",
-      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T17:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T16:43:24.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "AI is mass decompiling games. That's both awesome and scary",
       "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 104 # Comments: 157",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 106 # Comments: 162",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3390,7 +3432,7 @@
     {
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
       "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 172 # Comments: 171",
+      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 172 # Comments: 173",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3488,7 @@
     {
       "title": "How to engineer an AI harness for game development",
       "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 171 # Comments: 88",
+      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 172 # Comments: 89",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3516,7 +3558,7 @@
     {
       "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
       "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 114 # Comments: 127",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 115 # Comments: 127",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3558,7 +3600,7 @@
     {
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 778 # Comments: 598",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 782 # Comments: 600",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3586,7 +3628,7 @@
     {
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 312 # Comments: 189",
+      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 312 # Comments: 190",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3607,20 +3649,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-12T17:55:12.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 220 # Comments: 88",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-12T15:16:45.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3766,6 +3794,20 @@
       "isFocus": false
     },
     {
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 7,
+      "isFocus": true
+    },
+    {
       "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
       "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
       "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
@@ -3822,17 +3864,17 @@
       "isFocus": true
     },
     {
-      "title": "Humanoid buildup overlooks the robots already running factories",
-      "url": "https://aibusiness.com/automation/humanoid-buildup-overlooks-the-robots-already-running-factories",
-      "summary": "Millions of robotic machines are already operating in factories worldwide, but oversight and safety standards risk falling behind.",
-      "source": "AI Business",
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version…",
+      "source": "The Verge AI",
       "feedTopic": "AI Business",
-      "weight": 2,
+      "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-01T16:46:48.000Z",
+      "date": "2026-10-15T12:00:00.000Z",
       "topic": "AI Business",
-      "importance": 7,
+      "importance": 6.9,
       "isFocus": true
     },
     {
@@ -3928,7 +3970,7 @@
       "weight": 2,
       "native": false,
       "researchOnly": false,
-      "date": "2026-10-08T21:06:35.000Z",
+      "date": "2026-10-09T16:00:35.000Z",
       "topic": "Models & Labs",
       "importance": 6.800000000000001,
       "isFocus": false
@@ -3971,20 +4013,6 @@
       "native": false,
       "researchOnly": false,
       "date": "2026-10-13T19:59:39.000Z",
-      "topic": "App Dev",
-      "importance": 6.8,
-      "isFocus": true
-    },
-    {
-      "title": "Build Your Game Challenge: Join in and Compete for Prizes",
-      "url": "https://blog.jetbrains.com/education/2026/10/12/build-your-game-challenge-join-in-and-compete-for-prizes/",
-      "summary": "This October, we’re launching a new challenge for the JetBrains Academy community. To take part, complete our Build a Game With an AI Coding Agent course, customize the game with your own ideas, and submit your project for a chance to win prizes. How to participate Joining the challenge is simple:…",
-      "source": "JetBrains",
-      "feedTopic": "App Dev",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-12T10:18:32.000Z",
       "topic": "App Dev",
       "importance": 6.8,
       "isFocus": true
@@ -4060,6 +4088,48 @@
       "isFocus": false
     },
     {
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 6.5,
+      "isFocus": true
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "source": "OpenAI",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T13:00:00.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.4,
+      "isFocus": false
+    },
+    {
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to Eiliko over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where …",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T11:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 6.4,
+      "isFocus": true
+    },
+    {
       "title": "VH-GPO: Verified Handoff for LLM Agent Reinforcement Learning",
       "url": "https://arxiv.org/abs/2610.14000",
       "summary": "arXiv:2610.14000v1 Announce Type: cross Abstract: Group-relative reinforcement learning methods such as GRPO train large language model (LLM) agents by comparing rollouts for the same task. When every trajectory in a group fails with the same reward, relative advantages collapse toward zero,…",
@@ -4086,20 +4156,6 @@
       "topic": "Research",
       "importance": 6.4,
       "isFocus": false
-    },
-    {
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "summary": "YouTube is adding a Made with AI label to tracks that were altered or fully generated using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it …",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T18:22:56.000Z",
-      "topic": "AI Business",
-      "importance": 6.4,
-      "isFocus": true
     },
     {
       "title": "SentinelOne cuts malware analysis from weeks to hours",
@@ -4186,6 +4242,20 @@
       "isFocus": false
     },
     {
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "summary": "",
+      "source": "Hugging Face",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T09:08:45.000Z",
+      "topic": "Open Source",
+      "importance": 6.1,
+      "isFocus": false
+    },
+    {
       "title": "Rethinking Projector Training in Multimodal LLMs",
       "url": "https://arxiv.org/abs/2610.18598",
       "summary": "arXiv:2610.18598v1 Announce Type: cross Abstract: Multimodal LLMs are typically trained by first aligning a vision encoder with a language model via projector training on large image-caption datasets, followed by joint training of the full multimodal model. Despite its widespread use, the role of…",
@@ -4267,6 +4337,20 @@
       "date": "2026-10-06T22:57:33.000Z",
       "topic": "Open Source",
       "importance": 6.1,
+      "isFocus": false
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "source": "Google DeepMind",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T16:08:03.000Z",
+      "topic": "Models & Labs",
+      "importance": 6,
       "isFocus": false
     },
     {
@@ -4396,20 +4480,6 @@
       "isFocus": false
     },
     {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T18:47:54.000Z",
-      "topic": "AI Business",
-      "importance": 6,
-      "isFocus": true
-    },
-    {
       "title": "Character.ai Files for Bankruptcy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
       "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 145 # Comments: 24",
@@ -4477,6 +4547,20 @@
       "date": "2026-10-06T23:58:56.000Z",
       "topic": "Models & Labs",
       "importance": 5.8,
+      "isFocus": false
+    },
+    {
+      "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
+      "url": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
+      "summary": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T13:23:45.000Z",
+      "topic": "Open Source",
+      "importance": 5.7,
       "isFocus": false
     },
     {
@@ -4858,20 +4942,6 @@
       "isFocus": false
     },
     {
-      "title": "Beyond hours saved: Building the business case for agentic automation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
-      "summary": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision quality, and maintenance economics, and to prioritize which workflows to automate…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-07T15:50:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 5,
-      "isFocus": false
-    },
-    {
       "title": "web-edit 0.1a1",
       "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
       "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/web-edit/releases/tag/0.1a1 >web-edit 0.1a1</a></p> <p>Includes <a href= https://github.com/simonw/web-edit/pull/1 >performance optimizations</a> written <a href= https://claude.ai/code/session_01LE2R4P74P9GGUbE6yQ5YBt >by Claude Opus…",
@@ -4897,6 +4967,20 @@
       "date": "2026-10-14T20:35:09.000Z",
       "topic": "Models & Labs",
       "importance": 4.8,
+      "isFocus": false
+    },
+    {
+      "title": "Trust in Depth: Giving agents more autonomy without losing control",
+      "url": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+      "summary": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human judgment for the…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T15:05:35.000Z",
+      "topic": "Models & Labs",
+      "importance": 4.6,
       "isFocus": false
     },
     {
@@ -4984,6 +5068,20 @@
       "isFocus": false
     },
     {
+      "title": "Bringing ExecuTorch to Arm Cortex-M CPUs",
+      "url": "https://pytorch.org/blog/bringing-executorch-to-arm-cortex-m-cpus/",
+      "summary": "TL;DR Deploying PyTorch models on microcontrollers has historically required converting to other framework formats, maintaining separate toolchains, and debugging cross-framework numerical mismatches. ExecuTorch eliminates this conversion step entirely. The Cortex-M... The post Bringing ExecuTorch…",
+      "source": "PyTorch",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:40:35.000Z",
+      "topic": "Open Source",
+      "importance": 4.4,
+      "isFocus": false
+    },
+    {
       "title": "Tree Appreciator",
       "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
       "summary": "<p><strong>Tool:</strong> <a href= https://tools.simonwillison.net/tree-appreciator >Tree Appreciator</a></p> <p>Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with:</p> <blockquote>…",
@@ -5014,7 +5112,7 @@
     {
       "title": "Has AI tells",
       "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 122 # Comments: 105",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 131 # Comments: 111",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -5068,22 +5166,36 @@
       "isFocus": false
     },
     {
-      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-      "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
-      "summary": "General Science",
-      "source": "Google Research",
-      "feedTopic": "Research",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "summary": "",
+      "source": "Hugging Face",
+      "feedTopic": "Open Source",
       "weight": 2,
       "native": true,
-      "researchOnly": true,
-      "date": "2026-10-14T16:14:34.000Z",
-      "topic": "Research",
+      "researchOnly": false,
+      "date": "2026-10-15T00:00:00.000Z",
+      "topic": "Open Source",
       "importance": 4,
       "isFocus": false
     },
     {
       "title": "Analyzing technical documents with Deep Review",
       "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "summary": "General Science",
+      "source": "Google Research",
+      "feedTopic": "Research",
+      "weight": 2,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-14T16:14:00.000Z",
+      "topic": "Research",
+      "importance": 4,
+      "isFocus": false
+    },
+    {
+      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+      "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
       "summary": "General Science",
       "source": "Google Research",
       "feedTopic": "Research",
@@ -5217,76 +5329,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-08T16:27:54.000Z",
-      "topic": "Models & Labs",
-      "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "Quoting Ben Affleck",
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "summary": "<blockquote cite= https://www.youtube.com/watch?v=HzraLR2VkNM&amp;t=2259s ><p>I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-07T23:14:58.000Z",
-      "topic": "Open Source",
-      "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "Does better work always mean better workers?",
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "summary": "",
-      "source": "Google Research",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-07T20:19:57.000Z",
-      "topic": "Research",
-      "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "AINews not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-      "summary": "a quiet day.",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-03T08:45:15.000Z",
-      "topic": "Models & Labs",
-      "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "Toward provably private learning from federated data",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-      "summary": "Mobile Systems",
-      "source": "Google Research",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-02T14:57:41.000Z",
-      "topic": "Research",
-      "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "AINews Pi 1.0, Pi Durable, and AIE NYC",
-      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "summary": "the minimalist harness goes stable... and TypeScript!",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-02T06:40:53.000Z",
       "topic": "Models & Labs",
       "importance": 4,
       "isFocus": false

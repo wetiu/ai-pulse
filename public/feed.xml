@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 15 Oct 2026 11:27:16 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 16:59:56 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -143,6 +143,14 @@
     <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
   </item>
   <item>
+    <title>Nvidia&#39;s Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop</title>
+    <link>https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/</link>
+    <guid isPermaLink="true">https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/</guid>
+    <pubDate>Thu, 15 Oct 2026 16:09:44 GMT</pubDate>
+    <category>AI Business</category>
+    <description>With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware.…</description>
+  </item>
+  <item>
     <title>Meta releases Muse Wonder AI models built to run personal and professional agents</title>
     <link>https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/</guid>
@@ -157,6 +165,14 @@
     <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
+  </item>
+  <item>
+    <title>Amazon’s Bee launches two new personal AI devices, starting at $75</title>
+    <link>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting…</description>
   </item>
   <item>
     <title>Nemotron 3.5 Lightning now available on AI Gateway for free</title>
@@ -175,6 +191,14 @@
     <description>OpenAI’s Decisions API is now available through AI Gateway at /v1/decisions . It uses the same request and response format as OpenAI, so existing OpenAI SDK integrations can switch by changing the base URL, credentials, and model ID. Decision models answer typed questions about shared input and…</description>
   </item>
   <item>
+    <title>Google wants Gemini 4 Argon to be the only AI model robots need</title>
+    <link>https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/</link>
+    <guid isPermaLink="true">https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/</guid>
+    <pubDate>Thu, 15 Oct 2026 16:35:47 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google&#39;s Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google&#39;s own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Google wants Gemini 4…</description>
+  </item>
+  <item>
     <title>DeepSeek and what enterprises should learn from AI agent exploits</title>
     <link>https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits</link>
     <guid isPermaLink="true">https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits</guid>
@@ -191,12 +215,12 @@
     <description></description>
   </item>
   <item>
-    <title>Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment</title>
-    <link>https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</guid>
-    <pubDate>Thu, 01 Oct 2026 13:00:49 GMT</pubDate>
+    <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
+    <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</guid>
+    <pubDate>Thu, 15 Oct 2026 13:04:03 GMT</pubDate>
     <category>AI Business</category>
-    <description>AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory…</description>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1 &gt;Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; The phrase told investors appears four times in this FT article, which reports on Anthropic&#39;s day of…</description>
   </item>
   <item>
     <title>AINews Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
@@ -221,6 +245,14 @@
     <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
     <category>Game Dev</category>
     <description>Today marks the launch of Playground, a new Google platform for generating games using natural language prompts, and it will soon host a version of Unity based around generative AI agents. Read more</description>
+  </item>
+  <item>
+    <title>Cerebras positions inference speed as a competitive edge in agentic AI</title>
+    <link>https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/</guid>
+    <pubDate>Thu, 15 Oct 2026 15:35:03 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Agentic workflows are making speed a condition for whole classes of AI applications to exist, and the fastest tokens will determine which platforms win the next phase of AI. Cerebras Systems Inc., which raised $5.5 billion in its May 2026 initial public offering, built its business on making…</description>
   </item>
   <item>
     <title>How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>
@@ -261,14 +293,6 @@
     <pubDate>Wed, 14 Oct 2026 15:45:41 GMT</pubDate>
     <category>AI Business</category>
     <description>The 21st century finance team is growing. But instead of hiring more employees, chief financial officers are onboarding artificial intelligence solutions. After all, AI agents can today already reconcile accounts, investigate payment exceptions, manage invoices and initiate financial workflows.…</description>
-  </item>
-  <item>
-    <title>Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB</title>
-    <link>https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/</guid>
-    <pubDate>Tue, 13 Oct 2026 08:19:54 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application. The post Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB appeared first on MarkTechPost .</description>
   </item>
   <item>
     <title>Run multi-node inference workloads using Ray LLM Deep Learning Containers</title>
@@ -319,20 +343,20 @@
     <description>Scimplify&#39;s annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.</description>
   </item>
   <item>
+    <title>Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW</title>
+    <link>https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/</guid>
+    <pubDate>Thu, 15 Oct 2026 13:00:59 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0…</description>
+  </item>
+  <item>
     <title>OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work</title>
     <link>https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/</link>
     <guid isPermaLink="true">https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/</guid>
     <pubDate>Wed, 14 Oct 2026 16:14:16 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works on a public page.…</description>
-  </item>
-  <item>
-    <title>Gemini 4 Argon is now available worldwide as Google&#39;s most capable frontier model</title>
-    <link>https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/</link>
-    <guid isPermaLink="true">https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/</guid>
-    <pubDate>Tue, 13 Oct 2026 18:00:49 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic&#39;s Claude Opus 5.5 and Meta&#39;s Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks…</description>
   </item>
   <item>
     <title>Prompt: AI agents are running into the limits of access</title>
@@ -373,14 +397,6 @@
     <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It&#39;s the fastest Claude model…</description>
-  </item>
-  <item>
-    <title>Introducing Mistral Large 4: Le chonk</title>
-    <link>https://simonwillison.net/2026/Oct/6/le-chonk/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/le-chonk/</guid>
-    <pubDate>Tue, 06 Oct 2026 20:18:19 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://mistral.ai/news/mistral-large-4/ &gt;Introducing Mistral Large 4: Le chonk&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Mistral are back in the game. Today they&#39;re releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800…</description>
   </item>
   <item>
     <title>Mistral Large 4 now available on AI Gateway</title>
@@ -551,6 +567,14 @@
     <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.</description>
   </item>
   <item>
+    <title>Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic&#39;s Mythos and other AI models</title>
+    <link>https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/</link>
+    <guid isPermaLink="true">https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/</guid>
+    <pubDate>Thu, 15 Oct 2026 15:27:25 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic&#39;s Mythos, CNBC reports. The article Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic&#39;s Mythos and other AI models appeared first on The Decoder…</description>
+  </item>
+  <item>
     <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
     <link>https://openai.com/index/oracle</link>
     <guid isPermaLink="true">https://openai.com/index/oracle</guid>
@@ -591,6 +615,14 @@
     <description>AI Gateway now supports OpenAI&#39;s Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat…</description>
   </item>
   <item>
+    <title>ServiceNow adds AI agent controls and employee automation tools</title>
+    <link>https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools/</guid>
+    <pubDate>Thu, 15 Oct 2026 13:00:48 GMT</pubDate>
+    <category>AI Business</category>
+    <description>ServiceNow Inc. today announced new controls for governing artificial intelligence agents alongside updates to its EmployeeWorks information portal (pictured) that let employees build specialized assistants and automate routine tasks without writing code. The announcements address two connected…</description>
+  </item>
+  <item>
     <title>Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech index</title>
     <link>https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/</guid>
@@ -612,38 +644,6 @@
     <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
     <pubDate>Tue, 13 Oct 2026 17:05:48 GMT</pubDate>
     <category>App Dev</category>
-    <description></description>
-  </item>
-  <item>
-    <title>Introducing Claude Haiku 5.5 on AWS</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/</guid>
-    <pubDate>Wed, 07 Oct 2026 18:52:10 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This…</description>
-  </item>
-  <item>
-    <title>How Netflix Made AI Coding Agents More Efficient with JetBrains IDE Intelligence</title>
-    <link>https://blog.jetbrains.com/ai/2026/10/how-netflix-made-ai-coding-agents-more-efficient/</link>
-    <guid isPermaLink="true">https://blog.jetbrains.com/ai/2026/10/how-netflix-made-ai-coding-agents-more-efficient/</guid>
-    <pubDate>Thu, 15 Oct 2026 09:29:14 GMT</pubDate>
-    <category>App Dev</category>
-    <description>Netflix plugged JetBrains’ headless code-intelligence engine – the same one behind IntelliJ IDEA – into Claude Code and Codex, then benchmarked it against a variety of scenarios. The details and numbers are available below. At a glance Company Netflix – Application Development Platform (ADP), GenAI…</description>
-  </item>
-  <item>
-    <title>Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/</guid>
-    <pubDate>Mon, 12 Oct 2026 17:52:22 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your…</description>
-  </item>
-  <item>
-    <title>ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖</title>
-    <link>https://tldr.tech/ai/2026-10-08</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
     <description></description>
   </item>
 </channel>
