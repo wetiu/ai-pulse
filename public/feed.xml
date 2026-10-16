@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 16 Oct 2026 16:38:12 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 21:06:56 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -223,6 +223,22 @@
     <description></description>
   </item>
   <item>
+    <title>RapidCanvas raises $29M to develop custom AI applications for enterprises</title>
+    <link>https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/</guid>
+    <pubDate>Fri, 16 Oct 2026 20:19:25 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Software development startup RapidCanvas Inc. today announced that it has raised $29 million in funding. Vertex Ventures SEA &amp; India led the Series B round with contributions from Hitachi Ventures, Accel, Peak XV Partners, Valley Capital Partners and Titanium Ventures. The deal follows a $16…</description>
+  </item>
+  <item>
+    <title>Reflection AI&#39;s Beam now available on AI Gateway for free</title>
+    <link>https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free</guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with…</description>
+  </item>
+  <item>
     <title>Meta releases 816B-parameter Muse Spark Open for coding and agent work</title>
     <link>https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/</guid>
@@ -287,7 +303,7 @@
     <description>At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.</description>
   </item>
   <item>
-    <title>How Anthropic’s Dynamic Workflows Coordinate Claude Agents</title>
+    <title>How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)</title>
     <link>https://www.latent.space/p/claude-dynamic-workflows</link>
     <guid isPermaLink="true">https://www.latent.space/p/claude-dynamic-workflows</guid>
     <pubDate>Mon, 12 Oct 2026 18:18:17 GMT</pubDate>
@@ -349,6 +365,14 @@
     <pubDate>Fri, 16 Oct 2026 13:48:08 GMT</pubDate>
     <category>AI Business</category>
     <description>Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model&#39;s circuits. Researchers are still debating…</description>
+  </item>
+  <item>
+    <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+    <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+    <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
   </item>
   <item>
     <title>Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW</title>
@@ -503,14 +527,6 @@
     <description>Observability and information technology management software company SolarWinds Worldwide LLC today unveiled Avior, a standalone agentic artificial intelligence system built to take on first-line operations work for enterprise IT teams. The launch goes after the reliability problem that comes with…</description>
   </item>
   <item>
-    <title>Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding</title>
-    <link>https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/</guid>
-    <pubDate>Mon, 12 Oct 2026 13:00:06 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Ambient intelligence startup Mistlabs Ltd. today brought its Ambi artificial intelligence system out of beta test on Apple Inc. devices, backed by $26 million in new funding. Ambi is designed to act without being asked. Chief Executive Peter Mo said most AI platforms are built to complete tasks,…</description>
-  </item>
-  <item>
     <title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
     <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</guid>
@@ -551,14 +567,6 @@
     <description>Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder .</description>
   </item>
   <item>
-    <title>Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic&#39;s Mythos and other AI models</title>
-    <link>https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/</link>
-    <guid isPermaLink="true">https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/</guid>
-    <pubDate>Thu, 15 Oct 2026 15:27:25 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic&#39;s Mythos, CNBC reports. The article Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic&#39;s Mythos and other AI models appeared first on The Decoder…</description>
-  </item>
-  <item>
     <title>Python on Vercel is now generally available</title>
     <link>https://vercel.com/changelog/python-on-vercel-is-now-generally-available</link>
     <guid isPermaLink="true">https://vercel.com/changelog/python-on-vercel-is-now-generally-available</guid>
@@ -573,6 +581,22 @@
     <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
+  </item>
+  <item>
+    <title>Open source and on device: the strategy behind Nvidia’s new AI models</title>
+    <link>https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</guid>
+    <pubDate>Fri, 16 Oct 2026 18:26:14 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The new Nemotron 3.5 models show how the AI giant is focusing on reinforcing its own GPU infrastructure while supporting the open source community.</description>
+  </item>
+  <item>
+    <title>India becomes the latest country to report rogue AI agent activity</title>
+    <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</guid>
+    <pubDate>Fri, 16 Oct 2026 17:52:24 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</description>
   </item>
   <item>
     <title>IBM: Agentic AI is reshaping governance, controls and trust</title>
@@ -621,30 +645,6 @@
     <pubDate>Wed, 14 Oct 2026 22:27:54 GMT</pubDate>
     <category>AI Business</category>
     <description>Elon Musk’s artificial intelligence company SpaceXSI, formerly xAI, today released Grok Voice 3.0, a new version of the speech-to-speech model behind its Voice Agent API. SpaceXSI is pitching the model to businesses that handle customer support and sales calls with voice agents. Independent testing…</description>
-  </item>
-  <item>
-    <title>AI is mass decompiling games. That&#39;s both awesome and scary.</title>
-    <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
-    <pubDate>Wed, 14 Oct 2026 16:26:53 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ &gt;AI is mass decompiling games. That&amp;#x27;s both awesome and scary.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games,…</description>
-  </item>
-  <item>
-    <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-    <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
-    <pubDate>Tue, 13 Oct 2026 17:05:48 GMT</pubDate>
-    <category>App Dev</category>
-    <description></description>
-  </item>
-  <item>
-    <title>Muse Spark Open is Meta&#39;s answer to Qwen, GLM, and Kimi in the open-weight race</title>
-    <link>https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/</link>
-    <guid isPermaLink="true">https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/</guid>
-    <pubDate>Thu, 15 Oct 2026 18:34:32 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Meta&#39;s Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on…</description>
   </item>
 </channel>
 </rss>
