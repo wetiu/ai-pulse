@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 16 Oct 2026 11:22:12 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 16:38:12 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -48,11 +48,11 @@
   </item>
   <item>
     <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
-    <link>https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html</link>
-    <guid isPermaLink="true">https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html</guid>
-    <pubDate>Mon, 12 Oct 2026 18:00:00 GMT</pubDate>
+    <link>https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm</link>
+    <guid isPermaLink="true">https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm</guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
     <category>App Dev</category>
-    <description>&lt;div&gt;&lt;div style= display: none; &gt; &lt;img src=…</description>
+    <description>With Googlebook, we’re excited to help users express themselves and gain access to these tools.</description>
   </item>
   <item>
     <title>Anthropic opens cybersecurity program applications, releases cheaper Haiku</title>
@@ -165,6 +165,14 @@
     <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting…</description>
+  </item>
+  <item>
+    <title>Elorian’s first AI model wants to reason with images, not just about them</title>
+    <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</guid>
+    <pubDate>Fri, 16 Oct 2026 16:01:37 GMT</pubDate>
+    <category>AI Business</category>
+    <description>According to Elorian&#39;s evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</description>
   </item>
   <item>
     <title>Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index</title>
@@ -311,6 +319,14 @@
     <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
   </item>
   <item>
+    <title>OpenAI&#39;s new Rosalind Academic Plan gives research labs up to 30 free seats for a year</title>
+    <link>https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/</guid>
+    <pubDate>Fri, 16 Oct 2026 13:15:09 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI is launching the Rosalind Academic Plan, a free offering that&#39;s currently open only to research labs at US universities without an enterprise contract. The article OpenAI&#39;s new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decoder .</description>
+  </item>
+  <item>
     <title>Asia’s Startup Funding At Near Record High In Q3, Driven By AI</title>
     <link>https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/</link>
     <guid isPermaLink="true">https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/</guid>
@@ -325,6 +341,14 @@
     <pubDate>Wed, 14 Oct 2026 12:00:38 GMT</pubDate>
     <category>AI Business</category>
     <description>In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed funding round.</description>
+  </item>
+  <item>
+    <title>Is AI interpretability close to a breakthrough? A new essay has researchers divided</title>
+    <link>https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/</link>
+    <guid isPermaLink="true">https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/</guid>
+    <pubDate>Fri, 16 Oct 2026 13:48:08 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model&#39;s circuits. Researchers are still debating…</description>
   </item>
   <item>
     <title>Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW</title>
@@ -343,12 +367,20 @@
     <description>Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files…</description>
   </item>
   <item>
-    <title>OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work</title>
-    <link>https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/</link>
-    <guid isPermaLink="true">https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/</guid>
-    <pubDate>Wed, 14 Oct 2026 16:14:16 GMT</pubDate>
+    <title>Prompt: Enterprise controls can&#39;t keep up with AI agents</title>
+    <link>https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents</link>
+    <guid isPermaLink="true">https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents</guid>
+    <pubDate>Fri, 16 Oct 2026 15:30:14 GMT</pubDate>
     <category>AI Business</category>
-    <description>OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works on a public page.…</description>
+    <description>Companies are giving agents more authority, but many are still struggling to track what they can access, what they&#39;re doing and how to stop them.</description>
+  </item>
+  <item>
+    <title>Google&#39;s Gemini 4 Argon is closer to the AI frontier than any Google model in months</title>
+    <link>https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/</link>
+    <guid isPermaLink="true">https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/</guid>
+    <pubDate>Fri, 16 Oct 2026 15:03:46 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google Deepmind&#39;s Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon also trails rivals…</description>
   </item>
   <item>
     <title>Prompt: AI agents are running into the limits of access</title>
@@ -365,14 +397,6 @@
     <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
-  </item>
-  <item>
-    <title>Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it</title>
-    <link>https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/</link>
-    <guid isPermaLink="true">https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/</guid>
-    <pubDate>Wed, 14 Oct 2026 18:07:37 GMT</pubDate>
-    <category>AI Business</category>
-    <description>For the first time, researchers have tracked down an uncontrolled fleet of Chinese AI agents in the wild and communicated with them via a web mailbox. The agents, running on Tencent Cloud, had launched more than 2,600 attempts to scrape data from Alibaba&#39;s mapping service Amap, finding their own…</description>
   </item>
   <item>
     <title>Building agents that transact with Anchor Browser and AgentCore payments</title>
@@ -431,22 +455,6 @@
     <description>Figma is also releasing its code layers feature in open beta.</description>
   </item>
   <item>
-    <title>Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace</title>
-    <link>https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/</guid>
-    <pubDate>Wed, 14 Oct 2026 15:08:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Zenzap is used by organizations including Starbucks and Taco Bell.</description>
-  </item>
-  <item>
-    <title>Nvidia announces billion-dollar investments in European tech</title>
-    <link>https://sifted.eu/articles/nvidia-announces-billion-dollar-investments-in-european-tech/</link>
-    <guid isPermaLink="true">https://sifted.eu/articles/nvidia-announces-billion-dollar-investments-in-european-tech/</guid>
-    <pubDate>Tue, 13 Oct 2026 21:09:39 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>Epic Games delays Disney game and tells developers to go AI first</title>
     <link>https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</link>
     <guid isPermaLink="true">https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</guid>
@@ -503,14 +511,6 @@
     <description>Ambient intelligence startup Mistlabs Ltd. today brought its Ambi artificial intelligence system out of beta test on Apple Inc. devices, backed by $26 million in new funding. Ambi is designed to act without being asked. Chief Executive Peter Mo said most AI platforms are built to complete tasks,…</description>
   </item>
   <item>
-    <title>E-commerce AI startup Loops raises $3.5M to create smoother online shopping experiences</title>
-    <link>https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/</guid>
-    <pubDate>Mon, 12 Oct 2026 12:00:10 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Agentic e-commerce startup Loops Smart AI wants to help online retailers create more seamless buying journeys and streamline the shopping experience after raising $3.5 million in seed funding today. Andreessen Horowitz’s a16z speedrun accelerator led the round, with NTT Docomo, Connecticut…</description>
-  </item>
-  <item>
     <title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
     <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</guid>
@@ -533,6 +533,22 @@
     <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.</description>
+  </item>
+  <item>
+    <title>Jev is Vercel’s fastest-adopted AI model ever</title>
+    <link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</guid>
+    <pubDate>Fri, 16 Oct 2026 15:33:49 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The data comes from Vercel&#39;s AI gateway, a unified API service similar to OpenRouter.</description>
+  </item>
+  <item>
+    <title>Anthropic gives METR inside access to audit its AI models and safety practices</title>
+    <link>https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/</guid>
+    <pubDate>Fri, 16 Oct 2026 13:11:55 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder .</description>
   </item>
   <item>
     <title>Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic&#39;s Mythos and other AI models</title>
@@ -623,28 +639,12 @@
     <description></description>
   </item>
   <item>
-    <title>Introducing Claude Haiku 5.5 on AWS</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/</guid>
-    <pubDate>Wed, 07 Oct 2026 18:52:10 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This…</description>
-  </item>
-  <item>
     <title>Muse Spark Open is Meta&#39;s answer to Qwen, GLM, and Kimi in the open-weight race</title>
     <link>https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/</link>
     <guid isPermaLink="true">https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/</guid>
     <pubDate>Thu, 15 Oct 2026 18:34:32 GMT</pubDate>
     <category>AI Business</category>
     <description>Meta&#39;s Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on…</description>
-  </item>
-  <item>
-    <title>I used Nvidia RTX Spark&#39;s AI agent to run Blender – here&#39;s what happened</title>
-    <link>https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened</link>
-    <guid isPermaLink="true">https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened</guid>
-    <pubDate>Thu, 15 Oct 2026 12:36:17 GMT</pubDate>
-    <category>Art &amp; Creative</category>
-    <description>It promised it could handle my tasks, but did it work out?</description>
   </item>
 </channel>
 </rss>
