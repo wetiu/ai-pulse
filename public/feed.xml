@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 16 Oct 2026 04:30:46 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 11:22:12 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -45,14 +45,6 @@
     <pubDate>Tue, 13 Oct 2026 05:00:31 GMT</pubDate>
     <category>AI Business</category>
     <description>Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action…</description>
-  </item>
-  <item>
-    <title>Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents</title>
-    <link>https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/</guid>
-    <pubDate>Wed, 14 Oct 2026 07:50:40 GMT</pubDate>
-    <category>App Dev</category>
-    <description>Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents…</description>
   </item>
   <item>
     <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
@@ -173,6 +165,14 @@
     <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting…</description>
+  </item>
+  <item>
+    <title>Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index</title>
+    <link>https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/</guid>
+    <pubDate>Fri, 16 Oct 2026 06:26:41 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on…</description>
   </item>
   <item>
     <title>Nemotron 3.5 Lightning now available on AI Gateway for free</title>
@@ -309,6 +309,14 @@
     <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
+  </item>
+  <item>
+    <title>Asia’s Startup Funding At Near Record High In Q3, Driven By AI</title>
+    <link>https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/</link>
+    <guid isPermaLink="true">https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/</guid>
+    <pubDate>Fri, 16 Oct 2026 11:00:42 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Overall, investors put $38.5 billion into reported seed- through growth-stage financings for Asian startups in Q3, per Crunchbase data. Of that, a majority went to AI-focused companies, echoing the trends we’ve seen globally.</description>
   </item>
   <item>
     <title>Exclusive: Stella &amp; Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo</title>
@@ -453,14 +461,6 @@
     <pubDate>Mon, 12 Oct 2026 18:49:25 GMT</pubDate>
     <category>Game Dev</category>
     <description>Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes. Read more</description>
-  </item>
-  <item>
-    <title>The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds</title>
-    <link>https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/</link>
-    <guid isPermaLink="true">https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/</guid>
-    <pubDate>Fri, 09 Oct 2026 18:28:35 GMT</pubDate>
-    <category>AI Business</category>
-    <description>As the AI startup boom progresses, investors appear to be leaving few niches unfunded. That was apparent in this week’s lineup of large funding rounds, which featured AI infrastructure providers, a foundational model developer, a content protection platform for the AI age, and other AI-focused…</description>
   </item>
   <item>
     <title>Unity unveils Unity Spark, an prompt-based tool for Google&#39;s AI game platform</title>
