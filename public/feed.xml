@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 15 Oct 2026 21:22:01 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 04:30:46 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -15,20 +15,12 @@
     <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
   </item>
   <item>
-    <title>Nvidia agent safety push raises questions about who governs AI autonomy</title>
-    <link>https://aibusiness.com/responsible-ai/nvidia-agent-safety-push-raises-questions</link>
-    <guid isPermaLink="true">https://aibusiness.com/responsible-ai/nvidia-agent-safety-push-raises-questions</guid>
-    <pubDate>Fri, 02 Oct 2026 01:38:37 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The AI chipmaker’s new safety platform adds controls around AI agents, while enterprises remain responsible for defining their authority and setting boundaries.</description>
-  </item>
-  <item>
-    <title>Google Releases Gemini 4 Argon API With 1M Token Output Limit</title>
-    <link>https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/</guid>
-    <pubDate>Wed, 14 Oct 2026 05:03:34 GMT</pubDate>
+    <title>NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model</title>
+    <link>https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/</guid>
+    <pubDate>Thu, 15 Oct 2026 19:53:50 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. The post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost .</description>
+    <description>NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on…</description>
   </item>
   <item>
     <title>Amp puts AI agents to work beyond code with OpenAI models</title>
@@ -119,14 +111,6 @@
     <description>&lt;img src= https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp &gt;Playground is a new experimental gaming platform that lets you create, play, and share custom games.</description>
   </item>
   <item>
-    <title>Chatham scales its capital markets expertise with OpenAI</title>
-    <link>https://openai.com/index/chatham-financial</link>
-    <guid isPermaLink="true">https://openai.com/index/chatham-financial</guid>
-    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.</description>
-  </item>
-  <item>
     <title>Meta launches an open-weight AI model that runs on Macs</title>
     <link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</guid>
@@ -141,6 +125,14 @@
     <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
+  </item>
+  <item>
+    <title>Meta Raises Its AI Game as Google Opens Gemini 4 Argon</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/meta-raises-its-ai-game-as-google-opens-gemini-4-argon/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/meta-raises-its-ai-game-as-google-opens-gemini-4-argon/</guid>
+    <pubDate>Thu, 15 Oct 2026 23:03:41 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The biggest names in tech pushed artificial intelligence (AI) in two directions over the past week. Meta and Google raised the ceiling on what the most powerful models can do. Microsoft and Cloudflare went the other way, with models that make quick yes-or-no and multiple-choice calls for a fraction…</description>
   </item>
   <item>
     <title>Nvidia&#39;s Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop</title>
@@ -223,6 +215,14 @@
     <description></description>
   </item>
   <item>
+    <title>Meta releases 816B-parameter Muse Spark Open for coding and agent work</title>
+    <link>https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/</guid>
+    <pubDate>Thu, 15 Oct 2026 22:20:54 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Meta Platforms Inc. today released open weights for its Muse Spark artificial intelligence model, which had been proprietary since its April debut. The release, called Muse Spark Open, is built for coding and long-running agent work. Meta describes it as the most capable open-weight model to come…</description>
+  </item>
+  <item>
     <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
     <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
     <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</guid>
@@ -271,28 +271,12 @@
     <description>Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a…</description>
   </item>
   <item>
-    <title>How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>
-    <link>https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</guid>
-    <pubDate>Thu, 01 Oct 2026 23:44:13 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x…</description>
-  </item>
-  <item>
     <title>Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents</title>
     <link>https://www.latent.space/p/crossing-the-threshold</link>
     <guid isPermaLink="true">https://www.latent.space/p/crossing-the-threshold</guid>
     <pubDate>Wed, 14 Oct 2026 21:40:52 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.</description>
-  </item>
-  <item>
-    <title>Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It</title>
-    <link>https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/</guid>
-    <pubDate>Tue, 13 Oct 2026 22:53:44 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads DeepSWE and SWE-Marathon. The post Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It…</description>
   </item>
   <item>
     <title>How Anthropic’s Dynamic Workflows Coordinate Claude Agents</title>
@@ -317,14 +301,6 @@
     <pubDate>Thu, 08 Oct 2026 18:13:46 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>TL;DR Agentic workloads change the traffic an inference server sees. Unlike single-turn chat, an agent session can involve a large initial prefill, repeated model calls, and subagents running in parallel,... The post Session-Aware Agentic Inference with NVIDIA Dynamo appeared first on PyTorch .</description>
-  </item>
-  <item>
-    <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
-    <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
-    <pubDate>Fri, 02 Oct 2026 04:01:31 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
   </item>
   <item>
     <title>Pollo AI turns creative ideas into campaigns with OpenAI</title>
@@ -413,14 +389,6 @@
     <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a…</description>
-  </item>
-  <item>
-    <title>ReviewBench: An open benchmark for AI code review</title>
-    <link>https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/</link>
-    <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/</guid>
-    <pubDate>Mon, 05 Oct 2026 15:59:40 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .</description>
   </item>
   <item>
     <title>Nvidia unveils investments in five more UK startups</title>
@@ -517,14 +485,6 @@
     <pubDate>Tue, 06 Oct 2026 20:14:47 GMT</pubDate>
     <category>Game Dev</category>
     <description>A platform for people who want to play games made by AI.</description>
-  </item>
-  <item>
-    <title>How Rogo ships agent-written code to production in 5 minutes on Vercel</title>
-    <link>https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel</link>
-    <guid isPermaLink="true">https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel</guid>
-    <pubDate>Fri, 02 Oct 2026 04:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Rogo on Vercel 73,000+ deployments in a single month Agent-written code shipped to production in 5 minutes 6 production AI agents automating work from churn analysis to deal desk Zero manual triage during production incidents with agent swarms on AI SDK Rogo builds Felix, an AI agent that generates…</description>
   </item>
   <item>
     <title>SolarWinds’ Avior pairs AI agents with deterministic execution for enterprise IT</title>
@@ -645,6 +605,46 @@
     <pubDate>Wed, 14 Oct 2026 22:27:54 GMT</pubDate>
     <category>AI Business</category>
     <description>Elon Musk’s artificial intelligence company SpaceXSI, formerly xAI, today released Grok Voice 3.0, a new version of the speech-to-speech model behind its Voice Agent API. SpaceXSI is pitching the model to businesses that handle customer support and sales calls with voice agents. Independent testing…</description>
+  </item>
+  <item>
+    <title>AI is mass decompiling games. That&#39;s both awesome and scary.</title>
+    <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
+    <pubDate>Wed, 14 Oct 2026 16:26:53 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ &gt;AI is mass decompiling games. That&amp;#x27;s both awesome and scary.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games,…</description>
+  </item>
+  <item>
+    <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+    <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+    <pubDate>Tue, 13 Oct 2026 17:05:48 GMT</pubDate>
+    <category>App Dev</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Introducing Claude Haiku 5.5 on AWS</title>
+    <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/</link>
+    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/</guid>
+    <pubDate>Wed, 07 Oct 2026 18:52:10 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This…</description>
+  </item>
+  <item>
+    <title>Muse Spark Open is Meta&#39;s answer to Qwen, GLM, and Kimi in the open-weight race</title>
+    <link>https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/</link>
+    <guid isPermaLink="true">https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/</guid>
+    <pubDate>Thu, 15 Oct 2026 18:34:32 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Meta&#39;s Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on…</description>
+  </item>
+  <item>
+    <title>I used Nvidia RTX Spark&#39;s AI agent to run Blender – here&#39;s what happened</title>
+    <link>https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened</link>
+    <guid isPermaLink="true">https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened</guid>
+    <pubDate>Thu, 15 Oct 2026 12:36:17 GMT</pubDate>
+    <category>Art &amp; Creative</category>
+    <description>It promised it could handle my tasks, but did it work out?</description>
   </item>
 </channel>
 </rss>
