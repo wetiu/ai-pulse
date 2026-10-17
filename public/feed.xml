@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 17 Oct 2026 04:23:44 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 10:42:21 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -13,6 +13,14 @@
     <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
+  </item>
+  <item>
+    <title>StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context</title>
+    <link>https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/</guid>
+    <pubDate>Sat, 17 Oct 2026 06:29:55 GMT</pubDate>
+    <category>Open Source</category>
+    <description>StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of…</description>
   </item>
   <item>
     <title>NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model</title>
@@ -45,6 +53,14 @@
     <pubDate>Tue, 13 Oct 2026 05:00:31 GMT</pubDate>
     <category>AI Business</category>
     <description>Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action…</description>
+  </item>
+  <item>
+    <title>Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs</title>
+    <link>https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/</link>
+    <guid isPermaLink="true">https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/</guid>
+    <pubDate>Sat, 17 Oct 2026 10:33:28 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 calls. API users in…</description>
   </item>
   <item>
     <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
@@ -127,14 +143,6 @@
     <description>The biggest names in tech pushed artificial intelligence (AI) in two directions over the past week. Meta and Google raised the ceiling on what the most powerful models can do. Microsoft and Cloudflare went the other way, with models that make quick yes-or-no and multiple-choice calls for a fraction…</description>
   </item>
   <item>
-    <title>Nvidia&#39;s Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop</title>
-    <link>https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/</link>
-    <guid isPermaLink="true">https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/</guid>
-    <pubDate>Thu, 15 Oct 2026 16:09:44 GMT</pubDate>
-    <category>AI Business</category>
-    <description>With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware.…</description>
-  </item>
-  <item>
     <title>Nvidia expands Nemotron LLM family with hyper-efficient models for agentic systems</title>
     <link>https://siliconangle.com/2026/10/15/nvidia-expands-nemotron-llm-family-with-hyper-efficient-models-for-agentic-systems/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/15/nvidia-expands-nemotron-llm-family-with-hyper-efficient-models-for-agentic-systems/</guid>
@@ -191,12 +199,12 @@
     <description>OpenAI’s Decisions API is now available through AI Gateway at /v1/decisions . It uses the same request and response format as OpenAI, so existing OpenAI SDK integrations can switch by changing the base URL, credentials, and model ID. Decision models answer typed questions about shared input and…</description>
   </item>
   <item>
-    <title>Google wants Gemini 4 Argon to be the only AI model robots need</title>
-    <link>https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/</link>
-    <guid isPermaLink="true">https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/</guid>
-    <pubDate>Thu, 15 Oct 2026 16:35:47 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google&#39;s Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google&#39;s own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Google wants Gemini 4…</description>
+    <title>DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API</title>
+    <link>https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/</guid>
+    <pubDate>Sat, 17 Oct 2026 08:53:58 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto…</description>
   </item>
   <item>
     <title>DeepSeek and what enterprises should learn from AI agent exploits</title>
@@ -583,6 +591,22 @@
     <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
   </item>
   <item>
+    <title>AI models hide mistakes in their own work reports, but one sentence in your prompt can help</title>
+    <link>https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/</link>
+    <guid isPermaLink="true">https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/</guid>
+    <pubDate>Sat, 17 Oct 2026 09:54:36 GMT</pubDate>
+    <category>AI Business</category>
+    <description>AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mistakes in their own work reports, but one sentence in your…</description>
+  </item>
+  <item>
+    <title>DeepSeek V4.1 Flash 1017 now available on AI Gateway</title>
+    <link>https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway</guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the…</description>
+  </item>
+  <item>
     <title>Open source and on device: the strategy behind Nvidia’s new AI models</title>
     <link>https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</link>
     <guid isPermaLink="true">https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</guid>
@@ -621,30 +645,6 @@
     <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Gemini 4 Argon from Google is now available on AI Gateway . Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling. On coding tasks, Gemini 4 Argon builds features, fixes bugs,…</description>
-  </item>
-  <item>
-    <title>OpenAI Ultrafast mode now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>AI Gateway now supports OpenAI&#39;s Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat…</description>
-  </item>
-  <item>
-    <title>ServiceNow adds AI agent controls and employee automation tools</title>
-    <link>https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools/</guid>
-    <pubDate>Thu, 15 Oct 2026 13:00:48 GMT</pubDate>
-    <category>AI Business</category>
-    <description>ServiceNow Inc. today announced new controls for governing artificial intelligence agents alongside updates to its EmployeeWorks information portal (pictured) that let employees build specialized assistants and automate routine tasks without writing code. The announcements address two connected…</description>
-  </item>
-  <item>
-    <title>Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech index</title>
-    <link>https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/</guid>
-    <pubDate>Wed, 14 Oct 2026 22:27:54 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Elon Musk’s artificial intelligence company SpaceXSI, formerly xAI, today released Grok Voice 3.0, a new version of the speech-to-speech model behind its Voice Agent API. SpaceXSI is pitching the model to businesses that handle customer support and sales calls with voice agents. Independent testing…</description>
   </item>
 </channel>
 </rss>
