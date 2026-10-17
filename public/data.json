@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:42:21.535Z",
+  "generatedAt": "2026-10-17T15:33:12.797Z",
   "count": 382,
   "focusCount": 230,
   "topics": [
@@ -1218,20 +1218,6 @@
       "isFocus": true
     },
     {
-      "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
-      "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
-      "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T18:34:32.000Z",
-      "topic": "AI Business",
-      "importance": 9.6,
-      "isFocus": true
-    },
-    {
       "title": "I used Nvidia RTX Spark's AI agent to run Blender – here's what happened",
       "url": "https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened",
       "summary": "It promised it could handle my tasks, but did it work out?",
@@ -1398,6 +1384,20 @@
       "topic": "Models & Labs",
       "importance": 9.5,
       "isFocus": false
+    },
+    {
+      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+      "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+      "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under 30 minutes that the…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-17T14:42:56.000Z",
+      "topic": "AI Business",
+      "importance": 9.4,
+      "isFocus": true
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -1750,6 +1750,20 @@
       "isFocus": false
     },
     {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-17T13:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 8.8,
+      "isFocus": true
+    },
+    {
       "title": "The agentic AI era is forcing security and resilience into a single discipline",
       "url": "https://siliconangle.com/2026/10/16/the-agentic-ai-era-is-forcing-security-and-resilience-into-a-single-discipline/",
       "summary": "For two decades, security and data resilience have been neighbors who share a fence but rarely a budget. Security kept bad actors out, while resilience brought the business back when they got in. Agentic artificial intelligence is tearing down that fence, yet most organizations haven’t noticed.…",
@@ -1983,20 +1997,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-15T15:54:52.000Z",
-      "topic": "AI Business",
-      "importance": 8.6,
-      "isFocus": true
-    },
-    {
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear …",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T14:30:00.000Z",
       "topic": "AI Business",
       "importance": 8.6,
       "isFocus": true
@@ -2238,20 +2238,6 @@
       "topic": "Models & Labs",
       "importance": 8.4,
       "isFocus": false
-    },
-    {
-      "title": "On theCUBE Pod: AI doubters get loud, and IBM seeks competitive advantage",
-      "url": "https://siliconangle.com/2026/10/13/ibm-ai-infrastructure-thecubepod/",
-      "summary": "Americans have big concerns about artificial intelligence, but that hasn’t stopped OpenAI Inc., Nvidia Corp., IBM Corp. and others from charging ahead. Last week saw shares of Nvidia, CoreWeave Inc., Oracle Corp. and Nebius Group N.V. decline amid reports that OpenAI’s annualized net revenue was…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T14:38:45.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
     },
     {
       "title": "Gemini 4 Carbon 🧠, Nvidia weighs Reflection acquihire 💰, decision model race 🤖",
@@ -3038,6 +3024,20 @@
       "isFocus": true
     },
     {
+      "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
+      "url": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
+      "summary": "ServiceNow Inc. is making one of the more consequential and visible bets in enterprise AI. The company says AI Control Tower can discover and govern any agent, work across models and clouds, track cost and value, and shut down behavior that violates policy. That sales pitch plays directly to…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-17T14:49:22.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
       "title": "Trump Task Force Orders Report on AI Dangers",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-task-force-orders-report-on-ai-dangers/",
       "summary": "President Donald Trump’s artificial intelligence (AI) task force, the Super Intelligence Force, will commission a report from the President’s Council of Advisors on Science and Technology to evaluate potential dangers of the technology, Bloomberg reported Thursday (Oct. 15), citing a White House…",
@@ -3248,6 +3248,20 @@
       "isFocus": false
     },
     {
+      "title": "A fake Mia Goth selfie fooled the internet, and AI slop is the least of it",
+      "url": "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
+      "summary": "Has social media become a breeding ground for parasocial drama?",
+      "source": "Creative Bloq",
+      "feedTopic": "Art & Creative",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-17T11:00:00.000Z",
+      "topic": "Art & Creative",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
       "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
       "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
@@ -3348,7 +3362,7 @@
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 508 # Comments: 430",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 558 # Comments: 495",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3362,7 +3376,7 @@
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 199 # Comments: 77",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 202 # Comments: 81",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3432,7 +3446,7 @@
     {
       "title": "Why We're Banning AI",
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 255 # Comments: 201",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 256 # Comments: 202",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3468,20 +3482,6 @@
       "researchOnly": false,
       "date": "2026-10-15T14:35:15.000Z",
       "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "No amount of renaming can fix AI's growing reputation problem.",
-      "url": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
-      "summary": "No amount of renaming can fix AI's growing reputation problem.",
-      "source": "Creative Bloq",
-      "feedTopic": "Art & Creative",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-15T08:29:03.000Z",
-      "topic": "Art & Creative",
       "importance": 7.2,
       "isFocus": true
     },
@@ -3544,7 +3544,7 @@
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 946 # Comments: 619",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 947 # Comments: 619",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3558,7 +3558,7 @@
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
       "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 169",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 170",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3614,7 +3614,7 @@
     {
       "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
       "url": "https://blumify.io/people",
-      "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 117 # Comments: 76",
+      "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 118 # Comments: 76",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3628,7 +3628,7 @@
     {
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 351 # Comments: 185",
+      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 351 # Comments: 186",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4440,7 +4440,7 @@
     {
       "title": "AI-assisted PCB design for KiCad 10",
       "url": "https://github.com/mixelpixx/Konnect",
-      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 131 # Comments: 50",
+      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 136 # Comments: 51",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -5182,7 +5182,7 @@
     {
       "title": "Has AI tells",
       "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 120",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 121",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
