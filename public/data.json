@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T21:06:56.075Z",
-  "count": 378,
-  "focusCount": 228,
+  "generatedAt": "2026-10-17T04:23:44.620Z",
+  "count": 380,
+  "focusCount": 229,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -233,20 +233,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-15T16:09:44.000Z",
-      "topic": "AI Business",
-      "importance": 11.9,
-      "isFocus": true
-    },
-    {
-      "title": "Meta releases Muse Wonder AI models built to run personal and professional agents",
-      "url": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/",
-      "summary": "Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, multistep jobs people hand off to an AI agent. One example it…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-12T22:36:05.000Z",
       "topic": "AI Business",
       "importance": 11.9,
       "isFocus": true
@@ -627,6 +613,20 @@
       "date": "2026-10-14T12:00:38.000Z",
       "topic": "AI Business",
       "importance": 10.799999999999999,
+      "isFocus": true
+    },
+    {
+      "title": "Reflection AI open-sources Beam’s weights, post-training recipes",
+      "url": "https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/",
+      "summary": "Startup Reflection AI Inc. today made the weights of Beam, its first large language model, available on Hugging Face. The company also released technical resources that will enable developers to customize the algorithm. Originally introduced last week, Beam is one of the industry’s most advanced…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-16T22:52:38.000Z",
+      "topic": "AI Business",
+      "importance": 10.7,
       "isFocus": true
     },
     {
@@ -1162,6 +1162,20 @@
       "isFocus": true
     },
     {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-16T21:22:28.000Z",
+      "topic": "AI Business",
+      "importance": 9.6,
+      "isFocus": true
+    },
+    {
       "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
       "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
       "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on…",
@@ -1514,7 +1528,7 @@
     {
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 246 # Comments: 198",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 247 # Comments: 198",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -1692,6 +1706,20 @@
       "topic": "App Dev",
       "importance": 9,
       "isFocus": true
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "source": "OpenAI",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-16T19:00:00.000Z",
+      "topic": "Models & Labs",
+      "importance": 8.9,
+      "isFocus": false
     },
     {
       "title": "The agentic AI era is forcing security and resilience into a single discipline",
@@ -1876,6 +1904,20 @@
       "isFocus": true
     },
     {
+      "title": "Perplexity's Decider V1.2 models now available on AI Gateway",
+      "url": "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
+      "summary": "Perplexity Decider V1.2 27B and Decider Flash V1.2 4B are now available on AI Gateway . Both are multimodal decision models for classifying content, routing requests, and scoring text, structured records, and images. The models answer typed questions with probabilities. Boolean questions return the…",
+      "source": "Vercel",
+      "feedTopic": "Web Dev",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-16T00:00:00.000Z",
+      "topic": "Web Dev",
+      "importance": 8.6,
+      "isFocus": true
+    },
+    {
       "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
       "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
       "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the…",
@@ -2027,6 +2069,20 @@
       "date": "2026-10-14T16:14:00.000Z",
       "topic": "Research",
       "importance": 8.5,
+      "isFocus": false
+    },
+    {
+      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+      "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
+      "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-17T00:09:12.000Z",
+      "topic": "Research",
+      "importance": 8.4,
       "isFocus": false
     },
     {
@@ -2506,20 +2562,6 @@
       "isFocus": true
     },
     {
-      "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
-      "url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
-      "summary": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for…",
-      "source": "Vercel",
-      "feedTopic": "Web Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-15T00:00:00.000Z",
-      "topic": "Web Dev",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
       "summary": "",
@@ -2744,16 +2786,16 @@
       "isFocus": true
     },
     {
-      "title": "FSB Says Banks Need to Have Company-Wide AI Regulation",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fsb-says-banks-need-to-have-company-wide-ai-regulation/",
-      "summary": "A global financial watchdog is calling on banks to increase their oversight of agentic AI. The Financial Stability Board (FSB) made that call in a report published Thursday (Oct. 15) outlining proper practices for adopting artificial intelligence (AI). “As adoption expands in scale and…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
+      "title": "LaTeX renderer",
+      "url": "https://simonwillison.net/2026/Oct/15/latex/",
+      "summary": "<p><strong>Tool:</strong> <a href= https://tools.simonwillison.net/latex >LaTeX renderer</a></p> <p>Inspired by Paul Ford and Aboard Foundary's new web app <a href= https://tinylittleoffice.com/ >Tiny Little Office</a>, which provides a suite of web app content editors (a Word Processor, Outliner,…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-15T13:05:13.000Z",
-      "topic": "AI Business",
+      "date": "2026-10-15T02:07:28.000Z",
+      "topic": "Web Dev",
       "importance": 8,
       "isFocus": true
     },
@@ -2912,20 +2954,6 @@
       "isFocus": true
     },
     {
-      "title": "AI Startup Cohere Moves to Acquire Cybersecurity Firm AISLE",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-startup-cohere-moves-to-acquire-cybersecurity-firm-aisle/",
-      "summary": "AI startup Cohere says it plans to acquire AISLE, a company developing autonomous systems to find and repair vulnerabilities in critical software. The deal is happening at a time when security “is becoming the defining challenge of enterprise AI,” Cohere said in announcing the proposed acquisition…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T14:17:24.000Z",
-      "topic": "AI Business",
-      "importance": 7.7,
-      "isFocus": true
-    },
-    {
       "title": "IntelliJ IDEA’s Java and Kotlin for Cursor and VS Code Hits 1.0",
       "url": "https://blog.jetbrains.com/idea/2026/10/intellij-idea-s-java-and-kotlin-for-cursor-and-vs-code-hits-1-0/",
       "summary": "Ten weeks ago, we opened up a preview of an LSP-powered extension that brings IntelliJ IDEA’s smartness for Java and Kotlin into VS Code and Cursor. As mentioned in that blog post, this is part of a bigger initiative: moving our JVM intelligence to wherever our users are, no matter what editor or…",
@@ -3010,6 +3038,34 @@
       "isFocus": true
     },
     {
+      "title": "Trump Task Force Orders Report on AI Dangers",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-task-force-orders-report-on-ai-dangers/",
+      "summary": "President Donald Trump’s artificial intelligence (AI) task force, the Super Intelligence Force, will commission a report from the President’s Council of Advisors on Science and Technology to evaluate potential dangers of the technology, Bloomberg reported Thursday (Oct. 15), citing a White House…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-16T20:15:03.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
+      "title": "Taco Bell Says AI Helps Workers Live Más, Quit Less",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/taco-bell-says-ai-helps-workers-live-mas-quit-less/",
+      "summary": "The hardest job at a Taco Bell during the dinner rush is the headset. One worker takes orders from a line of cars, repeats them back over road noise and fields the complaints when a Crunchwrap comes out wrong. At more than 890 Taco Bell drive-thrus, voice artificial intelligence now takes the…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-16T20:02:34.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
       "title": "ChatGPT can peek at your Chrome tabs now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop…",
@@ -3047,20 +3103,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T09:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "Intel, Broadcom CEOs flag AI industry challenges at financial event",
-      "url": "https://siliconangle.com/2026/10/12/intel-broadcom-ceos-flag-ai-industry-challenges-trends-at-financial-event/",
-      "summary": "Intel Corp. Chief Executive Lip-Bu Tan and Hock Tan, his counterpart at Broadcom Inc., have flagged capital access as a potential challenge for the artificial intelligence sector. The executives shared their observations today during a financial conference in Singapore. Intel and Broadcom are two…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T00:11:17.000Z",
       "topic": "AI Business",
       "importance": 7.6,
       "isFocus": true
@@ -3164,20 +3206,6 @@
       "isFocus": true
     },
     {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T01:01:32.000Z",
-      "topic": "AI Business",
-      "importance": 7.4,
-      "isFocus": true
-    },
-    {
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.…",
@@ -3206,20 +3234,6 @@
       "isFocus": true
     },
     {
-      "title": "llm-openai-decisions 0.1a0",
-      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
-      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0 >llm-openai-decisions 0.1a0</a></p> <p>OpenAI released their new Jev-style <a href= https://developers.openai.com/api/docs/guides/decisions >Decisions API</a>, as previously announced at last…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-06T23:04:13.000Z",
-      "topic": "Models & Labs",
-      "importance": 7.4,
-      "isFocus": false
-    },
-    {
       "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
       "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
       "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI…",
@@ -3245,6 +3259,34 @@
       "date": "2026-10-13T15:52:20.000Z",
       "topic": "Models & Labs",
       "importance": 7.300000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters",
+      "url": "https://siliconangle.com/2026/10/16/microsoft-reveals-cutting-edge-mai-base-2-model-with-2t-parameters/",
+      "summary": "Microsoft Corp. has developed a new large language model that it says is significantly more efficient than leading open-source alternatives. The company’s artificial intelligence research group detailed the algorithm on Thursday. MAI-Base-2 is not a full-fledged LLM but rather a base model, a kind…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-17T00:39:50.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "source": "Ars Technica",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-16T20:59:01.000Z",
+      "topic": "Models & Labs",
+      "importance": 7.2,
       "isFocus": false
     },
     {
@@ -3292,7 +3334,7 @@
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 287 # Comments: 259",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 441 # Comments: 379",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3306,7 +3348,7 @@
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 158 # Comments: 60",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 188 # Comments: 73",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3376,7 +3418,7 @@
     {
       "title": "Why We're Banning AI",
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 253 # Comments: 199",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 255 # Comments: 201",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3404,7 +3446,7 @@
     {
       "title": "Using AI to reverse engineer hardware",
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 242 # Comments: 234",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 246 # Comments: 236",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3432,7 +3474,7 @@
     {
       "title": "AI was great until it was not",
       "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 120 # Comments: 77",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 121 # Comments: 77",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3502,7 +3544,7 @@
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
       "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 168",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 169",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3844,7 +3886,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 6.9,
       "isFocus": false
@@ -3984,7 +4026,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 6.5,
       "isFocus": false
@@ -3998,9 +4040,23 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 6.5,
+      "isFocus": false
+    },
+    {
+      "title": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.21091",
+      "summary": "arXiv:2610.21091v1 Announce Type: new Abstract: Agent memory enables large language model (LLM) agents to reuse past experiences without updating their parameters. However, semantic similarity alone does not guarantee memory usefulness: downstream performance depends on how memories are selected…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6.4,
       "isFocus": false
     },
     {
@@ -4013,20 +4069,6 @@
       "native": true,
       "researchOnly": true,
       "date": "2026-10-16T18:11:34.000Z",
-      "topic": "Research",
-      "importance": 6.4,
-      "isFocus": false
-    },
-    {
-      "title": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.21091",
-      "summary": "arXiv:2610.21091v1 Announce Type: new Abstract: Agent memory enables large language model (LLM) agents to reuse past experiences without updating their parameters. However, semantic similarity alone does not guarantee memory usefulness: downstream performance depends on how memories are selected…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
       "topic": "Research",
       "importance": 6.4,
       "isFocus": false
@@ -4116,34 +4158,6 @@
       "isFocus": false
     },
     {
-      "title": "llm-mistral 0.16",
-      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm-mistral/releases/tag/0.16 >llm-mistral 0.16</a></p> <p>Adds support for reasoning models, such as the newly released <a href= https://simonwillison.net/2026/Oct/6/le-chonk/ >Mistral Large 4</a>.</p> <p>Tags: <a href=…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-06T21:32:34.000Z",
-      "topic": "Models & Labs",
-      "importance": 6.4,
-      "isFocus": false
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-05T15:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 6.4,
-      "isFocus": false
-    },
-    {
       "title": "MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data",
       "url": "https://arxiv.org/abs/2610.20965",
       "summary": "arXiv:2610.20965v1 Announce Type: new Abstract: Large multimodal models have achieved remarkable progress by scaling model capacity and training on massive paired multimodal data. However, this paradigm introduces a fundamental bottleneck: aligned multimodal datasets are expensive to curate,…",
@@ -4152,7 +4166,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 6.1,
       "isFocus": false
@@ -4214,6 +4228,118 @@
       "isFocus": false
     },
     {
+      "title": "Auditing Escalation Reliability in Healthcare LLM Agents: A Perturbation-Controlled Benchmark of Workflow-State Failures",
+      "url": "https://arxiv.org/abs/2610.21270",
+      "summary": "arXiv:2610.21270v1 Announce Type: new Abstract: Trustworthy biomedical AI requires reliable action selection when evidence is missing, stale, conflicting, or late, not only accurate answers on static inputs. We instantiate an episode-level evaluation protocol as 400 synthetic healthcare workflow…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "LOADBench: A Large Open Analog Dataset and Benchmark for Machine Learning in IC Design",
+      "url": "https://arxiv.org/abs/2610.21591",
+      "summary": "arXiv:2610.21591v1 Announce Type: new Abstract: Machine learning (ML) for analog IC design is constrained by limited open data and the absence of standardized evaluation: results reported in different papers are typically obtained on bespoke, often closed, datasets and with ad-hoc metrics, leaving…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems",
+      "url": "https://arxiv.org/abs/2610.20776",
+      "summary": "arXiv:2610.20776v1 Announce Type: cross Abstract: LLM-based agents increasingly execute long-horizon, end-to-end workflows involving shell commands, code modification, dependency installation, and interaction with remote services. This growing autonomy expands their exposure to indirect prompt…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference",
+      "url": "https://arxiv.org/abs/2610.21257",
+      "summary": "arXiv:2610.21257v1 Announce Type: cross Abstract: Large Language Models (LLMs) demand efficient inference, where the multiply-accumulate (MAC) operations in linear projections dominate compute and energy cost. Post-training quantization (PTQ) reduces this cost by mapping weights and activations to…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273",
+      "summary": "arXiv:2610.22273v1 Announce Type: cross Abstract: Reasoning over long document contexts remains a challenge for large language models (LLMs). Standard retrieval methods are inherently reactive, bottlenecking agents with complex, cross-document reasoning at inference time, while precomputed…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions",
+      "url": "https://arxiv.org/abs/2610.22298",
+      "summary": "arXiv:2610.22298v1 Announce Type: cross Abstract: Large language models (LLMs) can generate differential diagnoses for complex cases, but a useful second opinion must also be factually grounded, clinically coherent, actionable, and safe. We developed a multidimensional benchmark using 300…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback",
+      "url": "https://arxiv.org/abs/2608.15591",
+      "summary": "arXiv:2608.15591v2 Announce Type: replace Abstract: Large Language Model (LLM) agents deployed in production environments face a fundamental tension: the agent's behavior is frozen at deployment time, while the business rules and edge cases it must handle continue to evolve. Existing approaches…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "HarnessMDP: Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.05458",
+      "summary": "arXiv:2607.05458v3 Announce Type: replace-cross Abstract: The execution harness is a critical component of LLM agents, shaping how the agent interacts with its environment and organizes multi-step execution. Prior work has shown that improving tools, workflows, and other harness components can…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
       "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
       "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
       "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
@@ -4240,118 +4366,6 @@
       "topic": "AI Business",
       "importance": 6,
       "isFocus": true
-    },
-    {
-      "title": "Auditing Escalation Reliability in Healthcare LLM Agents: A Perturbation-Controlled Benchmark of Workflow-State Failures",
-      "url": "https://arxiv.org/abs/2610.21270",
-      "summary": "arXiv:2610.21270v1 Announce Type: new Abstract: Trustworthy biomedical AI requires reliable action selection when evidence is missing, stale, conflicting, or late, not only accurate answers on static inputs. We instantiate an episode-level evaluation protocol as 400 synthetic healthcare workflow…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "LOADBench: A Large Open Analog Dataset and Benchmark for Machine Learning in IC Design",
-      "url": "https://arxiv.org/abs/2610.21591",
-      "summary": "arXiv:2610.21591v1 Announce Type: new Abstract: Machine learning (ML) for analog IC design is constrained by limited open data and the absence of standardized evaluation: results reported in different papers are typically obtained on bespoke, often closed, datasets and with ad-hoc metrics, leaving…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems",
-      "url": "https://arxiv.org/abs/2610.20776",
-      "summary": "arXiv:2610.20776v1 Announce Type: cross Abstract: LLM-based agents increasingly execute long-horizon, end-to-end workflows involving shell commands, code modification, dependency installation, and interaction with remote services. This growing autonomy expands their exposure to indirect prompt…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference",
-      "url": "https://arxiv.org/abs/2610.21257",
-      "summary": "arXiv:2610.21257v1 Announce Type: cross Abstract: Large Language Models (LLMs) demand efficient inference, where the multiply-accumulate (MAC) operations in linear projections dominate compute and energy cost. Post-training quantization (PTQ) reduces this cost by mapping weights and activations to…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
-      "url": "https://arxiv.org/abs/2610.22273",
-      "summary": "arXiv:2610.22273v1 Announce Type: cross Abstract: Reasoning over long document contexts remains a challenge for large language models (LLMs). Standard retrieval methods are inherently reactive, bottlenecking agents with complex, cross-document reasoning at inference time, while precomputed…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions",
-      "url": "https://arxiv.org/abs/2610.22298",
-      "summary": "arXiv:2610.22298v1 Announce Type: cross Abstract: Large language models (LLMs) can generate differential diagnoses for complex cases, but a useful second opinion must also be factually grounded, clinically coherent, actionable, and safe. We developed a multidimensional benchmark using 300…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback",
-      "url": "https://arxiv.org/abs/2608.15591",
-      "summary": "arXiv:2608.15591v2 Announce Type: replace Abstract: Large Language Model (LLM) agents deployed in production environments face a fundamental tension: the agent's behavior is frozen at deployment time, while the business rules and edge cases it must handle continue to evolve. Existing approaches…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "HarnessMDP: Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2607.05458",
-      "summary": "arXiv:2607.05458v3 Announce Type: replace-cross Abstract: The execution harness is a critical component of LLM agents, shaping how the agent interacts with its environment and organizes multi-step execution. Prior work has shown that improving tools, workflows, and other harness components can…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
     },
     {
       "title": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
@@ -4412,7 +4426,7 @@
     {
       "title": "AI-assisted PCB design for KiCad 10",
       "url": "https://github.com/mixelpixx/Konnect",
-      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 123 # Comments: 46",
+      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 128 # Comments: 48",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4494,6 +4508,20 @@
       "isFocus": false
     },
     {
+      "title": "MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents",
+      "url": "https://arxiv.org/abs/2606.20717",
+      "summary": "arXiv:2606.20717v2 Announce Type: replace-cross Abstract: Multimodal Large Language Model (MLLM)-based web agents provide practical, high-precision solutions for visual browser automation; however, they inherently expand the attack surface, introducing novel vision-based vulnerabilities. Existing…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-17T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
       "title": "AINews Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
       "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
       "summary": "Nick Cammarata out of nowhere with some major claims!",
@@ -4504,20 +4532,6 @@
       "researchOnly": false,
       "date": "2026-10-16T04:16:45.000Z",
       "topic": "Models & Labs",
-      "importance": 5.7,
-      "isFocus": false
-    },
-    {
-      "title": "MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents",
-      "url": "https://arxiv.org/abs/2606.20717",
-      "summary": "arXiv:2606.20717v2 Announce Type: replace-cross Abstract: Multimodal Large Language Model (MLLM)-based web agents provide practical, high-precision solutions for visual browser automation; however, they inherently expand the attack surface, introducing novel vision-based vulnerabilities. Existing…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
-      "topic": "Research",
       "importance": 5.7,
       "isFocus": false
     },
@@ -4600,7 +4614,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.6,
       "isFocus": false
@@ -4614,7 +4628,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.6,
       "isFocus": false
@@ -4628,7 +4642,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.6,
       "isFocus": false
@@ -4642,7 +4656,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.6,
       "isFocus": false
@@ -4656,7 +4670,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.6,
       "isFocus": false
@@ -4760,20 +4774,6 @@
       "isFocus": false
     },
     {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "source": "Ars Technica",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-02T23:03:16.000Z",
-      "topic": "Models & Labs",
-      "importance": 5.4,
-      "isFocus": false
-    },
-    {
       "title": "Who May Release an Agent's Promise? Standing over Commitments in Multi-Party Chat",
       "url": "https://arxiv.org/abs/2610.21203",
       "summary": "arXiv:2610.21203v1 Announce Type: new Abstract: When an assistant serving a team makes a promise to Alice, who may cancel it? We call this standing: only the creditor (the person owed) or someone the creditor or operator policy authorizes may release a commitment, regardless of rank. In a…",
@@ -4782,7 +4782,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4796,7 +4796,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4810,7 +4810,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4866,7 +4866,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4880,7 +4880,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4894,7 +4894,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-16T04:00:00.000Z",
+      "date": "2026-10-17T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -5180,17 +5180,17 @@
       "isFocus": true
     },
     {
-      "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
-      "url": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
-      "summary": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment. The post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "summary": "<blockquote cite= https://claude.dev/blog/solving-code-review-at-anthropic/ ><p>We think did a human read the code? is an imprecise proxy for what could go wrong with this change, and which check—automated or human—is the right one to catch it? </p> <p>Asking that question also changed…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-14T08:57:28.000Z",
-      "topic": "Research",
-      "importance": 4.2,
+      "date": "2026-10-16T22:06:37.000Z",
+      "topic": "Open Source",
+      "importance": 4,
       "isFocus": false
     },
     {
@@ -5302,6 +5302,34 @@
       "researchOnly": false,
       "date": "2026-10-11T00:52:37.000Z",
       "topic": "Open Source",
+      "importance": 4,
+      "isFocus": false
+    },
+    {
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "summary": "<p><strong><a href= https://github.com/actions/python-versions/commit/49858b91c92d27403416ee43117032e91d00ce24 >Python 3.15.0 added to actions/python-versions</a></strong></p> Bit of a niche link, but I've been waiting for this for a couple of days - I even <a href=…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-10T23:58:04.000Z",
+      "topic": "Open Source",
+      "importance": 4,
+      "isFocus": false
+    },
+    {
+      "title": "Subscriber Exclusive NYC Subscriber Meetups!",
+      "url": "https://www.latent.space/p/nyc2026",
+      "summary": "Tomorrow and Tuesday. If you see this you’re in!",
+      "source": "Latent Space",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-10T22:07:17.000Z",
+      "topic": "Models & Labs",
       "importance": 4,
       "isFocus": false
     }

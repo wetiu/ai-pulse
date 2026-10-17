@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 16 Oct 2026 21:06:56 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 04:23:44 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -133,14 +133,6 @@
     <pubDate>Thu, 15 Oct 2026 16:09:44 GMT</pubDate>
     <category>AI Business</category>
     <description>With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware.…</description>
-  </item>
-  <item>
-    <title>Meta releases Muse Wonder AI models built to run personal and professional agents</title>
-    <link>https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/</guid>
-    <pubDate>Mon, 12 Oct 2026 22:36:05 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, multistep jobs people hand off to an AI agent. One example it…</description>
   </item>
   <item>
     <title>Nvidia expands Nemotron LLM family with hyper-efficient models for agentic systems</title>
@@ -357,6 +349,14 @@
     <pubDate>Wed, 14 Oct 2026 12:00:38 GMT</pubDate>
     <category>AI Business</category>
     <description>In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed funding round.</description>
+  </item>
+  <item>
+    <title>Reflection AI open-sources Beam’s weights, post-training recipes</title>
+    <link>https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/</guid>
+    <pubDate>Fri, 16 Oct 2026 22:52:38 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Startup Reflection AI Inc. today made the weights of Beam, its first large language model, available on Hugging Face. The company also released technical resources that will enable developers to customize the algorithm. Originally introduced last week, Beam is one of the industry’s most advanced…</description>
   </item>
   <item>
     <title>Is AI interpretability close to a breakthrough? A new essay has researchers divided</title>
