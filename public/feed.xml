@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 17 Oct 2026 20:35:46 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 04:31:27 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -159,12 +159,12 @@
     <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
   </item>
   <item>
-    <title>Amazon’s Bee launches two new personal AI devices, starting at $75</title>
-    <link>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/</guid>
-    <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+    <title>Meta removes language that raised scraping and AI training concerns</title>
+    <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</guid>
+    <pubDate>Sat, 17 Oct 2026 21:31:32 GMT</pubDate>
     <category>AI Business</category>
-    <description>Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting…</description>
+    <description>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</description>
   </item>
   <item>
     <title>Elorian’s first AI model wants to reason with images, not just about them</title>
@@ -583,6 +583,14 @@
     <description>AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was…</description>
   </item>
   <item>
+    <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
+    <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</guid>
+    <pubDate>Sat, 17 Oct 2026 18:48:08 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</description>
+  </item>
+  <item>
     <title>AI models hide mistakes in their own work reports, but one sentence in your prompt can help</title>
     <link>https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/</link>
     <guid isPermaLink="true">https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/</guid>
@@ -637,14 +645,6 @@
     <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Gemini 4 Argon from Google is now available on AI Gateway . Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling. On coding tasks, Gemini 4 Argon builds features, fixes bugs,…</description>
-  </item>
-  <item>
-    <title>OpenAI Ultrafast mode now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>AI Gateway now supports OpenAI&#39;s Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat…</description>
   </item>
 </channel>
 </rss>
