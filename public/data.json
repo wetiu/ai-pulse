@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T04:31:27.630Z",
-  "count": 365,
-  "focusCount": 232,
+  "generatedAt": "2026-10-18T11:02:45.086Z",
+  "count": 363,
+  "focusCount": 230,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -39,20 +39,6 @@
       "date": "2026-10-17T06:29:55.000Z",
       "topic": "Open Source",
       "importance": 13.600000000000001,
-      "isFocus": false
-    },
-    {
-      "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
-      "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
-      "summary": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T19:53:50.000Z",
-      "topic": "Models & Labs",
-      "importance": 12.7,
       "isFocus": false
     },
     {
@@ -518,6 +504,20 @@
       "isFocus": true
     },
     {
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as Conceptual Reasoning Fellows to improve Claude in areas where…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T09:11:29.000Z",
+      "topic": "AI Business",
+      "importance": 11,
+      "isFocus": true
+    },
+    {
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
       "url": "https://www.latent.space/p/crossing-the-threshold",
       "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
@@ -588,20 +588,6 @@
       "isFocus": false
     },
     {
-      "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
-      "url": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
-      "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decoder .",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T13:15:09.000Z",
-      "topic": "AI Business",
-      "importance": 10.799999999999999,
-      "isFocus": true
-    },
-    {
       "title": "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
       "url": "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/",
       "summary": "Overall, investors put $38.5 billion into reported seed- through growth-stage financings for Asian startups in Q3, per Crunchbase data. Of that, a majority went to AI-focused companies, echoing the trends we’ve seen globally.",
@@ -639,20 +625,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-16T22:52:38.000Z",
-      "topic": "AI Business",
-      "importance": 10.7,
-      "isFocus": true
-    },
-    {
-      "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
-      "url": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/",
-      "summary": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are still debating…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T13:48:08.000Z",
       "topic": "AI Business",
       "importance": 10.7,
       "isFocus": true
@@ -700,6 +672,20 @@
       "isFocus": true
     },
     {
+      "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+      "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
+      "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T08:49:41.000Z",
+      "topic": "AI Business",
+      "importance": 10.6,
+      "isFocus": true
+    },
+    {
       "title": "Prompt: Enterprise controls can't keep up with AI agents",
       "url": "https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents",
       "summary": "Companies are giving agents more authority, but many are still struggling to track what they can access, what they're doing and how to stop them.",
@@ -709,20 +695,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-16T15:30:14.000Z",
-      "topic": "AI Business",
-      "importance": 10.6,
-      "isFocus": true
-    },
-    {
-      "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
-      "url": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
-      "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon also trails rivals…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T15:03:46.000Z",
       "topic": "AI Business",
       "importance": 10.6,
       "isFocus": true
@@ -1008,6 +980,20 @@
       "isFocus": false
     },
     {
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+      "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+      "summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP's office. None of the models…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T08:15:04.000Z",
+      "topic": "AI Business",
+      "importance": 9.8,
+      "isFocus": true
+    },
+    {
       "title": "AI Gateway logs now show session affinity",
       "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
       "summary": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was…",
@@ -1201,20 +1187,6 @@
       "date": "2026-10-13T17:05:48.000Z",
       "topic": "App Dev",
       "importance": 9.7,
-      "isFocus": true
-    },
-    {
-      "title": "I used Nvidia RTX Spark's AI agent to run Blender – here's what happened",
-      "url": "https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened",
-      "summary": "It promised it could handle my tasks, but did it work out?",
-      "source": "Creative Bloq",
-      "feedTopic": "Art & Creative",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-15T12:36:17.000Z",
-      "topic": "Art & Creative",
-      "importance": 9.6,
       "isFocus": true
     },
     {
@@ -1610,20 +1582,6 @@
       "isFocus": true
     },
     {
-      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-      "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
-      "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T17:42:47.000Z",
-      "topic": "AI Business",
-      "importance": 9.1,
-      "isFocus": true
-    },
-    {
       "title": "Apple, Meta Team Up to Put Big AI on Desktops",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-meta-team-up-to-put-big-ai-on-desktops/",
       "summary": "A Meta and Apple partnership wasn’t on anyone’s 2026 bingo card. On Thursday (Oct. 15), the two companies, who spent most of a decade fighting over user data, announced they had worked together to run Meta’s newest AI model on Apple’s desktops. Meta released Muse Spark Open, an 816…",
@@ -1750,6 +1708,20 @@
       "isFocus": false
     },
     {
+      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+      "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T08:15:04.000Z",
+      "topic": "Open Source",
+      "importance": 8.8,
+      "isFocus": false
+    },
+    {
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet…",
@@ -1790,6 +1762,20 @@
       "topic": "AI Business",
       "importance": 8.8,
       "isFocus": true
+    },
+    {
+      "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+      "summary": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier. The post Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T04:06:33.000Z",
+      "topic": "Models & Labs",
+      "importance": 8.7,
+      "isFocus": false
     },
     {
       "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
@@ -2324,20 +2310,6 @@
       "isFocus": true
     },
     {
-      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
-      "url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
-      "summary": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T14:19:27.000Z",
-      "topic": "Research",
-      "importance": 8.3,
-      "isFocus": false
-    },
-    {
       "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
       "url": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
       "summary": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO entitlements in AWS License Manager: a lightweight script for a one-time fix, and CDK…",
@@ -2349,6 +2321,20 @@
       "date": "2026-10-13T17:17:25.000Z",
       "topic": "AI Business",
       "importance": 8.3,
+      "isFocus": true
+    },
+    {
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a doctor that actually…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T10:52:39.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
       "isFocus": true
     },
     {
@@ -3010,6 +2996,20 @@
       "isFocus": true
     },
     {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 140 # Comments: 42",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T04:33:49.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
       "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
       "url": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
       "summary": "ServiceNow Inc. is making one of the more consequential and visible bets in enterprise artificial intelligence. The company says AI Control Tower can discover and govern any agent, work across models and clouds, track cost and value, and shut down behavior that violates policy. That sales pitch…",
@@ -3061,34 +3061,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-15T22:43:23.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "NVIDIA RTX Spark: All creatives need to know",
-      "url": "https://www.creativebloq.com/features/nvidia-rtx-spark-all-you-need-to-know-as-a-creative",
-      "summary": "The agentic age of computing is here.",
-      "source": "Creative Bloq",
-      "feedTopic": "Art & Creative",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-15T12:00:00.000Z",
-      "topic": "Art & Creative",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T09:00:00.000Z",
       "topic": "AI Business",
       "importance": 7.6,
       "isFocus": true
@@ -3236,7 +3208,7 @@
     {
       "title": "Amazon uses AI to monitor union risk in UK warehouses",
       "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 155 # Comments: 58",
+      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 165 # Comments: 58",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3362,7 +3334,7 @@
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 599 # Comments: 549",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 610 # Comments: 552",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3376,7 +3348,7 @@
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 212 # Comments: 86",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 213 # Comments: 88",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3418,7 @@
     {
       "title": "Why We're Banning AI",
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 260 # Comments: 202",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 260 # Comments: 203",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3474,7 +3446,7 @@
     {
       "title": "Using AI to reverse engineer hardware",
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 248",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 249",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3488,7 +3460,7 @@
     {
       "title": "AI was great until it was not",
       "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 123 # Comments: 77",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 124 # Comments: 77",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3593,20 +3565,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T11:15:02.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Men Can’t Stop Faking How Much They Know About AI",
-      "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T09:30:00.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3920,6 +3878,20 @@
       "isFocus": false
     },
     {
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T10:30:00.000Z",
+      "topic": "AI Business",
+      "importance": 6.8,
+      "isFocus": true
+    },
+    {
       "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
       "url": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
       "summary": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS’s…",
@@ -4102,6 +4074,20 @@
       "isFocus": false
     },
     {
+      "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+      "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+      "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational for…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T05:56:05.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.1,
+      "isFocus": false
+    },
+    {
       "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
       "url": "https://www.latent.space/p/dyna",
       "summary": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
@@ -4156,6 +4142,20 @@
       "topic": "Open Source",
       "importance": 6.1,
       "isFocus": false
+    },
+    {
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+      "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T10:30:00.000Z",
+      "topic": "AI Business",
+      "importance": 6,
+      "isFocus": true
     },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
@@ -4258,7 +4258,7 @@
     {
       "title": "AI-assisted PCB design for KiCad 10",
       "url": "https://github.com/mixelpixx/Konnect",
-      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 142 # Comments: 52",
+      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 144 # Comments: 52",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4279,20 +4279,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-13T11:24:08.000Z",
-      "topic": "AI Business",
-      "importance": 6,
-      "isFocus": true
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "summary": "https://www.theverge.com/ai-artificial-intelligence/1009802/... https://techcrunch.com/2026/10/13/just-5-years-in-interactiv... https://www.reuters.com/legal/litigation/characterai-files-b... https://variety.com/2026/biz/news/disney-bids-on-character-a... Comments URL:…",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T07:28:34.000Z",
       "topic": "AI Business",
       "importance": 6,
       "isFocus": true
@@ -4336,20 +4322,6 @@
       "researchOnly": false,
       "date": "2026-10-16T04:16:45.000Z",
       "topic": "Models & Labs",
-      "importance": 5.7,
-      "isFocus": false
-    },
-    {
-      "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
-      "url": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
-      "summary": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T13:23:45.000Z",
-      "topic": "Open Source",
       "importance": 5.7,
       "isFocus": false
     },
