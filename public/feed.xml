@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 18 Oct 2026 11:02:45 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 15:51:19 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -383,6 +383,14 @@
     <description>Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files…</description>
   </item>
   <item>
+    <title>Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</title>
+    <link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</guid>
+    <pubDate>Sun, 18 Oct 2026 13:22:26 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a tragedy of the…</description>
+  </item>
+  <item>
     <title>AI agents have bad taste in long-term decisions and a new benchmark proves it</title>
     <link>https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/</link>
     <guid isPermaLink="true">https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/</guid>
@@ -421,6 +429,14 @@
     <pubDate>Tue, 13 Oct 2026 20:10:33 GMT</pubDate>
     <category>Web Dev</category>
     <description>Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials…</description>
+  </item>
+  <item>
+    <title>Four Gemini 4 Argon agents beat Minecraft without any human help</title>
+    <link>https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/</link>
+    <guid isPermaLink="true">https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/</guid>
+    <pubDate>Sun, 18 Oct 2026 12:39:51 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Four AI agents running on Google&#39;s Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote 2,783 programs, exchanged 229 chat messages, and died 605…</description>
   </item>
   <item>
     <title>Claude Haiku 5.5 now available on AI Gateway</title>
@@ -629,22 +645,6 @@
     <pubDate>Wed, 14 Oct 2026 19:36:02 GMT</pubDate>
     <category>AI Business</category>
     <description>The social media giant tries to capitalize on, monetize its successful personal agent and maybe crack the business market. Chinese models go astray, like their U.S. counterparts.</description>
-  </item>
-  <item>
-    <title>Gemini 4 Argon now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway</guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Gemini 4 Argon from Google is now available on AI Gateway . Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling. On coding tasks, Gemini 4 Argon builds features, fixes bugs,…</description>
-  </item>
-  <item>
-    <title>OpenAI Ultrafast mode now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway</guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>AI Gateway now supports OpenAI&#39;s Ultrafast service tier, providing faster output for interactive applications and rapid coding iterations. Currently, GPT 6 Astra and GPT 6.1 Sol are supported. To use Ultrafast, request it for openai/gpt-6-astra or openai/gpt-6.1-sol through AI SDK, the Chat…</description>
   </item>
 </channel>
 </rss>
