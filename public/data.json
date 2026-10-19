@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T20:41:19.958Z",
-  "count": 345,
-  "focusCount": 213,
+  "generatedAt": "2026-10-19T04:38:47.189Z",
+  "count": 363,
+  "focusCount": 231,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -238,15 +238,15 @@
       "isFocus": true
     },
     {
-      "title": "Meta Raises Its AI Game as Google Opens Gemini 4 Argon",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-raises-its-ai-game-as-google-opens-gemini-4-argon/",
-      "summary": "The biggest names in tech pushed artificial intelligence (AI) in two directions over the past week. Meta and Google raised the ceiling on what the most powerful models can do. Microsoft and Cloudflare went the other way, with models that make quick yes-or-no and multiple-choice calls for a fraction…",
+      "title": "Sam Altman’s World Debuts ID Verification for AI Agents",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/sam-altmans-world-debuts-id-verification-for-ai-agents/",
+      "summary": "Sam Altman’s iris-scanning project World is making what it calls its “first industry-specific push.” The company on Sunday (Oct. 18) announced World ID for banking and finance, designed to help businesses determine whether artificial intelligence agents are moving money and shopping on behalf of an…",
       "source": "PYMNTS AI",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-15T23:03:41.000Z",
+      "date": "2026-10-19T01:10:58.000Z",
       "topic": "AI Business",
       "importance": 11.9,
       "isFocus": true
@@ -308,20 +308,6 @@
       "isFocus": true
     },
     {
-      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
-      "url": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
-      "summary": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T06:26:41.000Z",
-      "topic": "Models & Labs",
-      "importance": 11.5,
-      "isFocus": false
-    },
-    {
       "title": "Nemotron 3.5 Lightning now available on AI Gateway for free",
       "url": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
       "summary": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters…",
@@ -348,6 +334,20 @@
       "topic": "Web Dev",
       "importance": 11.5,
       "isFocus": true
+    },
+    {
+      "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
+      "url": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+      "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T01:18:17.000Z",
+      "topic": "Models & Labs",
+      "importance": 11.4,
+      "isFocus": false
     },
     {
       "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
@@ -630,6 +630,20 @@
       "isFocus": true
     },
     {
+      "title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
+      "url": "https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/",
+      "summary": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes tasks faster. DeepSeek-V4.1-Flash-1017 arrives a little over five weeks after the company launched the…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T22:34:04.000Z",
+      "topic": "AI Business",
+      "importance": 10.7,
+      "isFocus": true
+    },
+    {
       "title": "Reflection AI open-sources Beam’s weights, post-training recipes",
       "url": "https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/",
       "summary": "Startup Reflection AI Inc. today made the weights of Beam, its first large language model, available on Hugging Face. The company also released technical resources that will enable developers to customize the algorithm. Originally introduced last week, Beam is one of the industry’s most advanced…",
@@ -812,6 +826,20 @@
       "isFocus": true
     },
     {
+      "title": "The investors with the biggest jumps in the Sifted AI 100",
+      "url": "https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/",
+      "summary": "",
+      "source": "Sifted",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-19T05:00:39.000Z",
+      "topic": "AI Business",
+      "importance": 10.299999999999999,
+      "isFocus": true
+    },
+    {
       "title": "Nvidia unveils investments in five more UK startups",
       "url": "https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/",
       "summary": "",
@@ -963,6 +991,20 @@
       "date": "2026-10-09T09:44:25.000Z",
       "topic": "App Dev",
       "importance": 10.1,
+      "isFocus": true
+    },
+    {
+      "title": "Anthropic Turns to Lawyers to Teach AI Agents to Negotiate",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/",
+      "summary": "Anthropic is reportedly in discussions with legal groups to teach artificial intelligence agents negotiation skills. That’s according to a report Sunday (Oct. 18) by the Financial Times (FT) citing two sources familiar with the AI company’s thinking. They say the startup is looking for advice from…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T00:40:07.000Z",
+      "topic": "AI Business",
+      "importance": 10,
       "isFocus": true
     },
     {
@@ -1288,20 +1330,6 @@
       "isFocus": false
     },
     {
-      "title": "Prime Inference 📈, agent population 📈, Claude academy 🎓",
-      "url": "https://tldr.tech/ai/2026-10-05",
-      "summary": "",
-      "source": "TLDR AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-05T00:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 9.6,
-      "isFocus": true
-    },
-    {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "url": "https://openai.com/index/third-moment-research",
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
@@ -1554,6 +1582,20 @@
       "isFocus": false
     },
     {
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 249 # Comments: 199",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:58:48.000Z",
+      "topic": "AI Business",
+      "importance": 9.3,
+      "isFocus": true
+    },
+    {
       "title": "OpenAI dev arrested 🚨, Pi API 🤖, OpenCode 2.0 🧑‍💻",
       "url": "https://tldr.tech/ai/2026-10-14",
       "summary": "",
@@ -1577,20 +1619,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-15T23:44:56.000Z",
-      "topic": "AI Business",
-      "importance": 9.2,
-      "isFocus": true
-    },
-    {
-      "title": "Meta Sends Its AI Agent After Denied Insurance Claims",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-sends-its-ai-agent-after-denied-insurance-claims/",
-      "summary": "A denied insurance claim, a dense lease or a confusing medical bill can take hours of reading, phone calls and follow-up. Meta wants its artificial intelligence agents to take on that work. On Monday (Oct. 12), the company introduced Muse Wonder and Muse Wonder Full, AI models it said can help with…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T19:44:59.000Z",
       "topic": "AI Business",
       "importance": 9.2,
       "isFocus": true
@@ -1649,6 +1677,20 @@
       "date": "2026-10-12T17:43:59.000Z",
       "topic": "Web Dev",
       "importance": 9.1,
+      "isFocus": true
+    },
+    {
+      "title": "DeepSeek Deploys What It Calls Faster Version of Its Open-Source Model",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-deploys-what-it-calls-faster-version-of-its-open-source-model/",
+      "summary": "China’s DeepSeek has unveiled what it calls a faster and leaner version of its artificial intelligence model. The company describes the DeepSeek-V4.1-Flash-1017 model, announced Saturday (Oct. 17) as offering “ s tronger benchmark performance, faster task completion, and shorter outputs than the…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T01:31:52.000Z",
+      "topic": "AI Business",
+      "importance": 9,
       "isFocus": true
     },
     {
@@ -1722,6 +1764,34 @@
       "isFocus": false
     },
     {
+      "title": "Anthropic Takes Its AI Safety Proposals to Capitol Hill",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-takes-its-ai-safety-proposals-to-capitol-hill/",
+      "summary": "Anthropic has reportedly been pitching U.S. lawmakers on draft artificial intelligence safety legislation. That’s according to a report Friday (Oct. 16) by Politico, which describes the push as a “notable effort” by the AI lab to guide the rules covering its tech. “This bill represents the…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T01:48:22.000Z",
+      "topic": "AI Business",
+      "importance": 8.8,
+      "isFocus": true
+    },
+    {
+      "title": "Anthropic Co-Founder Predicts AI Will Bring US GDP to $44 Trillion",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-co-founder-predicts-ai-will-bring-us-gdp-to-44-trillion/",
+      "summary": "Anthropic’s co-founder predicts that artificial intelligence could boost America’s economic output by nearly 50% by 2030. That forecast comes from one of the AI startup’s internal models, Jack Clark said Saturday (Oct. 17) at the IMF and World Bank annual meetings in Bangkok. Global cooperation is…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T22:22:29.000Z",
+      "topic": "AI Business",
+      "importance": 8.8,
+      "isFocus": true
+    },
+    {
       "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
       "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
       "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on…",
@@ -1759,20 +1829,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-16T20:09:06.000Z",
-      "topic": "AI Business",
-      "importance": 8.8,
-      "isFocus": true
-    },
-    {
-      "title": "NYC Comptroller Urges Anthropic to Delay IPO and Focus on AI Safety",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nyc-comptroller-urges-anthropic-to-delay-ipo-and-focus-on-ai-safety/",
-      "summary": "New York City Comptroller Mark Levine is calling on Anthropic to delay its initial public offering and focus its energies on artificial intelligence safety issues the company itself has highlighted. Levine made this call in a Wednesday (Oct. 14) letter addressed to Anthropic CEO Dario Amodei and…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T19:23:39.000Z",
       "topic": "AI Business",
       "importance": 8.8,
       "isFocus": true
@@ -2100,6 +2156,20 @@
       "isFocus": false
     },
     {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model Comments…",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T14:30:27.000Z",
+      "topic": "AI Business",
+      "importance": 8.4,
+      "isFocus": true
+    },
+    {
       "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
       "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
       "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For…",
@@ -2128,34 +2198,6 @@
       "isFocus": true
     },
     {
-      "title": "U.S. Bancorp Says AI Agents Aren’t Moving Consumer Deposits Yet",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/us-bancorp-says-ai-agents-are-not-moving-consumer-deposits-yet/",
-      "summary": "U.S. Bancorp’s consumers continued to spend during the third quarter, even as the bank carried more card balances and saw an increase in early-stage card delinquencies. “Spend levels are high, employment is strong,” Chief Financial Officer John Stern told analysts during a Thursday (Oct. 15)…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T19:39:00.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
-    },
-    {
-      "title": "Anthropic Narrows Revenue Gap With OpenAI Ahead of Its IPO",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-narrows-revenue-gap-with-openai-before-ipo/",
-      "summary": "In 2025, OpenAI earned nearly $3 of revenue for every dollar Anthropic did. Nine months later, Anthropic booked more in a single quarter than it did in all of last year, and it told investors it did so at a profit. That is the case Anthropic made Wednesday (Oct. 14) at a daylong meeting at … The…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T17:31:59.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
-    },
-    {
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
       "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
       "summary": "Small weight-based replicators could usher in a new generation of computer worms.",
@@ -2179,6 +2221,20 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T11:15:06.000Z",
+      "topic": "AI Business",
+      "importance": 8.4,
+      "isFocus": true
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 156 # Comments: 88",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-14T10:28:26.000Z",
       "topic": "AI Business",
       "importance": 8.4,
       "isFocus": true
@@ -2912,6 +2968,20 @@
       "isFocus": true
     },
     {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "summary": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there…",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-13T23:13:23.000Z",
+      "topic": "AI Business",
+      "importance": 7.7,
+      "isFocus": true
+    },
+    {
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "summary": "<img src= https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp >We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -2951,6 +3021,34 @@
       "date": "2026-10-06T09:18:05.000Z",
       "topic": "App Dev",
       "importance": 7.7,
+      "isFocus": true
+    },
+    {
+      "title": "Musk Says White House Duties Distracted Him From AI",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/musk-says-white-house-duties-distracted-him-from-ai/",
+      "summary": "Elon Musk says his work last year with the White House distracted him from artificial intelligence development at his businesses. “ I kinda got carried away, basically,” Musk said in an upcoming episode of the new podcast series, “The Builders with Walter Isaacson,” scheduled to premiere Tuesday…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T22:39:50.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 242 # Comments: 85",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T04:33:49.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
       "isFocus": true
     },
     {
@@ -3178,6 +3276,20 @@
       "isFocus": true
     },
     {
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 171 # Comments: 59",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-17T16:04:23.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "A fake Mia Goth selfie fooled the internet, and AI slop is the least of it",
       "url": "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
       "summary": "Has social media become a breeding ground for parasocial drama?",
@@ -3290,6 +3402,34 @@
       "isFocus": true
     },
     {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 618 # Comments: 570",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-16T17:08:38.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 218 # Comments: 93",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-16T15:55:40.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
       "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
       "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new superchip. RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel,…",
@@ -3346,15 +3486,43 @@
       "isFocus": true
     },
     {
-      "title": "Eight States Bring Parallel Lawsuits Against OpenAI Over Safety Issues",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eight-states-bring-parallel-lawsuits-against-openai-over-safety-issues/",
-      "summary": "Eight states have sued OpenAI in their respective state courts, alleging the tech giant failed to implement sufficient safeguards to protect vulnerable users, including children and the elderly. The coordinated lawsuits mark an escalation in the battle by state authorities to impose guardrails on…",
-      "source": "PYMNTS AI",
+      "title": "Why We're Banning AI",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 261 # Comments: 203",
+      "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-15T15:46:36.000Z",
+      "date": "2026-10-15T18:32:29.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 253",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T14:35:15.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "AI was great until it was not",
+      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 124 # Comments: 77",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-15T08:18:38.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3374,6 +3542,20 @@
       "isFocus": true
     },
     {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 385 # Comments: 277",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-14T18:32:52.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
       "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
       "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
@@ -3388,15 +3570,71 @@
       "isFocus": true
     },
     {
-      "title": "ScaleFlux targets AI memory bottlenecks with smarter SSD controllers",
-      "url": "https://siliconangle.com/2026/10/14/ai-factories-stall-gpus-wait-memory-storage-data-aidatapipelineforum/",
-      "summary": "AI factories run on graphics processing units that cost a fortune and work at blistering speed, yet those chips increasingly sit idle waiting for data. As the bottleneck moves from compute to memory and storage, NAND flash is being asked to do far more than hold files. That shift is putting data…",
-      "source": "SiliconANGLE AI",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 948 # Comments: 620",
+      "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-14T11:15:02.000Z",
+      "date": "2026-10-14T17:45:23.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "AI is mass decompiling games. That's both awesome and scary",
+      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+      "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 170",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-14T14:47:44.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 174 # Comments: 173",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-14T14:38:55.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+      "url": "https://blumify.io/people",
+      "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 119 # Comments: 76",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-14T01:09:13.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 351 # Comments: 186",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-13T15:25:50.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3495,20 +3733,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-06T00:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp…",
-      "source": "MIT Tech Review",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-05T04:00:00.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -4046,6 +4270,20 @@
       "isFocus": false
     },
     {
+      "title": "AI-assisted PCB design for KiCad 10",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 146 # Comments: 52",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-14T10:51:37.000Z",
+      "topic": "AI Business",
+      "importance": 6,
+      "isFocus": true
+    },
+    {
       "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
       "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
       "summary": "Generative AI",
@@ -4382,6 +4620,20 @@
       "isFocus": false
     },
     {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1 >llm-tools-datasette 0.1.1</a></p> <p>When I switched LLM over to <a href= https://github.com/pydantic/httpx2 >httpx2</a> in <a href= https://llm.datasette.io/en/stable/changelog.html#v0-33 >LLM…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-18T23:43:09.000Z",
+      "topic": "Open Source",
+      "importance": 4.9,
+      "isFocus": false
+    },
+    {
       "title": "web-edit 0.1a1",
       "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
       "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/web-edit/releases/tag/0.1a1 >web-edit 0.1a1</a></p> <p>Includes <a href= https://github.com/simonw/web-edit/pull/1 >performance optimizations</a> written <a href= https://claude.ai/code/session_01LE2R4P74P9GGUbE6yQ5YBt >by Claude Opus…",
@@ -4562,6 +4814,20 @@
       "topic": "Open Source",
       "importance": 4.4,
       "isFocus": false
+    },
+    {
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 122",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-14T16:52:42.000Z",
+      "topic": "AI Business",
+      "importance": 4.2,
+      "isFocus": true
     },
     {
       "title": "AINews High Taste Testers Ep. 1",
@@ -4770,20 +5036,6 @@
       "researchOnly": false,
       "date": "2026-10-08T16:27:54.000Z",
       "topic": "Models & Labs",
-      "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "Quoting Ben Affleck",
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "summary": "<blockquote cite= https://www.youtube.com/watch?v=HzraLR2VkNM&amp;t=2259s ><p>I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-07T23:14:58.000Z",
-      "topic": "Open Source",
       "importance": 4,
       "isFocus": false
     },

@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 18 Oct 2026 20:41:19 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 04:38:47 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -135,12 +135,12 @@
     <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
   </item>
   <item>
-    <title>Meta Raises Its AI Game as Google Opens Gemini 4 Argon</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/meta-raises-its-ai-game-as-google-opens-gemini-4-argon/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/meta-raises-its-ai-game-as-google-opens-gemini-4-argon/</guid>
-    <pubDate>Thu, 15 Oct 2026 23:03:41 GMT</pubDate>
+    <title>Sam Altman’s World Debuts ID Verification for AI Agents</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/sam-altmans-world-debuts-id-verification-for-ai-agents/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/sam-altmans-world-debuts-id-verification-for-ai-agents/</guid>
+    <pubDate>Mon, 19 Oct 2026 01:10:58 GMT</pubDate>
     <category>AI Business</category>
-    <description>The biggest names in tech pushed artificial intelligence (AI) in two directions over the past week. Meta and Google raised the ceiling on what the most powerful models can do. Microsoft and Cloudflare went the other way, with models that make quick yes-or-no and multiple-choice calls for a fraction…</description>
+    <description>Sam Altman’s iris-scanning project World is making what it calls its “first industry-specific push.” The company on Sunday (Oct. 18) announced World ID for banking and finance, designed to help businesses determine whether artificial intelligence agents are moving money and shopping on behalf of an…</description>
   </item>
   <item>
     <title>Nvidia expands Nemotron LLM family with hyper-efficient models for agentic systems</title>
@@ -175,14 +175,6 @@
     <description>According to Elorian&#39;s evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</description>
   </item>
   <item>
-    <title>Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index</title>
-    <link>https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/</guid>
-    <pubDate>Fri, 16 Oct 2026 06:26:41 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on…</description>
-  </item>
-  <item>
     <title>Nemotron 3.5 Lightning now available on AI Gateway for free</title>
     <link>https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free</link>
     <guid isPermaLink="true">https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free</guid>
@@ -197,6 +189,14 @@
     <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>OpenAI’s Decisions API is now available through AI Gateway at /v1/decisions . It uses the same request and response format as OpenAI, so existing OpenAI SDK integrations can switch by changing the base URL, credentials, and model ID. Decision models answer typed questions about shared input and…</description>
+  </item>
+  <item>
+    <title>Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3</title>
+    <link>https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/</guid>
+    <pubDate>Mon, 19 Oct 2026 01:18:17 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3…</description>
   </item>
   <item>
     <title>DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API</title>
@@ -359,6 +359,14 @@
     <description>In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed funding round.</description>
   </item>
   <item>
+    <title>DeepSeek releases updated V4.1-Flash model it says completes tasks faster</title>
+    <link>https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/</guid>
+    <pubDate>Sun, 18 Oct 2026 22:34:04 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes tasks faster. DeepSeek-V4.1-Flash-1017 arrives a little over five weeks after the company launched the…</description>
+  </item>
+  <item>
     <title>Reflection AI open-sources Beam’s weights, post-training recipes</title>
     <link>https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/</guid>
@@ -463,6 +471,14 @@
     <description>Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a…</description>
   </item>
   <item>
+    <title>The investors with the biggest jumps in the Sifted AI 100</title>
+    <link>https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/</guid>
+    <pubDate>Mon, 19 Oct 2026 05:00:39 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
     <title>Nvidia unveils investments in five more UK startups</title>
     <link>https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/</link>
     <guid isPermaLink="true">https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/</guid>
@@ -551,6 +567,14 @@
     <description>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don&#39;t. The post Introducing the Agent Experience (AX)…</description>
   </item>
   <item>
+    <title>Anthropic Turns to Lawyers to Teach AI Agents to Negotiate</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/</guid>
+    <pubDate>Mon, 19 Oct 2026 00:40:07 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic is reportedly in discussions with legal groups to teach artificial intelligence agents negotiation skills. That’s according to a report Sunday (Oct. 18) by the Financial Times (FT) citing two sources familiar with the AI company’s thinking. They say the startup is looking for advice from…</description>
+  </item>
+  <item>
     <title>How Jump Trading is scaling quant research with ChatGPT</title>
     <link>https://openai.com/index/jump-trading</link>
     <guid isPermaLink="true">https://openai.com/index/jump-trading</guid>
@@ -621,30 +645,6 @@
     <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the…</description>
-  </item>
-  <item>
-    <title>Open source and on device: the strategy behind Nvidia’s new AI models</title>
-    <link>https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</guid>
-    <pubDate>Fri, 16 Oct 2026 18:26:14 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The new Nemotron 3.5 models show how the AI giant is focusing on reinforcing its own GPU infrastructure while supporting the open source community.</description>
-  </item>
-  <item>
-    <title>India becomes the latest country to report rogue AI agent activity</title>
-    <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</guid>
-    <pubDate>Fri, 16 Oct 2026 17:52:24 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</description>
-  </item>
-  <item>
-    <title>IBM: Agentic AI is reshaping governance, controls and trust</title>
-    <link>https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust</guid>
-    <pubDate>Wed, 14 Oct 2026 20:35:20 GMT</pubDate>
-    <category>AI Business</category>
-    <description>As AI agents move from answering questions to making decisions and acting, businesses face a growing challenge of keeping accountability in step with the pace of change.</description>
   </item>
 </channel>
 </rss>
