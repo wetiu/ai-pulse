@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Mon, 19 Oct 2026 04:38:47 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 13:11:47 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -23,12 +23,28 @@
     <description>StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of…</description>
   </item>
   <item>
+    <title>Pax8 launches 8os to let IT partners govern AI agents and 8bot as a managed AI co-worker</title>
+    <link>https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/</guid>
+    <pubDate>Mon, 19 Oct 2026 09:00:58 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Small business software marketplace Pax8 Inc. today launched 8os, an operating system that lets its information technology service provider partners govern the artificial intelligence agents running inside their customers’ businesses. A second product, 8bot, gives those customers’ employees a…</description>
+  </item>
+  <item>
     <title>TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web</title>
     <link>https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/</guid>
     <pubDate>Sun, 18 Oct 2026 18:20:28 GMT</pubDate>
     <category>Web Dev</category>
     <description>An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs.…</description>
+  </item>
+  <item>
+    <title>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
+    <link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/</link>
+    <guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/</guid>
+    <pubDate>Mon, 19 Oct 2026 12:45:23 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Frontier models span language, video and audio, on architectures from dense and mixture-of-experts transformers to diffusion, state-space, world and structure-prediction models. PyTorch is where AI research happens, where the models... The post Introducing TorchNeuron: Native PyTorch backend for…</description>
   </item>
   <item>
     <title>Amp puts AI agents to work beyond code with OpenAI models</title>
@@ -53,14 +69,6 @@
     <pubDate>Tue, 13 Oct 2026 05:00:31 GMT</pubDate>
     <category>AI Business</category>
     <description>Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action…</description>
-  </item>
-  <item>
-    <title>Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs</title>
-    <link>https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/</link>
-    <guid isPermaLink="true">https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/</guid>
-    <pubDate>Sat, 17 Oct 2026 10:33:28 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 calls. API users in…</description>
   </item>
   <item>
     <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
@@ -157,6 +165,22 @@
     <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
+  </item>
+  <item>
+    <title>NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration</title>
+    <link>https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/</guid>
+    <pubDate>Mon, 19 Oct 2026 03:19:18 GMT</pubDate>
+    <category>Open Source</category>
+    <description>NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration…</description>
+  </item>
+  <item>
+    <title>MiniMax M3.1 Flash now available on AI Gateway for free</title>
+    <link>https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free</guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free, until Oct 20. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash…</description>
   </item>
   <item>
     <title>Meta removes language that raised scraping and AI training concerns</title>
@@ -447,6 +471,14 @@
     <description>Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials…</description>
   </item>
   <item>
+    <title>Stripe says AI agent purchases are adding up, but it won&#39;t share the numbers</title>
+    <link>https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/</link>
+    <guid isPermaLink="true">https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/</guid>
+    <pubDate>Mon, 19 Oct 2026 12:51:12 GMT</pubDate>
+    <category>AI Business</category>
+    <description>AI agents are increasingly using Stripe&#39;s payment service Link to shop for their users, Upstarts Media reports. The article Stripe says AI agent purchases are adding up, but it won&#39;t share the numbers appeared first on The Decoder .</description>
+  </item>
+  <item>
     <title>Four Gemini 4 Argon agents beat Minecraft without any human help</title>
     <link>https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/</link>
     <guid isPermaLink="true">https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/</guid>
@@ -469,6 +501,14 @@
     <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a…</description>
+  </item>
+  <item>
+    <title>UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly</title>
+    <link>https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly</link>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly</guid>
+    <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>UKIE has partnered with law firm Sheridans to provide an AI Compliance and Accreditation Service, enabling studios across the UK games industry to use AI lawfully and responsibly. Read more</description>
   </item>
   <item>
     <title>The investors with the biggest jumps in the Sifted AI 100</title>
@@ -605,46 +645,6 @@
     <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
-  </item>
-  <item>
-    <title>AI Gateway logs now show session affinity</title>
-    <link>https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity</guid>
-    <pubDate>Sun, 18 Oct 2026 20:03:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was…</description>
-  </item>
-  <item>
-    <title>AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP&#39;s office</title>
-    <link>https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/</link>
-    <guid isPermaLink="true">https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/</guid>
-    <pubDate>Sun, 18 Oct 2026 08:15:04 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP&#39;s office. None of the models…</description>
-  </item>
-  <item>
-    <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
-    <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</guid>
-    <pubDate>Sat, 17 Oct 2026 18:48:08 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</description>
-  </item>
-  <item>
-    <title>AI models hide mistakes in their own work reports, but one sentence in your prompt can help</title>
-    <link>https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/</link>
-    <guid isPermaLink="true">https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/</guid>
-    <pubDate>Sat, 17 Oct 2026 09:54:36 GMT</pubDate>
-    <category>AI Business</category>
-    <description>AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mistakes in their own work reports, but one sentence in your…</description>
-  </item>
-  <item>
-    <title>DeepSeek V4.1 Flash 1017 now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway</guid>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the…</description>
   </item>
 </channel>
 </rss>
