@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Tue, 20 Oct 2026 04:48:54 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 11:34:19 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -103,6 +103,14 @@
     <description>Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250…</description>
   </item>
   <item>
+    <title>Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool</title>
+    <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</guid>
+    <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for…</description>
+  </item>
+  <item>
     <title>AINews TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch</title>
     <link>https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b</link>
     <guid isPermaLink="true">https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b</guid>
@@ -119,12 +127,28 @@
     <description>&lt;img src= https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp &gt;Playground is a new experimental gaming platform that lets you create, play, and share custom games.</description>
   </item>
   <item>
+    <title>Japan Actors Union announces guidelines addressing unauthorised use of generative AI to replicate voice performances</title>
+    <link>https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting</link>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting</guid>
+    <pubDate>Tue, 20 Oct 2026 10:42:26 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>The Japan Actors Union has announced new guidelines to address the unauthorised use of generative AI to replicate voice performances. Read more</description>
+  </item>
+  <item>
     <title>How Rillet ships 3× faster with AI agents on Vercel</title>
     <link>https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel</link>
     <guid isPermaLink="true">https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel</guid>
     <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
+  </item>
+  <item>
+    <title>Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second</title>
+    <link>https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</guid>
+    <pubDate>Tue, 20 Oct 2026 03:32:43 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks. The post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on…</description>
   </item>
   <item>
     <title>Nvidia launches new open models to run agents in the enterprise and on PCs</title>
@@ -213,14 +237,6 @@
     <pubDate>Mon, 19 Oct 2026 01:18:17 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3…</description>
-  </item>
-  <item>
-    <title>DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API</title>
-    <link>https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/</guid>
-    <pubDate>Sat, 17 Oct 2026 08:53:58 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto…</description>
   </item>
   <item>
     <title>DeepSeek and what enterprises should learn from AI agent exploits</title>
@@ -367,14 +383,6 @@
     <description>Overall, investors put $38.5 billion into reported seed- through growth-stage financings for Asian startups in Q3, per Crunchbase data. Of that, a majority went to AI-focused companies, echoing the trends we’ve seen globally.</description>
   </item>
   <item>
-    <title>Exclusive: Stella &amp; Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo</title>
-    <link>https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/</link>
-    <guid isPermaLink="true">https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/</guid>
-    <pubDate>Wed, 14 Oct 2026 12:00:38 GMT</pubDate>
-    <category>AI Business</category>
-    <description>In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed funding round.</description>
-  </item>
-  <item>
     <title>DeepSeek releases updated V4.1-Flash model it says completes tasks faster</title>
     <link>https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/</guid>
@@ -423,14 +431,6 @@
     <description>Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a tragedy of the…</description>
   </item>
   <item>
-    <title>AI agents have bad taste in long-term decisions and a new benchmark proves it</title>
-    <link>https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/</link>
-    <guid isPermaLink="true">https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/</guid>
-    <pubDate>Sun, 18 Oct 2026 08:49:41 GMT</pubDate>
-    <category>AI Business</category>
-    <description>A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn&#39;t help. The article AI agents have bad taste in long-term…</description>
-  </item>
-  <item>
     <title>Prompt: Enterprise controls can&#39;t keep up with AI agents</title>
     <link>https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents</link>
     <guid isPermaLink="true">https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents</guid>
@@ -445,6 +445,14 @@
     <pubDate>Mon, 12 Oct 2026 12:34:27 GMT</pubDate>
     <category>AI Business</category>
     <description>As agents take on more work for users, companies are deciding whether to let outside AI systems act on their platforms.</description>
+  </item>
+  <item>
+    <title>OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-racing-to-raise-30-billion-ahead-of-anthropic-listing/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-racing-to-raise-30-billion-ahead-of-anthropic-listing/</guid>
+    <pubDate>Tue, 20 Oct 2026 10:36:11 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI is reportedly rushing to lockdown investors before chief competitor Anthropic goes public next month. That’s according to a report Monday (Oct. 19) by Reuters, which describes the effort as “unusually fast fundraising” that could bring OpenAI’s valuation to more than $1.4 trillion. Two…</description>
   </item>
   <item>
     <title>Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌</title>
@@ -637,14 +645,6 @@
     <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.</description>
-  </item>
-  <item>
-    <title>AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching</title>
-    <link>https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</guid>
-    <pubDate>Tue, 20 Oct 2026 00:41:33 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Town.com Inc., an artificial intelligence agent startup laser focused on getting work done by collaborating with other AI agents, revealed today that it has raised $108 million in a new funding at a $1 billion valuation. The Series B round was led by Forerunner Ventures and Menlo Ventures, and saw…</description>
   </item>
 </channel>
 </rss>
