@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T22:20:38.873Z",
-  "count": 368,
-  "focusCount": 236,
+  "generatedAt": "2026-10-20T04:48:54.564Z",
+  "count": 390,
+  "focusCount": 235,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -25,6 +25,20 @@
       "date": "2026-10-06T16:00:00.000Z",
       "topic": "AI Business",
       "importance": 15.299999999999999,
+      "isFocus": true
+    },
+    {
+      "title": "MiniMax launches M3.1 Flash model, says it cuts AI agent costs by 70%",
+      "url": "https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/",
+      "summary": "Chinese artificial intelligence developer MiniMax Group Inc. today released M3.1 Flash, a faster and cheaper update to the M3 large language model it launched in June. The release takes aim at the cost of running AI agents, which often need dozens of model calls to finish a single job. MiniMax said…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T22:25:50.000Z",
+      "topic": "AI Business",
+      "importance": 13.7,
       "isFocus": true
     },
     {
@@ -280,6 +294,20 @@
       "isFocus": true
     },
     {
+      "title": "Nvidia, Dell back $200M round for AI model developer doubleAI",
+      "url": "https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/",
+      "summary": "Artificial intelligence developer doubleAI today announced that it has raised $200 million in funding. Lightspeed and Bessemer co-led the Series A round. They were joined by Nvidia Corp., Dell Technologies Inc. and several others. CTech reported that the investment values doubleAI at more than $1…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T22:49:59.000Z",
+      "topic": "AI Business",
+      "importance": 11.5,
+      "isFocus": true
+    },
+    {
       "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
       "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
       "summary": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash…",
@@ -303,20 +331,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-17T21:31:32.000Z",
-      "topic": "AI Business",
-      "importance": 11.5,
-      "isFocus": true
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T16:01:37.000Z",
       "topic": "AI Business",
       "importance": 11.5,
       "isFocus": true
@@ -882,20 +896,6 @@
       "isFocus": true
     },
     {
-      "title": "Mistral Large 4 now available on AI Gateway",
-      "url": "https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway",
-      "summary": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a…",
-      "source": "Vercel",
-      "feedTopic": "Web Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-06T00:00:00.000Z",
-      "topic": "Web Dev",
-      "importance": 10.3,
-      "isFocus": true
-    },
-    {
       "title": "UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly",
       "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
       "summary": "UKIE has partnered with law firm Sheridans to provide an AI Compliance and Accreditation Service, enabling studios across the UK games industry to use AI lawfully and responsibly. Read more",
@@ -1036,6 +1036,20 @@
       "isFocus": true
     },
     {
+      "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+      "url": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+      "summary": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T00:03:38.000Z",
+      "topic": "Models & Labs",
+      "importance": 10.1,
+      "isFocus": false
+    },
+    {
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
       "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
@@ -1106,15 +1120,15 @@
       "isFocus": false
     },
     {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "source": "TechCrunch AI",
+      "title": "AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching",
+      "url": "https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/",
+      "summary": "Town.com Inc., an artificial intelligence agent startup laser focused on getting work done by collaborating with other AI agents, revealed today that it has raised $108 million in a new funding at a $1 billion valuation. The Series B round was led by Forerunner Ventures and Menlo Ventures, and saw…",
+      "source": "SiliconANGLE AI",
       "feedTopic": "AI Business",
-      "weight": 2,
+      "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-16T15:33:49.000Z",
+      "date": "2026-10-20T00:41:33.000Z",
       "topic": "AI Business",
       "importance": 9.9,
       "isFocus": true
@@ -1150,7 +1164,7 @@
     {
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
       "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "source": "TechCrunch AI",
       "feedTopic": "AI Business",
       "weight": 2,
@@ -1358,20 +1372,6 @@
       "isFocus": true
     },
     {
-      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "summary": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-12T17:52:22.000Z",
-      "topic": "Models & Labs",
-      "importance": 9.6,
-      "isFocus": false
-    },
-    {
       "title": "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
       "url": "https://tldr.tech/ai/2026-10-08",
       "summary": "",
@@ -1402,7 +1402,7 @@
     {
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "source": "TechCrunch AI",
       "feedTopic": "AI Business",
       "weight": 2,
@@ -1468,6 +1468,20 @@
       "topic": "Models & Labs",
       "importance": 9.5,
       "isFocus": false
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "summary": "The idea of embedded evaluators — in which supposedly neutral third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T22:49:27.000Z",
+      "topic": "AI Business",
+      "importance": 9.4,
+      "isFocus": true
     },
     {
       "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
@@ -1831,6 +1845,20 @@
       "date": "2026-10-13T00:00:00.000Z",
       "topic": "App Dev",
       "importance": 9,
+      "isFocus": true
+    },
+    {
+      "title": "AI Agent Cuts Centalion’s Trade Finance Amendment Time 80%",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agent-cuts-centalions-trade-finance-amendment-time-80/",
+      "summary": "Issuing a bank guarantee at a large commodity trader is still a desk job. A treasury employee checks how much room is left on a credit facility, pulls the banking details from one system, confirms the limits in another and keys the transaction into a third. At a trader that booked $144 billion in…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T23:00:49.000Z",
+      "topic": "AI Business",
+      "importance": 8.9,
       "isFocus": true
     },
     {
@@ -2198,32 +2226,18 @@
       "isFocus": true
     },
     {
-      "title": "Forgepoint raises $9.8M to automate custom price quotes for manufacturing firms",
-      "url": "https://siliconangle.com/2026/10/14/forgepoint-raises-9-8m-to-automate-custom-price-quotes-for-manufacturing-firms/",
-      "summary": "One of President Donald Trump’s main priorities is to revive America’s manufacturing industry in order to reduce its reliance on foreign imports and create more jobs, and a startup called Forgepoint Inc. shares the same goal after raising $9.8 million in seed funding today. The round was co-led by…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
+      "title": "Muse Wonder now available on AI Gateway",
+      "url": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+      "summary": "Muse Wonder from Meta is now available on AI Gateway. The model is designed for coding, long-running agents, and computer use. It can plan multi-step tasks, delegate work to sub-agents, and recover from errors as work progresses. Muse Wonder has a 1M-token context window and supports text, image,…",
+      "source": "Vercel",
+      "feedTopic": "Web Dev",
+      "weight": 2,
+      "native": false,
       "researchOnly": false,
-      "date": "2026-10-14T12:00:26.000Z",
-      "topic": "AI Business",
+      "date": "2026-10-12T00:00:00.000Z",
+      "topic": "Web Dev",
       "importance": 8.6,
       "isFocus": true
-    },
-    {
-      "title": "Claude Haiku 5.5",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "summary": "<p>As previously <a href= https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/ >promised</a>, here's Anthropic's new fast, low cost model: <a href= https://www.anthropic.com/claude-haiku-5-5 >Introducing Claude Haiku 5.5</a>.</p> <p>The previous Haiku, 4.5, was very much showing its age. It…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-07T20:56:21.000Z",
-      "topic": "Models & Labs",
-      "importance": 8.6,
-      "isFocus": false
     },
     {
       "title": "Inline rendering with document​.currentScript",
@@ -2268,6 +2282,20 @@
       "isFocus": false
     },
     {
+      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "summary": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema output format and…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T23:32:19.000Z",
+      "topic": "Models & Labs",
+      "importance": 8.4,
+      "isFocus": false
+    },
+    {
       "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
       "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.…",
@@ -2277,20 +2305,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-19T13:58:41.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
-    },
-    {
-      "title": "AI Agents Could Fill Treasury’s Looming Talent Gap",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-could-fill-treasurys-looming-talent-gap/",
-      "summary": "Watch more: Monday Conversation With Fifth Third Bank’s Katherine Weislogel There’s a workforce problem brewing in corporate treasury departments, and it has little to do with finding the next generation of finance executives. It’s about the people who have spent 20 or 30 years making sure invoices…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T08:03:34.000Z",
       "topic": "AI Business",
       "importance": 8.4,
       "isFocus": true
@@ -2336,20 +2350,6 @@
       "topic": "Models & Labs",
       "importance": 8.4,
       "isFocus": false
-    },
-    {
-      "title": "Vast Data challenges fragmented AI pipelines as data sovereignty demands grow",
-      "url": "https://siliconangle.com/2026/10/14/data-sovereignty-strains-best-breed-ai-pipelines-aidatapipelineforum/",
-      "summary": "Data sovereignty is becoming an architectural problem as enterprises push artificial intelligence inference toward their most sensitive information. Pipelines assembled from separate tools struggle to keep embeddings, permissions and source data aligned, leaving many valuable data sets out of AI’s…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T11:15:06.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
     },
     {
       "title": "TV4 postpones show after AI agent erases edited material",
@@ -2450,6 +2450,34 @@
       "isFocus": true
     },
     {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T01:27:03.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T23:39:38.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
       "title": "How Boston is becoming a physical AI hub",
       "url": "https://aibusiness.com/robotics/how-boston-is-becoming-a-physical-ai-hub",
       "summary": "Robotics talent, customers and investment are concentrating in Boston, and what that means for the U.S. physical AI industry.",
@@ -2543,20 +2571,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-16T14:57:10.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used to enhance what you're doing.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T14:26:51.000Z",
       "topic": "AI Business",
       "importance": 8.2,
       "isFocus": true
@@ -2842,6 +2856,20 @@
       "isFocus": true
     },
     {
+      "title": "Trump administration orders ban on DeepSeek in federal agencies",
+      "url": "https://siliconangle.com/2026/10/19/trump-administration-orders-ban-on-deepseek-in-federal-agencies/",
+      "summary": "The Department of Homeland Security has ordered artificial intelligence technology from the Chinese company DeepSeek Ltd. be removed from all federal civilian agencies. The order, published on the Federal Register website today, warned that DeepSeek’s AI models present “multiple threat vectors,”…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T00:47:23.000Z",
+      "topic": "AI Business",
+      "importance": 8,
+      "isFocus": true
+    },
+    {
       "title": "Knowledge graphs fuel AI innovation for financial services at Raymond James Financial",
       "url": "https://siliconangle.com/2026/10/16/knowledge-graphs-ai-raymond-james-neo4j-neo4jgraphsummit/",
       "summary": "Knowledge graphs are becoming a critical context and reasoning layer for agentic AI, helping enterprises connect data and ground agents in key areas of business expertise. For diversified financial services companies such as Raymond James Financial Inc., graph technologies have become an important…",
@@ -2980,6 +3008,20 @@
       "topic": "AI Business",
       "importance": 7.8,
       "isFocus": true
+    },
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "source": "OpenAI",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T12:00:00.000Z",
+      "topic": "Models & Labs",
+      "importance": 7.8,
+      "isFocus": false
     },
     {
       "title": "Muse Spark Is Now an Open-Weights Model",
@@ -3138,7 +3180,7 @@
     {
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 250 # Comments: 89",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 252 # Comments: 89",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3376,7 +3418,7 @@
     {
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
       "url": "https://100toolkit.com/blog/deslop-model/",
-      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 144 # Comments: 105",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 145 # Comments: 108",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3488,7 @@
     {
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
       "url": "https://www.vals.ai/blogs/impossible-refund",
-      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 101 # Comments: 120",
+      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 104 # Comments: 122",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3570,20 +3612,6 @@
       "isFocus": true
     },
     {
-      "title": "Physics AI pushes chip design beyond traditional simulation",
-      "url": "https://siliconangle.com/2026/10/16/vinci4d-physics-models-semiconwest/",
-      "summary": "Vinci4D Inc. is bringing a new approach to semiconductor design grounded in fundamental physics equations. The company provides simulation software for chip designers, offering an alternative to traditional simulation methods, including finite element analysis, a technique engineers use to study…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T17:47:37.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 625 # Comments: 574",
@@ -3600,7 +3628,7 @@
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 221 # Comments: 93",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 223 # Comments: 93",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3636,20 +3664,6 @@
       "researchOnly": false,
       "date": "2026-10-16T10:00:00.000Z",
       "topic": "Web Dev",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Vinci targets faster chip design and simulation with physics-driven AI",
-      "url": "https://siliconangle.com/2026/10/15/simulation-vinci-physics-driven-ai-thecube-semiconwest/",
-      "summary": "Simulation is a hardware engineer’s best friend, adept at finding issues in product designs and avoiding a disastrous deployment. Yet the process of orchestrating simulations has required specialized skills and lots of time. A Silicon Valley-based startup is working to change this picture. Vinci4D…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T21:19:13.000Z",
-      "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
     },
@@ -3850,20 +3864,6 @@
       "isFocus": false
     },
     {
-      "title": "Instinct group chats 💬, Reflection’s 501B model 🧠, OpenAI text watermarks 🏷️",
-      "url": "https://tldr.tech/ai/2026-10-06",
-      "summary": "",
-      "source": "TLDR AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-06T00:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
       "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
       "summary": "vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based NIXL connector that moves transfer coordination off the critical path, delivering up to 3x better TTFT and 30% better TPOT in benchmarks…",
@@ -3906,6 +3906,20 @@
       "isFocus": false
     },
     {
+      "title": "Upgrade the Retriever First: What an LLM Call per Chunk Buys in RAG",
+      "url": "https://arxiv.org/abs/2603.23533",
+      "summary": "arXiv:2603.23533v4 Announce Type: replace-cross Abstract: Many RAG pipelines pay one LLM call per chunk at indexing time to add titles, summaries, keywords and questions (enrichment) or document context (contextual retrieval, CR). We ask what that call buys over free structure and a better…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 7,
+      "isFocus": false
+    },
+    {
       "title": "Humanoid bottlenecks emerge amid US-China tensions",
       "url": "https://aibusiness.com/automation/humanoid-bottlenecks-emerge",
       "summary": "Rising production volumes are increasing pressure on suppliers, while U.S.-China tensions could make it harder for Western manufacturers to secure alternatives to Chinese suppliers.",
@@ -3931,6 +3945,20 @@
       "date": "2026-10-06T12:21:53.000Z",
       "topic": "Models & Labs",
       "importance": 6.9,
+      "isFocus": false
+    },
+    {
+      "title": "Mobius Injection: From One-Shot Prompt Injection to Sustained Resource Exhaustion in AI Agent Infrastructure",
+      "url": "https://arxiv.org/abs/2605.11442",
+      "summary": "arXiv:2605.11442v2 Announce Type: replace-cross Abstract: Large Language Model (LLM) agents have emerged as key intermediaries, orchestrating complex interactions between human users and a wide range of digital services and LLM infrastructures. While prior research has extensively examined the…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6.800000000000001,
       "isFocus": false
     },
     {
@@ -3960,20 +3988,6 @@
       "topic": "AI Business",
       "importance": 6.8,
       "isFocus": true
-    },
-    {
-      "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
-      "url": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
-      "summary": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS’s…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-17T07:26:39.000Z",
-      "topic": "Models & Labs",
-      "importance": 6.8,
-      "isFocus": false
     },
     {
       "title": "Tripo integrates GPT-Image-2.5 Sunburst into its workflow",
@@ -4102,20 +4116,6 @@
       "isFocus": false
     },
     {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-08T00:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 6.4,
-      "isFocus": false
-    },
-    {
       "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
       "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
       "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational for…",
@@ -4183,6 +4183,34 @@
       "date": "2026-10-06T22:57:33.000Z",
       "topic": "Open Source",
       "importance": 6.1,
+      "isFocus": false
+    },
+    {
+      "title": "The Window Is in the Reasoning: When LLM Agents Decide to Follow Prompt Injections",
+      "url": "https://arxiv.org/abs/2610.24048",
+      "summary": "arXiv:2610.24048v1 Announce Type: cross Abstract: LLM agents that read untrusted content can be hijacked by prompt injections. Runtime monitors that try to catch a hijack before the agent acts, and benchmarks that score each task with a single run, share an assumption: whether an agent follows an…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution",
+      "url": "https://arxiv.org/abs/2610.17816",
+      "summary": "arXiv:2610.17816v2 Announce Type: replace Abstract: Edge-cloud collaboration combines the lower inference overhead and greater data locality of edge-side execution with the stronger capabilities of cloud-hosted models. However, as LLM agents increasingly operate in long-horizon scenarios, cloud…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
       "isFocus": false
     },
     {
@@ -4368,6 +4396,118 @@
       "isFocus": false
     },
     {
+      "title": "Explore or Confirm? LLM Agents Misallocate Measurements Under Noise",
+      "url": "https://arxiv.org/abs/2610.25111",
+      "summary": "arXiv:2610.25111v1 Announce Type: new Abstract: As model reasoning gets cheaper, the physical experiment becomes the slow and costly step in discovery. Each experiment returns a noisy reading: a high value can mean a good candidate or a lucky draw. With a fixed budget, an AI agent must keep…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "AllPath: Layered Verification for a Deployed, Self-Revising LLM Trading Agent under Human-Gated and Autonomous Regimes",
+      "url": "https://arxiv.org/abs/2610.26662",
+      "summary": "arXiv:2610.26662v1 Announce Type: new Abstract: LLM trading agents are evaluated almost exclusively in backtests and autonomous benchmark harnesses. Deployment, where actions are irreversible, raises a different question: who verifies the agent's actions, and which failures can each verifier…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "When Better Opportunities Backfire: Service Worker Responses to Parallel AI Deployment in Customer Acquisition",
+      "url": "https://arxiv.org/abs/2610.25603",
+      "summary": "arXiv:2610.25603v1 Announce Type: cross Abstract: As AI voice agents get deployed in high-volume contact centers, firms can route low-intent leads to AI and allocate high-intent leads to human workers. Drawing on sequential search theory, we posit that AI-induced task allocation reshapes work,…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "TamedFlow: Trajectory-Aware Distillation for Teacher-Assisted Diffusion Sampling",
+      "url": "https://arxiv.org/abs/2610.26025",
+      "summary": "arXiv:2610.26025v1 Announce Type: cross Abstract: Diffusion Transformers (DiTs) deliver high-fidelity image and video generation, but inference requires many sequential model evaluations. Two acceleration strategies are increasingly important: model compression makes each evaluation cheaper, while…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "Generative to Agentic AI: Survey, Conceptualization, and Challenges",
+      "url": "https://arxiv.org/abs/2504.18875",
+      "summary": "arXiv:2504.18875v2 Announce Type: replace Abstract: Agentic AI builds upon Generative AI (GenAI). It constitutes the next major step in the evolution of AI with much stronger reasoning, learning, and interaction capabilities that enable more autonomous behavior to tackle complex, long-running…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "AI Evaluation Should Require Standardized Item-Level Data Releases",
+      "url": "https://arxiv.org/abs/2604.03244",
+      "summary": "arXiv:2604.03244v3 Announce Type: replace Abstract: This position paper argues that standardized item-level benchmark data should become the default infrastructure for AI evaluation. Current evaluations suffer from underspecified item selection, construct misalignment, and poor generalization; a…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "Evidence Acquisition and Stopping via Lattice Distillation",
+      "url": "https://arxiv.org/abs/2606.09433",
+      "summary": "arXiv:2606.09433v2 Announce Type: replace Abstract: Sequential evidence acquisition requires deciding what to observe and when to stop from partial information. We introduce a complete-record view of policy supervision: each fully observed training instance defines a lattice of evidence subsets,…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "Toollery: Scaling LLM Agents to Thousands of Skills and Tools",
+      "url": "https://arxiv.org/abs/2609.22218",
+      "summary": "arXiv:2609.22218v2 Announce Type: replace-cross Abstract: As LLM agents are exposed to hundreds to tens of thousands of skills, tools, and API functions, full-library prompting becomes costly, slow, and less reliable: each added candidate increases prompt tokens and latency, while longer candidate…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
       "title": "AINews Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
       "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
       "summary": "Nick Cammarata out of nowhere with some major claims!",
@@ -4421,6 +4561,90 @@
       "date": "2026-10-08T12:45:49.000Z",
       "topic": "Open Source",
       "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "CXBench: A Benchmark for Process-Compliant LLM Agents in Regulated Customer-Experience Workflows",
+      "url": "https://arxiv.org/abs/2610.25954",
+      "summary": "arXiv:2610.25954v1 Announce Type: new Abstract: Tool-using language agents increasingly perform regulated customer-service workflows, where a correct final state is insufficient: agents must also provide disclosures, obtain consent, and follow required procedures. Existing tool-agent benchmarks…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.6,
+      "isFocus": false
+    },
+    {
+      "title": "Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk",
+      "url": "https://arxiv.org/abs/2610.23857",
+      "summary": "arXiv:2610.23857v1 Announce Type: cross Abstract: Intelligent agent interactions in real-world web environments are commonly constrained by request budgets, time delays, anti-crawling restrictions, and operational failure risks. Strategies solely optimizing task success rates often exhibit unusable…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.6,
+      "isFocus": false
+    },
+    {
+      "title": "Gypscie: A Cross-Platform AI Artifact Management System",
+      "url": "https://arxiv.org/abs/2604.10311",
+      "summary": "arXiv:2604.10311v3 Announce Type: replace Abstract: Artificial Intelligence (AI) models, encompassing both traditional machine learning (ML) and more advanced approaches such as deep learning and large language models (LLMs), play a central role in modern applications. AI model lifecycle management…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.6,
+      "isFocus": false
+    },
+    {
+      "title": "From Scientific Crop Imagery to Agronomic Reasoning: A Multimodal LLM Benchmark for Plant Phenotyping",
+      "url": "https://arxiv.org/abs/2604.09907",
+      "summary": "arXiv:2604.09907v2 Announce Type: replace-cross Abstract: High-throughput, effective and comprehensive phenotyping is a critical prerequisite for crop improvement. While phenotypic analysis was traditionally performed manually, recent advances in multimodal foundation models, especially in…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.6,
+      "isFocus": false
+    },
+    {
+      "title": "LLM as a Tool, Not an Agent: Code-Mined Tree Transformations for Neural Architecture Search",
+      "url": "https://arxiv.org/abs/2604.16555",
+      "summary": "arXiv:2604.16555v2 Announce Type: replace-cross Abstract: Neural Architecture Search (NAS) aims to automatically discover high-performing deep neural network (DNN) architectures. However, conventional algorithm-driven NAS relies on carefully hand-crafted search spaces to ensure executability, which…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.6,
+      "isFocus": false
+    },
+    {
+      "title": "Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem",
+      "url": "https://arxiv.org/abs/2606.26028",
+      "summary": "arXiv:2606.26028v3 Announce Type: replace-cross Abstract: As autonomous AI agents increasingly transact across organizational boundaries, a fundamental trust challenge emerges: how can an agent assess whether an unknown counterpart is trustworthy? The ERC-8004 protocol addresses this challenge with…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.6,
       "isFocus": false
     },
     {
@@ -4505,6 +4729,104 @@
       "date": "2026-10-06T06:28:43.000Z",
       "topic": "Models & Labs",
       "importance": 5.5,
+      "isFocus": false
+    },
+    {
+      "title": "PeekKV: The First Content Token Already Knows Which Heads Matter",
+      "url": "https://arxiv.org/abs/2610.23939",
+      "summary": "arXiv:2610.23939v1 Announce Type: cross Abstract: The size of the KV cache grows linearly with context length, making it a major memory bottleneck in LLM serving. Motivated by recent progress in identifying the functional roles of attention heads, a growing body of work compresses the KV cache…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.4,
+      "isFocus": false
+    },
+    {
+      "title": "Can LLM Agents Resolve Service Failures? Simulating Multi-Turn Complaint Handling under Information Asymmetry",
+      "url": "https://arxiv.org/abs/2610.24733",
+      "summary": "arXiv:2610.24733v1 Announce Type: new Abstract: LLM agents are widely adopted in service chatbots for rule-guided support and information access, yet emotionally demanding complaint handling still relies heavily on human agents. We introduce ServiceBench, to our knowledge the first benchmark…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.300000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "FinSafeGuard: A Quality-Driven Synthetic Dataset for Financial AI Safety",
+      "url": "https://arxiv.org/abs/2610.26066",
+      "summary": "arXiv:2610.26066v1 Announce Type: new Abstract: Generating high-quality synthetic datasets at scale remains a fundamental challenge for training specialized AI systems in data-scarce domains. We present a comprehensive methodology that produces 14.3 million quality-filtered synthetic training…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.300000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "The Scheduler Is a Hidden Retriever: How Asynchrony Shapes Evidence Acquisition in Search Agents",
+      "url": "https://arxiv.org/abs/2610.26310",
+      "summary": "arXiv:2610.26310v1 Announce Type: new Abstract: Language-model agents increasingly solve complex tasks through parallel reasoning and asynchronous information gathering. Controlled replay across two model families and three benchmarks shows that delivery timing redirects search decisions made…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.300000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "MemDerive: A Diagnostic Benchmark for Agent Memory over Evolving Data",
+      "url": "https://arxiv.org/abs/2610.25373",
+      "summary": "arXiv:2610.25373v1 Announce Type: cross Abstract: Long-running agents rely on memory of their past interactions for task state, such as what has been completed and which conditions still hold. Such state is usually a derived state. No record states it, and it must be computed by rules from multiple…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.300000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "RAG Strategies for Natural Language-Based SQL Query and REST API Call Generation",
+      "url": "https://arxiv.org/abs/2602.07086",
+      "summary": "arXiv:2602.07086v3 Announce Type: replace-cross Abstract: Enterprise software systems commonly expose functionality through relational databases and REST APIs, requiring users to understand schemas, endpoints, and parameters. Retrieval-augmented generation (RAG) can support natural language…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.300000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents",
+      "url": "https://arxiv.org/abs/2607.14651",
+      "summary": "arXiv:2607.14651v2 Announce Type: replace-cross Abstract: Persistent external memory enhances agent continuity but introduces persistent security vulnerabilities: adversarial content can be injected via standard interaction channels, retained across turns, and later distort downstream behavior. To…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-20T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.300000000000001,
       "isFocus": false
     },
     {
@@ -4746,20 +5068,6 @@
       "isFocus": false
     },
     {
-      "title": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/",
-      "summary": "AWS engineers share kernel optimizations for fused Mixture-of-Experts (MoE) models on Amazon SageMaker AI: Swap-AB for WGMMA utilization, Triton backend routing for FP8 quantization, and eliminating Triton JIT recompilation. Together they deliver up to 10% higher throughput and up to 9% faster Time…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T15:17:09.000Z",
-      "topic": "Models & Labs",
-      "importance": 4.6,
-      "isFocus": false
-    },
-    {
       "title": "llm-gemini 0.35",
       "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm-gemini/releases/tag/0.35 >llm-gemini 0.35</a></p> <p>I added support to <a href= https://github.com/simonw/llm-gemini >llm-gemini</a> for the <a href=…",
@@ -4827,6 +5135,20 @@
       "date": "2026-10-09T12:54:06.000Z",
       "topic": "Open Source",
       "importance": 4.5,
+      "isFocus": false
+    },
+    {
+      "title": "My obituary for programming",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "summary": "<p><strong><a href= https://dumbmatter.com/2026/10/programming-obituary/ >My obituary for programming</a></strong></p> Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the <em>puzzle</em> of developing code:</p> <blockquote> <p>Programming…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T23:58:25.000Z",
+      "topic": "Open Source",
+      "importance": 4.4,
       "isFocus": false
     },
     {
@@ -5124,6 +5446,20 @@
       "isFocus": false
     },
     {
+      "title": "Developers can now access SageMaker Studio through the new AWS experience",
+      "url": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
+      "summary": "New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have, such as Amazon, Apple, GitHub, or Google, with no advanced AWS account or credit card required for most customers, plus $100 in AWS Free…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-19T22:39:24.000Z",
+      "topic": "Models & Labs",
+      "importance": 3.9,
+      "isFocus": false
+    },
+    {
       "title": "Generate presentations with Amazon Bedrock AgentCore",
       "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
       "summary": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
@@ -5135,34 +5471,6 @@
       "date": "2026-10-14T13:58:43.000Z",
       "topic": "Models & Labs",
       "importance": 3.8,
-      "isFocus": false
-    },
-    {
-      "title": "Natural language security queries at Orca Security using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
-      "summary": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the results: 90% lower query cost, 93% fewer input tokens, and 75% lower latency than the initial baseline.",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T16:03:31.000Z",
-      "topic": "Models & Labs",
-      "importance": 3.8,
-      "isFocus": false
-    },
-    {
-      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
-      "summary": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T16:24:07.000Z",
-      "topic": "Models & Labs",
-      "importance": 3.4,
       "isFocus": false
     }
   ]

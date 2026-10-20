@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Mon, 19 Oct 2026 22:20:38 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 04:48:54 GMT</lastBuildDate>
   <item>
     <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
     <link>https://openai.com/index/atlassian-partnership</link>
@@ -13,6 +13,14 @@
     <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
+  </item>
+  <item>
+    <title>MiniMax launches M3.1 Flash model, says it cuts AI agent costs by 70%</title>
+    <link>https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/</guid>
+    <pubDate>Mon, 19 Oct 2026 22:25:50 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Chinese artificial intelligence developer MiniMax Group Inc. today released M3.1 Flash, a faster and cheaper update to the M3 large language model it launched in June. The release takes aim at the cost of running AI agents, which often need dozens of model calls to finish a single job. MiniMax said…</description>
   </item>
   <item>
     <title>Pax8 launches 8os to let IT partners govern AI agents and 8bot as a managed AI co-worker</title>
@@ -159,6 +167,14 @@
     <description>Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.</description>
   </item>
   <item>
+    <title>Nvidia, Dell back $200M round for AI model developer doubleAI</title>
+    <link>https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/</guid>
+    <pubDate>Mon, 19 Oct 2026 22:49:59 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Artificial intelligence developer doubleAI today announced that it has raised $200 million in funding. Lightspeed and Bessemer co-led the Series A round. They were joined by Nvidia Corp., Dell Technologies Inc. and several others. CTech reported that the investment values doubleAI at more than $1…</description>
+  </item>
+  <item>
     <title>MiniMax M3.1 Flash now available on AI Gateway for free</title>
     <link>https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free</link>
     <guid isPermaLink="true">https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free</guid>
@@ -173,14 +189,6 @@
     <pubDate>Sat, 17 Oct 2026 21:31:32 GMT</pubDate>
     <category>AI Business</category>
     <description>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</description>
-  </item>
-  <item>
-    <title>Elorian’s first AI model wants to reason with images, not just about them</title>
-    <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</guid>
-    <pubDate>Fri, 16 Oct 2026 16:01:37 GMT</pubDate>
-    <category>AI Business</category>
-    <description>According to Elorian&#39;s evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</description>
   </item>
   <item>
     <title>Nemotron 3.5 Lightning now available on AI Gateway for free</title>
@@ -503,14 +511,6 @@
     <description>Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It&#39;s the fastest Claude model…</description>
   </item>
   <item>
-    <title>Mistral Large 4 now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway</guid>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a…</description>
-  </item>
-  <item>
     <title>UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly</title>
     <link>https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly</link>
     <guid isPermaLink="true">https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly</guid>
@@ -591,6 +591,14 @@
     <description>A platform for people who want to play games made by AI.</description>
   </item>
   <item>
+    <title>Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
+    <link>https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</guid>
+    <pubDate>Tue, 20 Oct 2026 00:03:38 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score…</description>
+  </item>
+  <item>
     <title>Tenstorrent hits $6.2B valuation to scale open-weight AI chips</title>
     <link>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</guid>
@@ -631,20 +639,12 @@
     <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.</description>
   </item>
   <item>
-    <title>Jev is Vercel’s fastest-adopted AI model ever</title>
-    <link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</guid>
-    <pubDate>Fri, 16 Oct 2026 15:33:49 GMT</pubDate>
+    <title>AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching</title>
+    <link>https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</guid>
+    <pubDate>Tue, 20 Oct 2026 00:41:33 GMT</pubDate>
     <category>AI Business</category>
-    <description>The data comes from Vercel&#39;s AI gateway, a unified API service similar to OpenRouter.</description>
-  </item>
-  <item>
-    <title>Python on Vercel is now generally available</title>
-    <link>https://vercel.com/changelog/python-on-vercel-is-now-generally-available</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/python-on-vercel-is-now-generally-available</guid>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
+    <description>Town.com Inc., an artificial intelligence agent startup laser focused on getting work done by collaborating with other AI agents, revealed today that it has raised $108 million in a new funding at a $1 billion valuation. The Series B round was led by Forerunner Ventures and Menlo Ventures, and saw…</description>
   </item>
 </channel>
 </rss>
