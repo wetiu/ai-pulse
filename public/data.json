@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T04:44:21.899Z",
-  "count": 388,
-  "focusCount": 234,
+  "generatedAt": "2026-10-21T11:47:09.071Z",
+  "count": 392,
+  "focusCount": 236,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -25,6 +25,20 @@
       "date": "2026-10-20T18:56:15.000Z",
       "topic": "AI Business",
       "importance": 16.5,
+      "isFocus": true
+    },
+    {
+      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics,…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T10:30:41.000Z",
+      "topic": "AI Business",
+      "importance": 14.2,
       "isFocus": true
     },
     {
@@ -84,17 +98,17 @@
       "isFocus": true
     },
     {
-      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
-      "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
-      "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs.…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
+      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
       "researchOnly": false,
-      "date": "2026-10-18T18:20:28.000Z",
-      "topic": "Web Dev",
-      "importance": 13.4,
+      "date": "2026-10-21T10:45:17.000Z",
+      "topic": "AI Business",
+      "importance": 13,
       "isFocus": true
     },
     {
@@ -109,6 +123,20 @@
       "date": "2026-10-19T12:45:23.000Z",
       "topic": "Web Dev",
       "importance": 13,
+      "isFocus": true
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+      "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
+      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T08:32:54.000Z",
+      "topic": "AI Business",
+      "importance": 12.7,
       "isFocus": true
     },
     {
@@ -154,20 +182,6 @@
       "isFocus": false
     },
     {
-      "title": "NVIDIA Announces New Investments in France’s Startups",
-      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action…",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-13T05:00:31.000Z",
-      "topic": "AI Business",
-      "importance": 12.6,
-      "isFocus": true
-    },
-    {
       "title": "Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed",
       "url": "https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/",
       "summary": "Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company’s own benchmarks, Mercury 3 beat OpenAI Group PBC’s GPT-6 Luna and Anthropic PBC’s Claude Haiku 5.5 on eight of 12 tests at four to eight times their speed. The release takes on the…",
@@ -210,17 +224,45 @@
       "isFocus": true
     },
     {
-      "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
-      "summary": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250…",
+      "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+      "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+      "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor…",
       "source": "NVIDIA",
       "feedTopic": "Models & Labs",
       "weight": 2,
       "native": false,
       "researchOnly": false,
-      "date": "2026-10-14T06:04:15.000Z",
+      "date": "2026-10-21T10:10:01.000Z",
       "topic": "AI Business",
-      "importance": 12.299999999999999,
+      "importance": 12.1,
+      "isFocus": true
+    },
+    {
+      "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
+      "url": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
+      "summary": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T06:03:12.000Z",
+      "topic": "Models & Labs",
+      "importance": 12.1,
+      "isFocus": false
+    },
+    {
+      "title": "DeepSeek Open Sources Inference Tech to Lower AI Costs",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/",
+      "summary": "DeepSeek has made its in-house inference framework, DeepInfer, fully open source, saying this will help make artificial intelligence more affordable. DeepInfer powers the company’s DeepSeek-V4.1-Flash model at scale with high throughput and low latency, DeepSeek said in a Tuesday (Oct. 20) post on…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T18:52:07.000Z",
+      "topic": "AI Business",
+      "importance": 12.1,
       "isFocus": true
     },
     {
@@ -336,17 +378,17 @@
       "isFocus": true
     },
     {
-      "title": "Mastercard Debuts Tool to Help AI Agents Purchase Digital Services",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/mastercard-debuts-tool-to-help-ai-agents-purchase-digital-services/",
-      "summary": "Mastercard has launched early access to Agent Pay for Machines, a tool designed to let autonomous artificial intelligence agents purchase digital services. The new offering builds on x402, an open protocol that allows digital services to request payment online, and “connects it with the trust,…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
+      "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+      "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
+      "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-20T16:00:46.000Z",
+      "date": "2026-10-21T04:33:40.000Z",
       "topic": "AI Business",
-      "importance": 11.799999999999999,
+      "importance": 11.7,
       "isFocus": true
     },
     {
@@ -361,6 +403,20 @@
       "date": "2026-10-19T03:19:18.000Z",
       "topic": "Open Source",
       "importance": 11.7,
+      "isFocus": false
+    },
+    {
+      "title": "AINews DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "summary": "An open source “bomb” drops from China",
+      "source": "Latent Space",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T06:54:09.000Z",
+      "topic": "Models & Labs",
+      "importance": 11.5,
       "isFocus": false
     },
     {
@@ -434,20 +490,6 @@
       "isFocus": false
     },
     {
-      "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
-      "url": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
-      "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T01:18:17.000Z",
-      "topic": "Models & Labs",
-      "importance": 11.4,
-      "isFocus": false
-    },
-    {
       "title": "DeepSeek and what enterprises should learn from AI agent exploits",
       "url": "https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits",
       "summary": "A new case of an out-of-control AI model shows that enterprises should treat models and agents as toddlers that need supervision and explicit instructions.",
@@ -499,20 +541,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-20T22:24:09.000Z",
-      "topic": "AI Business",
-      "importance": 11.2,
-      "isFocus": true
-    },
-    {
-      "title": "Google Offers Gemini Agent to Government Workers",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-offers-gemini-agent-to-government-workers/",
-      "summary": "After introducing an artificial intelligence (AI) agent for workers in the private sector, Google is shifting its focus to public employees. The tech giant on Tuesday (Oct. 20) announced the preview of its Gemini agent for government services, following the recent launch of Gemini at Work. “Every…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T15:40:23.000Z",
       "topic": "AI Business",
       "importance": 11.2,
       "isFocus": true
@@ -812,20 +840,6 @@
       "isFocus": true
     },
     {
-      "title": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-racing-to-raise-30-billion-ahead-of-anthropic-listing/",
-      "summary": "OpenAI is reportedly rushing to lockdown investors before chief competitor Anthropic goes public next month. That’s according to a report Monday (Oct. 19) by Reuters, which describes the effort as “unusually fast fundraising” that could bring OpenAI’s valuation to more than $1.4 trillion. Two…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T10:36:11.000Z",
-      "topic": "AI Business",
-      "importance": 10.5,
-      "isFocus": true
-    },
-    {
       "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
       "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
       "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign…",
@@ -838,6 +852,20 @@
       "topic": "Art & Creative",
       "importance": 10.4,
       "isFocus": true
+    },
+    {
+      "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T10:30:02.000Z",
+      "topic": "Models & Labs",
+      "importance": 10.3,
+      "isFocus": false
     },
     {
       "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
@@ -980,6 +1008,20 @@
       "isFocus": true
     },
     {
+      "title": "Meta’s Muse Reaches 10 Million Downloads Faster Than ChatGPT",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-reaches-10-million-downloads-faster-than-chatgpt/",
+      "summary": "Meta’s personal artificial intelligence assistant Muse was downloaded more than 10 million times in the United States and Canada during the first 35 days it was available, digital market insights platform Sensor Tower said in a Monday (Oct. 19) post on LinkedIn. In terms of downloads, Muse outpaced…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T21:53:30.000Z",
+      "topic": "AI Business",
+      "importance": 10.2,
+      "isFocus": true
+    },
+    {
       "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
       "url": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
       "summary": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score…",
@@ -992,34 +1034,6 @@
       "topic": "Models & Labs",
       "importance": 10.1,
       "isFocus": false
-    },
-    {
-      "title": "Nvidia-Backed doubleAI Debuts AI ‘Code Execution’ Models",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-backed-double-ai-debuts-ai-code-execution-models/",
-      "summary": "Israeli startup doubleAI is reportedly set to introduce what it describes as a new category of artificial intelligence (AI). The company, whose backers include Nvidia and Dell, calls this new category “code execution” models (CEMs) which place the AI “between code and silicon,” the Wall Street…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T16:39:11.000Z",
-      "topic": "AI Business",
-      "importance": 10.1,
-      "isFocus": true
-    },
-    {
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and …",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-13T12:00:49.000Z",
-      "topic": "App Dev",
-      "importance": 10.1,
-      "isFocus": true
     },
     {
       "title": "Introducing the Agent Experience (AX) Practitioner Playbook",
@@ -1038,7 +1052,7 @@
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "source": "TechCrunch AI",
       "feedTopic": "AI Business",
       "weight": 2,
@@ -1246,15 +1260,15 @@
       "isFocus": true
     },
     {
-      "title": "Big Banks Won’t Let Outside AI Agents Move Money",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/big-banks-will-not-let-outside-ai-agents-move-money/",
-      "summary": "A customer who hands a login to an artificial intelligence agent now gets turned away at four of the biggest names in banking in the United States. Charles Schwab sees the attempts firsthand. Across all its clients, the brokerage blocks the big, unauthorized AI agents, including Meta’s Muse, “in…",
+      "title": "Otter Secures $320 Million to Turn AI Notetaker Into Enterprise Knowledge Engine",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/otter-secures-320-million-to-turn-ai-notetaker-into-enterprise-knowledge-engine/",
+      "summary": "Otter.ai secured $320 million in growth financing from General Catalyst’s Customer Value Fund (CVF) to accelerate the growth of its artificial intelligence notetaker and conversational knowledge platform, the company said in a Tuesday (Oct. 20) press release. Otter will invest the new financing in…",
       "source": "PYMNTS AI",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-19T17:30:37.000Z",
+      "date": "2026-10-21T00:45:29.000Z",
       "topic": "AI Business",
       "importance": 9.7,
       "isFocus": true
@@ -1328,20 +1342,6 @@
       "topic": "AI Business",
       "importance": 9.6,
       "isFocus": true
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-07T07:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 9.6,
-      "isFocus": false
     },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -1624,6 +1624,20 @@
       "isFocus": true
     },
     {
+      "title": "Finance Embraces Gen AI but Stops Short of Autonomous Cash Management",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/finance-embraces-gen-ai-but-stops-short-of-autonomous-cash-management/",
+      "summary": "Finance departments have moved quickly to put generative artificial intelligence to work. They’ve been far more cautious about letting AI act on its own. Generative AI use for cash flow management jumped from 16% in 2025 to 80% in 2026, according to PYMNTS Intelligence’s “Time to Cash: What Two…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T08:00:49.000Z",
+      "topic": "AI Business",
+      "importance": 9.2,
+      "isFocus": true
+    },
+    {
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "url": "https://openai.com/index/ted-taylor-restaurant",
       "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
@@ -1690,20 +1704,6 @@
       "researchOnly": false,
       "date": "2026-10-19T18:47:22.000Z",
       "topic": "Web Dev",
-      "importance": 9.1,
-      "isFocus": true
-    },
-    {
-      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
-      "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
-      "summary": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which could be an early…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T17:36:26.000Z",
-      "topic": "AI Business",
       "importance": 9.1,
       "isFocus": true
     },
@@ -1778,20 +1778,6 @@
       "isFocus": true
     },
     {
-      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
-      "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
-      "summary": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and price. The article…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T18:22:30.000Z",
-      "topic": "AI Business",
-      "importance": 9,
-      "isFocus": true
-    },
-    {
       "title": "Bringing our latest frontier model to Android Developers",
       "url": "https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
       "summary": "As agentic development accelerates, Android engineering is reaching an exciting new frontier: moving from assistive code completion to agents executing end-to-end under your direction. You have total choice and flexibility in the models and agents you use.",
@@ -1816,20 +1802,6 @@
       "researchOnly": false,
       "date": "2026-10-20T16:00:15.000Z",
       "topic": "Web Dev",
-      "importance": 8.9,
-      "isFocus": true
-    },
-    {
-      "title": "AI Agent Cuts Centalion’s Trade Finance Amendment Time 80%",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agent-cuts-centalions-trade-finance-amendment-time-80/",
-      "summary": "Issuing a bank guarantee at a large commodity trader is still a desk job. A treasury employee checks how much room is left on a credit facility, pulls the banking details from one system, confirms the limits in another and keys the transaction into a third. At a trader that booked $144 billion in…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T23:00:49.000Z",
-      "topic": "AI Business",
       "importance": 8.9,
       "isFocus": true
     },
@@ -1862,6 +1834,20 @@
       "isFocus": false
     },
     {
+      "title": "Nestlé Hands Its Overdue Invoices to SAP’s AI Agents",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nestle-hands-its-overdue-invoices-to-saps-ai-agents/",
+      "summary": "A company the size of Nestlé cannot chase every late invoice at once. Collections teams have limited time, so the order of the calls matters. Nestlé is turning to artificial intelligence agents inside its new SAP finance system to prioritize overdue invoices and tell collectors what to do next.…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T23:13:08.000Z",
+      "topic": "AI Business",
+      "importance": 8.8,
+      "isFocus": true
+    },
+    {
       "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
       "url": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
       "summary": "Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million input tokens and charges nothing for output. The post Cloudflare Releases Clairic, a System One Extraction Model on Workers…",
@@ -1874,20 +1860,6 @@
       "topic": "Models & Labs",
       "importance": 8.8,
       "isFocus": false
-    },
-    {
-      "title": "Circle and Proof Help Businesses Trust AI Agent Transactions",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/circle-and-proof-help-businesses-trust-ai-agent-transactions/",
-      "summary": "Proof and Circle Internet Group said Monday (Oct. 19) that they will demonstrate at Money20/20 how open identity and payment protocols can work together to enable businesses to trust transactions made by agents. The companies’ demo will include an artificial intelligence agent presenting a Proof…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T20:10:08.000Z",
-      "topic": "AI Business",
-      "importance": 8.8,
-      "isFocus": true
     },
     {
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
@@ -2055,6 +2027,20 @@
       "date": "2026-10-08T00:00:00.000Z",
       "topic": "Web Dev",
       "importance": 8.7,
+      "isFocus": true
+    },
+    {
+      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+      "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+      "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether they actually work…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T08:37:06.000Z",
+      "topic": "AI Business",
+      "importance": 8.6,
       "isFocus": true
     },
     {
@@ -2326,7 +2312,7 @@
     {
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 156 # Comments: 149",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 157 # Comments: 149",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2422,6 +2408,20 @@
       "isFocus": true
     },
     {
+      "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+      "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T10:30:25.000Z",
+      "topic": "Models & Labs",
+      "importance": 8.3,
+      "isFocus": false
+    },
+    {
       "title": "The next developer interface is ambient intelligence",
       "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
       "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
@@ -2433,6 +2433,34 @@
       "date": "2026-10-15T19:39:27.000Z",
       "topic": "Web Dev",
       "importance": 8.3,
+      "isFocus": true
+    },
+    {
+      "title": "Should you get a personal AI assistant?",
+      "url": "https://sifted.eu/articles/personal-ai-assistants/",
+      "summary": "",
+      "source": "Sifted",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T10:40:47.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "Vivrato: 97% of studio leaders use AI in some form during development in EU and North America",
+      "url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+      "summary": "97% of studio leaders have used AI in some form during development, with 94% having used AI in at least one of the nine production stages. Read more",
+      "source": "GamesIndustry.biz",
+      "feedTopic": "Game Dev",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T08:40:54.000Z",
+      "topic": "Game Dev",
+      "importance": 8.2,
       "isFocus": true
     },
     {
@@ -2870,6 +2898,20 @@
       "isFocus": true
     },
     {
+      "title": "AI Made Inventions Cheaper. Now the Challenge Is Getting Them to Market.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-made-inventions-cheaper-now-challenge-is-getting-them-market/",
+      "summary": "Watch more: TechReg Talks With Matthew J. Dowd and Judge Paul Michel Artificial intelligence is making it cheaper to invent. That doesn’t mean, however, that it’s getting any less costly today to turn an invention into a business. That distinction is emerging as a new fault line in the debate over…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T08:01:36.000Z",
+      "topic": "AI Business",
+      "importance": 8.1,
+      "isFocus": true
+    },
+    {
       "title": "AI infrastructure management software startup ASI hits $3B valuation after raising $325M in funding",
       "url": "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/",
       "summary": "An artificial intelligence startup called ASI Inc., which builds complex models of air traffic and energy grids, said today it has scored $325 million in a Series C funding, bringing its valuation to a cool $3 billion. The round was led by Spark Capital and joined by participants including Citadel…",
@@ -2898,17 +2940,17 @@
       "isFocus": true
     },
     {
-      "title": "Character.ai Bankruptcy Exposes the High Cost of AI Companionship",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/character-ai-bankruptcy-exposes-the-high-cost-of-ai-companionship/",
-      "summary": "Character.ai, an artificial intelligence (AI) companion platform that lets users chat with AI versions of their favorite characters, filed for Chapter 11 on Oct. 12. About 12 million monthly users could not make it profitable. The company was losing $8 million to $9 million a month, CEO Colin Adams…",
+      "title": "The Agentic Edge: Who Has It and How to Get It",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-agentic-edge-who-has-it-and-how-to-get-it/",
+      "summary": "Remember travel agents? Not the AI kind. The real people kind. For anyone under the age of 30, here’s how it worked. You walked into a little storefront with a poster of a Caribbean island in the window and sat across the desk from someone with a headset and a multi-line landline phone, typing into…",
       "source": "PYMNTS AI",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-19T20:17:26.000Z",
+      "date": "2026-10-21T08:00:14.000Z",
       "topic": "AI Business",
-      "importance": 8.1,
+      "importance": 8,
       "isFocus": true
     },
     {
@@ -2938,20 +2980,6 @@
       "topic": "Models & Labs",
       "importance": 8,
       "isFocus": false
-    },
-    {
-      "title": "The Agentic Edge: Who Has It and How to Get It",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-agentic-edge-who-has-it-and-how-to-get-it/",
-      "summary": "Remember travel agents? Not the AI kind. The real people kind. For anyone under 30, here’s how it worked. You walked into a little storefront with a poster of a Caribbean island in the window and sat across the desk from someone with a phone wedged on one shoulder, typing into a green screen. It ……",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T08:00:14.000Z",
-      "topic": "AI Business",
-      "importance": 8,
-      "isFocus": true
     },
     {
       "title": "Trump administration orders ban on DeepSeek in federal agencies",
@@ -3178,6 +3206,34 @@
       "isFocus": true
     },
     {
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T10:30:00.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
+      "title": "25% of Card Replacement Calls Point to an AI Opportunity",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/25-percent-of-card-replacement-calls-point-to-an-ai-opportunity/",
+      "summary": "A replacement card could give issuers a practical way to turn artificial intelligence (AI) investment into faster service and fewer customer calls. That opportunity anchors the third key finding in “Why Modern Issuing Platforms Will Determine Which AI Strategies Succeed,” a PYMNTS Intelligence…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T08:00:13.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
       "title": "Dell sees company knowledge, not AI models, as its competitive edge",
       "url": "https://siliconangle.com/2026/10/20/ai-operating-model-dell-treats-company-knowledge-competitive-edge-dellnewyorksymposium/",
       "summary": "As AI agents take on more work that people used to do, enterprises need an AI operating model to match. That means changing how people, processes and work are organized, not just which tools get deployed. Dell Technologies Inc. has spent close to two years running fully autonomous agents inside its…",
@@ -3243,20 +3299,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-12T13:14:40.000Z",
-      "topic": "Models & Labs",
-      "importance": 7.6,
-      "isFocus": false
-    },
-    {
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents…",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-07T18:45:28.000Z",
       "topic": "Models & Labs",
       "importance": 7.6,
       "isFocus": false
@@ -3346,20 +3388,6 @@
       "isFocus": false
     },
     {
-      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-      "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI…",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-14T06:00:28.000Z",
-      "topic": "Models & Labs",
-      "importance": 7.300000000000001,
-      "isFocus": false
-    },
-    {
       "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
       "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
       "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present…",
@@ -3371,6 +3399,20 @@
       "date": "2026-10-20T13:06:44.000Z",
       "topic": "AI Business",
       "importance": 7.3,
+      "isFocus": true
+    },
+    {
+      "title": "AI Labs Pay Lawyers $400 an Hour to Train Models",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-labs-pay-lawyers-400-an-hour-to-train-models/",
+      "summary": "A civil rights attorney can now earn $400 an hour with no client involved. Recruiters are advertising that rate for attorneys, $170 an hour for condensed matter physics experts and up to $120 for software engineers, all to “help train next-generation AI systems,” Bloomberg reported. Mercor, a…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T20:25:44.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
       "isFocus": true
     },
     {
@@ -3390,7 +3432,7 @@
     {
       "title": "Steam Users Beg for No AI Filter as Vibecoders Flood Next Fest",
       "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 172 # Comments: 201",
+      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 177 # Comments: 211",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3430,20 +3472,6 @@
       "isFocus": true
     },
     {
-      "title": "DHS Bans DeepSeek Across Federal Government Networks",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/dhs-bans-deepseek-across-federal-government-networks/",
-      "summary": "The Department of Homeland Security (DHS) has issued an order banning federal civilian agencies from acquiring products and services developed by DeepSeek and requiring them to remove the company’s products from their information technology. DHS included these requirements in a notice of order…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T17:29:30.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
       "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
       "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
@@ -3474,7 +3502,7 @@
     {
       "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
       "url": "https://100toolkit.com/blog/deslop-model/",
-      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 154 # Comments: 110",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 155 # Comments: 111",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3598,20 +3626,6 @@
       "isFocus": false
     },
     {
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T20:05:08.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that…",
@@ -3628,7 +3642,7 @@
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 628 # Comments: 574",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 628 # Comments: 575",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3920,18 +3934,18 @@
       "isFocus": false
     },
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for…",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": false,
+      "title": "Robot Arms Finally Crack the Meal Assembly Line",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/robot-arms-finally-crack-the-meal-assembly-line/",
+      "summary": "For a long time, robots made little economic sense for food manufacturers juggling many recipes, each with its own mix of ingredients. Chef Robotics, a San Francisco startup that sells artificial intelligence (AI)-guided robot arms to food plants, now says its robots have handled more than 120…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
       "researchOnly": false,
-      "date": "2026-10-09T16:00:35.000Z",
-      "topic": "Models & Labs",
-      "importance": 6.800000000000001,
-      "isFocus": false
+      "date": "2026-10-20T17:38:54.000Z",
+      "topic": "AI Business",
+      "importance": 6.8,
+      "isFocus": true
     },
     {
       "title": "A visit to Samsung’s massive new semiconductor hub",
@@ -3990,6 +4004,34 @@
       "isFocus": false
     },
     {
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "summary": "",
+      "source": "Hugging Face",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T10:59:42.000Z",
+      "topic": "Open Source",
+      "importance": 6.7,
+      "isFocus": false
+    },
+    {
+      "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+      "summary": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T10:00:07.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.7,
+      "isFocus": false
+    },
+    {
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "url": "https://huggingface.co/blog/hf-torchtpu",
       "summary": "",
@@ -4018,18 +4060,46 @@
       "isFocus": false
     },
     {
-      "title": "AINews Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "summary": "Our head hurts.",
-      "source": "Latent Space",
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on…",
+      "source": "NVIDIA",
       "feedTopic": "Models & Labs",
       "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T10:50:37.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.5,
+      "isFocus": false
+    },
+    {
+      "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+      "summary": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-20T10:30:11.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.5,
+      "isFocus": false
+    },
+    {
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+      "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-07T04:55:44.000Z",
-      "topic": "Models & Labs",
-      "importance": 6.7,
-      "isFocus": false
+      "date": "2026-10-21T08:30:00.000Z",
+      "topic": "AI Business",
+      "importance": 6.4,
+      "isFocus": true
     },
     {
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
@@ -4111,20 +4181,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-14T12:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 6.4,
-      "isFocus": false
-    },
-    {
-      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-      "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery…",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-12T15:00:25.000Z",
       "topic": "Models & Labs",
       "importance": 6.4,
       "isFocus": false
@@ -4293,20 +4349,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-18T10:30:00.000Z",
-      "topic": "AI Business",
-      "importance": 6,
-      "isFocus": true
-    },
-    {
-      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T15:00:00.000Z",
       "topic": "AI Business",
       "importance": 6,
       "isFocus": true
@@ -4494,17 +4536,17 @@
       "isFocus": false
     },
     {
-      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-      "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology…",
-      "source": "NVIDIA",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+      "url": "https://www.latent.space/p/tenex",
+      "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
+      "source": "Latent Space",
       "feedTopic": "Models & Labs",
       "weight": 2,
-      "native": false,
+      "native": true,
       "researchOnly": false,
-      "date": "2026-10-15T05:00:12.000Z",
+      "date": "2026-10-21T05:01:26.000Z",
       "topic": "Models & Labs",
-      "importance": 5.7,
+      "importance": 5.6,
       "isFocus": false
     },
     {
@@ -4574,20 +4616,6 @@
       "researchOnly": true,
       "date": "2026-10-21T04:00:00.000Z",
       "topic": "Research",
-      "importance": 5.6,
-      "isFocus": false
-    },
-    {
-      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-      "url": "https://www.latent.space/p/stacklok",
-      "summary": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-07T14:10:45.000Z",
-      "topic": "Models & Labs",
       "importance": 5.6,
       "isFocus": false
     },
@@ -4760,6 +4788,34 @@
       "isFocus": false
     },
     {
+      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle. Bringing those…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T10:30:40.000Z",
+      "topic": "Models & Labs",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
+      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+      "summary": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-21T09:30:16.000Z",
+      "topic": "Models & Labs",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
       "title": "When Does Experience Memory Help Closed-Loop LLM Driving Agents? A Controlled Evaluation with Resampled Warmup Pools, Token-Matched Fillers, and Audited Baselines",
       "url": "https://arxiv.org/abs/2610.27714",
       "summary": "arXiv:2610.27714v1 Announce Type: new Abstract: When does experience memory help a closed-loop LLM driving agent? Published gains cannot say, because the two factors we find to matter most, which warmup experiences the pool contains and what any injected tokens do to the prompt, are controlled in…",
@@ -4826,20 +4882,6 @@
       "researchOnly": true,
       "date": "2026-10-21T04:00:00.000Z",
       "topic": "Research",
-      "importance": 5.2,
-      "isFocus": false
-    },
-    {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "summary": "",
-      "source": "Hugging Face",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T18:17:47.000Z",
-      "topic": "Open Source",
       "importance": 5.2,
       "isFocus": false
     },
@@ -5441,6 +5483,20 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-10T22:07:17.000Z",
+      "topic": "Models & Labs",
+      "importance": 4,
+      "isFocus": false
+    },
+    {
+      "title": "AINews not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+      "summary": "a quiet day.",
+      "source": "Latent Space",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-08T23:29:43.000Z",
       "topic": "Models & Labs",
       "importance": 4,
       "isFocus": false

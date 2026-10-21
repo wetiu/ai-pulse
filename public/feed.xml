@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 21 Oct 2026 04:44:21 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 11:47:09 GMT</lastBuildDate>
   <item>
     <title>Deepseek open-sources the inference engine that powers its fastest and cheapest AI model</title>
     <link>https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/</link>
@@ -13,6 +13,14 @@
     <pubDate>Tue, 20 Oct 2026 18:56:15 GMT</pubDate>
     <category>AI Business</category>
     <description>Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepseek open-sources the…</description>
+  </item>
+  <item>
+    <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
+    <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</guid>
+    <pubDate>Wed, 21 Oct 2026 10:30:41 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics,…</description>
   </item>
   <item>
     <title>Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time</title>
@@ -47,12 +55,12 @@
     <description>Small business software marketplace Pax8 Inc. today launched 8os, an operating system that lets its information technology service provider partners govern the artificial intelligence agents running inside their customers’ businesses. A second product, 8bot, gives those customers’ employees a…</description>
   </item>
   <item>
-    <title>TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web</title>
-    <link>https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/</guid>
-    <pubDate>Sun, 18 Oct 2026 18:20:28 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs.…</description>
+    <title>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</title>
+    <link>https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/</guid>
+    <pubDate>Wed, 21 Oct 2026 10:45:17 GMT</pubDate>
+    <category>AI Business</category>
+    <description>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…</description>
   </item>
   <item>
     <title>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
@@ -61,6 +69,14 @@
     <pubDate>Mon, 19 Oct 2026 12:45:23 GMT</pubDate>
     <category>Web Dev</category>
     <description>Frontier models span language, video and audio, on architectures from dense and mixture-of-experts transformers to diffusion, state-space, world and structure-prediction models. PyTorch is where AI research happens, where the models... The post Introducing TorchNeuron: Native PyTorch backend for…</description>
+  </item>
+  <item>
+    <title>OpenAI acquires Orchestra Bio to build AI agents that speed up drug development</title>
+    <link>https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/</guid>
+    <pubDate>Wed, 21 Oct 2026 08:32:54 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on…</description>
   </item>
   <item>
     <title>OpenAI acquires Orchestra Bio to bring AI agents into drug development</title>
@@ -87,14 +103,6 @@
     <description>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.</description>
   </item>
   <item>
-    <title>NVIDIA Announces New Investments in France’s Startups</title>
-    <link>https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/</guid>
-    <pubDate>Tue, 13 Oct 2026 05:00:31 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action…</description>
-  </item>
-  <item>
     <title>Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed</title>
     <link>https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/</guid>
@@ -119,12 +127,28 @@
     <description>Under the program, the vendor provides enterprises with models that can defend against bad actors.</description>
   </item>
   <item>
-    <title>NVIDIA Announces New Investments in the UK Startup Ecosystem</title>
-    <link>https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</guid>
-    <pubDate>Wed, 14 Oct 2026 06:04:15 GMT</pubDate>
+    <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
+    <link>https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</guid>
+    <pubDate>Wed, 21 Oct 2026 10:10:01 GMT</pubDate>
     <category>AI Business</category>
-    <description>Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250…</description>
+    <description>Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor…</description>
+  </item>
+  <item>
+    <title>Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK</title>
+    <link>https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</guid>
+    <pubDate>Wed, 21 Oct 2026 06:03:12 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared…</description>
+  </item>
+  <item>
+    <title>DeepSeek Open Sources Inference Tech to Lower AI Costs</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/</guid>
+    <pubDate>Tue, 20 Oct 2026 18:52:07 GMT</pubDate>
+    <category>AI Business</category>
+    <description>DeepSeek has made its in-house inference framework, DeepInfer, fully open source, saying this will help make artificial intelligence more affordable. DeepInfer powers the company’s DeepSeek-V4.1-Flash model at scale with high throughput and low latency, DeepSeek said in a Tuesday (Oct. 20) post on…</description>
   </item>
   <item>
     <title>Cloudflare&#39;s Clairic pulls data from documents faster and cheaper than LLMs</title>
@@ -191,12 +215,12 @@
     <description>Google LLC is striving to pry open Nvidia Corp.’s grip on the artificial intelligence computing industry with the launch of a specialized version of the open-source PyTorch framework, called TorchTPU, which is designed to eliminate a key advantage of its rival. One of the reasons why Nvidia and its…</description>
   </item>
   <item>
-    <title>Mastercard Debuts Tool to Help AI Agents Purchase Digital Services</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/mastercard-debuts-tool-to-help-ai-agents-purchase-digital-services/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/mastercard-debuts-tool-to-help-ai-agents-purchase-digital-services/</guid>
-    <pubDate>Tue, 20 Oct 2026 16:00:46 GMT</pubDate>
+    <title>Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets</title>
+    <link>https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/</guid>
+    <pubDate>Wed, 21 Oct 2026 04:33:40 GMT</pubDate>
     <category>AI Business</category>
-    <description>Mastercard has launched early access to Agent Pay for Machines, a tool designed to let autonomous artificial intelligence agents purchase digital services. The new offering builds on x402, an open protocol that allows digital services to request payment online, and “connects it with the trust,…</description>
+    <description>Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for…</description>
   </item>
   <item>
     <title>NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration</title>
@@ -205,6 +229,14 @@
     <pubDate>Mon, 19 Oct 2026 03:19:18 GMT</pubDate>
     <category>Open Source</category>
     <description>NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration…</description>
+  </item>
+  <item>
+    <title>AINews DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
+    <link>https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</link>
+    <guid isPermaLink="true">https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</guid>
+    <pubDate>Wed, 21 Oct 2026 06:54:09 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>An open source “bomb” drops from China</description>
   </item>
   <item>
     <title>Nvidia, Dell back $200M round for AI model developer doubleAI</title>
@@ -247,14 +279,6 @@
     <description>DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only. The post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind…</description>
   </item>
   <item>
-    <title>Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3</title>
-    <link>https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/</guid>
-    <pubDate>Mon, 19 Oct 2026 01:18:17 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3…</description>
-  </item>
-  <item>
     <title>DeepSeek and what enterprises should learn from AI agent exploits</title>
     <link>https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits</link>
     <guid isPermaLink="true">https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits</guid>
@@ -285,14 +309,6 @@
     <pubDate>Tue, 20 Oct 2026 22:24:09 GMT</pubDate>
     <category>AI Business</category>
     <description>Otter.ai Inc., the developer of a popular artificial intelligence meeting assistant, today announced that it has raised $320 million in funding. The capital came entirely from General Catalyst’s Customer Value Fund. The investment vehicle provides startups with financing for sales and marketing…</description>
-  </item>
-  <item>
-    <title>Google Offers Gemini Agent to Government Workers</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/google-offers-gemini-agent-to-government-workers/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/google-offers-gemini-agent-to-government-workers/</guid>
-    <pubDate>Tue, 20 Oct 2026 15:40:23 GMT</pubDate>
-    <category>AI Business</category>
-    <description>After introducing an artificial intelligence (AI) agent for workers in the private sector, Google is shifting its focus to public employees. The tech giant on Tuesday (Oct. 20) announced the preview of its Gemini agent for government services, following the recent launch of Gemini at Work. “Every…</description>
   </item>
   <item>
     <title>AuxoAI raises over $20M to bring AI expertise to the enterprise and redesign how work gets done</title>
@@ -463,20 +479,20 @@
     <description>As agents take on more work for users, companies are deciding whether to let outside AI systems act on their platforms.</description>
   </item>
   <item>
-    <title>OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-racing-to-raise-30-billion-ahead-of-anthropic-listing/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-racing-to-raise-30-billion-ahead-of-anthropic-listing/</guid>
-    <pubDate>Tue, 20 Oct 2026 10:36:11 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI is reportedly rushing to lockdown investors before chief competitor Anthropic goes public next month. That’s according to a report Monday (Oct. 19) by Reuters, which describes the effort as “unusually fast fundraising” that could bring OpenAI’s valuation to more than $1.4 trillion. Two…</description>
-  </item>
-  <item>
     <title>NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production</title>
     <link>https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</guid>
     <pubDate>Mon, 19 Oct 2026 15:00:31 GMT</pubDate>
     <category>Art &amp; Creative</category>
     <description>At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign…</description>
+  </item>
+  <item>
+    <title>NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure</title>
+    <link>https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</guid>
+    <pubDate>Wed, 21 Oct 2026 10:30:02 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that…</description>
   </item>
   <item>
     <title>MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input</title>
@@ -559,28 +575,20 @@
     <description>Unity&#39;s new tool allows prompt-based game development, working in collaboration with Google AI.</description>
   </item>
   <item>
+    <title>Meta’s Muse Reaches 10 Million Downloads Faster Than ChatGPT</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-reaches-10-million-downloads-faster-than-chatgpt/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-reaches-10-million-downloads-faster-than-chatgpt/</guid>
+    <pubDate>Tue, 20 Oct 2026 21:53:30 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Meta’s personal artificial intelligence assistant Muse was downloaded more than 10 million times in the United States and Canada during the first 35 days it was available, digital market insights platform Sensor Tower said in a Monday (Oct. 19) post on LinkedIn. In terms of downloads, Muse outpaced…</description>
+  </item>
+  <item>
     <title>Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
     <link>https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</guid>
     <pubDate>Tue, 20 Oct 2026 00:03:38 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score…</description>
-  </item>
-  <item>
-    <title>Nvidia-Backed doubleAI Debuts AI ‘Code Execution’ Models</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-backed-double-ai-debuts-ai-code-execution-models/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-backed-double-ai-debuts-ai-code-execution-models/</guid>
-    <pubDate>Mon, 19 Oct 2026 16:39:11 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Israeli startup doubleAI is reportedly set to introduce what it describes as a new category of artificial intelligence (AI). The company, whose backers include Nvidia and Dell, calls this new category “code execution” models (CEMs) which place the AI “between code and silicon,” the Wall Street…</description>
-  </item>
-  <item>
-    <title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
-    <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</guid>
-    <pubDate>Tue, 13 Oct 2026 12:00:49 GMT</pubDate>
-    <category>App Dev</category>
-    <description>NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and …</description>
   </item>
   <item>
     <title>Introducing the Agent Experience (AX) Practitioner Playbook</title>
@@ -596,7 +604,7 @@
     <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</guid>
     <pubDate>Tue, 20 Oct 2026 23:01:23 GMT</pubDate>
     <category>AI Business</category>
-    <description>The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model&#39;s release without the permission of a judge.</description>
+    <description>The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model&#39;s release without the permission of a judge.</description>
   </item>
   <item>
     <title>Eka is worth $1.45B thanks to a physical AI model that has experts raving</title>
@@ -637,14 +645,6 @@
     <pubDate>Tue, 20 Oct 2026 22:24:02 GMT</pubDate>
     <category>AI Business</category>
     <description>Before you share the Netflix documentary AI Gone Rogue, take note. Clem Delangue, Hugging Face&#39;s co-founder who is featured in the film, says it went full doomer mode and isn&#39;t accurate.</description>
-  </item>
-  <item>
-    <title>Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</title>
-    <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</guid>
-    <pubDate>Tue, 20 Oct 2026 18:38:24 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.</description>
   </item>
 </channel>
 </rss>
