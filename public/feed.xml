@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 21 Oct 2026 11:47:09 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 17:11:13 GMT</lastBuildDate>
   <item>
     <title>Deepseek open-sources the inference engine that powers its fastest and cheapest AI model</title>
     <link>https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/</link>
@@ -47,6 +47,14 @@
     <description>Chinese artificial intelligence developer MiniMax Group Inc. today released M3.1 Flash, a faster and cheaper update to the M3 large language model it launched in June. The release takes aim at the cost of running AI agents, which often need dozens of model calls to finish a single job. MiniMax said…</description>
   </item>
   <item>
+    <title>Pigment Raises $250 Million for Agentic AI Platform</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/pigment-raises-250-million-dollars-agentic-ai-platform/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/pigment-raises-250-million-dollars-agentic-ai-platform/</guid>
+    <pubDate>Wed, 21 Oct 2026 16:20:28 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Business planning and performance management platform Pigment is worth $2.3 billion after raising $250 million in a Series E funding round, according to a Wednesday (Oct. 21) press release. The financing will help Pigment further develop its compute engine Graphite and the artificial intelligence…</description>
+  </item>
+  <item>
     <title>Pax8 launches 8os to let IT partners govern AI agents and 8bot as a managed AI co-worker</title>
     <link>https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/</guid>
@@ -77,6 +85,14 @@
     <pubDate>Wed, 21 Oct 2026 08:32:54 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on…</description>
+  </item>
+  <item>
+    <title>Red Hat and Nvidia expand their partnership to secure autonomous AI agents</title>
+    <link>https://siliconangle.com/2026/10/21/red-hat-and-nvidia-expand-their-partnership-to-secure-autonomous-ai-agents/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/21/red-hat-and-nvidia-expand-their-partnership-to-secure-autonomous-ai-agents/</guid>
+    <pubDate>Wed, 21 Oct 2026 15:25:52 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Red Hat Inc. today expanded its collaboration with Nvidia Corp. to help enterprises secure autonomous artificial intelligence agents, govern access to AI models and deploy workloads on Nvidia’s upcoming Vera Rubin data center infrastructure. Announced at Nvidia’s GTC event in Berlin, the updates…</description>
   </item>
   <item>
     <title>OpenAI acquires Orchestra Bio to bring AI agents into drug development</title>
@@ -143,36 +159,12 @@
     <description>Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared…</description>
   </item>
   <item>
-    <title>DeepSeek Open Sources Inference Tech to Lower AI Costs</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/</guid>
-    <pubDate>Tue, 20 Oct 2026 18:52:07 GMT</pubDate>
-    <category>AI Business</category>
-    <description>DeepSeek has made its in-house inference framework, DeepInfer, fully open source, saying this will help make artificial intelligence more affordable. DeepInfer powers the company’s DeepSeek-V4.1-Flash model at scale with high throughput and low latency, DeepSeek said in a Tuesday (Oct. 20) post on…</description>
-  </item>
-  <item>
-    <title>Cloudflare&#39;s Clairic pulls data from documents faster and cheaper than LLMs</title>
-    <link>https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/</link>
-    <guid isPermaLink="true">https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/</guid>
-    <pubDate>Tue, 20 Oct 2026 12:04:56 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models. The article Cloudflare&#39;s Clairic pulls data from documents faster and cheaper than LLMs appeared first on The Decoder .</description>
-  </item>
-  <item>
     <title>AINews TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch</title>
     <link>https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b</link>
     <guid isPermaLink="true">https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b</guid>
     <pubDate>Sat, 10 Oct 2026 06:45:57 GMT</pubDate>
     <category>AI Business</category>
     <description>Wow.</description>
-  </item>
-  <item>
-    <title>Introducing Playground: Create and play custom games</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</link>
-    <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</guid>
-    <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>&lt;img src= https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp &gt;Playground is a new experimental gaming platform that lets you create, play, and share custom games.</description>
   </item>
   <item>
     <title>Japan Actors Union announces guidelines addressing unauthorised use of generative AI to replicate voice performances</title>
@@ -197,6 +189,14 @@
     <pubDate>Tue, 20 Oct 2026 03:32:43 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks. The post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on…</description>
+  </item>
+  <item>
+    <title>China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home</title>
+    <link>https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/</link>
+    <guid isPermaLink="true">https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/</guid>
+    <pubDate>Wed, 21 Oct 2026 13:04:19 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China&#39;s outrage isn&#39;t very credible, but it should be taken seriously as a political signal of…</description>
   </item>
   <item>
     <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
@@ -239,14 +239,6 @@
     <description>An open source “bomb” drops from China</description>
   </item>
   <item>
-    <title>Nvidia, Dell back $200M round for AI model developer doubleAI</title>
-    <link>https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/</guid>
-    <pubDate>Mon, 19 Oct 2026 22:49:59 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Artificial intelligence developer doubleAI today announced that it has raised $200 million in funding. Lightspeed and Bessemer co-led the Series A round. They were joined by Nvidia Corp., Dell Technologies Inc. and several others. CTech reported that the investment values doubleAI at more than $1…</description>
-  </item>
-  <item>
     <title>MiniMax M3.1 Flash now available on AI Gateway for free</title>
     <link>https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free</link>
     <guid isPermaLink="true">https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free</guid>
@@ -285,14 +277,6 @@
     <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>A new case of an out-of-control AI model shows that enterprises should treat models and agents as toddlers that need supervision and explicit instructions.</description>
-  </item>
-  <item>
-    <title>RapidCanvas raises $29M to develop custom AI applications for enterprises</title>
-    <link>https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/</guid>
-    <pubDate>Fri, 16 Oct 2026 20:19:25 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Software development startup RapidCanvas Inc. today announced that it has raised $29 million in funding. Vertex Ventures SEA &amp; India led the Series B round with contributions from Hitachi Ventures, Accel, Peak XV Partners, Valley Capital Partners and Titanium Ventures. The deal follows a $16…</description>
   </item>
   <item>
     <title>Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs</title>
@@ -351,12 +335,20 @@
     <description>Step 5 Preview , StepFun&#39;s flagship model, is now available on AI Gateway . It&#39;s built for agentic coding, professional knowledge work, and financial analysis, from building apps and debugging code to research and analytical reports. Step 5 Preview supports text and image input with a 1M-token…</description>
   </item>
   <item>
-    <title>Unity unveils a web-based AI game creation platform</title>
-    <link>https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform</link>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform</guid>
-    <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>Today marks the launch of Playground, a new Google platform for generating games using natural language prompts, and it will soon host a version of Unity based around generative AI agents. Read more</description>
+    <title>Mistral and Nvidia want to speed up industrial design with physics AI</title>
+    <link>https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/</link>
+    <guid isPermaLink="true">https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/</guid>
+    <pubDate>Wed, 21 Oct 2026 14:40:51 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder .</description>
+  </item>
+  <item>
+    <title>OpenAI Brings Its Frontier AI Models to Google Cloud</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-its-frontier-ai-models-to-google-cloud/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-its-frontier-ai-models-to-google-cloud/</guid>
+    <pubDate>Wed, 21 Oct 2026 14:26:08 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI has launched a new partnership with artificial intelligence (AI) rival Google. This collaboration brings OpenAI’s frontier AI models and Codex⁠ agentic workflows to Google Cloud’s Model Garden, the companies announced Wednesday (Oct. 21). The integration is designed to give customers “native…</description>
   </item>
   <item>
     <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
@@ -373,6 +365,14 @@
     <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a…</description>
+  </item>
+  <item>
+    <title>OpenAI models are coming to Google Cloud</title>
+    <link>https://openai.com/index/openai-models-google-cloud</link>
+    <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
   </item>
   <item>
     <title>Motive brings agentic AI to physical operations with agents that act before problems escalate</title>
@@ -479,6 +479,14 @@
     <description>As agents take on more work for users, companies are deciding whether to let outside AI systems act on their platforms.</description>
   </item>
   <item>
+    <title>Inception&#39;s Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait</title>
+    <link>https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</link>
+    <guid isPermaLink="true">https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</guid>
+    <pubDate>Wed, 21 Oct 2026 14:45:45 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception&#39;s Mercury 3 diffusion…</description>
+  </item>
+  <item>
     <title>NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production</title>
     <link>https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</guid>
@@ -567,12 +575,12 @@
     <description>Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes. Read more</description>
   </item>
   <item>
-    <title>Unity unveils Unity Spark, an prompt-based tool for Google&#39;s AI game platform</title>
-    <link>https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform</link>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform</guid>
-    <pubDate>Wed, 07 Oct 2026 12:05:56 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>Unity&#39;s new tool allows prompt-based game development, working in collaboration with Google AI.</description>
+    <title>FTC, SEC Scrutiny Raises Stakes for AI Data Disclosures</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/federal-trade-commission-securities-exchange-commission-scrutiny-raises-stakes-ai-data-disclosures/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/federal-trade-commission-securities-exchange-commission-scrutiny-raises-stakes-ai-data-disclosures/</guid>
+    <pubDate>Wed, 21 Oct 2026 15:07:12 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Businesses deploying artificial intelligence face growing legal exposure when their descriptions of data practices fail to match how their systems operate. Updating privacy policies or terms of service after introducing AI features can leave companies exposed to regulatory scrutiny and customer…</description>
   </item>
   <item>
     <title>Meta’s Muse Reaches 10 Million Downloads Faster Than ChatGPT</title>
@@ -599,6 +607,22 @@
     <description>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don&#39;t. The post Introducing the Agent Experience (AX)…</description>
   </item>
   <item>
+    <title>OpenAI says an AI agent lied about disabling its safety monitoring system</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
+    <pubDate>Wed, 21 Oct 2026 13:57:43 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. The reference didn&#39;t…</description>
+  </item>
+  <item>
+    <title>Nvidia&#39;s DSX POD could cut AI data center setup from six months to as little as 14 days</title>
+    <link>https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/</link>
+    <guid isPermaLink="true">https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/</guid>
+    <pubDate>Wed, 21 Oct 2026 13:42:05 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia&#39;s DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder .</description>
+  </item>
+  <item>
     <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
     <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</guid>
@@ -621,30 +645,6 @@
     <pubDate>Tue, 20 Oct 2026 00:41:33 GMT</pubDate>
     <category>AI Business</category>
     <description>Town.com Inc., an artificial intelligence agent startup laser focused on getting work done by collaborating with other AI agents, revealed today that it has raised $108 million in a new funding at a $1 billion valuation. The Series B round was led by Forerunner Ventures and Menlo Ventures, and saw…</description>
-  </item>
-  <item>
-    <title>Python on Vercel is now generally available</title>
-    <link>https://vercel.com/changelog/python-on-vercel-is-now-generally-available</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/python-on-vercel-is-now-generally-available</guid>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
-  </item>
-  <item>
-    <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
-    <link>https://openai.com/index/oracle</link>
-    <guid isPermaLink="true">https://openai.com/index/oracle</guid>
-    <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
-  </item>
-  <item>
-    <title>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</title>
-    <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</guid>
-    <pubDate>Tue, 20 Oct 2026 22:24:02 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Before you share the Netflix documentary AI Gone Rogue, take note. Clem Delangue, Hugging Face&#39;s co-founder who is featured in the film, says it went full doomer mode and isn&#39;t accurate.</description>
   </item>
 </channel>
 </rss>
