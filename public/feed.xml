@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Tue, 20 Oct 2026 21:36:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 04:44:21 GMT</lastBuildDate>
   <item>
     <title>Deepseek open-sources the inference engine that powers its fastest and cheapest AI model</title>
     <link>https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/</link>
@@ -63,6 +63,14 @@
     <description>Frontier models span language, video and audio, on architectures from dense and mixture-of-experts transformers to diffusion, state-space, world and structure-prediction models. PyTorch is where AI research happens, where the models... The post Introducing TorchNeuron: Native PyTorch backend for…</description>
   </item>
   <item>
+    <title>OpenAI acquires Orchestra Bio to bring AI agents into drug development</title>
+    <link>https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/</guid>
+    <pubDate>Tue, 20 Oct 2026 23:40:20 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI Group PBC revealed today that it has acquired drug development software startup Orchestra Bio Inc. Orchestra builds artificial intelligence agents that help pharmaceutical teams keep development programs on track,. Its staff and technology will now sit inside OpenAI’s Rosalind life sciences…</description>
+  </item>
+  <item>
     <title>Amp puts AI agents to work beyond code with OpenAI models</title>
     <link>https://openai.com/index/amp-beyond-coding</link>
     <guid isPermaLink="true">https://openai.com/index/amp-beyond-coding</guid>
@@ -87,6 +95,14 @@
     <description>Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action…</description>
   </item>
   <item>
+    <title>Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed</title>
+    <link>https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/</guid>
+    <pubDate>Tue, 20 Oct 2026 22:45:02 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company’s own benchmarks, Mercury 3 beat OpenAI Group PBC’s GPT-6 Luna and Anthropic PBC’s Claude Haiku 5.5 on eight of 12 tests at four to eight times their speed. The release takes on the…</description>
+  </item>
+  <item>
     <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
     <link>https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm</link>
     <guid isPermaLink="true">https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm</guid>
@@ -109,22 +125,6 @@
     <pubDate>Wed, 14 Oct 2026 06:04:15 GMT</pubDate>
     <category>AI Business</category>
     <description>Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250…</description>
-  </item>
-  <item>
-    <title>Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool</title>
-    <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</guid>
-    <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for…</description>
-  </item>
-  <item>
-    <title>DeepSeek Open Sources Inference Tech to Lower AI Costs</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/</guid>
-    <pubDate>Tue, 20 Oct 2026 18:52:07 GMT</pubDate>
-    <category>AI Business</category>
-    <description>DeepSeek has made its in-house inference framework, DeepInfer, fully open source, saying this will help make artificial intelligence more affordable. DeepInfer powers the company’s DeepSeek-V4.1-Flash model at scale with high throughput and low latency, DeepSeek said in a Tuesday (Oct. 20) post on…</description>
   </item>
   <item>
     <title>Cloudflare&#39;s Clairic pulls data from documents faster and cheaper than LLMs</title>
@@ -183,6 +183,14 @@
     <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</description>
   </item>
   <item>
+    <title>Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute</title>
+    <link>https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/</guid>
+    <pubDate>Wed, 21 Oct 2026 01:29:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google LLC is striving to pry open Nvidia Corp.’s grip on the artificial intelligence computing industry with the launch of a specialized version of the open-source PyTorch framework, called TorchTPU, which is designed to eliminate a key advantage of its rival. One of the reasons why Nvidia and its…</description>
+  </item>
+  <item>
     <title>Mastercard Debuts Tool to Help AI Agents Purchase Digital Services</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/mastercard-debuts-tool-to-help-ai-agents-purchase-digital-services/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/mastercard-debuts-tool-to-help-ai-agents-purchase-digital-services/</guid>
@@ -197,14 +205,6 @@
     <pubDate>Mon, 19 Oct 2026 03:19:18 GMT</pubDate>
     <category>Open Source</category>
     <description>NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration…</description>
-  </item>
-  <item>
-    <title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
-    <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</guid>
-    <pubDate>Mon, 19 Oct 2026 20:09:24 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.</description>
   </item>
   <item>
     <title>Nvidia, Dell back $200M round for AI model developer doubleAI</title>
@@ -231,12 +231,12 @@
     <description>Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters…</description>
   </item>
   <item>
-    <title>OpenAI Decisions API now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/openai-decisions-api-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/openai-decisions-api-now-available-on-ai-gateway</guid>
-    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>OpenAI’s Decisions API is now available through AI Gateway at /v1/decisions . It uses the same request and response format as OpenAI, so existing OpenAI SDK integrations can switch by changing the base URL, credentials, and model ID. Decision models answer typed questions about shared input and…</description>
+    <title>DeepSeek open-sources DeepInfer, the inference framework behind its production services</title>
+    <link>https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/</guid>
+    <pubDate>Tue, 20 Oct 2026 23:11:43 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. today open-sourced DeepInfer, the inference framework behind its own production services. The release takes on the cost of serving large models to the public. DeepSeek calls reaching…</description>
   </item>
   <item>
     <title>DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash</title>
@@ -279,6 +279,14 @@
     <description>Google and Meta open-sourced TorchTPU, a native PyTorch backend for Cloud TPUs. It runs eager by default, compiles through torch.compile and XLA, and replaces PyTorch/XLA for new workloads. The post Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs appeared first on MarkTechPost…</description>
   </item>
   <item>
+    <title>Otter.ai raises $320M in funding for its AI meeting assistant</title>
+    <link>https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/</guid>
+    <pubDate>Tue, 20 Oct 2026 22:24:09 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Otter.ai Inc., the developer of a popular artificial intelligence meeting assistant, today announced that it has raised $320 million in funding. The capital came entirely from General Catalyst’s Customer Value Fund. The investment vehicle provides startups with financing for sales and marketing…</description>
+  </item>
+  <item>
     <title>Google Offers Gemini Agent to Government Workers</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/google-offers-gemini-agent-to-government-workers/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/google-offers-gemini-agent-to-government-workers/</guid>
@@ -301,14 +309,6 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with…</description>
-  </item>
-  <item>
-    <title>Meta releases 816B-parameter Muse Spark Open for coding and agent work</title>
-    <link>https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/</guid>
-    <pubDate>Thu, 15 Oct 2026 22:20:54 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Meta Platforms Inc. today released open weights for its Muse Spark artificial intelligence model, which had been proprietary since its April debut. The release, called Muse Spark Open, is built for coding and long-running agent work. Meta describes it as the most capable open-weight model to come…</description>
   </item>
   <item>
     <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
@@ -471,14 +471,6 @@
     <description>OpenAI is reportedly rushing to lockdown investors before chief competitor Anthropic goes public next month. That’s according to a report Monday (Oct. 19) by Reuters, which describes the effort as “unusually fast fundraising” that could bring OpenAI’s valuation to more than $1.4 trillion. Two…</description>
   </item>
   <item>
-    <title>Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌</title>
-    <link>https://tldr.tech/ai/2026-10-07</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production</title>
     <link>https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</guid>
@@ -495,12 +487,20 @@
     <description>MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on…</description>
   </item>
   <item>
-    <title>Claude Haiku 5.5 now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/claude-haiku-5-5-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/claude-haiku-5-5-now-available-on-ai-gateway</guid>
-    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Claude Haiku 5.5 from Anthropic is now available on AI Gateway . Haiku 5.5 is built for high-volume, cost-sensitive tasks such as summarization, context compaction, database queries, and classification. It can also handle coding subtasks alongside larger Claude models. It&#39;s the fastest Claude model…</description>
+    <title>Exclusive: Photon Bridge raises €10m to build laser devices that connect AI chips</title>
+    <link>https://sifted.eu/articles/photon-bridge-laser-device-ai-chips-seed-round/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/photon-bridge-laser-device-ai-chips-seed-round/</guid>
+    <pubDate>Wed, 21 Oct 2026 05:00:26 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool</title>
+    <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</guid>
+    <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.</description>
   </item>
   <item>
     <title>UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly</title>
@@ -535,14 +535,6 @@
     <description>Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs…</description>
   </item>
   <item>
-    <title>AI personal finance platform Matters raises $5m pre-seed</title>
-    <link>https://sifted.eu/articles/matters-5m-pre-seed/</link>
-    <guid isPermaLink="true">https://sifted.eu/articles/matters-5m-pre-seed/</guid>
-    <pubDate>Thu, 15 Oct 2026 05:00:31 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>Epic Games delays Disney game and tells developers to go AI first</title>
     <link>https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</link>
     <guid isPermaLink="true">https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</guid>
@@ -567,20 +559,20 @@
     <description>Unity&#39;s new tool allows prompt-based game development, working in collaboration with Google AI.</description>
   </item>
   <item>
-    <title>Glyph Cluster is now available in stealth for free on AI Gateway</title>
-    <link>https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway</guid>
-    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Early access to Glyph Cluster is now available on AI Gateway for teams on a Pro or Enterprise plan with purchased AI Gateway credits. Usage is free during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, with a 256K-token context window. Use it to review…</description>
-  </item>
-  <item>
     <title>Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
     <link>https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</guid>
     <pubDate>Tue, 20 Oct 2026 00:03:38 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score…</description>
+  </item>
+  <item>
+    <title>Nvidia-Backed doubleAI Debuts AI ‘Code Execution’ Models</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-backed-double-ai-debuts-ai-code-execution-models/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-backed-double-ai-debuts-ai-code-execution-models/</guid>
+    <pubDate>Mon, 19 Oct 2026 16:39:11 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Israeli startup doubleAI is reportedly set to introduce what it describes as a new category of artificial intelligence (AI). The company, whose backers include Nvidia and Dell, calls this new category “code execution” models (CEMs) which place the AI “between code and silicon,” the Wall Street…</description>
   </item>
   <item>
     <title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
@@ -599,12 +591,20 @@
     <description>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don&#39;t. The post Introducing the Agent Experience (AX)…</description>
   </item>
   <item>
+    <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
+    <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</guid>
+    <pubDate>Tue, 20 Oct 2026 23:01:23 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model&#39;s release without the permission of a judge.</description>
+  </item>
+  <item>
     <title>Eka is worth $1.45B thanks to a physical AI model that has experts raving</title>
     <link>https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</guid>
     <pubDate>Tue, 20 Oct 2026 13:00:00 GMT</pubDate>
     <category>AI Business</category>
-    <description>Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.</description>
+    <description>Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.</description>
   </item>
   <item>
     <title>AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching</title>
@@ -631,20 +631,20 @@
     <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.</description>
   </item>
   <item>
+    <title>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</title>
+    <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</guid>
+    <pubDate>Tue, 20 Oct 2026 22:24:02 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Before you share the Netflix documentary AI Gone Rogue, take note. Clem Delangue, Hugging Face&#39;s co-founder who is featured in the film, says it went full doomer mode and isn&#39;t accurate.</description>
+  </item>
+  <item>
     <title>Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</title>
     <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</guid>
     <pubDate>Tue, 20 Oct 2026 18:38:24 GMT</pubDate>
     <category>AI Business</category>
     <description>Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.</description>
-  </item>
-  <item>
-    <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
-    <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</guid>
-    <pubDate>Mon, 19 Oct 2026 22:04:28 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.</description>
   </item>
 </channel>
 </rss>
