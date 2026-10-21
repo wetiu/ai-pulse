@@ -5,14 +5,14 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 21 Oct 2026 17:11:13 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 21:41:57 GMT</lastBuildDate>
   <item>
-    <title>Deepseek open-sources the inference engine that powers its fastest and cheapest AI model</title>
-    <link>https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/</link>
-    <guid isPermaLink="true">https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/</guid>
-    <pubDate>Tue, 20 Oct 2026 18:56:15 GMT</pubDate>
+    <title>Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three</title>
+    <link>https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/</link>
+    <guid isPermaLink="true">https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/</guid>
+    <pubDate>Wed, 21 Oct 2026 17:44:22 GMT</pubDate>
     <category>AI Business</category>
-    <description>Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepseek open-sources the…</description>
+    <description>Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI&#39;s GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers. The article Google Cloud now offers OpenAI models alongside Gemini and…</description>
   </item>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
@@ -21,14 +21,6 @@
     <pubDate>Wed, 21 Oct 2026 10:30:41 GMT</pubDate>
     <category>AI Business</category>
     <description>Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics,…</description>
-  </item>
-  <item>
-    <title>Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time</title>
-    <link>https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/</link>
-    <guid isPermaLink="true">https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/</guid>
-    <pubDate>Tue, 20 Oct 2026 17:17:55 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your own…</description>
   </item>
   <item>
     <title>OpenAI acquires Orchestra Bio</title>
@@ -61,6 +53,14 @@
     <pubDate>Mon, 19 Oct 2026 09:00:58 GMT</pubDate>
     <category>AI Business</category>
     <description>Small business software marketplace Pax8 Inc. today launched 8os, an operating system that lets its information technology service provider partners govern the artificial intelligence agents running inside their customers’ businesses. A second product, 8bot, gives those customers’ employees a…</description>
+  </item>
+  <item>
+    <title>ServiceNow Announces New AI Agent Services With Nvidia</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/servicenow-announces-new-ai-agent-services-with-nvidia/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/servicenow-announces-new-ai-agent-services-with-nvidia/</guid>
+    <pubDate>Wed, 21 Oct 2026 19:56:56 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Enterprise software platform ServiceNow has launched an agentic-AI-focused expansion of its partnership with Nvidia. The new updates are “designed to bring governance and security across every layer of AI agent execution,” the company said in a news release Wednesday (Oct. 21). “People are turning…</description>
   </item>
   <item>
     <title>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</title>
@@ -183,12 +183,28 @@
     <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
   </item>
   <item>
+    <title>Legora Hits $8.8 Billion Valuation as Legal Professionals Deploy AI Agents</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/legora-hits-8-8-billion-valuation-as-legal-professionals-deploy-ai-agents/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/legora-hits-8-8-billion-valuation-as-legal-professionals-deploy-ai-agents/</guid>
+    <pubDate>Wed, 21 Oct 2026 19:47:49 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Legora raised $550 million in a Series E funding round to support the expansion of its agentic operating system for legal professionals, Legora aOS, the company said in a Wednesday (Oct. 21) blog post. The round valued Legora at $8.8 billion, according to the post. That figure is up from the $5.6…</description>
+  </item>
+  <item>
     <title>Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second</title>
     <link>https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</guid>
     <pubDate>Tue, 20 Oct 2026 03:32:43 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks. The post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on…</description>
+  </item>
+  <item>
+    <title>Anthropic takes on Muse with Claude Duet, its new AI agent</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</guid>
+    <pubDate>Wed, 21 Oct 2026 19:53:20 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic just announced an AI agent competitor to Meta&#39;s Muse and OpenAI&#39;s Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a research preview, according to Anthropic, and it&#39;s available as a standalone app on iOS and Android and through…</description>
   </item>
   <item>
     <title>China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home</title>
@@ -277,6 +293,14 @@
     <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>A new case of an out-of-control AI model shows that enterprises should treat models and agents as toddlers that need supervision and explicit instructions.</description>
+  </item>
+  <item>
+    <title>Recursive launches Flint, a laptop coding model it says was largely built by AI</title>
+    <link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</guid>
+    <pubDate>Wed, 21 Oct 2026 20:27:41 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.</description>
   </item>
   <item>
     <title>Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs</title>
@@ -415,14 +439,6 @@
     <description>Overall, investors put $38.5 billion into reported seed- through growth-stage financings for Asian startups in Q3, per Crunchbase data. Of that, a majority went to AI-focused companies, echoing the trends we’ve seen globally.</description>
   </item>
   <item>
-    <title>Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations</title>
-    <link>https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/</link>
-    <guid isPermaLink="true">https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/</guid>
-    <pubDate>Tue, 20 Oct 2026 19:03:15 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Elevenlabs&#39; new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is both faster and more accurate. The article…</description>
-  </item>
-  <item>
     <title>DeepSeek releases updated V4.1-Flash model it says completes tasks faster</title>
     <link>https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/</guid>
@@ -519,12 +535,12 @@
     <description></description>
   </item>
   <item>
-    <title>Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool</title>
-    <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</guid>
-    <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.</description>
+    <title>Baseten&#39;s Mammoth-1 and Elephant-1 now available on AI Gateway for free</title>
+    <link>https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Mammoth-1 and Elephant-1 from Baseten are now available for free on AI Gateway for one week. Free access is available through October 27. These decision models classify text, route requests, and score content against criteria you define. Mammoth-1 is the larger, 27B model, while Elephant-1 is a…</description>
   </item>
   <item>
     <title>UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly</title>
@@ -583,12 +599,12 @@
     <description>Businesses deploying artificial intelligence face growing legal exposure when their descriptions of data practices fail to match how their systems operate. Updating privacy policies or terms of service after introducing AI features can leave companies exposed to regulatory scrutiny and customer…</description>
   </item>
   <item>
-    <title>Meta’s Muse Reaches 10 Million Downloads Faster Than ChatGPT</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-reaches-10-million-downloads-faster-than-chatgpt/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-reaches-10-million-downloads-faster-than-chatgpt/</guid>
-    <pubDate>Tue, 20 Oct 2026 21:53:30 GMT</pubDate>
+    <title>Anthropic Writes Its Own Rules for Shutting Down AI</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-writes-its-own-rules-for-shutting-down-ai/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-writes-its-own-rules-for-shutting-down-ai/</guid>
+    <pubDate>Wed, 21 Oct 2026 17:43:06 GMT</pubDate>
     <category>AI Business</category>
-    <description>Meta’s personal artificial intelligence assistant Muse was downloaded more than 10 million times in the United States and Canada during the first 35 days it was available, digital market insights platform Sensor Tower said in a Monday (Oct. 19) post on LinkedIn. In terms of downloads, Muse outpaced…</description>
+    <description>An artificial intelligence model could pose a foreseeable risk of $900 million in damage and still miss the bar for federal intervention under draft legislation Anthropic has been pitching to lawmakers, PYMNTS reported. The Claude developer’s draft lets the government block a frontier model only…</description>
   </item>
   <item>
     <title>Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
@@ -615,36 +631,20 @@
     <description>OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. The reference didn&#39;t…</description>
   </item>
   <item>
+    <title>While Amazon blocks AI agents, Walmart rolls out the welcome mat</title>
+    <link>https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/</guid>
+    <pubDate>Wed, 21 Oct 2026 19:30:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers&#39; behalf, with controls over spending and transaction approvals.</description>
+  </item>
+  <item>
     <title>Nvidia&#39;s DSX POD could cut AI data center setup from six months to as little as 14 days</title>
     <link>https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/</link>
     <guid isPermaLink="true">https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/</guid>
     <pubDate>Wed, 21 Oct 2026 13:42:05 GMT</pubDate>
     <category>AI Business</category>
     <description>Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia&#39;s DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder .</description>
-  </item>
-  <item>
-    <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
-    <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</guid>
-    <pubDate>Tue, 20 Oct 2026 23:01:23 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model&#39;s release without the permission of a judge.</description>
-  </item>
-  <item>
-    <title>Eka is worth $1.45B thanks to a physical AI model that has experts raving</title>
-    <link>https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</guid>
-    <pubDate>Tue, 20 Oct 2026 13:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.</description>
-  </item>
-  <item>
-    <title>AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching</title>
-    <link>https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</guid>
-    <pubDate>Tue, 20 Oct 2026 00:41:33 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Town.com Inc., an artificial intelligence agent startup laser focused on getting work done by collaborating with other AI agents, revealed today that it has raised $108 million in a new funding at a $1 billion valuation. The Series B round was led by Forerunner Ventures and Menlo Ventures, and saw…</description>
   </item>
 </channel>
 </rss>
