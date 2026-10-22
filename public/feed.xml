@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 21 Oct 2026 21:41:57 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 04:42:26 GMT</lastBuildDate>
   <item>
     <title>Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three</title>
     <link>https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/</link>
@@ -143,6 +143,14 @@
     <description>Under the program, the vendor provides enterprises with models that can defend against bad actors.</description>
   </item>
   <item>
+    <title>Vercel Open-Sources durable-harness for Crash-Proof Coding Agents</title>
+    <link>https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/</guid>
+    <pubDate>Wed, 21 Oct 2026 22:15:39 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents…</description>
+  </item>
+  <item>
     <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
     <link>https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</guid>
@@ -191,14 +199,6 @@
     <description>Legora raised $550 million in a Series E funding round to support the expansion of its agentic operating system for legal professionals, Legora aOS, the company said in a Wednesday (Oct. 21) blog post. The round valued Legora at $8.8 billion, according to the post. That figure is up from the $5.6…</description>
   </item>
   <item>
-    <title>Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second</title>
-    <link>https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/</guid>
-    <pubDate>Tue, 20 Oct 2026 03:32:43 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks. The post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on…</description>
-  </item>
-  <item>
     <title>Anthropic takes on Muse with Claude Duet, its new AI agent</title>
     <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
     <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</guid>
@@ -237,14 +237,6 @@
     <pubDate>Wed, 21 Oct 2026 04:33:40 GMT</pubDate>
     <category>AI Business</category>
     <description>Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for…</description>
-  </item>
-  <item>
-    <title>NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration</title>
-    <link>https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/</guid>
-    <pubDate>Mon, 19 Oct 2026 03:19:18 GMT</pubDate>
-    <category>Open Source</category>
-    <description>NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration…</description>
   </item>
   <item>
     <title>AINews DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
@@ -311,6 +303,14 @@
     <description>Google and Meta open-sourced TorchTPU, a native PyTorch backend for Cloud TPUs. It runs eager by default, compiles through torch.compile and XLA, and replaces PyTorch/XLA for new workloads. The post Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs appeared first on MarkTechPost…</description>
   </item>
   <item>
+    <title>Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation</title>
+    <link>https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/</guid>
+    <pubDate>Wed, 21 Oct 2026 22:18:30 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Artificial intelligence research lab Flapping Airplanes Inc. today announced it has raised $1 billion in new funding, about a year after it was founded. Investors valued the startup at $6 billion in the deal, Bloomberg reported. No commercial product has come out of the lab yet. Flapping Airplanes…</description>
+  </item>
+  <item>
     <title>Otter.ai raises $320M in funding for its AI meeting assistant</title>
     <link>https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/</guid>
@@ -351,28 +351,12 @@
     <description>Sandboxes are all you need.</description>
   </item>
   <item>
-    <title>Step 5 Preview now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway</guid>
-    <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Step 5 Preview , StepFun&#39;s flagship model, is now available on AI Gateway . It&#39;s built for agentic coding, professional knowledge work, and financial analysis, from building apps and debugging code to research and analytical reports. Step 5 Preview supports text and image input with a 1M-token…</description>
-  </item>
-  <item>
     <title>Mistral and Nvidia want to speed up industrial design with physics AI</title>
     <link>https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/</link>
     <guid isPermaLink="true">https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/</guid>
     <pubDate>Wed, 21 Oct 2026 14:40:51 GMT</pubDate>
     <category>AI Business</category>
     <description>Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder .</description>
-  </item>
-  <item>
-    <title>OpenAI Brings Its Frontier AI Models to Google Cloud</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-its-frontier-ai-models-to-google-cloud/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-its-frontier-ai-models-to-google-cloud/</guid>
-    <pubDate>Wed, 21 Oct 2026 14:26:08 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI has launched a new partnership with artificial intelligence (AI) rival Google. This collaboration brings OpenAI’s frontier AI models and Codex⁠ agentic workflows to Google Cloud’s Model Garden, the companies announced Wednesday (Oct. 21). The integration is designed to give customers “native…</description>
   </item>
   <item>
     <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
@@ -423,6 +407,14 @@
     <description>At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.</description>
   </item>
   <item>
+    <title>Boeing, Microsoft Aim AI at Airlines’ $3.1 Billion Repair Bill</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/boeing-microsoft-aim-ai-airlines-3-billion-dollar-repair-bill/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/boeing-microsoft-aim-ai-airlines-3-billion-dollar-repair-bill/</guid>
+    <pubDate>Wed, 21 Oct 2026 21:25:18 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Boeing wants airlines to catch mechanical problems before they ground a jet. The aircraft maker announced in a Tuesday (Oct. 20) press release the launch of Dataliner, an artificial intelligence-powered platform built with Microsoft that pulls an airline’s maintenance and fleet data into one view.…</description>
+  </item>
+  <item>
     <title>Pollo AI turns creative ideas into campaigns with OpenAI</title>
     <link>https://openai.com/index/pollo-ai</link>
     <guid isPermaLink="true">https://openai.com/index/pollo-ai</guid>
@@ -445,14 +437,6 @@
     <pubDate>Sun, 18 Oct 2026 22:34:04 GMT</pubDate>
     <category>AI Business</category>
     <description>Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes tasks faster. DeepSeek-V4.1-Flash-1017 arrives a little over five weeks after the company launched the…</description>
-  </item>
-  <item>
-    <title>Reflection AI open-sources Beam’s weights, post-training recipes</title>
-    <link>https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/</guid>
-    <pubDate>Fri, 16 Oct 2026 22:52:38 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Startup Reflection AI Inc. today made the weights of Beam, its first large language model, available on Hugging Face. The company also released technical resources that will enable developers to customize the algorithm. Originally introduced last week, Beam is one of the industry’s most advanced…</description>
   </item>
   <item>
     <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
@@ -495,6 +479,14 @@
     <description>As agents take on more work for users, companies are deciding whether to let outside AI systems act on their platforms.</description>
   </item>
   <item>
+    <title>Anthropic’s New AI Agent Purchases Business Supplies</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies/</guid>
+    <pubDate>Thu, 22 Oct 2026 00:59:33 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic has unveiled an app in which Claude works as a “proactive agent” on behalf of professionals and small business owners, including purchasing business supplies, the company said in a Wednesday (Oct. 21) announcement. In this app, Claude Duet, Claude comes to the user when something needs…</description>
+  </item>
+  <item>
     <title>Inception&#39;s Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait</title>
     <link>https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</link>
     <guid isPermaLink="true">https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</guid>
@@ -517,14 +509,6 @@
     <pubDate>Wed, 21 Oct 2026 10:30:02 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that…</description>
-  </item>
-  <item>
-    <title>MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input</title>
-    <link>https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/</guid>
-    <pubDate>Mon, 19 Oct 2026 12:37:58 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on…</description>
   </item>
   <item>
     <title>Exclusive: Photon Bridge raises €10m to build laser devices that connect AI chips</title>
@@ -559,14 +543,6 @@
     <description></description>
   </item>
   <item>
-    <title>Nvidia unveils investments in five more UK startups</title>
-    <link>https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/</link>
-    <guid isPermaLink="true">https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/</guid>
-    <pubDate>Thu, 15 Oct 2026 11:50:03 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>Introducing Token Pass</title>
     <link>https://vercel.com/changelog/introducing-token-pass</link>
     <guid isPermaLink="true">https://vercel.com/changelog/introducing-token-pass</guid>
@@ -591,6 +567,14 @@
     <description>Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes. Read more</description>
   </item>
   <item>
+    <title>OpenAI to make its most advanced AI models available in Google Cloud</title>
+    <link>https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/</guid>
+    <pubDate>Thu, 22 Oct 2026 00:22:58 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI Group PBC today announced plans to make its latest large language models accessible in Google Cloud. The LLMs will be available through the Alphabet Inc.’s unit Model Garden service. It provides access to more than 200 neural networks from Google, its partners and the open-source ecosystem.…</description>
+  </item>
+  <item>
     <title>FTC, SEC Scrutiny Raises Stakes for AI Data Disclosures</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/federal-trade-commission-securities-exchange-commission-scrutiny-raises-stakes-ai-data-disclosures/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/federal-trade-commission-securities-exchange-commission-scrutiny-raises-stakes-ai-data-disclosures/</guid>
@@ -605,14 +589,6 @@
     <pubDate>Wed, 21 Oct 2026 17:43:06 GMT</pubDate>
     <category>AI Business</category>
     <description>An artificial intelligence model could pose a foreseeable risk of $900 million in damage and still miss the bar for federal intervention under draft legislation Anthropic has been pitching to lawmakers, PYMNTS reported. The Claude developer’s draft lets the government block a frontier model only…</description>
-  </item>
-  <item>
-    <title>Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
-    <link>https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</guid>
-    <pubDate>Tue, 20 Oct 2026 00:03:38 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. The post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score…</description>
   </item>
   <item>
     <title>Introducing the Agent Experience (AX) Practitioner Playbook</title>
@@ -645,6 +621,30 @@
     <pubDate>Wed, 21 Oct 2026 13:42:05 GMT</pubDate>
     <category>AI Business</category>
     <description>Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia&#39;s DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder .</description>
+  </item>
+  <item>
+    <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
+    <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</guid>
+    <pubDate>Tue, 20 Oct 2026 23:01:23 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model&#39;s release without the permission of a judge.</description>
+  </item>
+  <item>
+    <title>AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching</title>
+    <link>https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</guid>
+    <pubDate>Tue, 20 Oct 2026 00:41:33 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Town.com Inc., an artificial intelligence agent startup laser focused on getting work done by collaborating with other AI agents, revealed today that it has raised $108 million in a new funding at a $1 billion valuation. The Series B round was led by Forerunner Ventures and Menlo Ventures, and saw…</description>
+  </item>
+  <item>
+    <title>Python on Vercel is now generally available</title>
+    <link>https://vercel.com/changelog/python-on-vercel-is-now-generally-available</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/python-on-vercel-is-now-generally-available</guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
   </item>
 </channel>
 </rss>
