@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 22 Oct 2026 11:50:14 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 17:09:31 GMT</lastBuildDate>
   <item>
     <title>Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three</title>
     <link>https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/</link>
@@ -47,12 +47,12 @@
     <description>Business planning and performance management platform Pigment is worth $2.3 billion after raising $250 million in a Series E funding round, according to a Wednesday (Oct. 21) press release. The financing will help Pigment further develop its compute engine Graphite and the artificial intelligence…</description>
   </item>
   <item>
-    <title>Pax8 launches 8os to let IT partners govern AI agents and 8bot as a managed AI co-worker</title>
-    <link>https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/pax8-launches-8os-to-let-it-partners-govern-ai-agents-and-8bot-as-a-managed-ai-coworker/</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:58 GMT</pubDate>
+    <title>Anthropic introduces Claude Duet, a proactive AI agent for professionals</title>
+    <link>https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/</guid>
+    <pubDate>Thu, 22 Oct 2026 13:20:53 GMT</pubDate>
     <category>AI Business</category>
-    <description>Small business software marketplace Pax8 Inc. today launched 8os, an operating system that lets its information technology service provider partners govern the artificial intelligence agents running inside their customers’ businesses. A second product, 8bot, gives those customers’ employees a…</description>
+    <description>Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps working behind the scenes and checks in. Duet is available as a standalone app on the web, iOS and…</description>
   </item>
   <item>
     <title>ServiceNow Announces New AI Agent Services With Nvidia</title>
@@ -77,6 +77,14 @@
     <pubDate>Mon, 19 Oct 2026 12:45:23 GMT</pubDate>
     <category>Web Dev</category>
     <description>Frontier models span language, video and audio, on architectures from dense and mixture-of-experts transformers to diffusion, state-space, world and structure-prediction models. PyTorch is where AI research happens, where the models... The post Introducing TorchNeuron: Native PyTorch backend for…</description>
+  </item>
+  <item>
+    <title>OpenAI, Anthropic, and Nvidia had record lobbying quarters</title>
+    <link>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</link>
+    <guid isPermaLink="true">https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</guid>
+    <pubDate>Thu, 22 Oct 2026 15:50:30 GMT</pubDate>
+    <category>AI Business</category>
+    <description>It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic&#39;s $2.1 million and OpenAI&#39;s $1.5 million. Compared to…</description>
   </item>
   <item>
     <title>Red Hat and Nvidia expand their partnership to secure autonomous AI agents</title>
@@ -199,22 +207,6 @@
     <description>Legora raised $550 million in a Series E funding round to support the expansion of its agentic operating system for legal professionals, Legora aOS, the company said in a Wednesday (Oct. 21) blog post. The round valued Legora at $8.8 billion, according to the post. That figure is up from the $5.6…</description>
   </item>
   <item>
-    <title>Anthropic takes on Muse with Claude Duet, its new AI agent</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</guid>
-    <pubDate>Wed, 21 Oct 2026 19:53:20 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic just announced an AI agent competitor to Meta&#39;s Muse and OpenAI&#39;s Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a research preview, according to Anthropic, and it&#39;s available as a standalone app on iOS and Android and through…</description>
-  </item>
-  <item>
-    <title>China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home</title>
-    <link>https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/</link>
-    <guid isPermaLink="true">https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/</guid>
-    <pubDate>Wed, 21 Oct 2026 13:04:19 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China&#39;s outrage isn&#39;t very credible, but it should be taken seriously as a political signal of…</description>
-  </item>
-  <item>
     <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
     <link>https://openai.com/index/asana-browser-agent</link>
     <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
@@ -229,14 +221,6 @@
     <pubDate>Wed, 21 Oct 2026 01:29:00 GMT</pubDate>
     <category>AI Business</category>
     <description>Google LLC is striving to pry open Nvidia Corp.’s grip on the artificial intelligence computing industry with the launch of a specialized version of the open-source PyTorch framework, called TorchTPU, which is designed to eliminate a key advantage of its rival. One of the reasons why Nvidia and its…</description>
-  </item>
-  <item>
-    <title>Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets</title>
-    <link>https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/</guid>
-    <pubDate>Wed, 21 Oct 2026 04:33:40 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for…</description>
   </item>
   <item>
     <title>An AI agent in Skynet mode hijacks unprotected language models to launch self-sustaining cyberattacks</title>
@@ -271,20 +255,20 @@
     <description>Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters…</description>
   </item>
   <item>
+    <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
+    <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
+    <guid isPermaLink="true">https://openai.com/index/uber-chatgpt-work-rollout</guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.</description>
+  </item>
+  <item>
     <title>DeepSeek open-sources DeepInfer, the inference framework behind its production services</title>
     <link>https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/</guid>
     <pubDate>Tue, 20 Oct 2026 23:11:43 GMT</pubDate>
     <category>AI Business</category>
     <description>Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. today open-sourced DeepInfer, the inference framework behind its own production services. The release takes on the cost of serving large models to the public. DeepSeek calls reaching…</description>
-  </item>
-  <item>
-    <title>DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash</title>
-    <link>https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/</guid>
-    <pubDate>Tue, 20 Oct 2026 14:31:59 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only. The post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind…</description>
   </item>
   <item>
     <title>DeepSeek and what enterprises should learn from AI agent exploits</title>
@@ -295,20 +279,20 @@
     <description>A new case of an out-of-control AI model shows that enterprises should treat models and agents as toddlers that need supervision and explicit instructions.</description>
   </item>
   <item>
+    <title>DeepSeek reportedly raises $15B days after US restrictions</title>
+    <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</guid>
+    <pubDate>Thu, 22 Oct 2026 13:11:13 GMT</pubDate>
+    <category>AI Business</category>
+    <description>DeepSeek has reportedly raised $15 billion in one of China&#39;s largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.</description>
+  </item>
+  <item>
     <title>Recursive launches Flint, a laptop coding model it says was largely built by AI</title>
     <link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</guid>
     <pubDate>Wed, 21 Oct 2026 20:27:41 GMT</pubDate>
     <category>AI Business</category>
     <description>Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.</description>
-  </item>
-  <item>
-    <title>Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs</title>
-    <link>https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/</guid>
-    <pubDate>Tue, 20 Oct 2026 15:22:03 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Google and Meta open-sourced TorchTPU, a native PyTorch backend for Cloud TPUs. It runs eager by default, compiles through torch.compile and XLA, and replaces PyTorch/XLA for new workloads. The post Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs appeared first on MarkTechPost…</description>
   </item>
   <item>
     <title>Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation</title>
@@ -367,14 +351,6 @@
     <description>Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder .</description>
   </item>
   <item>
-    <title>OpenAI Brings Its Frontier AI Models to Google Cloud</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-its-frontier-ai-models-to-google-cloud/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-its-frontier-ai-models-to-google-cloud/</guid>
-    <pubDate>Wed, 21 Oct 2026 14:26:08 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI has launched a new partnership with artificial intelligence (AI) rival Google. This collaboration brings OpenAI’s frontier AI models and Codex⁠ agentic workflows to Google Cloud’s Model Garden, the companies announced Wednesday (Oct. 21). The integration is designed to give customers “native…</description>
-  </item>
-  <item>
     <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
     <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</guid>
@@ -389,6 +365,14 @@
     <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a…</description>
+  </item>
+  <item>
+    <title>Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0</title>
+    <link>https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/</guid>
+    <pubDate>Thu, 22 Oct 2026 16:56:12 GMT</pubDate>
+    <category>App Dev</category>
+    <description>Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first…</description>
   </item>
   <item>
     <title>OpenAI models are coming to Google Cloud</title>
@@ -423,6 +407,14 @@
     <description>At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.</description>
   </item>
   <item>
+    <title>Startup Action State launches tools for verifying interactions between AI agents</title>
+    <link>https://siliconangle.com/2026/10/22/startup-action-state-launches-tools-for-verifying-interactions-between-ai-agents/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/22/startup-action-state-launches-tools-for-verifying-interactions-between-ai-agents/</guid>
+    <pubDate>Thu, 22 Oct 2026 13:00:06 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Action State Group Inc. is launching a set of open-source tools designed to let businesses independently check records of what artificial intelligence agents did, addressing a trust problem as automated systems begin buying, selling and delegating work across corporate boundaries. The offering…</description>
+  </item>
+  <item>
     <title>Boeing, Microsoft Aim AI at Airlines’ $3.1 Billion Repair Bill</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/boeing-microsoft-aim-ai-airlines-3-billion-dollar-repair-bill/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/boeing-microsoft-aim-ai-airlines-3-billion-dollar-repair-bill/</guid>
@@ -431,20 +423,12 @@
     <description>Boeing wants airlines to catch mechanical problems before they ground a jet. The aircraft maker announced in a Tuesday (Oct. 20) press release the launch of Dataliner, an artificial intelligence-powered platform built with Microsoft that pulls an airline’s maintenance and fleet data into one view.…</description>
   </item>
   <item>
-    <title>Pollo AI turns creative ideas into campaigns with OpenAI</title>
-    <link>https://openai.com/index/pollo-ai</link>
-    <guid isPermaLink="true">https://openai.com/index/pollo-ai</guid>
-    <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</description>
-  </item>
-  <item>
-    <title>DeepSeek releases updated V4.1-Flash model it says completes tasks faster</title>
-    <link>https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/</guid>
-    <pubDate>Sun, 18 Oct 2026 22:34:04 GMT</pubDate>
+    <title>OpenAI, Google partnership targets enterprise model choice</title>
+    <link>https://aibusiness.com/generative-ai/openai-google-partnership-enterprise-model-choice</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/openai-google-partnership-enterprise-model-choice</guid>
+    <pubDate>Thu, 22 Oct 2026 15:49:47 GMT</pubDate>
     <category>AI Business</category>
-    <description>Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes tasks faster. DeepSeek-V4.1-Flash-1017 arrives a little over five weeks after the company launched the…</description>
+    <description>OpenAI now has its models on all three major cloud provider platforms, as it refines its enterprise strategy.</description>
   </item>
   <item>
     <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
@@ -463,6 +447,22 @@
     <description>Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files…</description>
   </item>
   <item>
+    <title>Claude Duet app is Anthropic’s bet on agents</title>
+    <link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</guid>
+    <pubDate>Thu, 22 Oct 2026 13:53:26 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Claude Duet is available through waitlist for Pro and Max plan users.</description>
+  </item>
+  <item>
+    <title>Ai2 releases OlmoEarth v1.3 state-of-the-art AI-ready satellite embeddings for the whole planet</title>
+    <link>https://siliconangle.com/2026/10/22/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embeddings-for-the-whole-planet/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/22/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embeddings-for-the-whole-planet/</guid>
+    <pubDate>Thu, 22 Oct 2026 13:00:30 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Ai2, the Allen Institute for Artificial Intelligence, today released a satellite map embedding model called OlmoEarth v1.3 and precomputed annual embeddings for the whole planet at various resolutions with a browser-based map-making tool. The model compresses a year of satellite observations into a…</description>
+  </item>
+  <item>
     <title>Prompt: Enterprise controls can&#39;t keep up with AI agents</title>
     <link>https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents</link>
     <guid isPermaLink="true">https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents</guid>
@@ -477,6 +477,22 @@
     <pubDate>Mon, 12 Oct 2026 12:34:27 GMT</pubDate>
     <category>AI Business</category>
     <description>As agents take on more work for users, companies are deciding whether to let outside AI systems act on their platforms.</description>
+  </item>
+  <item>
+    <title>Anthropic’s New AI Agent Purchases Business Supplies</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies/</guid>
+    <pubDate>Thu, 22 Oct 2026 00:59:33 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic has unveiled an app in which Claude works as a “proactive agent” on behalf of professionals and small business owners, including purchasing business supplies, the company said in a Wednesday (Oct. 21) announcement. In this app, Claude Duet, Claude comes to the user when something needs…</description>
+  </item>
+  <item>
+    <title>Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻</title>
+    <link>https://tldr.tech/ai/2026-10-22</link>
+    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-22</guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
   </item>
   <item>
     <title>Inception&#39;s Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait</title>
@@ -567,14 +583,6 @@
     <description>OpenAI Group PBC today announced plans to make its latest large language models accessible in Google Cloud. The LLMs will be available through the Alphabet Inc.’s unit Model Garden service. It provides access to more than 200 neural networks from Google, its partners and the open-source ecosystem.…</description>
   </item>
   <item>
-    <title>FTC, SEC Scrutiny Raises Stakes for AI Data Disclosures</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/federal-trade-commission-securities-exchange-commission-scrutiny-raises-stakes-ai-data-disclosures/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/federal-trade-commission-securities-exchange-commission-scrutiny-raises-stakes-ai-data-disclosures/</guid>
-    <pubDate>Wed, 21 Oct 2026 15:07:12 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Businesses deploying artificial intelligence face growing legal exposure when their descriptions of data practices fail to match how their systems operate. Updating privacy policies or terms of service after introducing AI features can leave companies exposed to regulatory scrutiny and customer…</description>
-  </item>
-  <item>
     <title>Anthropic Writes Its Own Rules for Shutting Down AI</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-writes-its-own-rules-for-shutting-down-ai/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-writes-its-own-rules-for-shutting-down-ai/</guid>
@@ -591,12 +599,12 @@
     <description>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don&#39;t. The post Introducing the Agent Experience (AX)…</description>
   </item>
   <item>
-    <title>OpenAI says an AI agent lied about disabling its safety monitoring system</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
-    <pubDate>Wed, 21 Oct 2026 13:57:43 GMT</pubDate>
+    <title>Recursive shows first result of its AI-driven research process with Flint</title>
+    <link>https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/</link>
+    <guid isPermaLink="true">https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/</guid>
+    <pubDate>Thu, 22 Oct 2026 14:40:16 GMT</pubDate>
     <category>AI Business</category>
-    <description>OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. The reference didn&#39;t…</description>
+    <description>The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company&#39;s in-house AI system, Eureka Machine, which independently tests and optimizes architectures.…</description>
   </item>
   <item>
     <title>The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.</title>
@@ -613,14 +621,6 @@
     <pubDate>Wed, 21 Oct 2026 19:30:00 GMT</pubDate>
     <category>AI Business</category>
     <description>As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers&#39; behalf, with controls over spending and transaction approvals.</description>
-  </item>
-  <item>
-    <title>Nvidia&#39;s DSX POD could cut AI data center setup from six months to as little as 14 days</title>
-    <link>https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/</link>
-    <guid isPermaLink="true">https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/</guid>
-    <pubDate>Wed, 21 Oct 2026 13:42:05 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia&#39;s DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder .</description>
   </item>
   <item>
     <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
