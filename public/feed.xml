@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 22 Oct 2026 17:09:31 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 21:34:41 GMT</lastBuildDate>
   <item>
     <title>Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three</title>
     <link>https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/</link>
@@ -79,6 +79,14 @@
     <description>Frontier models span language, video and audio, on architectures from dense and mixture-of-experts transformers to diffusion, state-space, world and structure-prediction models. PyTorch is where AI research happens, where the models... The post Introducing TorchNeuron: Native PyTorch backend for…</description>
   </item>
   <item>
+    <title>Build more responsive apps with the Decisions API</title>
+    <link>https://openai.com/index/decisions-api</link>
+    <guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
+    <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
+    <category>App Dev</category>
+    <description>Fast, focused, low-cost decisions for any application.</description>
+  </item>
+  <item>
     <title>OpenAI, Anthropic, and Nvidia had record lobbying quarters</title>
     <link>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</link>
     <guid isPermaLink="true">https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</guid>
@@ -135,14 +143,6 @@
     <description>With Googlebook, we’re excited to help users express themselves and gain access to these tools.</description>
   </item>
   <item>
-    <title>Anthropic opens cybersecurity program applications, releases cheaper Haiku</title>
-    <link>https://aibusiness.com/responsible-ai/anthropic-opens-cybersecurity-program-applications</link>
-    <guid isPermaLink="true">https://aibusiness.com/responsible-ai/anthropic-opens-cybersecurity-program-applications</guid>
-    <pubDate>Thu, 08 Oct 2026 21:12:15 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Under the program, the vendor provides enterprises with models that can defend against bad actors.</description>
-  </item>
-  <item>
     <title>Anthropic takes on Grok Bot, Meta&#39;s Muse, and OpenAI&#39;s Dots with its always-on agent Claude Duet</title>
     <link>https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/</link>
     <guid isPermaLink="true">https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/</guid>
@@ -165,14 +165,6 @@
     <pubDate>Wed, 21 Oct 2026 10:10:01 GMT</pubDate>
     <category>AI Business</category>
     <description>Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor…</description>
-  </item>
-  <item>
-    <title>Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK</title>
-    <link>https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</guid>
-    <pubDate>Wed, 21 Oct 2026 06:03:12 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared…</description>
   </item>
   <item>
     <title>AINews TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch</title>
@@ -221,6 +213,22 @@
     <pubDate>Wed, 21 Oct 2026 01:29:00 GMT</pubDate>
     <category>AI Business</category>
     <description>Google LLC is striving to pry open Nvidia Corp.’s grip on the artificial intelligence computing industry with the launch of a specialized version of the open-source PyTorch framework, called TorchTPU, which is designed to eliminate a key advantage of its rival. One of the reasons why Nvidia and its…</description>
+  </item>
+  <item>
+    <title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
+    <link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</guid>
+    <pubDate>Thu, 22 Oct 2026 19:07:09 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The new feature allows agents to log into a customer&#39;s personal accounts while still protecting the private credentials that secure those accounts.</description>
+  </item>
+  <item>
+    <title>Major US banks are locking out AI agents that log in with customer credentials</title>
+    <link>https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/</link>
+    <guid isPermaLink="true">https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/</guid>
+    <pubDate>Thu, 22 Oct 2026 18:26:02 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-only access. The…</description>
   </item>
   <item>
     <title>An AI agent in Skynet mode hijacks unprotected language models to launch self-sustaining cyberattacks</title>
@@ -295,6 +303,14 @@
     <description>Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.</description>
   </item>
   <item>
+    <title>Canva releases its first image generation model</title>
+    <link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</guid>
+    <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.</description>
+  </item>
+  <item>
     <title>Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation</title>
     <link>https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/</guid>
@@ -343,22 +359,6 @@
     <description>Sandboxes are all you need.</description>
   </item>
   <item>
-    <title>Mistral and Nvidia want to speed up industrial design with physics AI</title>
-    <link>https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/</link>
-    <guid isPermaLink="true">https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/</guid>
-    <pubDate>Wed, 21 Oct 2026 14:40:51 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder .</description>
-  </item>
-  <item>
-    <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
-    <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</guid>
-    <pubDate>Tue, 20 Oct 2026 20:35:10 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI says it&#39;s adding Orchestra&#39;s team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.</description>
-  </item>
-  <item>
     <title>Cat Jam is now available in stealth for free on AI Gateway</title>
     <link>https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway</link>
     <guid isPermaLink="true">https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway</guid>
@@ -381,14 +381,6 @@
     <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
-  </item>
-  <item>
-    <title>Motive brings agentic AI to physical operations with agents that act before problems escalate</title>
-    <link>https://siliconangle.com/2026/10/19/motive-brings-agentic-ai-to-physical-operations-with-agents-that-act-before-problems-escalate/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/motive-brings-agentic-ai-to-physical-operations-with-agents-that-act-before-problems-escalate/</guid>
-    <pubDate>Mon, 19 Oct 2026 14:46:47 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Motive Inc., the San Francisco-based artificial intelligence platform provider for physical operations, today announced the launch of Agents, a new capability that automatically responds to safety, maintenance and operational issues before they escalate into accidents, costly breakdowns or business…</description>
   </item>
   <item>
     <title>Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents</title>
@@ -429,6 +421,22 @@
     <pubDate>Thu, 22 Oct 2026 15:49:47 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI now has its models on all three major cloud provider platforms, as it refines its enterprise strategy.</description>
+  </item>
+  <item>
+    <title>Google&#39;s Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine</title>
+    <link>https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/</link>
+    <guid isPermaLink="true">https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/</guid>
+    <pubDate>Thu, 22 Oct 2026 17:50:09 GMT</pubDate>
+    <category>AI Business</category>
+    <description>With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google&#39;s Agent Compute Engine gives every…</description>
+  </item>
+  <item>
+    <title>Anthropic rolls out Claude Duet, but enterprises aren’t ready</title>
+    <link>https://aibusiness.com/agentic-ai/anthropic-rolls-out-claude-duet-enterprises-aren-t-ready</link>
+    <guid isPermaLink="true">https://aibusiness.com/agentic-ai/anthropic-rolls-out-claude-duet-enterprises-aren-t-ready</guid>
+    <pubDate>Thu, 22 Oct 2026 17:43:02 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The generative AI vendor released the app with stringent security guardrails for using it in professional and small business settings.</description>
   </item>
   <item>
     <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
@@ -493,14 +501,6 @@
     <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
-  </item>
-  <item>
-    <title>Inception&#39;s Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait</title>
-    <link>https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</link>
-    <guid isPermaLink="true">https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</guid>
-    <pubDate>Wed, 21 Oct 2026 14:45:45 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception&#39;s Mercury 3 diffusion…</description>
   </item>
   <item>
     <title>OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months</title>
@@ -599,6 +599,14 @@
     <description>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don&#39;t. The post Introducing the Agent Experience (AX)…</description>
   </item>
   <item>
+    <title>Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</title>
+    <link>https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/</guid>
+    <pubDate>Thu, 22 Oct 2026 17:33:25 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost .</description>
+  </item>
+  <item>
     <title>Recursive shows first result of its AI-driven research process with Flint</title>
     <link>https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/</link>
     <guid isPermaLink="true">https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/</guid>
@@ -637,14 +645,6 @@
     <pubDate>Tue, 20 Oct 2026 00:41:33 GMT</pubDate>
     <category>AI Business</category>
     <description>Town.com Inc., an artificial intelligence agent startup laser focused on getting work done by collaborating with other AI agents, revealed today that it has raised $108 million in a new funding at a $1 billion valuation. The Series B round was led by Forerunner Ventures and Menlo Ventures, and saw…</description>
-  </item>
-  <item>
-    <title>Python on Vercel is now generally available</title>
-    <link>https://vercel.com/changelog/python-on-vercel-is-now-generally-available</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/python-on-vercel-is-now-generally-available</guid>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
   </item>
 </channel>
 </rss>

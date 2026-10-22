@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T17:09:31.841Z",
-  "count": 377,
-  "focusCount": 227,
+  "generatedAt": "2026-10-22T21:34:41.157Z",
+  "count": 378,
+  "focusCount": 228,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -140,6 +140,20 @@
       "isFocus": true
     },
     {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "source": "OpenAI",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T19:00:00.000Z",
+      "topic": "App Dev",
+      "importance": 12.6,
+      "isFocus": true
+    },
+    {
       "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
       "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
       "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to…",
@@ -238,20 +252,6 @@
       "isFocus": true
     },
     {
-      "title": "Anthropic opens cybersecurity program applications, releases cheaper Haiku",
-      "url": "https://aibusiness.com/responsible-ai/anthropic-opens-cybersecurity-program-applications",
-      "summary": "Under the program, the vendor provides enterprises with models that can defend against bad actors.",
-      "source": "AI Business",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-08T21:12:15.000Z",
-      "topic": "AI Business",
-      "importance": 12.399999999999999,
-      "isFocus": true
-    },
-    {
       "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent Claude Duet",
       "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
       "summary": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like…",
@@ -292,20 +292,6 @@
       "topic": "AI Business",
       "importance": 12.1,
       "isFocus": true
-    },
-    {
-      "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
-      "url": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
-      "summary": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T06:03:12.000Z",
-      "topic": "Models & Labs",
-      "importance": 12.1,
-      "isFocus": false
     },
     {
       "title": "AINews TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
@@ -389,6 +375,34 @@
       "date": "2026-10-21T01:29:00.000Z",
       "topic": "AI Business",
       "importance": 11.799999999999999,
+      "isFocus": true
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T19:07:09.000Z",
+      "topic": "AI Business",
+      "importance": 11.5,
+      "isFocus": true
+    },
+    {
+      "title": "Major US banks are locking out AI agents that log in with customer credentials",
+      "url": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
+      "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-only access. The…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:26:02.000Z",
+      "topic": "AI Business",
+      "importance": 11.5,
       "isFocus": true
     },
     {
@@ -518,6 +532,20 @@
       "isFocus": true
     },
     {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T19:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 11.2,
+      "isFocus": true
+    },
+    {
       "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation",
       "url": "https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/",
       "summary": "Artificial intelligence research lab Flapping Airplanes Inc. today announced it has raised $1 billion in new funding, about a year after it was founded. Investors valued the startup at $6 billion in the deal, Bloomberg reported. No commercial product has come out of the lab yet. Flapping Airplanes…",
@@ -602,34 +630,6 @@
       "isFocus": true
     },
     {
-      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
-      "url": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/",
-      "summary": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder .",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T14:40:51.000Z",
-      "topic": "AI Business",
-      "importance": 11.1,
-      "isFocus": true
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T20:35:10.000Z",
-      "topic": "AI Business",
-      "importance": 11.1,
-      "isFocus": true
-    },
-    {
       "title": "Cat Jam is now available in stealth for free on AI Gateway",
       "url": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
       "summary": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a…",
@@ -670,20 +670,6 @@
       "topic": "Models & Labs",
       "importance": 11,
       "isFocus": false
-    },
-    {
-      "title": "Motive brings agentic AI to physical operations with agents that act before problems escalate",
-      "url": "https://siliconangle.com/2026/10/19/motive-brings-agentic-ai-to-physical-operations-with-agents-that-act-before-problems-escalate/",
-      "summary": "Motive Inc., the San Francisco-based artificial intelligence platform provider for physical operations, today announced the launch of Agents, a new capability that automatically responds to safety, maintenance and operational issues before they escalate into accidents, costly breakdowns or business…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T14:46:47.000Z",
-      "topic": "AI Business",
-      "importance": 11,
-      "isFocus": true
     },
     {
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
@@ -753,6 +739,34 @@
       "date": "2026-10-22T15:49:47.000Z",
       "topic": "AI Business",
       "importance": 10.799999999999999,
+      "isFocus": true
+    },
+    {
+      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+      "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google's Agent Compute Engine gives every…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:50:09.000Z",
+      "topic": "AI Business",
+      "importance": 10.7,
+      "isFocus": true
+    },
+    {
+      "title": "Anthropic rolls out Claude Duet, but enterprises aren’t ready",
+      "url": "https://aibusiness.com/agentic-ai/anthropic-rolls-out-claude-duet-enterprises-aren-t-ready",
+      "summary": "The generative AI vendor released the app with stringent security guardrails for using it in professional and small business settings.",
+      "source": "AI Business",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:43:02.000Z",
+      "topic": "AI Business",
+      "importance": 10.7,
       "isFocus": true
     },
     {
@@ -865,20 +879,6 @@
       "date": "2026-10-22T00:00:00.000Z",
       "topic": "AI Business",
       "importance": 10.5,
-      "isFocus": true
-    },
-    {
-      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
-      "url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
-      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception's Mercury 3 diffusion…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T14:45:45.000Z",
-      "topic": "AI Business",
-      "importance": 10.4,
       "isFocus": true
     },
     {
@@ -1050,6 +1050,20 @@
       "isFocus": true
     },
     {
+      "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
+      "url": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
+      "summary": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:33:25.000Z",
+      "topic": "Models & Labs",
+      "importance": 10,
+      "isFocus": false
+    },
+    {
       "title": "Recursive shows first result of its AI-driven research process with Flint",
       "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
       "summary": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company's in-house AI system, Eureka Machine, which independently tests and optimizes architectures.…",
@@ -1143,20 +1157,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-21T19:45:01.000Z",
-      "topic": "AI Business",
-      "importance": 9.8,
-      "isFocus": true
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "summary": "Before you share the Netflix documentary AI Gone Rogue, take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went full doomer mode and isn't accurate.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T22:24:02.000Z",
       "topic": "AI Business",
       "importance": 9.8,
       "isFocus": true
@@ -1414,20 +1414,6 @@
       "isFocus": true
     },
     {
-      "title": "Deno is joining Cloudflare",
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "summary": "<p><strong><a href= https://deno.com/blog/cloudflare >Deno is joining Cloudflare</a></strong></p> The Deno team released the first version of <a href= https://github.com/denoland/celld >celld</a> back in August - their open source implementation of the Durable Objects pattern from Cloudflare…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-09T22:48:37.000Z",
-      "topic": "Web Dev",
-      "importance": 9.5,
-      "isFocus": true
-    },
-    {
       "title": "Spotify’s current AI bet is about being the music service that agents choose",
       "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
@@ -1437,20 +1423,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-22T15:03:58.000Z",
-      "topic": "AI Business",
-      "importance": 9.4,
-      "isFocus": true
-    },
-    {
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T13:00:00.000Z",
       "topic": "AI Business",
       "importance": 9.4,
       "isFocus": true
@@ -1792,20 +1764,6 @@
       "isFocus": true
     },
     {
-      "title": "AI agents are ready to shop. Some retailers are wary",
-      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T12:30:00.000Z",
-      "topic": "AI Business",
-      "importance": 8.8,
-      "isFocus": true
-    },
-    {
       "title": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
       "url": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
       "summary": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B…",
@@ -2016,6 +1974,20 @@
       "isFocus": true
     },
     {
+      "title": "<p>Vibe your way to $50k: the 2026 Epic AI MegaJam is coming</p>",
+      "url": "https://www.unrealengine.com/news/2026-epic-ai-megajam",
+      "summary": "<img src= https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/cmvgzatx12qfh07mq7koz96bq /> The 2026 Epic AI MegaJam runs November 12–15. Team up with up to four other humans and as many AI agents as you want to build a playable game in Unreal Engine or UEFN, and compete for cash prizes.",
+      "source": "Unreal Engine",
+      "feedTopic": "Game Dev",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-22T00:00:00.000Z",
+      "topic": "Game Dev",
+      "importance": 8.6,
+      "isFocus": true
+    },
+    {
       "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
       "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
       "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
@@ -2198,6 +2170,20 @@
       "isFocus": false
     },
     {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 199 # Comments: 102",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:44:06.000Z",
+      "topic": "AI Business",
+      "importance": 8.4,
+      "isFocus": true
+    },
+    {
       "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
       "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
       "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
@@ -2270,7 +2256,7 @@
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 153 # Comments: 101",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 153 # Comments: 103",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2292,20 +2278,6 @@
       "researchOnly": false,
       "date": "2026-10-20T16:01:06.000Z",
       "topic": "Open Source",
-      "importance": 8.4,
-      "isFocus": false
-    },
-    {
-      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
-      "summary": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema output format and…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T23:32:19.000Z",
-      "topic": "Models & Labs",
       "importance": 8.4,
       "isFocus": false
     },
@@ -2464,6 +2436,34 @@
       "isFocus": true
     },
     {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T19:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:43:53.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
       "title": "Meet Aaron Rosenberg: The man DeepMind researchers call before they quit",
       "url": "https://sifted.eu/articles/aaron-rosenberg-radical-ventures-podcast/",
       "summary": "",
@@ -2600,34 +2600,6 @@
       "researchOnly": false,
       "date": "2026-10-21T08:40:54.000Z",
       "topic": "Game Dev",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T21:25:22.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T20:40:41.000Z",
-      "topic": "AI Business",
       "importance": 8.2,
       "isFocus": true
     },
@@ -2884,6 +2856,34 @@
       "isFocus": true
     },
     {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "summary": "<p><strong><a href= https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation >Donating Agent Skills to the Agentic AI Foundation</a></strong></p> News today from Anthropic:</p> <blockquote> <p>We’re committed to keeping Agent Skills open, community-driven, and…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:09:56.000Z",
+      "topic": "Open Source",
+      "importance": 8,
+      "isFocus": false
+    },
+    {
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this ns2jb…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:21:31.000Z",
+      "topic": "AI Business",
+      "importance": 8,
+      "isFocus": true
+    },
+    {
       "title": "IBM puts governed context at the center of production AI",
       "url": "https://siliconangle.com/2026/10/22/ibm-puts-governed-context-center-production-ai-ibmaioperatingmodel/",
       "summary": "Governed context is becoming a practical requirement for artificial intelligence agents expected to make decisions across a business. As enterprises move beyond personal productivity tools, those agents need information that reflects changing conditions across the systems they use. IBM Corp.’s…",
@@ -2893,20 +2893,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-22T16:35:31.000Z",
-      "topic": "AI Business",
-      "importance": 8,
-      "isFocus": true
-    },
-    {
-      "title": "Claude did not invent scorpion antivenom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug,…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T12:21:07.000Z",
       "topic": "AI Business",
       "importance": 8,
       "isFocus": true
@@ -3010,6 +2996,20 @@
       "isFocus": true
     },
     {
+      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+      "summary": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:00:04.000Z",
+      "topic": "Models & Labs",
+      "importance": 7.9,
+      "isFocus": false
+    },
+    {
       "title": "Missed a lecture? This AI agent at Bar-Ilan University helps students catch up",
       "url": "https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/",
       "summary": "The post Missed a lecture? This AI agent at Bar-Ilan University helps students catch up appeared first on Source .",
@@ -3066,15 +3066,15 @@
       "isFocus": false
     },
     {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. The scale of…",
+      "title": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with a bunch of symbols, according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be…",
       "source": "The Verge AI",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-21T21:30:02.000Z",
+      "date": "2026-10-22T18:58:19.000Z",
       "topic": "AI Business",
       "importance": 7.7,
       "isFocus": true
@@ -3103,6 +3103,20 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-20T15:20:25.000Z",
+      "topic": "AI Business",
+      "importance": 7.7,
+      "isFocus": true
+    },
+    {
+      "title": "Scaled Cognition targets customer service with low-cost voice model",
+      "url": "https://siliconangle.com/2026/10/20/scaled-cognition-targets-customer-service-with-low-cost-voice-model/",
+      "summary": "Scaled Cognition Inc., an artificial intelligence lab building models for enterprise customer service agents, is introducing a text-to-speech model today that it says provides more accurate pronunciation of account numbers, addresses and other details at a lower cost than competing services. The…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T13:00:37.000Z",
       "topic": "AI Business",
       "importance": 7.7,
       "isFocus": true
@@ -3148,20 +3162,6 @@
       "topic": "Open Source",
       "importance": 7.6,
       "isFocus": false
-    },
-    {
-      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-      "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T10:30:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
     },
     {
       "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
@@ -3318,20 +3318,6 @@
       "isFocus": true
     },
     {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.…",
-      "source": "MIT Tech Review",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T10:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.4,
-      "isFocus": true
-    },
-    {
       "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
       "url": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
       "summary": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens. The post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning…",
@@ -3374,6 +3360,62 @@
       "isFocus": true
     },
     {
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. This does nothing to restrict the 'associated with your products or services'…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T20:32:05.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T19:56:32.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and…",
+      "source": "MIT Tech Review",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:48:04.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now it is finally here, Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
       "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
       "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were…",
@@ -3383,20 +3425,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-22T16:16:15.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is …",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T14:00:00.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3418,7 +3446,7 @@
     {
       "title": "Google staff resign in backlash over its AI contracts with military",
       "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 124 # Comments: 26",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 125 # Comments: 26",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3432,7 +3460,7 @@
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 445 # Comments: 183",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 446 # Comments: 184",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3614,7 +3642,7 @@
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 225 # Comments: 93",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 226 # Comments: 93",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3766,20 +3794,6 @@
       "isFocus": false
     },
     {
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "url": "https://www.latent.space/p/biohub-deepmind",
-      "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology.",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-10T00:31:26.000Z",
-      "topic": "Models & Labs",
-      "importance": 7.1,
-      "isFocus": false
-    },
-    {
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
       "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
       "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
@@ -3808,18 +3822,32 @@
       "isFocus": true
     },
     {
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-21T21:00:00.000Z",
-      "topic": "Models & Labs",
+      "date": "2026-10-22T19:45:00.000Z",
+      "topic": "AI Business",
       "importance": 6.9,
-      "isFocus": false
+      "isFocus": true
+    },
+    {
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:15:00.000Z",
+      "topic": "AI Business",
+      "importance": 6.8,
+      "isFocus": true
     },
     {
       "title": "A visit to Samsung’s massive new semiconductor hub",
@@ -3962,6 +3990,20 @@
       "isFocus": false
     },
     {
+      "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/",
+      "summary": "Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three SDK clients, then walks through a GRPO loop on GSM8K and a reinforcement…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:00:01.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.5,
+      "isFocus": false
+    },
+    {
       "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
       "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
       "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on…",
@@ -3988,20 +4030,6 @@
       "topic": "Models & Labs",
       "importance": 6.5,
       "isFocus": false
-    },
-    {
-      "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that your secrets are safe with me, but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T11:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 6.4,
-      "isFocus": true
     },
     {
       "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
@@ -4071,6 +4099,48 @@
       "date": "2026-10-16T18:11:34.000Z",
       "topic": "Research",
       "importance": 6.4,
+      "isFocus": false
+    },
+    {
+      "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
+      "summary": "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio back to a browser…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:45:58.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.2,
+      "isFocus": false
+    },
+    {
+      "title": "Amazon Polly delivers a major upgrade to its Generative engine",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
+      "summary": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production.",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T18:06:35.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.1,
+      "isFocus": false
+    },
+    {
+      "title": "Meet the 2026 PyTorch Foundation Ambassadors",
+      "url": "https://pytorch.org/blog/meet-the-2026-pytorch-foundation-ambassadors/",
+      "summary": "Open source AI thrives when people come together to learn, build, share knowledge, and contribute. Behind every project is a community of developers, researchers, educators, and contributors helping make these... The post Meet the 2026 PyTorch Foundation Ambassadors appeared first on PyTorch .",
+      "source": "PyTorch",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:44:52.000Z",
+      "topic": "Open Source",
+      "importance": 6.1,
       "isFocus": false
     },
     {
@@ -4186,6 +4256,20 @@
       "isFocus": false
     },
     {
+      "title": "Meta turns Muse sharing back on",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T20:24:04.000Z",
+      "topic": "AI Business",
+      "importance": 6,
+      "isFocus": true
+    },
+    {
       "title": "PHP: The three little letters wreaking havoc across the web",
       "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
       "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan,…",
@@ -4265,20 +4349,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-22T02:24:17.000Z",
-      "topic": "AI Business",
-      "importance": 6,
-      "isFocus": true
-    },
-    {
-      "title": "Data centers could erase decades of air quality gains",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T22:33:44.000Z",
       "topic": "AI Business",
       "importance": 6,
       "isFocus": true
@@ -4382,48 +4452,6 @@
       "isFocus": false
     },
     {
-      "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
-      "summary": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360 view an agent queries in VQL, with identity propagation and row- and…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T15:39:04.000Z",
-      "topic": "Models & Labs",
-      "importance": 5.800000000000001,
-      "isFocus": false
-    },
-    {
-      "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
-      "summary": "The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server, and enforces per-user row and column security end-to-end.",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T15:36:39.000Z",
-      "topic": "Models & Labs",
-      "importance": 5.800000000000001,
-      "isFocus": false
-    },
-    {
-      "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/",
-      "summary": "The third post in our semantic-layer series builds a governed customer 360 model on Amazon Redshift with AtScale, then exposes it to a Strands agent on Amazon Bedrock AgentCore through the AtScale MCP server. Identity propagation, RBAC, row security, and full query audit are enforced at the…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T15:33:54.000Z",
-      "topic": "Models & Labs",
-      "importance": 5.800000000000001,
-      "isFocus": false
-    },
-    {
       "title": "A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU",
       "url": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
       "summary": "Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration. The post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper…",
@@ -4463,6 +4491,20 @@
       "date": "2026-10-16T04:16:45.000Z",
       "topic": "Models & Labs",
       "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "url": "https://www.latent.space/p/modal-d",
+      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "source": "Latent Space",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:40:57.000Z",
+      "topic": "Models & Labs",
+      "importance": 5.6,
       "isFocus": false
     },
     {
@@ -4580,27 +4622,13 @@
     {
       "title": "Work management context for AI agents with Smartsheet MCP on AWS",
       "url": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
-      "summary": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
+      "summary": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
       "source": "AWS ML Blog",
       "feedTopic": "Models & Labs",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
       "date": "2026-10-20T17:59:07.000Z",
-      "topic": "Models & Labs",
-      "importance": 5.4,
-      "isFocus": false
-    },
-    {
-      "title": "Securing AI agent identity with X.509 PKI on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
-      "summary": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693 audience-scoped tokens, and real-time OCSP revocation to prove agent identity and…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T16:03:48.000Z",
       "topic": "Models & Labs",
       "importance": 5.4,
       "isFocus": false
@@ -4687,20 +4715,6 @@
       "date": "2026-10-22T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
-      "isFocus": false
-    },
-    {
-      "title": "Bringing Elastically Deterministic Data Loading to TorchTitan with Zephon",
-      "url": "https://pytorch.org/blog/bringing-elastically-deterministic-data-loading-to-torchtitan-with-zephon/",
-      "summary": "Why Zephon? The data that a model sees during training is one of the most powerful levers we have for influencing how well it performs. Much of the day-to-day work... The post Bringing Elastically Deterministic Data Loading to TorchTitan with Zephon appeared first on PyTorch .",
-      "source": "PyTorch",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-16T16:30:46.000Z",
-      "topic": "Open Source",
-      "importance": 5.3,
       "isFocus": false
     },
     {
@@ -4868,20 +4882,6 @@
       "researchOnly": false,
       "date": "2026-10-10T14:04:11.000Z",
       "topic": "Models & Labs",
-      "importance": 5.2,
-      "isFocus": false
-    },
-    {
-      "title": "Quoting The New York Times",
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "summary": "<blockquote cite= https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html ><p>Anthropic detailed the activity of its A.I. agents in <a href= https://www.anthropic.com/research/investigating-unintended-model-actions >a blog post</a> on Friday, without naming the targeted…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-10T02:04:12.000Z",
-      "topic": "Open Source",
       "importance": 5.2,
       "isFocus": false
     },
@@ -5068,6 +5068,20 @@
       "isFocus": false
     },
     {
+      "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/",
+      "summary": "Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents in a healthcare…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T17:48:22.000Z",
+      "topic": "Models & Labs",
+      "importance": 4.6,
+      "isFocus": false
+    },
+    {
       "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
       "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
       "summary": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where headroom existed.",
@@ -5093,6 +5107,20 @@
       "date": "2026-10-20T16:22:24.000Z",
       "topic": "Models & Labs",
       "importance": 4.6,
+      "isFocus": false
+    },
+    {
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "summary": "<p><strong><a href= https://www.youtube.com/watch?v=hKO4pQtIXow >DE STAAT - FREEDOM (Official Music Video)</a></strong></p> OK well this is a first for me... at <a href= https://www.youtube.com/watch?v=hKO4pQtIXow&amp;t=44s >00:44</a> in this new music video by Dutch alternative rock band <a href=…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T19:42:26.000Z",
+      "topic": "Open Source",
+      "importance": 4.5,
       "isFocus": false
     },
     {
@@ -5220,20 +5248,6 @@
       "topic": "Open Source",
       "importance": 4.4,
       "isFocus": false
-    },
-    {
-      "title": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 123",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T16:52:42.000Z",
-      "topic": "AI Business",
-      "importance": 4.2,
-      "isFocus": true
     },
     {
       "title": "Empowering frontline maternal care with AI-assisted ultrasound",
