@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T04:47:24.360Z",
-  "count": 372,
-  "focusCount": 224,
+  "generatedAt": "2026-10-23T11:36:48.280Z",
+  "count": 370,
+  "focusCount": 223,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -14,20 +14,6 @@
   ],
   "items": [
     {
-      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
-      "url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
-      "summary": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers. The article Google Cloud now offers OpenAI models alongside Gemini and…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T17:44:22.000Z",
-      "topic": "AI Business",
-      "importance": 14.2,
-      "isFocus": true
-    },
-    {
       "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
       "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
       "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics,…",
@@ -39,6 +25,20 @@
       "date": "2026-10-21T10:30:41.000Z",
       "topic": "AI Business",
       "importance": 14.2,
+      "isFocus": true
+    },
+    {
+      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+      "url": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+      "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T06:05:10.000Z",
+      "topic": "AI Business",
+      "importance": 13.799999999999999,
       "isFocus": true
     },
     {
@@ -70,20 +70,6 @@
       "isFocus": true
     },
     {
-      "title": "ServiceNow Announces New AI Agent Services With Nvidia",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/servicenow-announces-new-ai-agent-services-with-nvidia/",
-      "summary": "Enterprise software platform ServiceNow has launched an agentic-AI-focused expansion of its partnership with Nvidia. The new updates are “designed to bring governance and security across every layer of AI agent execution,” the company said in a news release Wednesday (Oct. 21). “People are turning…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T19:56:56.000Z",
-      "topic": "AI Business",
-      "importance": 13.2,
-      "isFocus": true
-    },
-    {
       "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
       "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
       "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…",
@@ -95,6 +81,20 @@
       "date": "2026-10-21T10:45:17.000Z",
       "topic": "AI Business",
       "importance": 13,
+      "isFocus": true
+    },
+    {
+      "title": "OpenAI lowers valuation target, raises up to $30 billion",
+      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+      "summary": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder .",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T09:49:38.000Z",
+      "topic": "AI Business",
+      "importance": 12.899999999999999,
       "isFocus": true
     },
     {
@@ -238,20 +238,6 @@
       "isFocus": true
     },
     {
-      "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
-      "url": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
-      "summary": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T22:15:39.000Z",
-      "topic": "Web Dev",
-      "importance": 12.1,
-      "isFocus": true
-    },
-    {
       "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
       "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
       "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor…",
@@ -261,20 +247,6 @@
       "native": false,
       "researchOnly": false,
       "date": "2026-10-21T10:10:01.000Z",
-      "topic": "AI Business",
-      "importance": 12.1,
-      "isFocus": true
-    },
-    {
-      "title": "AINews TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "summary": "Wow.",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-10T06:45:57.000Z",
       "topic": "AI Business",
       "importance": 12.1,
       "isFocus": true
@@ -294,34 +266,6 @@
       "isFocus": true
     },
     {
-      "title": "Legora Hits $8.8 Billion Valuation as Legal Professionals Deploy AI Agents",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/legora-hits-8-8-billion-valuation-as-legal-professionals-deploy-ai-agents/",
-      "summary": "Legora raised $550 million in a Series E funding round to support the expansion of its agentic operating system for legal professionals, Legora aOS, the company said in a Wednesday (Oct. 21) blog post. The round valued Legora at $8.8 billion, according to the post. That figure is up from the $5.6…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T19:47:49.000Z",
-      "topic": "AI Business",
-      "importance": 11.9,
-      "isFocus": true
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-09T07:00:00.000Z",
-      "topic": "Web Dev",
-      "importance": 11.8,
-      "isFocus": true
-    },
-    {
       "title": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute",
       "url": "https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/",
       "summary": "Google LLC is striving to pry open Nvidia Corp.’s grip on the artificial intelligence computing industry with the launch of a specialized version of the open-source PyTorch framework, called TorchTPU, which is designed to eliminate a key advantage of its rival. One of the reasons why Nvidia and its…",
@@ -333,6 +277,20 @@
       "date": "2026-10-21T01:29:00.000Z",
       "topic": "AI Business",
       "importance": 11.799999999999999,
+      "isFocus": true
+    },
+    {
+      "title": "Canva launches Craft, its first in-house image model",
+      "url": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
+      "summary": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder .",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T11:36:30.000Z",
+      "topic": "AI Business",
+      "importance": 11.7,
       "isFocus": true
     },
     {
@@ -379,7 +337,7 @@
     },
     {
       "title": "AINews DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
       "summary": "An open source “bomb” drops from China",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -575,7 +533,7 @@
     },
     {
       "title": "AINews Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d/",
       "summary": "Sandboxes are all you need.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -631,7 +589,7 @@
     },
     {
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "url": "https://www.latent.space/p/crossing-the-threshold",
+      "url": "https://latent.space/p/crossing-the-threshold/",
       "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -645,7 +603,7 @@
     },
     {
       "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)",
-      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "url": "https://latent.space/p/claude-dynamic-workflows/",
       "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -672,18 +630,18 @@
       "isFocus": true
     },
     {
-      "title": "Boeing, Microsoft Aim AI at Airlines’ $3.1 Billion Repair Bill",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/boeing-microsoft-aim-ai-airlines-3-billion-dollar-repair-bill/",
-      "summary": "Boeing wants airlines to catch mechanical problems before they ground a jet. The aircraft maker announced in a Tuesday (Oct. 20) press release the launch of Dataliner, an artificial intelligence-powered platform built with Microsoft that pulls an airline’s maintenance and fleet data into one view.…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
+      "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+      "url": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+      "summary": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-21T21:25:18.000Z",
-      "topic": "AI Business",
+      "date": "2026-10-23T05:28:21.000Z",
+      "topic": "Models & Labs",
       "importance": 10.8,
-      "isFocus": true
+      "isFocus": false
     },
     {
       "title": "OpenAI, Google partnership targets enterprise model choice",
@@ -837,6 +795,20 @@
       "date": "2026-10-22T00:00:00.000Z",
       "topic": "AI Business",
       "importance": 10.5,
+      "isFocus": true
+    },
+    {
+      "title": "Anthropic's Claude now writes code and proves it safe automatically",
+      "url": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
+      "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification with AI as routine as…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T11:32:19.000Z",
+      "topic": "AI Business",
+      "importance": 10.3,
       "isFocus": true
     },
     {
@@ -994,20 +966,6 @@
       "isFocus": true
     },
     {
-      "title": "Introducing the Agent Experience (AX) Practitioner Playbook",
-      "url": "https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
-      "summary": "AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don't. The post Introducing the Agent Experience (AX)…",
-      "source": "Microsoft DevBlogs",
-      "feedTopic": "App Dev",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-09T09:44:25.000Z",
-      "topic": "App Dev",
-      "importance": 10.1,
-      "isFocus": true
-    },
-    {
       "title": "Agentic AI Foundation adds four more open-source AI tools",
       "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
       "summary": "The Agentic AI Foundation, a consortium that maintains open-source artificial intelligence tools, today took four new projects under its wing. The technologies were donated by OpenAI Group PBC, Anthropic PBC, Hugging Face Inc. and Alibaba Group Holding Ltd. They bring the total number of projects…",
@@ -1033,6 +991,20 @@
       "date": "2026-10-22T17:33:25.000Z",
       "topic": "Models & Labs",
       "importance": 10,
+      "isFocus": false
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "source": "OpenAI",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T00:00:00.000Z",
+      "topic": "Models & Labs",
+      "importance": 9.9,
       "isFocus": false
     },
     {
@@ -1103,20 +1075,6 @@
       "date": "2026-10-15T00:00:00.000Z",
       "topic": "Web Dev",
       "importance": 9.9,
-      "isFocus": true
-    },
-    {
-      "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
-      "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
-      "summary": "OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon. OpenAI warns that the same AI capabilities that find vulnerabilities can…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T19:45:01.000Z",
-      "topic": "AI Business",
-      "importance": 9.8,
       "isFocus": true
     },
     {
@@ -1205,7 +1163,7 @@
     },
     {
       "title": "AINews OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
       "summary": "The Big Hardening begins",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -1214,20 +1172,6 @@
       "researchOnly": false,
       "date": "2026-10-22T07:42:44.000Z",
       "topic": "Web Dev",
-      "importance": 9.7,
-      "isFocus": true
-    },
-    {
-      "title": "OpenAI Expands ChatGPT Ads to 26 New Countries",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-expands-chatgpt-ads-to-26-new-countries/",
-      "summary": "OpenAI says it is expanding the reach of its ChatGPT Ads to 26 new countries. The expansion brings the advertising offering to 80 countries around the world, and comes as more than 100,000 advertisers have run campaigns on ChatGPT, the artificial intelligence (AI) company announced Wednesday (Oct.…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T18:02:32.000Z",
-      "topic": "AI Business",
       "importance": 9.7,
       "isFocus": true
     },
@@ -1415,7 +1359,7 @@
     },
     {
       "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "url": "https://www.latent.space/p/sfcompute2",
+      "url": "https://latent.space/p/sfcompute2/",
       "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -1429,7 +1373,7 @@
     },
     {
       "title": "AINews Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "url": "https://latent.space/p/ainews-meta-muse-wonder-and-wonder/",
       "summary": "MSL’s emergence as a frontier lab is finally complete.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -1453,6 +1397,34 @@
       "date": "2026-10-12T13:11:17.000Z",
       "topic": "Game Dev",
       "importance": 9.4,
+      "isFocus": true
+    },
+    {
+      "title": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-lock-in-30-billion-funding-round-by-next-week/",
+      "summary": "OpenAI is close to finalizing a funding round in which it could raise as much as $30 billion at a $1.25 trillion pre-money valuation, CNBC reported Thursday (Oct. 22), citing unnamed sources. OpenAI told investors Thursday that it aims to secure signatures by the end of next week, though the final…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T01:20:17.000Z",
+      "topic": "AI Business",
+      "importance": 9.3,
+      "isFocus": true
+    },
+    {
+      "title": "Wyndham Deploys AI Agents to Boost Hotel Bookings and Cut Franchisee Costs",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/wyndham-deploys-ai-agents-to-boost-hotel-bookings-and-cut-franchisee-costs/",
+      "summary": "Hotel franchising company Wyndham Hotels & Resorts offers artificial intelligence (AI) tools across the guest experience and has found that they improve franchisees’ top lines, reduce operating costs and enhance the guest experience, the company said in an investor presentation released Wednesday…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T22:37:03.000Z",
+      "topic": "AI Business",
+      "importance": 9.3,
       "isFocus": true
     },
     {
@@ -1495,6 +1467,20 @@
       "date": "2026-10-14T00:00:00.000Z",
       "topic": "AI Business",
       "importance": 9.3,
+      "isFocus": true
+    },
+    {
+      "title": "Uber Deploys OpenAI Agents to All 30,000 Employees",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/uber-deploys-openai-agents-to-all-30000-employees/",
+      "summary": "Uber has made OpenAI’s ChatGPT Work available to all its 30,000 employees around the world after initially piloting it with 1,000 employees, OpenAI said in a Thursday (Oct. 22) press release. ChatGPT Work is an agent designed to take on complex, multi-step tasks within ChatGPT Enterprise and…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T23:50:57.000Z",
+      "topic": "AI Business",
+      "importance": 9.2,
       "isFocus": true
     },
     {
@@ -1736,20 +1722,6 @@
       "isFocus": true
     },
     {
-      "title": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
-      "url": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
-      "summary": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T22:39:41.000Z",
-      "topic": "Models & Labs",
-      "importance": 8.8,
-      "isFocus": false
-    },
-    {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
@@ -1932,18 +1904,18 @@
       "isFocus": true
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
-      "native": true,
+      "title": "Protecting Trade Secrets In The Age Of AI",
+      "url": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
+      "summary": "AI agents create new trade secret risks by allowing employees to access expertise or inadvertently expose proprietary information through personal devices. In this guest commentary, Seth Kugler, a partner at Grellas Shah LLP, warns companies that they should adopt strict AI policies, restrict data…",
+      "source": "Crunchbase News",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
       "researchOnly": false,
-      "date": "2026-10-09T07:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 8.7,
-      "isFocus": false
+      "date": "2026-10-23T11:00:29.000Z",
+      "topic": "AI Business",
+      "importance": 8.6,
+      "isFocus": true
     },
     {
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
@@ -2156,9 +2128,37 @@
       "isFocus": false
     },
     {
+      "title": "Banks Add AI Agents, Keep Their 40-Year-Old Cores",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-add-ai-agents-keep-their-40-year-old-cores/",
+      "summary": "Banks keep their core systems because replacing them is costly and disruptive. Keeping them carries its own price. Employees work across fragmented applications, repeat manual steps and rely on expensive integrations. Fifty-two percent of financial institutions name legacy technology as an obstacle…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T23:10:44.000Z",
+      "topic": "AI Business",
+      "importance": 8.4,
+      "isFocus": true
+    },
+    {
+      "title": "Nvidia and Reflection Make Open Models Enterprise-Ready",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-and-reflection-make-open-models-enterprise-ready/",
+      "summary": "Chinese labs have led the open-weight artificial intelligence (AI) race for most of the year. This week, the U.S. stacked up its own entries, with Nvidia and Reflection releasing models built for enterprise work. DeepSeek and MiniMax responded with price cuts. Nvidia and Reflection Build the…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-22T23:08:06.000Z",
+      "topic": "AI Business",
+      "importance": 8.4,
+      "isFocus": true
+    },
+    {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 340 # Comments: 178",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 414 # Comments: 195",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2172,7 +2172,7 @@
     {
       "title": "Every AI model has the same controversial take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 296 # Comments: 344",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 456 # Comments: 458",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2242,7 +2242,7 @@
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 155 # Comments: 104",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 157 # Comments: 105",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2284,7 +2284,7 @@
     {
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 158 # Comments: 149",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 159 # Comments: 149",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2325,7 +2325,7 @@
     },
     {
       "title": "AINews AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "url": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon/",
       "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -2405,6 +2405,20 @@
       "date": "2026-10-15T19:39:27.000Z",
       "topic": "Web Dev",
       "importance": 8.3,
+      "isFocus": true
+    },
+    {
+      "title": "5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement",
+      "url": "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-gaming-clean-tech/",
+      "summary": "From teaching robots to do everyday household chores to using lasers to track satellites in space, this month's crop of interesting startup deals spans some decidedly different corners of tech.",
+      "source": "Crunchbase News",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-23T11:00:08.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
       "isFocus": true
     },
     {
@@ -2515,34 +2529,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-21T22:45:34.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "Anthropic Accounting Charge Drives 80% Net Loss",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accounting-charge-drives-80percent-net-loss/",
-      "summary": "Anthropic’s net loss jumped significantly to $80.7 billion in the first half of 2026, largely due to an accounting charge. That’s according to a report Tuesday (Oct. 20) by Reuters, which viewed a draft prospectus for the company’s planned initial public offering (IPO). Anthropic is expected to go…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T18:33:01.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
-      "url": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
-      "summary": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year. The article Deepmind founder Hassabis shortens AGI timeline from five to two to…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T17:10:46.000Z",
       "topic": "AI Business",
       "importance": 8.2,
       "isFocus": true
@@ -3207,7 +3193,7 @@
     },
     {
       "title": "Claude Mods: Flipping the Harness Inside Out",
-      "url": "https://www.latent.space/p/claude-mods",
+      "url": "https://latent.space/p/claude-mods/",
       "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -3332,6 +3318,20 @@
       "isFocus": true
     },
     {
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 121 # Comments: 131",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T06:41:11.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "Designing an AI serving harness built to last",
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context…",
@@ -3390,7 +3390,7 @@
     {
       "title": "AI and the Enclosure of the Scientific Commons",
       "url": "https://arxiv.org/abs/2610.27251",
-      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 126 # Comments: 74",
+      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 135 # Comments: 77",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3460,7 +3460,7 @@
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 447 # Comments: 184",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 450 # Comments: 184",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3572,7 +3572,7 @@
     {
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
       "url": "https://www.vals.ai/blogs/impossible-refund",
-      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 107 # Comments: 127",
+      "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 107 # Comments: 126",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3628,7 +3628,7 @@
     {
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 226 # Comments: 93",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 227 # Comments: 93",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3656,7 +3656,7 @@
     {
       "title": "Why We're Banning AI",
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 261 # Comments: 204",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 261 # Comments: 203",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3677,20 +3677,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-15T14:35:15.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "AI was great until it was not",
-      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 124 # Comments: 77",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T08:18:38.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3792,6 +3778,20 @@
       "topic": "AI Business",
       "importance": 6.9,
       "isFocus": true
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "source": "OpenAI",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-21T21:00:00.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.9,
+      "isFocus": false
     },
     {
       "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
@@ -3917,6 +3917,20 @@
       "date": "2026-10-13T23:00:06.000Z",
       "topic": "Models & Labs",
       "importance": 6.7,
+      "isFocus": false
+    },
+    {
+      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+      "url": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T08:58:47.000Z",
+      "topic": "Research",
+      "importance": 6.6,
       "isFocus": false
     },
     {
@@ -4173,7 +4187,7 @@
     },
     {
       "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "url": "https://www.latent.space/p/dyna",
+      "url": "https://latent.space/p/dyna/",
       "summary": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -4354,20 +4368,6 @@
       "isFocus": false
     },
     {
-      "title": "NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels",
-      "url": "https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/",
-      "summary": "Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure kernel fusion directly from Python code. The post NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels appeared first…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T03:59:12.000Z",
-      "topic": "Research",
-      "importance": 5.9,
-      "isFocus": false
-    },
-    {
       "title": "llm-meta-ai 0.2",
       "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
       "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm-meta-ai/releases/tag/0.2 >llm-meta-ai 0.2</a></p> <p>Meta AI release <a href= https://research.meta.ai/blog/muse-wonder >Muse Wonder</a> (and Muse Wonder Full), their new most capable models . These look like they may be Meta's…",
@@ -4411,7 +4411,7 @@
     },
     {
       "title": "AINews Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity/",
       "summary": "Nick Cammarata out of nowhere with some major claims!",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -4452,8 +4452,22 @@
       "isFocus": false
     },
     {
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s…",
+      "source": "NVIDIA",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-23T02:00:13.000Z",
+      "topic": "Models & Labs",
+      "importance": 5.6,
+      "isFocus": false
+    },
+    {
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "url": "https://www.latent.space/p/modal-d",
+      "url": "https://latent.space/p/modal-d/",
       "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -4467,8 +4481,8 @@
     },
     {
       "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "url": "https://www.latent.space/p/tenex",
-      "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
+      "url": "https://latent.space/p/tenex/",
+      "summary": "Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
       "weight": 2,
@@ -4718,20 +4732,6 @@
       "isFocus": false
     },
     {
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its…",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-23T02:00:13.000Z",
-      "topic": "Models & Labs",
-      "importance": 5.2,
-      "isFocus": false
-    },
-    {
       "title": "PyTorch Conference North America 2026: Accelerating Open Intelligence Together",
       "url": "https://pytorch.org/blog/pytorch-conference-north-america-2026-accelerating-open-intelligence-together/",
       "summary": "PyTorch Conference North America 2026 brought 3,500+ attendees to San Jose on October 20–21 for two days focused on accelerating open intelligence and exploring the impact of PyTorch Foundation projects... The post PyTorch Conference North America 2026: Accelerating Open Intelligence Together…",
@@ -4817,7 +4817,7 @@
     },
     {
       "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "url": "https://www.latent.space/p/standard-bots",
+      "url": "https://latent.space/p/standard-bots/",
       "summary": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -5027,7 +5027,7 @@
     },
     {
       "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-      "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+      "url": "https://latent.space/p/lab-in-the-loop-at-compute-speed/",
       "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -5153,7 +5153,7 @@
     },
     {
       "title": "You are the Team — Anekha Sokhal, Moshi",
-      "url": "https://www.latent.space/p/moshi",
+      "url": "https://latent.space/p/moshi/",
       "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -5167,7 +5167,7 @@
     },
     {
       "title": "AINews not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "url": "https://latent.space/p/ainews-not-much-happened-today-f09/",
       "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
       "source": "Latent Space",
       "feedTopic": "Models & Labs",
@@ -5189,34 +5189,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-19T23:58:25.000Z",
-      "topic": "Open Source",
-      "importance": 4.4,
-      "isFocus": false
-    },
-    {
-      "title": "Tree Appreciator",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "summary": "<p><strong>Tool:</strong> <a href= https://tools.simonwillison.net/tree-appreciator >Tree Appreciator</a></p> <p>Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with:</p> <blockquote>…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-14T21:23:01.000Z",
-      "topic": "Open Source",
-      "importance": 4.4,
-      "isFocus": false
-    },
-    {
-      "title": "Quoting Geoffrey Huntley",
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "summary": "<blockquote cite= https://ghuntley.com/agency/ ><p>If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T13:32:00.000Z",
       "topic": "Open Source",
       "importance": 4.4,
       "isFocus": false
