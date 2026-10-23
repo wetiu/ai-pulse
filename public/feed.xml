@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 23 Oct 2026 17:05:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 21:23:33 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -53,14 +53,6 @@
     <pubDate>Fri, 23 Oct 2026 09:49:38 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder .</description>
-  </item>
-  <item>
-    <title>DeepSeek Raises $15 Billion Ahead of Planned Shanghai IPO</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-raises-15-billion-ahead-of-planned-shanghai-ipo/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-raises-15-billion-ahead-of-planned-shanghai-ipo/</guid>
-    <pubDate>Thu, 22 Oct 2026 15:30:11 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Chinese artificial intelligence (AI) startup DeepSeek has raised $15 billion in its second private funding round and is accelerating plans for a Shanghai listing in early 2027, potentially reaching public markets before OpenAI. The financing nearly doubled its original target amid strong investor…</description>
   </item>
   <item>
     <title>Build more responsive apps with the Decisions API</title>
@@ -119,6 +111,22 @@
     <description>With Googlebook, we’re excited to help users express themselves and gain access to these tools.</description>
   </item>
   <item>
+    <title>Chinese AI model Kimi K3.1 Pro is closing in on Anthropic&#39;s Claude Opus 5.5</title>
+    <link>https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/</link>
+    <guid isPermaLink="true">https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/</guid>
+    <pubDate>Fri, 23 Oct 2026 19:00:07 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Moonshot AI&#39;s Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models…</description>
+  </item>
+  <item>
+    <title>Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring</title>
+    <link>https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/</link>
+    <guid isPermaLink="true">https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/</guid>
+    <pubDate>Fri, 23 Oct 2026 18:00:32 GMT</pubDate>
+    <category>AI Business</category>
+    <description>External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company&#39;s internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. OpenAI redacted…</description>
+  </item>
+  <item>
     <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
     <link>https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</guid>
@@ -133,6 +141,14 @@
     <pubDate>Tue, 20 Oct 2026 10:42:26 GMT</pubDate>
     <category>Game Dev</category>
     <description>The Japan Actors Union has announced new guidelines to address the unauthorised use of generative AI to replicate voice performances. Read more</description>
+  </item>
+  <item>
+    <title>Securing our frontier model training environment</title>
+    <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+    <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+    <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
   </item>
   <item>
     <title>Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute</title>
@@ -173,14 +189,6 @@
     <pubDate>Thu, 22 Oct 2026 18:26:02 GMT</pubDate>
     <category>AI Business</category>
     <description>Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-only access. The…</description>
-  </item>
-  <item>
-    <title>An AI agent in Skynet mode hijacks unprotected language models to launch self-sustaining cyberattacks</title>
-    <link>https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/</link>
-    <guid isPermaLink="true">https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/</guid>
-    <pubDate>Thu, 22 Oct 2026 11:30:56 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Security researchers at Symantec have found an offensive AI agent that hijacks unprotected language models on the web and uses them to attack servers, steal databases, and install cryptominers on its own. It runs up to 100,000 steps without human input. The owner of the hijacked model gets stuck…</description>
   </item>
   <item>
     <title>AINews DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
@@ -271,14 +279,6 @@
     <description>Otter.ai Inc., the developer of a popular artificial intelligence meeting assistant, today announced that it has raised $320 million in funding. The capital came entirely from General Catalyst’s Customer Value Fund. The investment vehicle provides startups with financing for sales and marketing…</description>
   </item>
   <item>
-    <title>AuxoAI raises over $20M to bring AI expertise to the enterprise and redesign how work gets done</title>
-    <link>https://siliconangle.com/2026/10/20/auxoai-raises-over-20m-to-bring-ai-expertise-to-the-enterprise-and-redesign-how-work-gets-done/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/auxoai-raises-over-20m-to-bring-ai-expertise-to-the-enterprise-and-redesign-how-work-gets-done/</guid>
-    <pubDate>Tue, 20 Oct 2026 13:00:26 GMT</pubDate>
-    <category>AI Business</category>
-    <description>AuxoAI Inc., an enterprise engineering and consulting company that helps large businesses build and deploy artificial intelligence systems, today announced it has raised $20.7 million in a Series A funding to accelerate growth and scale its enterprise AI consulting model. The company said it has…</description>
-  </item>
-  <item>
     <title>Reflection AI&#39;s Beam now available on AI Gateway for free</title>
     <link>https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free</link>
     <guid isPermaLink="true">https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free</guid>
@@ -359,6 +359,14 @@
     <description>You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on…</description>
   </item>
   <item>
+    <title>The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings</title>
+    <link>https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/</link>
+    <guid isPermaLink="true">https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/</guid>
+    <pubDate>Fri, 23 Oct 2026 18:51:22 GMT</pubDate>
+    <category>AI Business</category>
+    <description>It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million…</description>
+  </item>
+  <item>
     <title>OpenAI, Google partnership targets enterprise model choice</title>
     <link>https://aibusiness.com/generative-ai/openai-google-partnership-enterprise-model-choice</link>
     <guid isPermaLink="true">https://aibusiness.com/generative-ai/openai-google-partnership-enterprise-model-choice</guid>
@@ -431,14 +439,6 @@
     <description>As agents take on more work for users, companies are deciding whether to let outside AI systems act on their platforms.</description>
   </item>
   <item>
-    <title>Anthropic’s New AI Agent Purchases Business Supplies</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies/</guid>
-    <pubDate>Thu, 22 Oct 2026 00:59:33 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic has unveiled an app in which Claude works as a “proactive agent” on behalf of professionals and small business owners, including purchasing business supplies, the company said in a Wednesday (Oct. 21) announcement. In this app, Claude Duet, Claude comes to the user when something needs…</description>
-  </item>
-  <item>
     <title>Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻</title>
     <link>https://tldr.tech/ai/2026-10-22</link>
     <guid isPermaLink="true">https://tldr.tech/ai/2026-10-22</guid>
@@ -447,20 +447,20 @@
     <description></description>
   </item>
   <item>
+    <title>Siemens, Nvidia deploy industrial AI to reduce engineering effort</title>
+    <link>https://aibusiness.com/generative-ai/siemens-nvidia-industrial-ai-reduce-engineering-effort</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/siemens-nvidia-industrial-ai-reduce-engineering-effort</guid>
+    <pubDate>Fri, 23 Oct 2026 17:26:03 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The partners are using digital twins and AI agents as part of a roadmap to create world-first AI-powered manufacturing facilities.</description>
+  </item>
+  <item>
     <title>Anthropic&#39;s Claude now writes code and proves it safe automatically</title>
     <link>https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/</link>
     <guid isPermaLink="true">https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/</guid>
     <pubDate>Fri, 23 Oct 2026 11:32:19 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic&#39;s goal: making formal verification with AI as routine as…</description>
-  </item>
-  <item>
-    <title>OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months</title>
-    <link>https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/</link>
-    <guid isPermaLink="true">https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/</guid>
-    <pubDate>Thu, 22 Oct 2026 10:01:53 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI teamed up with PerturbAI and Scripps Research to deploy thousands of AI agents that analyzed biological data from millions of mouse cells. The article OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months appeared first on The Decoder .</description>
   </item>
   <item>
     <title>NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure</title>
@@ -527,6 +527,14 @@
     <description>Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes. Read more</description>
   </item>
   <item>
+    <title>LSEG Pays $3.5 Billion to Feed Wall Street’s AI</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/lseg-pays-3-billion-dollars-feed-wall-street-ai/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/lseg-pays-3-billion-dollars-feed-wall-street-ai/</guid>
+    <pubDate>Fri, 23 Oct 2026 17:21:40 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Artificial intelligence is reducing the time and cost of financial research, but the data behind that research is becoming more valuable. Two investments announced Thursday (Oct. 22) illustrate the shift. London Stock Exchange Group (LSEG) announced that it is acquiring credit intelligence provider…</description>
+  </item>
+  <item>
     <title>Canva’s first AI image model plans designs before generating them</title>
     <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
     <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</guid>
@@ -541,6 +549,14 @@
     <pubDate>Thu, 22 Oct 2026 00:22:58 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI Group PBC today announced plans to make its latest large language models accessible in Google Cloud. The LLMs will be available through the Alphabet Inc.’s unit Model Garden service. It provides access to more than 200 neural networks from Google, its partners and the open-source ecosystem.…</description>
+  </item>
+  <item>
+    <title>SpaceX Enlists 130 Tech Leaders to Help Businesses Deploy Grok AI</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/spacex-enlists-130-tech-leaders-to-help-businesses-deploy-grok-ai/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/spacex-enlists-130-tech-leaders-to-help-businesses-deploy-grok-ai/</guid>
+    <pubDate>Fri, 23 Oct 2026 18:02:57 GMT</pubDate>
+    <category>AI Business</category>
+    <description>SpaceX has launched a partner program that offers training, tools and support to companies that build products, solutions and services with the company’s artificial intelligence (AI) model, Grok, according to a Thursday (Oct. 22) press release. The new SpaceX Super Intelligence Partner Network is…</description>
   </item>
   <item>
     <title>Agentic AI Foundation adds four more open-source AI tools</title>
@@ -581,14 +597,6 @@
     <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
-  </item>
-  <item>
-    <title>Recursive shows first result of its AI-driven research process with Flint</title>
-    <link>https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/</link>
-    <guid isPermaLink="true">https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/</guid>
-    <pubDate>Thu, 22 Oct 2026 14:40:16 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company&#39;s in-house AI system, Eureka Machine, which independently tests and optimizes architectures.…</description>
   </item>
   <item>
     <title>The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.</title>
@@ -637,14 +645,6 @@
     <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the…</description>
-  </item>
-  <item>
-    <title>Open source and on device: the strategy behind Nvidia’s new AI models</title>
-    <link>https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</guid>
-    <pubDate>Fri, 16 Oct 2026 18:26:14 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The new Nemotron 3.5 models show how the AI giant is focusing on reinforcing its own GPU infrastructure while supporting the open source community.</description>
   </item>
 </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T17:05:40.582Z",
-  "count": 372,
-  "focusCount": 224,
+  "generatedAt": "2026-10-23T21:23:33.394Z",
+  "count": 375,
+  "focusCount": 226,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -95,20 +95,6 @@
       "date": "2026-10-23T09:49:38.000Z",
       "topic": "AI Business",
       "importance": 12.899999999999999,
-      "isFocus": true
-    },
-    {
-      "title": "DeepSeek Raises $15 Billion Ahead of Planned Shanghai IPO",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-raises-15-billion-ahead-of-planned-shanghai-ipo/",
-      "summary": "Chinese artificial intelligence (AI) startup DeepSeek has raised $15 billion in its second private funding round and is accelerating plans for a Shanghai listing in early 2027, potentially reaching public markets before OpenAI. The financing nearly doubled its original target amid strong investor…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T15:30:11.000Z",
-      "topic": "AI Business",
-      "importance": 12.7,
       "isFocus": true
     },
     {
@@ -210,6 +196,34 @@
       "isFocus": true
     },
     {
+      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+      "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
+      "summary": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T19:00:07.000Z",
+      "topic": "AI Business",
+      "importance": 12.3,
+      "isFocus": true
+    },
+    {
+      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
+      "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
+      "summary": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. OpenAI redacted…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T18:00:32.000Z",
+      "topic": "AI Business",
+      "importance": 12.299999999999999,
+      "isFocus": true
+    },
+    {
       "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
       "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
       "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor…",
@@ -236,6 +250,20 @@
       "topic": "Game Dev",
       "importance": 12,
       "isFocus": true
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "source": "OpenAI",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T10:00:00.000Z",
+      "topic": "Models & Labs",
+      "importance": 11.8,
+      "isFocus": false
     },
     {
       "title": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute",
@@ -303,20 +331,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-22T18:26:02.000Z",
-      "topic": "AI Business",
-      "importance": 11.5,
-      "isFocus": true
-    },
-    {
-      "title": "An AI agent in Skynet mode hijacks unprotected language models to launch self-sustaining cyberattacks",
-      "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
-      "summary": "Security researchers at Symantec have found an offensive AI agent that hijacks unprotected language models on the web and uses them to attack servers, steal databases, and install cryptominers on its own. It runs up to 100,000 steps without human input. The owner of the hijacked model gets stuck…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T11:30:56.000Z",
       "topic": "AI Business",
       "importance": 11.5,
       "isFocus": true
@@ -476,20 +490,6 @@
       "isFocus": true
     },
     {
-      "title": "AuxoAI raises over $20M to bring AI expertise to the enterprise and redesign how work gets done",
-      "url": "https://siliconangle.com/2026/10/20/auxoai-raises-over-20m-to-bring-ai-expertise-to-the-enterprise-and-redesign-how-work-gets-done/",
-      "summary": "AuxoAI Inc., an enterprise engineering and consulting company that helps large businesses build and deploy artificial intelligence systems, today announced it has raised $20.7 million in a Series A funding to accelerate growth and scale its enterprise AI consulting model. The company said it has…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T13:00:26.000Z",
-      "topic": "AI Business",
-      "importance": 11.2,
-      "isFocus": true
-    },
-    {
       "title": "Reflection AI's Beam now available on AI Gateway for free",
       "url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
       "summary": "Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with…",
@@ -630,6 +630,20 @@
       "isFocus": false
     },
     {
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+      "summary": "It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million…",
+      "source": "Crunchbase News",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-23T18:51:22.000Z",
+      "topic": "AI Business",
+      "importance": 10.799999999999999,
+      "isFocus": true
+    },
+    {
       "title": "OpenAI, Google partnership targets enterprise model choice",
       "url": "https://aibusiness.com/generative-ai/openai-google-partnership-enterprise-model-choice",
       "summary": "OpenAI now has its models on all three major cloud provider platforms, as it refines its enterprise strategy.",
@@ -756,20 +770,6 @@
       "isFocus": true
     },
     {
-      "title": "Anthropic’s New AI Agent Purchases Business Supplies",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies/",
-      "summary": "Anthropic has unveiled an app in which Claude works as a “proactive agent” on behalf of professionals and small business owners, including purchasing business supplies, the company said in a Wednesday (Oct. 21) announcement. In this app, Claude Duet, Claude comes to the user when something needs…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T00:59:33.000Z",
-      "topic": "AI Business",
-      "importance": 10.5,
-      "isFocus": true
-    },
-    {
       "title": "Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻",
       "url": "https://tldr.tech/ai/2026-10-22",
       "summary": "",
@@ -784,6 +784,20 @@
       "isFocus": true
     },
     {
+      "title": "Siemens, Nvidia deploy industrial AI to reduce engineering effort",
+      "url": "https://aibusiness.com/generative-ai/siemens-nvidia-industrial-ai-reduce-engineering-effort",
+      "summary": "The partners are using digital twins and AI agents as part of a roadmap to create world-first AI-powered manufacturing facilities.",
+      "source": "AI Business",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T17:26:03.000Z",
+      "topic": "AI Business",
+      "importance": 10.3,
+      "isFocus": true
+    },
+    {
       "title": "Anthropic's Claude now writes code and proves it safe automatically",
       "url": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
       "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification with AI as routine as…",
@@ -793,20 +807,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-23T11:32:19.000Z",
-      "topic": "AI Business",
-      "importance": 10.3,
-      "isFocus": true
-    },
-    {
-      "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
-      "url": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/",
-      "summary": "OpenAI teamed up with PerturbAI and Scripps Research to deploy thousands of AI agents that analyzed biological data from millions of mouse cells. The article OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months appeared first on The Decoder .",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T10:01:53.000Z",
       "topic": "AI Business",
       "importance": 10.3,
       "isFocus": true
@@ -924,6 +924,20 @@
       "isFocus": true
     },
     {
+      "title": "LSEG Pays $3.5 Billion to Feed Wall Street’s AI",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/lseg-pays-3-billion-dollars-feed-wall-street-ai/",
+      "summary": "Artificial intelligence is reducing the time and cost of financial research, but the data behind that research is becoming more valuable. Two investments announced Thursday (Oct. 22) illustrate the shift. London Stock Exchange Group (LSEG) announced that it is acquiring credit intelligence provider…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T17:21:40.000Z",
+      "topic": "AI Business",
+      "importance": 10.2,
+      "isFocus": true
+    },
+    {
       "title": "Canva’s first AI image model plans designs before generating them",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for greater…",
@@ -949,6 +963,20 @@
       "date": "2026-10-22T00:22:58.000Z",
       "topic": "AI Business",
       "importance": 10.2,
+      "isFocus": true
+    },
+    {
+      "title": "SpaceX Enlists 130 Tech Leaders to Help Businesses Deploy Grok AI",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-enlists-130-tech-leaders-to-help-businesses-deploy-grok-ai/",
+      "summary": "SpaceX has launched a partner program that offers training, tools and support to companies that build products, solutions and services with the company’s artificial intelligence (AI) model, Grok, according to a Thursday (Oct. 22) press release. The new SpaceX Super Intelligence Partner Network is…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T18:02:57.000Z",
+      "topic": "AI Business",
+      "importance": 10.1,
       "isFocus": true
     },
     {
@@ -1020,20 +1048,6 @@
       "topic": "Models & Labs",
       "importance": 9.9,
       "isFocus": false
-    },
-    {
-      "title": "Recursive shows first result of its AI-driven research process with Flint",
-      "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
-      "summary": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company's in-house AI system, Eureka Machine, which independently tests and optimizes architectures.…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T14:40:16.000Z",
-      "topic": "AI Business",
-      "importance": 9.9,
-      "isFocus": true
     },
     {
       "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
@@ -1414,7 +1428,7 @@
       "isFocus": true
     },
     {
-      "title": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
+      "title": "OpenAI Aims to Lock in $30 Billion Funding Round by Next Week",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-lock-in-30-billion-funding-round-by-next-week/",
       "summary": "OpenAI is close to finalizing a funding round in which it could raise as much as $30 billion at a $1.25 trillion pre-money valuation, CNBC reported Thursday (Oct. 22), citing unnamed sources. OpenAI told investors Thursday that it aims to secure signatures by the end of next week, though the final…",
       "source": "PYMNTS AI",
@@ -1484,6 +1498,20 @@
       "isFocus": true
     },
     {
+      "title": "AI drug development startup Pathos AI closes $237M investment",
+      "url": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/",
+      "summary": "Pathos AI Inc. today announced that it has raised $237 million in funding at a $3 billion valuation. Pharmaceutical giant Bristol Myers Squibb Co. led the Series E round with participation from several unnamed returning backers. Pathos’ investor roster includes big names such as AstraZeneca plc,…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T20:02:03.000Z",
+      "topic": "AI Business",
+      "importance": 9.2,
+      "isFocus": true
+    },
+    {
       "title": "Uber Deploys OpenAI Agents to All 30,000 Employees",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/uber-deploys-openai-agents-to-all-30000-employees/",
       "summary": "Uber has made OpenAI’s ChatGPT Work available to all its 30,000 employees around the world after initially piloting it with 1,000 employees, OpenAI said in a Thursday (Oct. 22) press release. ChatGPT Work is an agent designed to take on complex, multi-step tasks within ChatGPT Enterprise and…",
@@ -1510,6 +1538,20 @@
       "topic": "Models & Labs",
       "importance": 9.2,
       "isFocus": false
+    },
+    {
+      "title": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+      "url": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
+      "summary": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on Kimi K3 with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and…",
+      "source": "Vercel",
+      "feedTopic": "Web Dev",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-23T00:00:00.000Z",
+      "topic": "Web Dev",
+      "importance": 9.1,
+      "isFocus": true
     },
     {
       "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
@@ -1596,6 +1638,20 @@
       "isFocus": true
     },
     {
+      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
+      "url": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
+      "summary": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it approved. An internal…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T17:19:49.000Z",
+      "topic": "AI Business",
+      "importance": 9,
+      "isFocus": true
+    },
+    {
       "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
       "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are…",
@@ -1666,6 +1722,20 @@
       "isFocus": true
     },
     {
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained from scratch on nothing but human conversation, and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T19:32:39.000Z",
+      "topic": "AI Business",
+      "importance": 8.9,
+      "isFocus": true
+    },
+    {
       "title": "From KTIR to SpyreCode: An MLIR Dataflow Backend for IBM Spyre",
       "url": "https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre/",
       "summary": "TL;DR Torch-spyre’s Inductor decides how each kernel’s work is divided across Spyre’s cores and manages tensor residency between on-chip scratchpad and off-chip memory, and the backend compiler turns those decisions... The post From KTIR to SpyreCode: An MLIR Dataflow Backend for IBM Spyre appeared…",
@@ -1706,6 +1776,20 @@
       "topic": "Models & Labs",
       "importance": 8.9,
       "isFocus": false
+    },
+    {
+      "title": "Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-hg-form-company-to-embed-ai-engineers-in-european-enterprises/",
+      "summary": "Anthropic and London-based private equity firm Hg have agreed to create an independent company that will embed consultants and engineers into European businesses and help those firms deploy artificial intelligence (AI), The Financial Times reported Friday (Oct. 23), citing unnamed sources. The new…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T17:43:54.000Z",
+      "topic": "AI Business",
+      "importance": 8.8,
+      "isFocus": true
     },
     {
       "title": "Companies Should Test AI Agents Like Job Candidates, Law Firm Says",
@@ -1820,20 +1904,6 @@
       "isFocus": true
     },
     {
-      "title": "AI startup Vectorial lands $3M in funding to simulate human behavior for consumer research",
-      "url": "https://siliconangle.com/2026/10/20/ai-startup-vectorial-lands-3m-in-funding-to-simulate-human-behavior-for-consumer-research/",
-      "summary": "Consumer research is a slow and cumbersome challenge that few companies do well, but if Vectorial AI Inc. is successful, they’ll never have to worry about doing it again. The startup today said it has raised $3 million in seed funding to propel the launch of its new artificial intelligence-driven…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T12:00:16.000Z",
-      "topic": "AI Business",
-      "importance": 8.7,
-      "isFocus": true
-    },
-    {
       "title": "How Block is building AI-powered security with OpenAI technology",
       "url": "https://openai.com/index/block-ai-powered-security",
       "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
@@ -1918,6 +1988,20 @@
       "isFocus": true
     },
     {
+      "title": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "summary": "<p><strong><a href= https://www.kimi.ai/blog/kimi-k3-1-pro >Introducing Kimi K3.1 Pro</a></strong></p> Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise Full model weights will be released by Nov 4, 2026 .</p> <p>They're also offering a Highspeed version…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T19:40:54.000Z",
+      "topic": "Models & Labs",
+      "importance": 8.6,
+      "isFocus": false
+    },
+    {
       "title": "Protecting Trade Secrets In The Age Of AI",
       "url": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
       "summary": "AI agents create new trade secret risks by allowing employees to access expertise or inadvertently expose proprietary information through personal devices. In this guest commentary, Seth Kugler, a partner at Grellas Shah LLP, warns companies that they should adopt strict AI policies, restrict data…",
@@ -1956,20 +2040,6 @@
       "researchOnly": false,
       "date": "2026-10-22T00:00:00.000Z",
       "topic": "Game Dev",
-      "importance": 8.6,
-      "isFocus": true
-    },
-    {
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T17:59:12.000Z",
-      "topic": "AI Business",
       "importance": 8.6,
       "isFocus": true
     },
@@ -2055,34 +2125,6 @@
       "date": "2026-10-12T00:00:00.000Z",
       "topic": "Web Dev",
       "importance": 8.6,
-      "isFocus": true
-    },
-    {
-      "title": "Agents can now buy domains with the Vercel CLI",
-      "url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
-      "summary": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays…",
-      "source": "Vercel",
-      "feedTopic": "Web Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-09T20:24:00.000Z",
-      "topic": "Web Dev",
-      "importance": 8.6,
-      "isFocus": true
-    },
-    {
-      "title": "IBM-backed llm-d framework adds controls for running AI models in-house",
-      "url": "https://siliconangle.com/2026/10/20/ibm-backed-llm-d-framework-adds-controls-for-running-ai-models-in-house/",
-      "summary": "IBM Corp. and several other contributors to the open-source llm-d project are releasing version 1.0 of their distributed artificial intelligence inference framework, adding operational controls intended to help enterprises run large models reliably on their own infrastructure. The release,…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T12:00:23.000Z",
-      "topic": "AI Business",
-      "importance": 8.5,
       "isFocus": true
     },
     {
@@ -2172,7 +2214,7 @@
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 473 # Comments: 205",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 487 # Comments: 211",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2186,7 +2228,7 @@
     {
       "title": "Every AI model has the same controversial take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 586 # Comments: 558",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 609 # Comments: 587",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2814,6 +2856,20 @@
       "isFocus": true
     },
     {
+      "title": "Hybrid infrastructure decisions put AI costs and control in focus",
+      "url": "https://siliconangle.com/2026/10/23/hybrid-infrastructure-costs-push-ai-inference-edge-dellnewyorksymposium/",
+      "summary": "Enterprise artificial intelligence is entering a cost-conscious phase, and hybrid infrastructure is where that reckoning plays out. As inference spending climbs, business leaders are weighing where models run, which models they use and how much of their data they are willing to hand to someone…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T19:58:58.000Z",
+      "topic": "AI Business",
+      "importance": 8,
+      "isFocus": true
+    },
+    {
       "title": "Donating Agent Skills to the Agentic AI Foundation",
       "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
       "summary": "<p><strong><a href= https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation >Donating Agent Skills to the Agentic AI Foundation</a></strong></p> News today from Anthropic:</p> <blockquote> <p>We’re committed to keeping Agent Skills open, community-driven, and…",
@@ -2828,20 +2884,6 @@
       "isFocus": false
     },
     {
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this ns2jb…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T17:21:31.000Z",
-      "topic": "AI Business",
-      "importance": 8,
-      "isFocus": true
-    },
-    {
       "title": "IBM puts governed context at the center of production AI",
       "url": "https://siliconangle.com/2026/10/22/ibm-puts-governed-context-center-production-ai-ibmaioperatingmodel/",
       "summary": "Governed context is becoming a practical requirement for artificial intelligence agents expected to make decisions across a business. As enterprises move beyond personal productivity tools, those agents need information that reflects changing conditions across the systems they use. IBM Corp.’s…",
@@ -2851,34 +2893,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-22T16:35:31.000Z",
-      "topic": "AI Business",
-      "importance": 8,
-      "isFocus": true
-    },
-    {
-      "title": "AI Recommendations Need a Checkout Shoppers Trust",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-recommendations-need-a-checkout-shoppers-trust/",
-      "summary": "Artificial intelligence is making it easier for retailers to get discovered. It is doing considerably less to help them get paid. Data in the October 2026 edition of the Consumer AI Benchmark Report from PYMNTS Intelligence reveals that nearly 45% of consumers who use AI for shopping have purchased…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T08:00:21.000Z",
-      "topic": "AI Business",
-      "importance": 8,
-      "isFocus": true
-    },
-    {
-      "title": "Meta Puts All Its AI Eggs in the Muse Basket",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-puts-all-its-ai-eggs-in-the-muse-basket/",
-      "summary": "Meta CEO Mark Zuckerberg has found a new centerpiece for the company’s artificial intelligence ambitions: Muse, a personal AI agent he is positioning as the foundation for everything from shopping and advertising to enterprise software and smart glasses. After earlier AI efforts struggled to…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-21T23:57:50.000Z",
       "topic": "AI Business",
       "importance": 8,
       "isFocus": true
@@ -2937,6 +2951,20 @@
       "date": "2026-10-15T02:07:28.000Z",
       "topic": "Web Dev",
       "importance": 8,
+      "isFocus": true
+    },
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup…",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T19:06:23.000Z",
+      "topic": "AI Business",
+      "importance": 7.9,
       "isFocus": true
     },
     {
@@ -3108,6 +3136,20 @@
       "isFocus": false
     },
     {
+      "title": "Goldman Sachs CEO Says Individuals Must Be Held Accountable for AI Failures",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-ceo-says-individuals-must-be-held-accountable-ai-failures/",
+      "summary": "The principles Goldman Sachs uses to manage risk could be applied to artificial intelligence oversight, Goldman Sachs Chair and CEO David Solomon wrote in an article published Thursday (Oct. 22) by the Financial Times. The principles include holding individual decision makers accountable for the…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T14:16:39.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
       "title": "In AI, it’s a tale of two diverging investor classes",
       "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/",
       "summary": "Depending on where you sit as an investor, artificial intelligence still looks like a massive opportunity, or it’s now looking way too risky given growing infrastructure investments and the public’s souring on AI and all the data centers needed to power it. Really, it’s both. This week saw…",
@@ -3148,6 +3190,20 @@
       "topic": "Models & Labs",
       "importance": 7.6,
       "isFocus": false
+    },
+    {
+      "title": "Dell sees company knowledge, not AI models, as its competitive edge",
+      "url": "https://siliconangle.com/2026/10/20/ai-operating-model-dell-treats-company-knowledge-competitive-edge-dellnewyorksymposium/",
+      "summary": "As AI agents take on more work that people used to do, enterprises need an AI operating model to match. That means changing how people, processes and work are organized, not just which tools get deployed. Dell Technologies Inc. has spent close to two years running fully autonomous agents inside its…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T19:12:20.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
     },
     {
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
@@ -3348,7 +3404,7 @@
     {
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
       "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 134 # Comments: 146",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 139 # Comments: 151",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3430,20 +3486,6 @@
       "isFocus": true
     },
     {
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now it is finally here, Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T18:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "Making the case for context-aware AI",
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
       "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As…",
@@ -3460,7 +3502,7 @@
     {
       "title": "Google staff resign in backlash over its AI contracts with military",
       "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 126 # Comments: 26",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 127 # Comments: 26",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3474,7 +3516,7 @@
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 451 # Comments: 184",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 452 # Comments: 185",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3516,7 +3558,7 @@
     {
       "title": "Steam Users Beg for No AI Filter as Vibecoders Flood Next Fest",
       "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 230",
+      "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 231",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3628,7 +3670,7 @@
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 629 # Comments: 577",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 630 # Comments: 579",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3710,20 +3752,6 @@
       "isFocus": true
     },
     {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-13T12:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 7.2,
-      "isFocus": false
-    },
-    {
       "title": "Muse Wonder ✨, Maia 300 ⚡, AI self-replication 🧬",
       "url": "https://tldr.tech/ai/2026-10-13",
       "summary": "",
@@ -3791,20 +3819,6 @@
       "date": "2026-10-22T19:45:00.000Z",
       "topic": "AI Business",
       "importance": 6.9,
-      "isFocus": true
-    },
-    {
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T18:15:00.000Z",
-      "topic": "AI Business",
-      "importance": 6.8,
       "isFocus": true
     },
     {
@@ -3920,6 +3934,20 @@
       "isFocus": false
     },
     {
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+      "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training,…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T17:48:54.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.6,
+      "isFocus": false
+    },
+    {
       "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
       "url": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
       "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down…",
@@ -3988,6 +4016,20 @@
       "topic": "Models & Labs",
       "importance": 6.5,
       "isFocus": false
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T16:52:55.000Z",
+      "topic": "AI Business",
+      "importance": 6.4,
+      "isFocus": true
     },
     {
       "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
@@ -4198,6 +4240,20 @@
       "topic": "Models & Labs",
       "importance": 6.1,
       "isFocus": false
+    },
+    {
+      "title": "The iPhone Duo should have been an iPad",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay …",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-23T17:00:18.000Z",
+      "topic": "AI Business",
+      "importance": 6,
+      "isFocus": true
     },
     {
       "title": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action",
@@ -5026,6 +5082,20 @@
       "isFocus": false
     },
     {
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "summary": "Generative AI",
+      "source": "Google Research",
+      "feedTopic": "Research",
+      "weight": 2,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-23T18:51:33.000Z",
+      "topic": "Research",
+      "importance": 4.8,
+      "isFocus": false
+    },
+    {
       "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
       "url": "https://latent.space/p/lab-in-the-loop-at-compute-speed/",
       "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
@@ -5049,20 +5119,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-22T17:48:22.000Z",
-      "topic": "Models & Labs",
-      "importance": 4.6,
-      "isFocus": false
-    },
-    {
-      "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
-      "summary": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where headroom existed.",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T17:48:27.000Z",
       "topic": "Models & Labs",
       "importance": 4.6,
       "isFocus": false
@@ -5205,20 +5261,6 @@
       "date": "2026-10-13T13:32:00.000Z",
       "topic": "Open Source",
       "importance": 4.4,
-      "isFocus": false
-    },
-    {
-      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
-      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
-      "summary": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-23T16:30:10.000Z",
-      "topic": "Models & Labs",
-      "importance": 4.2,
       "isFocus": false
     }
   ]
