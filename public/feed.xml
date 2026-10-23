@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 22 Oct 2026 21:34:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 04:47:24 GMT</lastBuildDate>
   <item>
     <title>Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three</title>
     <link>https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/</link>
@@ -29,22 +29,6 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.</description>
-  </item>
-  <item>
-    <title>MiniMax launches M3.1 Flash model, says it cuts AI agent costs by 70%</title>
-    <link>https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/</guid>
-    <pubDate>Mon, 19 Oct 2026 22:25:50 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Chinese artificial intelligence developer MiniMax Group Inc. today released M3.1 Flash, a faster and cheaper update to the M3 large language model it launched in June. The release takes aim at the cost of running AI agents, which often need dozens of model calls to finish a single job. MiniMax said…</description>
-  </item>
-  <item>
-    <title>Pigment Raises $250 Million for Agentic AI Platform</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/pigment-raises-250-million-dollars-agentic-ai-platform/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/pigment-raises-250-million-dollars-agentic-ai-platform/</guid>
-    <pubDate>Wed, 21 Oct 2026 16:20:28 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Business planning and performance management platform Pigment is worth $2.3 billion after raising $250 million in a Series E funding round, according to a Wednesday (Oct. 21) press release. The financing will help Pigment further develop its compute engine Graphite and the artificial intelligence…</description>
   </item>
   <item>
     <title>Anthropic introduces Claude Duet, a proactive AI agent for professionals</title>
@@ -71,12 +55,12 @@
     <description>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…</description>
   </item>
   <item>
-    <title>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
-    <link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/</link>
-    <guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/</guid>
-    <pubDate>Mon, 19 Oct 2026 12:45:23 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Frontier models span language, video and audio, on architectures from dense and mixture-of-experts transformers to diffusion, state-space, world and structure-prediction models. PyTorch is where AI research happens, where the models... The post Introducing TorchNeuron: Native PyTorch backend for…</description>
+    <title>DeepSeek Raises $15 Billion Ahead of Planned Shanghai IPO</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-raises-15-billion-ahead-of-planned-shanghai-ipo/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-raises-15-billion-ahead-of-planned-shanghai-ipo/</guid>
+    <pubDate>Thu, 22 Oct 2026 15:30:11 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Chinese artificial intelligence (AI) startup DeepSeek has raised $15 billion in its second private funding round and is accelerating plans for a Shanghai listing in early 2027, potentially reaching public markets before OpenAI. The financing nearly doubled its original target amid strong investor…</description>
   </item>
   <item>
     <title>Build more responsive apps with the Decisions API</title>
@@ -181,14 +165,6 @@
     <pubDate>Tue, 20 Oct 2026 10:42:26 GMT</pubDate>
     <category>Game Dev</category>
     <description>The Japan Actors Union has announced new guidelines to address the unauthorised use of generative AI to replicate voice performances. Read more</description>
-  </item>
-  <item>
-    <title>How Rillet ships 3× faster with AI agents on Vercel</title>
-    <link>https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel</link>
-    <guid isPermaLink="true">https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel</guid>
-    <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours…</description>
   </item>
   <item>
     <title>Legora Hits $8.8 Billion Valuation as Legal Professionals Deploy AI Agents</title>
@@ -575,6 +551,14 @@
     <description>Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes. Read more</description>
   </item>
   <item>
+    <title>Canva’s first AI image model plans designs before generating them</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</guid>
+    <pubDate>Thu, 22 Oct 2026 21:51:25 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for greater…</description>
+  </item>
+  <item>
     <title>OpenAI to make its most advanced AI models available in Google Cloud</title>
     <link>https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/</guid>
@@ -583,20 +567,20 @@
     <description>OpenAI Group PBC today announced plans to make its latest large language models accessible in Google Cloud. The LLMs will be available through the Alphabet Inc.’s unit Model Garden service. It provides access to more than 200 neural networks from Google, its partners and the open-source ecosystem.…</description>
   </item>
   <item>
-    <title>Anthropic Writes Its Own Rules for Shutting Down AI</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-writes-its-own-rules-for-shutting-down-ai/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-writes-its-own-rules-for-shutting-down-ai/</guid>
-    <pubDate>Wed, 21 Oct 2026 17:43:06 GMT</pubDate>
-    <category>AI Business</category>
-    <description>An artificial intelligence model could pose a foreseeable risk of $900 million in damage and still miss the bar for federal intervention under draft legislation Anthropic has been pitching to lawmakers, PYMNTS reported. The Claude developer’s draft lets the government block a frontier model only…</description>
-  </item>
-  <item>
     <title>Introducing the Agent Experience (AX) Practitioner Playbook</title>
     <link>https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/</link>
     <guid isPermaLink="true">https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/</guid>
     <pubDate>Fri, 09 Oct 2026 09:44:25 GMT</pubDate>
     <category>App Dev</category>
     <description>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don&#39;t. The post Introducing the Agent Experience (AX)…</description>
+  </item>
+  <item>
+    <title>Agentic AI Foundation adds four more open-source AI tools</title>
+    <link>https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/</guid>
+    <pubDate>Thu, 22 Oct 2026 22:43:47 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The Agentic AI Foundation, a consortium that maintains open-source artificial intelligence tools, today took four new projects under its wing. The technologies were donated by OpenAI Group PBC, Anthropic PBC, Hugging Face Inc. and Alibaba Group Holding Ltd. They bring the total number of projects…</description>
   </item>
   <item>
     <title>Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</title>
@@ -631,20 +615,36 @@
     <description>As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers&#39; behalf, with controls over spending and transaction approvals.</description>
   </item>
   <item>
-    <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
-    <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</guid>
-    <pubDate>Tue, 20 Oct 2026 23:01:23 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model&#39;s release without the permission of a judge.</description>
-  </item>
-  <item>
     <title>AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching</title>
     <link>https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/</guid>
     <pubDate>Tue, 20 Oct 2026 00:41:33 GMT</pubDate>
     <category>AI Business</category>
     <description>Town.com Inc., an artificial intelligence agent startup laser focused on getting work done by collaborating with other AI agents, revealed today that it has raised $108 million in a new funding at a $1 billion valuation. The Series B round was led by Forerunner Ventures and Menlo Ventures, and saw…</description>
+  </item>
+  <item>
+    <title>Python on Vercel is now generally available</title>
+    <link>https://vercel.com/changelog/python-on-vercel-is-now-generally-available</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/python-on-vercel-is-now-generally-available</guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
+  </item>
+  <item>
+    <title>OpenAI&#39;s GPT-5.6 Sol and Google&#39;s Gemini 4 Argon found critical PHP flaw affecting millions of websites</title>
+    <link>https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/</guid>
+    <pubDate>Wed, 21 Oct 2026 19:45:01 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI&#39;s GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google&#39;s Gemini 4 Argon. OpenAI warns that the same AI capabilities that find vulnerabilities can…</description>
+  </item>
+  <item>
+    <title>AI Gateway logs now show session affinity</title>
+    <link>https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity</guid>
+    <pubDate>Sun, 18 Oct 2026 20:03:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was…</description>
   </item>
 </channel>
 </rss>
