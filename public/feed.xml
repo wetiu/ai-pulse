@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 23 Oct 2026 21:23:33 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 04:34:40 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -29,6 +29,14 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.</description>
+  </item>
+  <item>
+    <title>Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters</title>
+    <link>https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/</guid>
+    <pubDate>Sat, 24 Oct 2026 00:55:53 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intelligence company released in July. The latter model, Kimi K3,…</description>
   </item>
   <item>
     <title>Anthropic introduces Claude Duet, a proactive AI agent for professionals</title>
@@ -245,14 +253,6 @@
     <pubDate>Thu, 22 Oct 2026 13:11:13 GMT</pubDate>
     <category>AI Business</category>
     <description>DeepSeek has reportedly raised $15 billion in one of China&#39;s largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.</description>
-  </item>
-  <item>
-    <title>Recursive launches Flint, a laptop coding model it says was largely built by AI</title>
-    <link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</guid>
-    <pubDate>Wed, 21 Oct 2026 20:27:41 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.</description>
   </item>
   <item>
     <title>Canva releases its first image generation model</title>
@@ -607,20 +607,20 @@
     <description>In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight…</description>
   </item>
   <item>
-    <title>While Amazon blocks AI agents, Walmart rolls out the welcome mat</title>
-    <link>https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/</guid>
-    <pubDate>Wed, 21 Oct 2026 19:30:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers&#39; behalf, with controls over spending and transaction approvals.</description>
-  </item>
-  <item>
     <title>Python on Vercel is now generally available</title>
     <link>https://vercel.com/changelog/python-on-vercel-is-now-generally-available</link>
     <guid isPermaLink="true">https://vercel.com/changelog/python-on-vercel-is-now-generally-available</guid>
     <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
+  </item>
+  <item>
+    <title>Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context</title>
+    <link>https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/</guid>
+    <pubDate>Fri, 23 Oct 2026 22:52:40 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model…</description>
   </item>
   <item>
     <title>Prompt: AI moves beyond the screen</title>
