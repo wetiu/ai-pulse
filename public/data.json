@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T04:34:40.193Z",
-  "count": 371,
-  "focusCount": 226,
+  "generatedAt": "2026-10-24T10:58:02.967Z",
+  "count": 370,
+  "focusCount": 225,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -446,6 +446,20 @@
       "topic": "AI Business",
       "importance": 11.299999999999999,
       "isFocus": true
+    },
+    {
+      "title": "AINews Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "summary": "We have Fable at home... or so we are being told by paid shills",
+      "source": "Latent Space",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-24T07:18:29.000Z",
+      "topic": "Open Source",
+      "importance": 11.2,
+      "isFocus": false
     },
     {
       "title": "Canva releases its first image generation model",
@@ -980,6 +994,20 @@
       "isFocus": true
     },
     {
+      "title": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
+      "url": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
+      "summary": "NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-24T03:56:29.000Z",
+      "topic": "Models & Labs",
+      "importance": 10,
+      "isFocus": false
+    },
+    {
       "title": "Agentic AI Foundation adds four more open-source AI tools",
       "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
       "summary": "The Agentic AI Foundation, a consortium that maintains open-source artificial intelligence tools, today took four new projects under its wing. The technologies were donated by OpenAI Group PBC, Anthropic PBC, Hugging Face Inc. and Alibaba Group Holding Ltd. They bring the total number of projects…",
@@ -1288,6 +1316,20 @@
       "isFocus": true
     },
     {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 101 # Comments: 29",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T19:22:39.000Z",
+      "topic": "AI Business",
+      "importance": 9.6,
+      "isFocus": true
+    },
+    {
       "title": "Nirva raises $33M for a pendant that only listens to you",
       "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
       "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
@@ -1484,20 +1526,6 @@
       "isFocus": false
     },
     {
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 249 # Comments: 201",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T14:58:48.000Z",
-      "topic": "AI Business",
-      "importance": 9.3,
-      "isFocus": true
-    },
-    {
       "title": "OpenAI dev arrested 🚨, Pi API 🤖, OpenCode 2.0 🧑‍💻",
       "url": "https://tldr.tech/ai/2026-10-14",
       "summary": "",
@@ -1649,6 +1677,20 @@
       "date": "2026-10-12T17:43:59.000Z",
       "topic": "Web Dev",
       "importance": 9.1,
+      "isFocus": true
+    },
+    {
+      "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
+      "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
+      "summary": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step. The article Fancy…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-24T09:21:39.000Z",
+      "topic": "AI Business",
+      "importance": 9,
       "isFocus": true
     },
     {
@@ -2214,7 +2256,7 @@
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 490 # Comments: 213",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 495 # Comments: 213",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2228,7 +2270,7 @@
     {
       "title": "Every AI model has the same controversial take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 620 # Comments: 595",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 634 # Comments: 604",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2557,20 +2599,6 @@
       "native": false,
       "researchOnly": false,
       "date": "2026-10-22T16:49:43.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "Only 13 percent of companies see real returns from AI, Gartner survey finds",
-      "url": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/",
-      "summary": "Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to actually increase their operating costs. Yet 75 percent of CEOs plan to keep raising their technology budgets. So far,…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T16:18:02.000Z",
       "topic": "AI Business",
       "importance": 8.2,
       "isFocus": true
@@ -3404,7 +3432,7 @@
     {
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
       "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 140 # Comments: 154",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 140 # Comments: 155",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3516,7 +3544,7 @@
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 452 # Comments: 185",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 453 # Comments: 185",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3724,20 +3752,6 @@
       "isFocus": true
     },
     {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 256 # Comments: 257",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-15T14:35:15.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "Jev 1.14 ⚡, Grok Voice 3 🎙️, RSI 🔁",
       "url": "https://tldr.tech/ai/2026-10-15",
       "summary": "",
@@ -3764,20 +3778,6 @@
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
-    },
-    {
-      "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
-      "url": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
-      "summary": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models. The post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T07:00:56.000Z",
-      "topic": "Research",
-      "importance": 7.199999999999999,
-      "isFocus": false
     },
     {
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
@@ -5078,20 +5078,6 @@
       "researchOnly": true,
       "date": "2026-10-14T16:14:00.000Z",
       "topic": "Research",
-      "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "Subscriber Exclusive NYC Subscriber Meetups!",
-      "url": "https://latent.space/p/nyc2026/",
-      "summary": "Tomorrow and Tuesday. If you see this you’re in!",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-10T22:07:17.000Z",
-      "topic": "Models & Labs",
       "importance": 4,
       "isFocus": false
     },

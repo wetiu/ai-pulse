@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 24 Oct 2026 04:34:40 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 10:58:02 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -253,6 +253,14 @@
     <pubDate>Thu, 22 Oct 2026 13:11:13 GMT</pubDate>
     <category>AI Business</category>
     <description>DeepSeek has reportedly raised $15 billion in one of China&#39;s largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.</description>
+  </item>
+  <item>
+    <title>AINews Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+    <link>https://latent.space/p/ainews-kimi-31/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
+    <pubDate>Sat, 24 Oct 2026 07:18:29 GMT</pubDate>
+    <category>Open Source</category>
+    <description>We have Fable at home... or so we are being told by paid shills</description>
   </item>
   <item>
     <title>Canva releases its first image generation model</title>
@@ -559,6 +567,14 @@
     <description>SpaceX has launched a partner program that offers training, tools and support to companies that build products, solutions and services with the company’s artificial intelligence (AI) model, Grok, according to a Thursday (Oct. 22) press release. The new SpaceX Super Intelligence Partner Network is…</description>
   </item>
   <item>
+    <title>NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots</title>
+    <link>https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/</guid>
+    <pubDate>Sat, 24 Oct 2026 03:56:29 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local…</description>
+  </item>
+  <item>
     <title>Agentic AI Foundation adds four more open-source AI tools</title>
     <link>https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/</guid>
@@ -629,22 +645,6 @@
     <pubDate>Fri, 23 Oct 2026 14:40:50 GMT</pubDate>
     <category>AI Business</category>
     <description>Physical AI is pushing artificial intelligence into robots, factories and other real-world environments, where understanding language is only part of the challenge.</description>
-  </item>
-  <item>
-    <title>AI Gateway logs now show session affinity</title>
-    <link>https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity</guid>
-    <pubDate>Sun, 18 Oct 2026 20:03:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was…</description>
-  </item>
-  <item>
-    <title>DeepSeek V4.1 Flash 1017 now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway</guid>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the…</description>
   </item>
 </channel>
 </rss>
