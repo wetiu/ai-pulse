@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 24 Oct 2026 10:58:02 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 15:55:53 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -53,14 +53,6 @@
     <pubDate>Wed, 21 Oct 2026 10:45:17 GMT</pubDate>
     <category>AI Business</category>
     <description>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…</description>
-  </item>
-  <item>
-    <title>OpenAI lowers valuation target, raises up to $30 billion</title>
-    <link>https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</link>
-    <guid isPermaLink="true">https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</guid>
-    <pubDate>Fri, 23 Oct 2026 09:49:38 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder .</description>
   </item>
   <item>
     <title>Build more responsive apps with the Decisions API</title>
@@ -151,6 +143,14 @@
     <description>The Japan Actors Union has announced new guidelines to address the unauthorised use of generative AI to replicate voice performances. Read more</description>
   </item>
   <item>
+    <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
+    <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</guid>
+    <pubDate>Sat, 24 Oct 2026 15:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>A new study found Grok&#39;s AI overwhelmingly recommends Republican candidates while OpenAI&#39;s GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</description>
+  </item>
+  <item>
     <title>Securing our frontier model training environment</title>
     <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
     <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
@@ -189,14 +189,6 @@
     <pubDate>Thu, 22 Oct 2026 19:07:09 GMT</pubDate>
     <category>AI Business</category>
     <description>The new feature allows agents to log into a customer&#39;s personal accounts while still protecting the private credentials that secure those accounts.</description>
-  </item>
-  <item>
-    <title>Major US banks are locking out AI agents that log in with customer credentials</title>
-    <link>https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/</link>
-    <guid isPermaLink="true">https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/</guid>
-    <pubDate>Thu, 22 Oct 2026 18:26:02 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-only access. The…</description>
   </item>
   <item>
     <title>AINews DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
@@ -383,14 +375,6 @@
     <description>OpenAI now has its models on all three major cloud provider platforms, as it refines its enterprise strategy.</description>
   </item>
   <item>
-    <title>Google&#39;s Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine</title>
-    <link>https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/</link>
-    <guid isPermaLink="true">https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/</guid>
-    <pubDate>Thu, 22 Oct 2026 17:50:09 GMT</pubDate>
-    <category>AI Business</category>
-    <description>With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google&#39;s Agent Compute Engine gives every…</description>
-  </item>
-  <item>
     <title>Anthropic rolls out Claude Duet, but enterprises aren’t ready</title>
     <link>https://aibusiness.com/agentic-ai/anthropic-rolls-out-claude-duet-enterprises-aren-t-ready</link>
     <guid isPermaLink="true">https://aibusiness.com/agentic-ai/anthropic-rolls-out-claude-duet-enterprises-aren-t-ready</guid>
@@ -413,6 +397,14 @@
     <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files…</description>
+  </item>
+  <item>
+    <title>OpenAI&#39;s isolated AI agents found ways to talk to each other through CPU cache</title>
+    <link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</guid>
+    <pubDate>Sat, 24 Oct 2026 11:12:36 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam…</description>
   </item>
   <item>
     <title>Claude Duet app is Anthropic’s bet on agents</title>
@@ -461,14 +453,6 @@
     <pubDate>Fri, 23 Oct 2026 17:26:03 GMT</pubDate>
     <category>AI Business</category>
     <description>The partners are using digital twins and AI agents as part of a roadmap to create world-first AI-powered manufacturing facilities.</description>
-  </item>
-  <item>
-    <title>Anthropic&#39;s Claude now writes code and proves it safe automatically</title>
-    <link>https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/</guid>
-    <pubDate>Fri, 23 Oct 2026 11:32:19 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic&#39;s goal: making formal verification with AI as routine as…</description>
   </item>
   <item>
     <title>NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure</title>
@@ -645,6 +629,22 @@
     <pubDate>Fri, 23 Oct 2026 14:40:50 GMT</pubDate>
     <category>AI Business</category>
     <description>Physical AI is pushing artificial intelligence into robots, factories and other real-world environments, where understanding language is only part of the challenge.</description>
+  </item>
+  <item>
+    <title>AI Gateway logs now show session affinity</title>
+    <link>https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity</guid>
+    <pubDate>Sun, 18 Oct 2026 20:03:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was…</description>
+  </item>
+  <item>
+    <title>DeepSeek V4.1 Flash 1017 now available on AI Gateway</title>
+    <link>https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway</guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the…</description>
   </item>
 </channel>
 </rss>
