@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 25 Oct 2026 04:39:20 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 11:25:47 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -53,6 +53,14 @@
     <pubDate>Wed, 21 Oct 2026 10:45:17 GMT</pubDate>
     <category>AI Business</category>
     <description>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…</description>
+  </item>
+  <item>
+    <title>Anthropic says one AI agent beats many subagents now that models can handle complexity alone</title>
+    <link>https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/</guid>
+    <pubDate>Sun, 25 Oct 2026 09:12:10 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The…</description>
   </item>
   <item>
     <title>Build more responsive apps with the Decisions API</title>
@@ -103,6 +111,14 @@
     <description>Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company’s own benchmarks, Mercury 3 beat OpenAI Group PBC’s GPT-6 Luna and Anthropic PBC’s Claude Haiku 5.5 on eight of 12 tests at four to eight times their speed. The release takes on the…</description>
   </item>
   <item>
+    <title>Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra</title>
+    <link>https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/</link>
+    <guid isPermaLink="true">https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/</guid>
+    <pubDate>Sun, 25 Oct 2026 10:08:49 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Nvidia&#39;s new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls…</description>
+  </item>
+  <item>
     <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
     <link>https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm</link>
     <guid isPermaLink="true">https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm</guid>
@@ -111,20 +127,12 @@
     <description>With Googlebook, we’re excited to help users express themselves and gain access to these tools.</description>
   </item>
   <item>
-    <title>Chinese AI model Kimi K3.1 Pro is closing in on Anthropic&#39;s Claude Opus 5.5</title>
-    <link>https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/</link>
-    <guid isPermaLink="true">https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/</guid>
-    <pubDate>Fri, 23 Oct 2026 19:00:07 GMT</pubDate>
+    <title>OpenAI offers discounts up to 90 percent to poach Anthropic&#39;s biggest customers</title>
+    <link>https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/</guid>
+    <pubDate>Sun, 25 Oct 2026 07:30:11 GMT</pubDate>
     <category>AI Business</category>
-    <description>Moonshot AI&#39;s Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models…</description>
-  </item>
-  <item>
-    <title>Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring</title>
-    <link>https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/</link>
-    <guid isPermaLink="true">https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/</guid>
-    <pubDate>Fri, 23 Oct 2026 18:00:32 GMT</pubDate>
-    <category>AI Business</category>
-    <description>External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company&#39;s internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. OpenAI redacted…</description>
+    <description>OpenAI is poaching Anthropic&#39;s customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they&#39;ve cut AI costs by up to 90 percent after switching. Anthropic&#39;s growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like Deepseek are piling…</description>
   </item>
   <item>
     <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
@@ -173,14 +181,6 @@
     <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</description>
-  </item>
-  <item>
-    <title>Canva launches Craft, its first in-house image model</title>
-    <link>https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/</link>
-    <guid isPermaLink="true">https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/</guid>
-    <pubDate>Fri, 23 Oct 2026 11:36:30 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder .</description>
   </item>
   <item>
     <title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
@@ -341,14 +341,6 @@
     <pubDate>Thu, 22 Oct 2026 13:00:06 GMT</pubDate>
     <category>AI Business</category>
     <description>Action State Group Inc. is launching a set of open-source tools designed to let businesses independently check records of what artificial intelligence agents did, addressing a trust problem as automated systems begin buying, selling and delegating work across corporate boundaries. The offering…</description>
-  </item>
-  <item>
-    <title>You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA</title>
-    <link>https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/</guid>
-    <pubDate>Fri, 23 Oct 2026 05:28:21 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on…</description>
   </item>
   <item>
     <title>The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings</title>
@@ -599,6 +591,22 @@
     <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
   </item>
   <item>
+    <title>Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027</title>
+    <link>https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/</guid>
+    <pubDate>Sun, 25 Oct 2026 09:37:46 GMT</pubDate>
+    <category>AI Business</category>
+    <description>A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves his prediction for…</description>
+  </item>
+  <item>
+    <title>Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies</title>
+    <link>https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/</link>
+    <guid isPermaLink="true">https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/</guid>
+    <pubDate>Sun, 25 Oct 2026 08:09:32 GMT</pubDate>
+    <category>AI Business</category>
+    <description>In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won&#39;t be decided by breakthroughs but by who can bankroll it. US corporations alone plan to spend more…</description>
+  </item>
+  <item>
     <title>Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context</title>
     <link>https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/</guid>
@@ -637,14 +645,6 @@
     <pubDate>Fri, 16 Oct 2026 18:26:14 GMT</pubDate>
     <category>AI Business</category>
     <description>The new Nemotron 3.5 models show how the AI giant is focusing on reinforcing its own GPU infrastructure while supporting the open source community.</description>
-  </item>
-  <item>
-    <title>IBM: Agentic AI is reshaping governance, controls and trust</title>
-    <link>https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust</guid>
-    <pubDate>Wed, 14 Oct 2026 20:35:20 GMT</pubDate>
-    <category>AI Business</category>
-    <description>As AI agents move from answering questions to making decisions and acting, businesses face a growing challenge of keeping accountability in step with the pace of change.</description>
   </item>
 </channel>
 </rss>
