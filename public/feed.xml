@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 24 Oct 2026 20:47:50 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 04:39:20 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -311,14 +311,6 @@
     <description>Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a…</description>
   </item>
   <item>
-    <title>Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0</title>
-    <link>https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/</guid>
-    <pubDate>Thu, 22 Oct 2026 16:56:12 GMT</pubDate>
-    <category>App Dev</category>
-    <description>Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first…</description>
-  </item>
-  <item>
     <title>OpenAI models are coming to Google Cloud</title>
     <link>https://openai.com/index/openai-models-google-cloud</link>
     <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
@@ -567,14 +559,6 @@
     <description>The Agentic AI Foundation, a consortium that maintains open-source artificial intelligence tools, today took four new projects under its wing. The technologies were donated by OpenAI Group PBC, Anthropic PBC, Hugging Face Inc. and Alibaba Group Holding Ltd. They bring the total number of projects…</description>
   </item>
   <item>
-    <title>Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</title>
-    <link>https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/</guid>
-    <pubDate>Thu, 22 Oct 2026 17:33:25 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost .</description>
-  </item>
-  <item>
     <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</title>
     <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</guid>
@@ -645,6 +629,22 @@
     <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the…</description>
+  </item>
+  <item>
+    <title>Open source and on device: the strategy behind Nvidia’s new AI models</title>
+    <link>https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models</guid>
+    <pubDate>Fri, 16 Oct 2026 18:26:14 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The new Nemotron 3.5 models show how the AI giant is focusing on reinforcing its own GPU infrastructure while supporting the open source community.</description>
+  </item>
+  <item>
+    <title>IBM: Agentic AI is reshaping governance, controls and trust</title>
+    <link>https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust</guid>
+    <pubDate>Wed, 14 Oct 2026 20:35:20 GMT</pubDate>
+    <category>AI Business</category>
+    <description>As AI agents move from answering questions to making decisions and acting, businesses face a growing challenge of keeping accountability in step with the pace of change.</description>
   </item>
 </channel>
 </rss>
