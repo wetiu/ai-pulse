@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 25 Oct 2026 16:16:24 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 20:49:41 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -327,6 +327,14 @@
     <description>At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.</description>
   </item>
   <item>
+    <title>Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time</title>
+    <link>https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/</guid>
+    <pubDate>Sun, 25 Oct 2026 16:53:40 GMT</pubDate>
+    <category>Open Source</category>
+    <description>Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language…</description>
+  </item>
+  <item>
     <title>Startup Action State launches tools for verifying interactions between AI agents</title>
     <link>https://siliconangle.com/2026/10/22/startup-action-state-launches-tools-for-verifying-interactions-between-ai-agents/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/22/startup-action-state-launches-tools-for-verifying-interactions-between-ai-agents/</guid>
@@ -463,14 +471,6 @@
     <description>UKIE has partnered with law firm Sheridans to provide an AI Compliance and Accreditation Service, enabling studios across the UK games industry to use AI lawfully and responsibly. Read more</description>
   </item>
   <item>
-    <title>The investors with the biggest jumps in the Sifted AI 100</title>
-    <link>https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/</link>
-    <guid isPermaLink="true">https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/</guid>
-    <pubDate>Mon, 19 Oct 2026 05:00:39 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>Introducing Token Pass</title>
     <link>https://vercel.com/changelog/introducing-token-pass</link>
     <guid isPermaLink="true">https://vercel.com/changelog/introducing-token-pass</guid>
@@ -591,14 +591,6 @@
     <description>In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won&#39;t be decided by breakthroughs but by who can bankroll it. US corporations alone plan to spend more…</description>
   </item>
   <item>
-    <title>Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context</title>
-    <link>https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/</guid>
-    <pubDate>Fri, 23 Oct 2026 22:52:40 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model…</description>
-  </item>
-  <item>
     <title>Prompt: AI moves beyond the screen</title>
     <link>https://aibusiness.com/robotics/prompt-ai-moves-beyond-the-screen</link>
     <guid isPermaLink="true">https://aibusiness.com/robotics/prompt-ai-moves-beyond-the-screen</guid>
@@ -645,6 +637,14 @@
     <pubDate>Wed, 14 Oct 2026 19:36:02 GMT</pubDate>
     <category>AI Business</category>
     <description>The social media giant tries to capitalize on, monetize its successful personal agent and maybe crack the business market. Chinese models go astray, like their U.S. counterparts.</description>
+  </item>
+  <item>
+    <title>Gemini 4 Argon now available on AI Gateway</title>
+    <link>https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway</guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Gemini 4 Argon from Google is now available on AI Gateway . Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling. On coding tasks, Gemini 4 Argon builds features, fixes bugs,…</description>
   </item>
 </channel>
 </rss>

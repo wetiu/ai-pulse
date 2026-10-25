@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T16:16:24.820Z",
-  "count": 371,
-  "focusCount": 224,
+  "generatedAt": "2026-10-25T20:49:41.121Z",
+  "count": 370,
+  "focusCount": 223,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -574,6 +574,20 @@
       "isFocus": false
     },
     {
+      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+      "url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+      "summary": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-25T16:53:40.000Z",
+      "topic": "Open Source",
+      "importance": 10.9,
+      "isFocus": false
+    },
+    {
       "title": "Startup Action State launches tools for verifying interactions between AI agents",
       "url": "https://siliconangle.com/2026/10/22/startup-action-state-launches-tools-for-verifying-interactions-between-ai-agents/",
       "summary": "Action State Group Inc. is launching a set of open-source tools designed to let businesses independently check records of what artificial intelligence agents did, addressing a trust problem as automated systems begin buying, selling and delegating work across corporate boundaries. The offering…",
@@ -812,20 +826,6 @@
       "isFocus": true
     },
     {
-      "title": "The investors with the biggest jumps in the Sifted AI 100",
-      "url": "https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/",
-      "summary": "",
-      "source": "Sifted",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-19T05:00:39.000Z",
-      "topic": "AI Business",
-      "importance": 10.299999999999999,
-      "isFocus": true
-    },
-    {
       "title": "Introducing Token Pass",
       "url": "https://vercel.com/changelog/introducing-token-pass",
       "summary": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs…",
@@ -1036,20 +1036,6 @@
       "isFocus": true
     },
     {
-      "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
-      "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
-      "summary": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-23T22:52:40.000Z",
-      "topic": "Models & Labs",
-      "importance": 9.8,
-      "isFocus": false
-    },
-    {
       "title": "Prompt: AI moves beyond the screen",
       "url": "https://aibusiness.com/robotics/prompt-ai-moves-beyond-the-screen",
       "summary": "Physical AI is pushing artificial intelligence into robots, factories and other real-world environments, where understanding language is only part of the challenge.",
@@ -1248,7 +1234,7 @@
     {
       "title": "A practical guide to AI image generation, from diffusion to agents",
       "url": "https://danielball.com/notes/ai_image_generation.html",
-      "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 281 # Comments: 93",
+      "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 282 # Comments: 94",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -1257,20 +1243,6 @@
       "date": "2026-10-20T19:22:39.000Z",
       "topic": "AI Business",
       "importance": 9.6,
-      "isFocus": true
-    },
-    {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-22T13:26:52.000Z",
-      "topic": "AI Business",
-      "importance": 9.5,
       "isFocus": true
     },
     {
@@ -1988,6 +1960,20 @@
       "isFocus": true
     },
     {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-25T16:57:32.000Z",
+      "topic": "AI Business",
+      "importance": 8.6,
+      "isFocus": true
+    },
+    {
       "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
       "url": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
       "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Android devices, their…",
@@ -2242,7 +2228,7 @@
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 500 # Comments: 217",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 501 # Comments: 217",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2256,7 +2242,7 @@
     {
       "title": "Every AI model has the same controversial take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 652 # Comments: 628",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 655 # Comments: 632",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3248,20 +3234,6 @@
       "isFocus": true
     },
     {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 253 # Comments: 89",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-18T04:33:49.000Z",
-      "topic": "AI Business",
-      "importance": 7.6,
-      "isFocus": true
-    },
-    {
       "title": "Introducing Microsoft’s latest custom chip: Maia 300",
       "url": "https://news.microsoft.com/maia-2026/",
       "summary": "The post Introducing Microsoft’s latest custom chip: Maia 300 appeared first on Source .",
@@ -3374,6 +3346,20 @@
       "isFocus": true
     },
     {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 135 # Comments: 215",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-25T16:28:26.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "r/opensource just banned AI, non-English speakers, and more",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
       "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this…",
@@ -3402,6 +3388,20 @@
       "isFocus": true
     },
     {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 124 # Comments: 59",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-25T09:51:17.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "Why do AI platforms want humans to design their branding?",
       "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
       "summary": "AI firms keep hiring human designers. Ironic much?",
@@ -3418,7 +3418,7 @@
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 276 # Comments: 94",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 338 # Comments: 121",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3432,7 +3432,7 @@
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 445 # Comments: 465",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 488 # Comments: 522",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3446,7 @@
     {
       "title": "No signs of AI payoff outside the tech sector",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 588 # Comments: 624",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 601 # Comments: 643",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3460,7 +3460,7 @@
     {
       "title": "Why is AI generated language so hard to understand?",
       "url": "https://arxiv.org/abs/2610.29162",
-      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 224 # Comments: 181",
+      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 238 # Comments: 194",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3705,20 +3705,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-18T12:22:58.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 173 # Comments: 61",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-17T16:04:23.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
