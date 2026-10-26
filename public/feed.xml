@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 25 Oct 2026 20:49:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 04:44:49 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -111,20 +111,20 @@
     <description>Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company’s own benchmarks, Mercury 3 beat OpenAI Group PBC’s GPT-6 Luna and Anthropic PBC’s Claude Haiku 5.5 on eight of 12 tests at four to eight times their speed. The release takes on the…</description>
   </item>
   <item>
+    <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
+    <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</guid>
+    <pubDate>Sun, 25 Oct 2026 21:31:16 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The footage looks okay, as long as you&#39;re not seeking artistry, inspiration, or human interest.</description>
+  </item>
+  <item>
     <title>Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra</title>
     <link>https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/</link>
     <guid isPermaLink="true">https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/</guid>
     <pubDate>Sun, 25 Oct 2026 10:08:49 GMT</pubDate>
     <category>AI Business</category>
     <description>Nvidia&#39;s new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls…</description>
-  </item>
-  <item>
-    <title>Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development</title>
-    <link>https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm</link>
-    <guid isPermaLink="true">https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm</guid>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-    <category>App Dev</category>
-    <description>With Googlebook, we’re excited to help users express themselves and gain access to these tools.</description>
   </item>
   <item>
     <title>OpenAI offers discounts up to 90 percent to poach Anthropic&#39;s biggest customers</title>
@@ -391,14 +391,6 @@
     <description>OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam…</description>
   </item>
   <item>
-    <title>Claude Duet app is Anthropic’s bet on agents</title>
-    <link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</guid>
-    <pubDate>Thu, 22 Oct 2026 13:53:26 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Claude Duet is available through waitlist for Pro and Max plan users.</description>
-  </item>
-  <item>
     <title>Ai2 releases OlmoEarth v1.3 state-of-the-art AI-ready satellite embeddings for the whole planet</title>
     <link>https://siliconangle.com/2026/10/22/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embeddings-for-the-whole-planet/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/22/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embeddings-for-the-whole-planet/</guid>
@@ -645,6 +637,14 @@
     <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Gemini 4 Argon from Google is now available on AI Gateway . Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling. On coding tasks, Gemini 4 Argon builds features, fixes bugs,…</description>
+  </item>
+  <item>
+    <title>Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI</title>
+    <link>https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/</guid>
+    <pubDate>Mon, 26 Oct 2026 01:31:12 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff, according to an analysis by one of the world’s largest investment firms. In the analysis published…</description>
   </item>
 </channel>
 </rss>
