@@ -5,7 +5,15 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Mon, 26 Oct 2026 22:39:26 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 05:02:01 GMT</lastBuildDate>
+  <item>
+    <title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
+    <link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</guid>
+    <pubDate>Tue, 27 Oct 2026 02:45:27 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared…</description>
+  </item>
   <item>
     <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
     <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
@@ -37,6 +45,14 @@
     <pubDate>Thu, 22 Oct 2026 13:20:53 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps working behind the scenes and checks in. Duet is available as a standalone app on the web, iOS and…</description>
+  </item>
+  <item>
+    <title>OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price</title>
+    <link>https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/</guid>
+    <pubDate>Tue, 27 Oct 2026 00:39:34 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI Group PBC today released GPT-6.1 Terra, an upgrade to the middle tier model in its lineup of frontier artificial intelligence systems. The new model, the successor to GTP-5.6 Terra, costs around 50% less while handling computer use tasks faster and with greater accuracy. Terra is positioned…</description>
   </item>
   <item>
     <title>Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner</title>
@@ -79,14 +95,6 @@
     <description>Red Hat Inc. today expanded its collaboration with Nvidia Corp. to help enterprises secure autonomous artificial intelligence agents, govern access to AI models and deploy workloads on Nvidia’s upcoming Vera Rubin data center infrastructure. Announced at Nvidia’s GTC event in Berlin, the updates…</description>
   </item>
   <item>
-    <title>OpenAI acquires Orchestra Bio to bring AI agents into drug development</title>
-    <link>https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/</guid>
-    <pubDate>Tue, 20 Oct 2026 23:40:20 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI Group PBC revealed today that it has acquired drug development software startup Orchestra Bio Inc. Orchestra builds artificial intelligence agents that help pharmaceutical teams keep development programs on track,. Its staff and technology will now sit inside OpenAI’s Rosalind life sciences…</description>
-  </item>
-  <item>
     <title>Amp puts AI agents to work beyond code with OpenAI models</title>
     <link>https://openai.com/index/amp-beyond-coding</link>
     <guid isPermaLink="true">https://openai.com/index/amp-beyond-coding</guid>
@@ -101,14 +109,6 @@
     <pubDate>Wed, 14 Oct 2026 02:00:14 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.</description>
-  </item>
-  <item>
-    <title>Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed</title>
-    <link>https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/</guid>
-    <pubDate>Tue, 20 Oct 2026 22:45:02 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company’s own benchmarks, Mercury 3 beat OpenAI Group PBC’s GPT-6 Luna and Anthropic PBC’s Claude Haiku 5.5 on eight of 12 tests at four to eight times their speed. The release takes on the…</description>
   </item>
   <item>
     <title>Exclusive: General Catalyst-backed Strawberry launches first full product, &#39;the European alternative&#39; to US agents</title>
@@ -141,6 +141,14 @@
     <pubDate>Mon, 26 Oct 2026 19:14:45 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker ANT. The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the company also…</description>
+  </item>
+  <item>
+    <title>OpenAI Unveils Half-Price AI Model to Target Enterprise Automation</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-unveils-half-price-ai-model-to-target-enterprise-automation/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-unveils-half-price-ai-model-to-target-enterprise-automation/</guid>
+    <pubDate>Mon, 26 Oct 2026 22:59:27 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI is rolling out GPT-6.1 Terra, a new artificial intelligence (AI) model that costs half as much as two of its other models and is practical for automating high-volume work such as reading invoices and entering their information into accounting software, the company said in a Monday (Oct. 26)…</description>
   </item>
   <item>
     <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
@@ -239,14 +247,6 @@
     <description>Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.</description>
   </item>
   <item>
-    <title>DeepSeek open-sources DeepInfer, the inference framework behind its production services</title>
-    <link>https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/</guid>
-    <pubDate>Tue, 20 Oct 2026 23:11:43 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. today open-sourced DeepInfer, the inference framework behind its own production services. The release takes on the cost of serving large models to the public. DeepSeek calls reaching…</description>
-  </item>
-  <item>
     <title>DeepSeek and what enterprises should learn from AI agent exploits</title>
     <link>https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits</link>
     <guid isPermaLink="true">https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits</guid>
@@ -263,28 +263,12 @@
     <description>We have Fable at home... or so we are being told by paid shills</description>
   </item>
   <item>
-    <title>Canva releases its first image generation model</title>
-    <link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</guid>
-    <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.</description>
-  </item>
-  <item>
     <title>Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation</title>
     <link>https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/</guid>
     <pubDate>Wed, 21 Oct 2026 22:18:30 GMT</pubDate>
     <category>AI Business</category>
     <description>Artificial intelligence research lab Flapping Airplanes Inc. today announced it has raised $1 billion in new funding, about a year after it was founded. Investors valued the startup at $6 billion in the deal, Bloomberg reported. No commercial product has come out of the lab yet. Flapping Airplanes…</description>
-  </item>
-  <item>
-    <title>Otter.ai raises $320M in funding for its AI meeting assistant</title>
-    <link>https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/</guid>
-    <pubDate>Tue, 20 Oct 2026 22:24:09 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Otter.ai Inc., the developer of a popular artificial intelligence meeting assistant, today announced that it has raised $320 million in funding. The capital came entirely from General Catalyst’s Customer Value Fund. The investment vehicle provides startups with financing for sales and marketing…</description>
   </item>
   <item>
     <title>Reflection AI&#39;s Beam now available on AI Gateway for free</title>
@@ -463,6 +447,14 @@
     <description></description>
   </item>
   <item>
+    <title>OpenAI announces three big science discoveries and a new way to work with academics</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</guid>
+    <pubDate>Mon, 26 Oct 2026 23:34:58 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more major discoveries in math, computer science, and physics. What&#39;s different this time is the choice to have external experts…</description>
+  </item>
+  <item>
     <title>Siemens, Nvidia deploy industrial AI to reduce engineering effort</title>
     <link>https://aibusiness.com/generative-ai/siemens-nvidia-industrial-ai-reduce-engineering-effort</link>
     <guid isPermaLink="true">https://aibusiness.com/generative-ai/siemens-nvidia-industrial-ai-reduce-engineering-effort</guid>
@@ -533,6 +525,14 @@
     <pubDate>Thu, 22 Oct 2026 22:43:47 GMT</pubDate>
     <category>AI Business</category>
     <description>The Agentic AI Foundation, a consortium that maintains open-source artificial intelligence tools, today took four new projects under its wing. The technologies were donated by OpenAI Group PBC, Anthropic PBC, Hugging Face Inc. and Alibaba Group Holding Ltd. They bring the total number of projects…</description>
+  </item>
+  <item>
+    <title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
+    <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</guid>
+    <pubDate>Tue, 27 Oct 2026 01:12:21 GMT</pubDate>
+    <category>AI Business</category>
+    <description>An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.</description>
   </item>
   <item>
     <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</title>
@@ -631,20 +631,20 @@
     <description>The social media giant tries to capitalize on, monetize its successful personal agent and maybe crack the business market. Chinese models go astray, like their U.S. counterparts.</description>
   </item>
   <item>
-    <title>Gemini 4 Argon now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway</guid>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Gemini 4 Argon from Google is now available on AI Gateway . Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling. On coding tasks, Gemini 4 Argon builds features, fixes bugs,…</description>
-  </item>
-  <item>
     <title>Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI</title>
     <link>https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/</guid>
     <pubDate>Mon, 26 Oct 2026 01:31:12 GMT</pubDate>
     <category>AI Business</category>
     <description>Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff, according to an analysis by one of the world’s largest investment firms. In the analysis published…</description>
+  </item>
+  <item>
+    <title>Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</title>
+    <link>https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</guid>
+    <pubDate>Sun, 25 Oct 2026 21:15:21 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost .</description>
   </item>
 </channel>
 </rss>
