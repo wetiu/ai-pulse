@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Tue, 27 Oct 2026 05:02:01 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 12:09:24 GMT</lastBuildDate>
   <item>
     <title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
     <link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
@@ -47,6 +47,14 @@
     <description>Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps working behind the scenes and checks in. Duet is available as a standalone app on the web, iOS and…</description>
   </item>
   <item>
+    <title>AINews Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
+    <link>https://latent.space/p/ainews-anthropic-s1/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
+    <pubDate>Tue, 27 Oct 2026 07:24:59 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The S-1, the numbers, and the reactions.</description>
+  </item>
+  <item>
     <title>OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price</title>
     <link>https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/</guid>
@@ -69,14 +77,6 @@
     <pubDate>Wed, 21 Oct 2026 10:45:17 GMT</pubDate>
     <category>AI Business</category>
     <description>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…</description>
-  </item>
-  <item>
-    <title>Anthropic says one AI agent beats many subagents now that models can handle complexity alone</title>
-    <link>https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:12:10 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The…</description>
   </item>
   <item>
     <title>Build more responsive apps with the Decisions API</title>
@@ -127,14 +127,6 @@
     <description>The footage looks okay, as long as you&#39;re not seeking artistry, inspiration, or human interest.</description>
   </item>
   <item>
-    <title>Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra</title>
-    <link>https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/</link>
-    <guid isPermaLink="true">https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/</guid>
-    <pubDate>Sun, 25 Oct 2026 10:08:49 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Nvidia&#39;s new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls…</description>
-  </item>
-  <item>
     <title>Anthropic opens its books for Wall Street, showing record revenue and mounting obligations</title>
     <link>https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</link>
     <guid isPermaLink="true">https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</guid>
@@ -183,12 +175,12 @@
     <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
   </item>
   <item>
-    <title>Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute</title>
-    <link>https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/</guid>
-    <pubDate>Wed, 21 Oct 2026 01:29:00 GMT</pubDate>
+    <title>I Tested Every Major AI Agent for a Day. Here’s the Best One</title>
+    <link>https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/</guid>
+    <pubDate>Tue, 27 Oct 2026 09:30:00 GMT</pubDate>
     <category>AI Business</category>
-    <description>Google LLC is striving to pry open Nvidia Corp.’s grip on the artificial intelligence computing industry with the launch of a specialized version of the open-source PyTorch framework, called TorchTPU, which is designed to eliminate a key advantage of its rival. One of the reasons why Nvidia and its…</description>
+    <description>I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.</description>
   </item>
   <item>
     <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
@@ -199,20 +191,20 @@
     <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</description>
   </item>
   <item>
+    <title>Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips</title>
+    <link>https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/</link>
+    <guid isPermaLink="true">https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/</guid>
+    <pubDate>Tue, 27 Oct 2026 09:58:16 GMT</pubDate>
+    <category>AI Business</category>
+    <description>ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder .</description>
+  </item>
+  <item>
     <title>Exclusive: iMerit launches platform to connect AI developers with specialized domain experts</title>
     <link>https://siliconangle.com/2026/10/26/imerit-launches-platform-to-connect-ai-developers-with-specialized-domain-experts/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/26/imerit-launches-platform-to-connect-ai-developers-with-specialized-domain-experts/</guid>
     <pubDate>Mon, 26 Oct 2026 12:00:49 GMT</pubDate>
     <category>AI Business</category>
     <description>IMerit Technology Service Pvt Ltd., a provider of data annotation and artificial intelligence training services that was acquired by ExlService Holdings Inc. in July, today launched a platform to help AI developers recruit and manage specialized experts who can evaluate, fine-tune and validate…</description>
-  </item>
-  <item>
-    <title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
-    <link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</guid>
-    <pubDate>Thu, 22 Oct 2026 19:07:09 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The new feature allows agents to log into a customer&#39;s personal accounts while still protecting the private credentials that secure those accounts.</description>
   </item>
   <item>
     <title>AINews DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
@@ -431,12 +423,12 @@
     <description>Companies are giving agents more authority, but many are still struggling to track what they can access, what they&#39;re doing and how to stop them.</description>
   </item>
   <item>
-    <title>OpenAI Training AI in Systems Shut Off From Web Access</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/</guid>
-    <pubDate>Sun, 25 Oct 2026 23:13:28 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI says it has adopted new security protocols for training its artificial intelligence models. That means placing the models in a closed system without access to the internet, the AI startup announced Friday (Oct. 23). “Working closely with cloud providers, we’ve added new controls throughout…</description>
+    <title>Anthropic Discloses $80 Billion Loss as It Files for IPO</title>
+    <link>https://80.lv/articles/anthropic-discloses-usd80-billion-loss-as-it-files-for-ipo/</link>
+    <guid isPermaLink="true">https://80.lv/articles/anthropic-discloses-usd80-billion-loss-as-it-files-for-ipo/</guid>
+    <pubDate>Tue, 27 Oct 2026 08:48:00 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>&lt;p&gt;The Claude maker&#39;s revenue grew 14-fold to $16.3 billion, but spending on AI training and data centers drove a significant loss.&lt;/p&gt;</description>
   </item>
   <item>
     <title>Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻</title>
@@ -445,6 +437,22 @@
     <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
+  </item>
+  <item>
+    <title>OpenAI&#39;s partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps</title>
+    <link>https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/</guid>
+    <pubDate>Tue, 27 Oct 2026 11:39:24 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Content from OpenAI&#39;s licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article OpenAI&#39;s partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on The Decoder .</description>
+  </item>
+  <item>
+    <title>Anthropic uses its IPO letter to renew its pledge that Claude will never show ads</title>
+    <link>https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/</guid>
+    <pubDate>Tue, 27 Oct 2026 11:20:51 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot&#39;s sole incentive should be to provide helpful answers. The article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads appeared first on…</description>
   </item>
   <item>
     <title>OpenAI announces three big science discoveries and a new way to work with academics</title>
@@ -493,6 +501,14 @@
     <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs…</description>
+  </item>
+  <item>
+    <title>Backbase Helps Banks Deploy Agentic AI With Delivery Factory</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/backbase-helps-banks-deploy-agentic-ai-with-delivery-factory/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/backbase-helps-banks-deploy-agentic-ai-with-delivery-factory/</guid>
+    <pubDate>Tue, 27 Oct 2026 08:00:24 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Backbase has introduced a tool that pairs banking teams with specialized artificial intelligence (AI) agents. The banking operating system provider’s Delivery Factory lets a bank’s delivery team work with AI agents “from the first agreed requirement to working code,” Backbase said in a news release…</description>
   </item>
   <item>
     <title>Meta Aims to Raise $95 Billion to Pursue New AI Opportunities</title>
@@ -575,12 +591,12 @@
     <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
   </item>
   <item>
-    <title>Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027</title>
-    <link>https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:37:46 GMT</pubDate>
-    <category>AI Business</category>
-    <description>A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves his prediction for…</description>
+    <title>vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model</title>
+    <link>https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</guid>
+    <pubDate>Tue, 27 Oct 2026 05:50:57 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test. The post vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model…</description>
   </item>
   <item>
     <title>Prompt: AI moves beyond the screen</title>
@@ -629,22 +645,6 @@
     <pubDate>Wed, 14 Oct 2026 19:36:02 GMT</pubDate>
     <category>AI Business</category>
     <description>The social media giant tries to capitalize on, monetize its successful personal agent and maybe crack the business market. Chinese models go astray, like their U.S. counterparts.</description>
-  </item>
-  <item>
-    <title>Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI</title>
-    <link>https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/</guid>
-    <pubDate>Mon, 26 Oct 2026 01:31:12 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff, according to an analysis by one of the world’s largest investment firms. In the analysis published…</description>
-  </item>
-  <item>
-    <title>Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</title>
-    <link>https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</guid>
-    <pubDate>Sun, 25 Oct 2026 21:15:21 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost .</description>
   </item>
 </channel>
 </rss>
