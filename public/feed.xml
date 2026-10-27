@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Tue, 27 Oct 2026 17:59:26 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 22:12:31 GMT</lastBuildDate>
   <item>
     <title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
     <link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
@@ -39,14 +39,6 @@
     <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.</description>
   </item>
   <item>
-    <title>Hyphenate Raises $45 Million for Finance-Focused AI Agents</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/hyphenate-raises-45-million-dollars-finance-focused-ai-agents/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/hyphenate-raises-45-million-dollars-finance-focused-ai-agents/</guid>
-    <pubDate>Tue, 27 Oct 2026 13:51:25 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Hyphenate, a company that develops artificial intelligence agents for finance departments, raised $45 million in new funding, Bloomberg reported Tuesday (Oct. 27). The new financing will allow Hyphenate to deepen its footprint in accounting and strategic finance, according to the report. “Our…</description>
-  </item>
-  <item>
     <title>Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters</title>
     <link>https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/</guid>
@@ -77,14 +69,6 @@
     <pubDate>Tue, 27 Oct 2026 00:39:34 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI Group PBC today released GPT-6.1 Terra, an upgrade to the middle tier model in its lineup of frontier artificial intelligence systems. The new model, the successor to GTP-5.6 Terra, costs around 50% less while handling computer use tasks faster and with greater accuracy. Terra is positioned…</description>
-  </item>
-  <item>
-    <title>Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner</title>
-    <link>https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</guid>
-    <pubDate>Sun, 25 Oct 2026 11:32:29 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade…</description>
   </item>
   <item>
     <title>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</title>
@@ -135,6 +119,14 @@
     <description>The footage looks okay, as long as you&#39;re not seeking artistry, inspiration, or human interest.</description>
   </item>
   <item>
+    <title>How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands</title>
+    <link>https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</link>
+    <guid isPermaLink="true">https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</guid>
+    <pubDate>Tue, 27 Oct 2026 18:40:19 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...</description>
+  </item>
+  <item>
     <title>Anthropic opens its books for Wall Street, showing record revenue and mounting obligations</title>
     <link>https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</link>
     <guid isPermaLink="true">https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</guid>
@@ -175,12 +167,12 @@
     <description>The Japan Actors Union has announced new guidelines to address the unauthorised use of generative AI to replicate voice performances. Read more</description>
   </item>
   <item>
-    <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
-    <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</guid>
-    <pubDate>Sat, 24 Oct 2026 15:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>A new study found Grok&#39;s AI overwhelmingly recommends Republican candidates while OpenAI&#39;s GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</description>
+    <title>How Anthropic ships Claude with Claude: Separating the Brain from the Hands</title>
+    <link>https://latent.space/p/opus55/</link>
+    <guid isPermaLink="true">https://latent.space/p/opus55/</guid>
+    <pubDate>Tue, 27 Oct 2026 18:53:10 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.</description>
   </item>
   <item>
     <title>Securing our frontier model training environment</title>
@@ -213,6 +205,14 @@
     <pubDate>Tue, 27 Oct 2026 09:58:16 GMT</pubDate>
     <category>AI Business</category>
     <description>ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder .</description>
+  </item>
+  <item>
+    <title>Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models</title>
+    <link>https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/</guid>
+    <pubDate>Tue, 27 Oct 2026 21:08:02 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit. The post Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models appeared first on MarkTechPost .</description>
   </item>
   <item>
     <title>Exclusive: iMerit launches platform to connect AI developers with specialized domain experts</title>
@@ -269,14 +269,6 @@
     <pubDate>Sat, 24 Oct 2026 07:18:29 GMT</pubDate>
     <category>Open Source</category>
     <description>We have Fable at home... or so we are being told by paid shills</description>
-  </item>
-  <item>
-    <title>Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation</title>
-    <link>https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/</guid>
-    <pubDate>Wed, 21 Oct 2026 22:18:30 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Artificial intelligence research lab Flapping Airplanes Inc. today announced it has raised $1 billion in new funding, about a year after it was founded. Investors valued the startup at $6 billion in the deal, Bloomberg reported. No commercial product has come out of the lab yet. Flapping Airplanes…</description>
   </item>
   <item>
     <title>Reflection AI&#39;s Beam now available on AI Gateway for free</title>
@@ -551,12 +543,20 @@
     <description>Backbase has introduced a tool that pairs banking teams with specialized artificial intelligence (AI) agents. The banking operating system provider’s Delivery Factory lets a bank’s delivery team work with AI agents “from the first agreed requirement to working code,” Backbase said in a news release…</description>
   </item>
   <item>
-    <title>OpenAI to make its most advanced AI models available in Google Cloud</title>
-    <link>https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/</guid>
-    <pubDate>Thu, 22 Oct 2026 00:22:58 GMT</pubDate>
+    <title>Meta Aims to Raise $95 Billion to Pursue New AI Opportunities</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/meta-aims-to-raise-95-billion-to-pursue-new-ai-opportunities/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/meta-aims-to-raise-95-billion-to-pursue-new-ai-opportunities/</guid>
+    <pubDate>Mon, 26 Oct 2026 15:17:26 GMT</pubDate>
     <category>AI Business</category>
-    <description>OpenAI Group PBC today announced plans to make its latest large language models accessible in Google Cloud. The LLMs will be available through the Alphabet Inc.’s unit Model Garden service. It provides access to more than 200 neural networks from Google, its partners and the open-source ecosystem.…</description>
+    <description>Meta is planning to raise $95 billion to support its artificial intelligence (AI) efforts. The tech giant announced its fundraising plans Monday (Oct. 26), saying it planned to raise $35 billion in underwritten public equity offerings, before drumming up another $60 billion with an at-the-market…</description>
+  </item>
+  <item>
+    <title>Anthropic Files IPO Showing $16.3 Billion Six-Month Revenue and $80.7 Billion Net Loss</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-files-ipo-showing-16-3-billion-six-month-revenue-and-80-7-billion-net-loss/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-files-ipo-showing-16-3-billion-six-month-revenue-and-80-7-billion-net-loss/</guid>
+    <pubDate>Mon, 26 Oct 2026 14:44:03 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic filed for a proposed initial public offering Monday (Oct. 26) without setting a price range. The artificial intelligence startup filed its Form S-1 with the Securities and Exchange Commission. Announcing the IPO filing in a press release, Anthropic said: “Anthropic intends to list its…</description>
   </item>
   <item>
     <title>Regal debuts Goal Oriented Agents, putting an actor and a director model on every call</title>
