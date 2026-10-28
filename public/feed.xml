@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 28 Oct 2026 05:40:57 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 12:52:41 GMT</lastBuildDate>
   <item>
     <title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
     <link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
@@ -79,14 +79,6 @@
     <description>Fast, focused, low-cost decisions for any application.</description>
   </item>
   <item>
-    <title>Amp puts AI agents to work beyond code with OpenAI models</title>
-    <link>https://openai.com/index/amp-beyond-coding</link>
-    <guid isPermaLink="true">https://openai.com/index/amp-beyond-coding</guid>
-    <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</description>
-  </item>
-  <item>
     <title>Exclusive: General Catalyst-backed Strawberry launches first full product, &#39;the European alternative&#39; to US agents</title>
     <link>https://sifted.eu/articles/strawberry-browser-1-0/</link>
     <guid isPermaLink="true">https://sifted.eu/articles/strawberry-browser-1-0/</guid>
@@ -109,14 +101,6 @@
     <pubDate>Tue, 27 Oct 2026 18:40:19 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...</description>
-  </item>
-  <item>
-    <title>Anthropic opens its books for Wall Street, showing record revenue and mounting obligations</title>
-    <link>https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/</guid>
-    <pubDate>Mon, 26 Oct 2026 19:14:45 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker ANT. The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the company also…</description>
   </item>
   <item>
     <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
@@ -247,14 +231,6 @@
     <description>Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.</description>
   </item>
   <item>
-    <title>DeepSeek and what enterprises should learn from AI agent exploits</title>
-    <link>https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits</guid>
-    <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>A new case of an out-of-control AI model shows that enterprises should treat models and agents as toddlers that need supervision and explicit instructions.</description>
-  </item>
-  <item>
     <title>AINews Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
     <link>https://latent.space/p/ainews-kimi-31/</link>
     <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
@@ -327,12 +303,12 @@
     <description>At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.</description>
   </item>
   <item>
-    <title>Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time</title>
-    <link>https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/</guid>
-    <pubDate>Sun, 25 Oct 2026 16:53:40 GMT</pubDate>
-    <category>Open Source</category>
-    <description>Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language…</description>
+    <title>Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics</title>
+    <link>https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/</guid>
+    <pubDate>Wed, 28 Oct 2026 12:00:50 GMT</pubDate>
+    <category>AI Business</category>
+    <description>British circuit board design startup Circuit Mind Ltd. today announced it has raised $25 million in new funding to extend its artificial intelligence platform across more of the hardware design process. A verification tool that puts AI agents to work hunting for errors in schematics launched at the…</description>
   </item>
   <item>
     <title>Edge Sound raises $2M to help physical AI make sense of audio</title>
@@ -349,14 +325,6 @@
     <pubDate>Mon, 26 Oct 2026 17:27:20 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.</description>
-  </item>
-  <item>
-    <title>GPT-6.1 Terra halves OpenAI&#39;s API prices and still gains ground on its larger models</title>
-    <link>https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/</link>
-    <guid isPermaLink="true">https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/</guid>
-    <pubDate>Mon, 26 Oct 2026 20:30:55 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves OpenAI&#39;s API…</description>
   </item>
   <item>
     <title>The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings</title>
@@ -399,6 +367,14 @@
     <description>Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files…</description>
   </item>
   <item>
+    <title>AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</title>
+    <link>https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/</link>
+    <guid isPermaLink="true">https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/</guid>
+    <pubDate>Wed, 28 Oct 2026 10:56:24 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Cybersecurity startup Cathedral used AI agents to break into Anthropic&#39;s internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable even leading AI labs…</description>
+  </item>
+  <item>
     <title>Prompt: Enterprise controls can&#39;t keep up with AI agents</title>
     <link>https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents</link>
     <guid isPermaLink="true">https://aibusiness.com/agentic-ai/prompt-enterprise-controls-can-t-keep-up-with-ai-agents</guid>
@@ -415,20 +391,20 @@
     <description>Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&amp;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. The post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context…</description>
   </item>
   <item>
-    <title>Anthropic Discloses $80 Billion Loss as It Files for IPO</title>
-    <link>https://80.lv/articles/anthropic-discloses-usd80-billion-loss-as-it-files-for-ipo/</link>
-    <guid isPermaLink="true">https://80.lv/articles/anthropic-discloses-usd80-billion-loss-as-it-files-for-ipo/</guid>
-    <pubDate>Tue, 27 Oct 2026 08:48:00 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>&lt;p&gt;The Claude maker&#39;s revenue grew 14-fold to $16.3 billion, but spending on AI training and data centers drove a significant loss.&lt;/p&gt;</description>
-  </item>
-  <item>
     <title>Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻</title>
     <link>https://tldr.tech/ai/2026-10-22</link>
     <guid isPermaLink="true">https://tldr.tech/ai/2026-10-22</guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
+  </item>
+  <item>
+    <title>Legora is building the agentic operating system for legal work</title>
+    <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+    <guid isPermaLink="true">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+    <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
   </item>
   <item>
     <title>OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics</title>
@@ -445,6 +421,14 @@
     <pubDate>Tue, 27 Oct 2026 11:39:24 GMT</pubDate>
     <category>AI Business</category>
     <description>Content from OpenAI&#39;s licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article OpenAI&#39;s partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on The Decoder .</description>
+  </item>
+  <item>
+    <title>With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic</title>
+    <link>https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/</link>
+    <guid isPermaLink="true">https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/</guid>
+    <pubDate>Wed, 28 Oct 2026 11:15:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He&#39;d rather see prototypes that show taste, empathy, and principled thinking, since in his words, hunger beats tenure. That sounds empowering,…</description>
   </item>
   <item>
     <title>Anthropic uses its IPO letter to renew its pledge that Claude will never show ads</title>
@@ -519,14 +503,6 @@
     <description>Enterprise voice artificial intelligence company Regal Voice Inc. today added Goal Oriented Agents to its platform, enabling businesses using them to define what a call has to accomplish, and providing two AI models that split the work of getting there. The new agents are aimed at a problem Regal…</description>
   </item>
   <item>
-    <title>Agentic AI Foundation adds four more open-source AI tools</title>
-    <link>https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/</guid>
-    <pubDate>Thu, 22 Oct 2026 22:43:47 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The Agentic AI Foundation, a consortium that maintains open-source artificial intelligence tools, today took four new projects under its wing. The technologies were donated by OpenAI Group PBC, Anthropic PBC, Hugging Face Inc. and Alibaba Group Holding Ltd. They bring the total number of projects…</description>
-  </item>
-  <item>
     <title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
     <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</guid>
@@ -549,14 +525,6 @@
     <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
-  </item>
-  <item>
-    <title>The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.</title>
-    <link>https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/</link>
-    <guid isPermaLink="true">https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/</guid>
-    <pubDate>Thu, 22 Oct 2026 11:00:42 GMT</pubDate>
-    <category>AI Business</category>
-    <description>In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight…</description>
   </item>
   <item>
     <title>Python on Vercel is now generally available</title>
@@ -639,12 +607,44 @@
     <description>Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff, according to an analysis by one of the world’s largest investment firms. In the analysis published…</description>
   </item>
   <item>
-    <title>Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</title>
-    <link>https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</guid>
-    <pubDate>Sun, 25 Oct 2026 21:15:21 GMT</pubDate>
+    <title>AINews OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
+    <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-openais-patch-the-planet-program/</guid>
+    <pubDate>Thu, 22 Oct 2026 07:42:44 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>The Big Hardening begins</description>
+  </item>
+  <item>
+    <title>AI is mass decompiling games. That&#39;s both awesome and scary.</title>
+    <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
+    <pubDate>Wed, 14 Oct 2026 16:26:53 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ &gt;AI is mass decompiling games. That&amp;#x27;s both awesome and scary.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games,…</description>
+  </item>
+  <item>
+    <title>ChatGPT’s expanding world of work</title>
+    <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+    <guid isPermaLink="true">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
+    <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost .</description>
+    <description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.</description>
+  </item>
+  <item>
+    <title>OpenAI nears $1.25T 💰, ☁️, 1Password for Agents 🔑, Gemini 3.5 Pro postmortem 🤖</title>
+    <link>https://tldr.tech/ai/2026-10-23</link>
+    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
+    <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
+    <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+    <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
+    <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.</description>
   </item>
 </channel>
 </rss>
