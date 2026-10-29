@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 29 Oct 2026 05:46:15 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 12:58:30 GMT</lastBuildDate>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -77,6 +77,14 @@
     <pubDate>Wed, 21 Oct 2026 10:45:17 GMT</pubDate>
     <category>AI Business</category>
     <description>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…</description>
+  </item>
+  <item>
+    <title>AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents</title>
+    <link>https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/</guid>
+    <pubDate>Thu, 29 Oct 2026 07:28:36 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch. The post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for…</description>
   </item>
   <item>
     <title>Build more responsive apps with the Decisions API</title>
@@ -183,6 +191,14 @@
     <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</description>
   </item>
   <item>
+    <title>Crux Labs raises over $6M to improve enterprise agents with human judgment</title>
+    <link>https://siliconangle.com/2026/10/29/crux-labs-raises-over-6m-to-improve-enterprise-agents-with-human-judgment/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/29/crux-labs-raises-over-6m-to-improve-enterprise-agents-with-human-judgment/</guid>
+    <pubDate>Thu, 29 Oct 2026 12:00:48 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Crux Labs, an artificial intelligence platform turning enterprise judgment into continuous agent improvement, launched today with over $6 million in funding. Benchstrength and Misneach led the round, with participation from Analog Ventures and Pareto Holdings. The scale of enterprise AI agents in…</description>
+  </item>
+  <item>
     <title>Anthropic just launched tools to show companies what their AI spending is buying</title>
     <link>https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/</guid>
@@ -221,6 +237,14 @@
     <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash…</description>
+  </item>
+  <item>
+    <title>Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents</title>
+    <link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</guid>
+    <pubDate>Thu, 29 Oct 2026 08:24:52 GMT</pubDate>
+    <category>Open Source</category>
+    <description>Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged. The post Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI…</description>
   </item>
   <item>
     <title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
@@ -303,28 +327,12 @@
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1 &gt;Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; The phrase told investors appears four times in this FT article, which reports on Anthropic&#39;s day of…</description>
   </item>
   <item>
-    <title>AINews Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
-    <link>https://latent.space/p/ainews-modals-1b-arr-16b-series-d/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-modals-1b-arr-16b-series-d/</guid>
-    <pubDate>Thu, 15 Oct 2026 10:08:08 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Sandboxes are all you need.</description>
-  </item>
-  <item>
     <title>Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model</title>
     <link>https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/</guid>
     <pubDate>Wed, 28 Oct 2026 15:00:59 GMT</pubDate>
     <category>AI Business</category>
     <description>Nvidia Corp. today released a leaderboard-winning open artificial intelligence model for multilingual audio transcription and translation, along with an open data pipeline for fine-tuning Nemotron 3.5 Transcribe. Traditional transcription AI models follow a workflow that detects speech, transcribes…</description>
-  </item>
-  <item>
-    <title>Google Deepmind&#39;s Genie 4 puts a modern spin on agent designs that predate LLMs</title>
-    <link>https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/</link>
-    <guid isPermaLink="true">https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/</guid>
-    <pubDate>Tue, 27 Oct 2026 17:25:09 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual…</description>
   </item>
   <item>
     <title>OpenAI models are coming to Google Cloud</title>
@@ -359,20 +367,20 @@
     <description>Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.</description>
   </item>
   <item>
-    <title>The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings</title>
-    <link>https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/</link>
-    <guid isPermaLink="true">https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/</guid>
-    <pubDate>Fri, 23 Oct 2026 18:51:22 GMT</pubDate>
-    <category>AI Business</category>
-    <description>It was another interesting week for AI-related startup funding, with a number of large rounds and quirky companies. The largest financings went to Tenstorrent, a developer of AI processors and systems, and AI lab Flapping Airplanes. The quirkiest round, meanwhile, was undoubtedly a $200 million…</description>
-  </item>
-  <item>
     <title>OpenAI, Google partnership targets enterprise model choice</title>
     <link>https://aibusiness.com/generative-ai/openai-google-partnership-enterprise-model-choice</link>
     <guid isPermaLink="true">https://aibusiness.com/generative-ai/openai-google-partnership-enterprise-model-choice</guid>
     <pubDate>Thu, 22 Oct 2026 15:49:47 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI now has its models on all three major cloud provider platforms, as it refines its enterprise strategy.</description>
+  </item>
+  <item>
+    <title>Solink raises more than $100M to pull business data from security cameras with AI</title>
+    <link>https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/</guid>
+    <pubDate>Thu, 29 Oct 2026 12:00:28 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Video intelligence company Solink Corp. revealed today that it has raised more than $100 million in new funding. Solink started out in Ottawa in 2009 selling cloud video surveillance, and its software now uses artificial intelligence to pull information out of the security cameras retailers,…</description>
   </item>
   <item>
     <title>Anthropic rolls out Claude Duet, but enterprises aren’t ready</title>
@@ -389,14 +397,6 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
-  </item>
-  <item>
-    <title>Introducing Vercel Drives: persistent storage for agents</title>
-    <link>https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents</link>
-    <guid isPermaLink="true">https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents</guid>
-    <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files…</description>
   </item>
   <item>
     <title>As AI agents reshape the web, Google opens Gemini and Search to more apps</title>
@@ -421,14 +421,6 @@
     <pubDate>Fri, 16 Oct 2026 15:30:14 GMT</pubDate>
     <category>AI Business</category>
     <description>Companies are giving agents more authority, but many are still struggling to track what they can access, what they&#39;re doing and how to stop them.</description>
-  </item>
-  <item>
-    <title>Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context</title>
-    <link>https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/</guid>
-    <pubDate>Tue, 27 Oct 2026 12:57:46 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&amp;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. The post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context…</description>
   </item>
   <item>
     <title>Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻</title>
@@ -511,12 +503,12 @@
     <description>UKIE has partnered with law firm Sheridans to provide an AI Compliance and Accreditation Service, enabling studios across the UK games industry to use AI lawfully and responsibly. Read more</description>
   </item>
   <item>
-    <title>Introducing Token Pass</title>
-    <link>https://vercel.com/changelog/introducing-token-pass</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/introducing-token-pass</guid>
-    <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs…</description>
+    <title>AINews Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
+    <link>https://latent.space/p/ainews-gemini-4-carbon/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-gemini-4-carbon/</guid>
+    <pubDate>Thu, 29 Oct 2026 05:55:19 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.</description>
   </item>
   <item>
     <title>Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</title>
@@ -533,14 +525,6 @@
     <pubDate>Tue, 27 Oct 2026 14:00:40 GMT</pubDate>
     <category>AI Business</category>
     <description>Enterprise voice artificial intelligence company Regal Voice Inc. today added Goal Oriented Agents to its platform, enabling businesses using them to define what a call has to accomplish, and providing two AI models that split the work of getting there. The new agents are aimed at a problem Regal…</description>
-  </item>
-  <item>
-    <title>Vercel CI is now in beta</title>
-    <link>https://vercel.com/changelog/vercel-ci-is-now-in-beta</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/vercel-ci-is-now-in-beta</guid>
-    <pubDate>Wed, 28 Oct 2026 19:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>You can now run CI for your Turborepo with one line of configuration. In Vercel&#39;s internal repositories, our wait time from git push to CI passed is 2-6x shorter, dramatically improving our CI&#39;s ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task…</description>
   </item>
   <item>
     <title>How Interfaze serves 50 million requests a month on Vercel</title>
@@ -565,14 +549,6 @@
     <pubDate>Wed, 28 Oct 2026 15:45:59 GMT</pubDate>
     <category>Game Dev</category>
     <description>Roblox says an AI agent failed to operate &#39;as intended&#39; when it mass-downloaded adult content from Open3DLab, Smutlab, and SFMLab.</description>
-  </item>
-  <item>
-    <title>vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model</title>
-    <link>https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</guid>
-    <pubDate>Tue, 27 Oct 2026 05:50:57 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test. The post vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model…</description>
   </item>
   <item>
     <title>Prompt: AI moves beyond the screen</title>
@@ -631,6 +607,14 @@
     <description>The Big Hardening begins</description>
   </item>
   <item>
+    <title>We urgently need to monitor AI agents’ actions in real time</title>
+    <link>https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</link>
+    <guid isPermaLink="true">https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</guid>
+    <pubDate>Thu, 29 Oct 2026 10:11:12 GMT</pubDate>
+    <category>AI Business</category>
+    <description>This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an…</description>
+  </item>
+  <item>
     <title>ChatGPT’s expanding world of work</title>
     <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
     <guid isPermaLink="true">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
@@ -643,6 +627,22 @@
     <link>https://tldr.tech/ai/2026-10-23</link>
     <guid isPermaLink="true">https://tldr.tech/ai/2026-10-23</guid>
     <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
+    <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
+    <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+    <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
+    <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.</description>
+  </item>
+  <item>
+    <title>DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻</title>
+    <link>https://tldr.tech/ai/2026-10-21</link>
+    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
   </item>
