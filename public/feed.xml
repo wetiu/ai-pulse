@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 28 Oct 2026 22:34:00 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 05:46:15 GMT</lastBuildDate>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -13,14 +13,6 @@
     <pubDate>Wed, 28 Oct 2026 13:15:00 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.</description>
-  </item>
-  <item>
-    <title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
-    <link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</guid>
-    <pubDate>Tue, 27 Oct 2026 02:45:27 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82. The post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared…</description>
   </item>
   <item>
     <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
@@ -103,20 +95,20 @@
     <description>Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.</description>
   </item>
   <item>
-    <title>Exclusive: General Catalyst-backed Strawberry launches first full product, &#39;the European alternative&#39; to US agents</title>
-    <link>https://sifted.eu/articles/strawberry-browser-1-0/</link>
-    <guid isPermaLink="true">https://sifted.eu/articles/strawberry-browser-1-0/</guid>
-    <pubDate>Mon, 26 Oct 2026 05:00:08 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands</title>
     <link>https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</link>
     <guid isPermaLink="true">https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</guid>
     <pubDate>Tue, 27 Oct 2026 18:40:19 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...</description>
+  </item>
+  <item>
+    <title>Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades</title>
+    <link>https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/</guid>
+    <pubDate>Wed, 28 Oct 2026 23:27:13 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google LLC today debuted Gemini 4 Carbon, a frontier large language model adept at complex programming tasks. The LLM is rolling out just two weeks after the search introduced its previous flagship LLM, Gemini 4 Argon. According to Google, internal tests have shown Carbon to be more than twice as…</description>
   </item>
   <item>
     <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
@@ -311,12 +303,12 @@
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1 &gt;Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; The phrase told investors appears four times in this FT article, which reports on Anthropic&#39;s day of…</description>
   </item>
   <item>
-    <title>Cat Jam is now available in stealth for free on AI Gateway</title>
-    <link>https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway</guid>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a…</description>
+    <title>AINews Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
+    <link>https://latent.space/p/ainews-modals-1b-arr-16b-series-d/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-modals-1b-arr-16b-series-d/</guid>
+    <pubDate>Thu, 15 Oct 2026 10:08:08 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Sandboxes are all you need.</description>
   </item>
   <item>
     <title>Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model</title>
@@ -567,14 +559,6 @@
     <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
   </item>
   <item>
-    <title>Python on Vercel is now generally available</title>
-    <link>https://vercel.com/changelog/python-on-vercel-is-now-generally-available</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/python-on-vercel-is-now-generally-available</guid>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the…</description>
-  </item>
-  <item>
     <title>Roblox confirms no adult content used in AI training after scraping Open3DLab data</title>
     <link>https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data</link>
     <guid isPermaLink="true">https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data</guid>
@@ -645,6 +629,22 @@
     <pubDate>Thu, 22 Oct 2026 07:42:44 GMT</pubDate>
     <category>Web Dev</category>
     <description>The Big Hardening begins</description>
+  </item>
+  <item>
+    <title>ChatGPT’s expanding world of work</title>
+    <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+    <guid isPermaLink="true">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
+    <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.</description>
+  </item>
+  <item>
+    <title>OpenAI nears $1.25T 💰, ☁️, 1Password for Agents 🔑, Gemini 3.5 Pro postmortem 🤖</title>
+    <link>https://tldr.tech/ai/2026-10-23</link>
+    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
   </item>
 </channel>
 </rss>
