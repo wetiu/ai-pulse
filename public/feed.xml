@@ -5,7 +5,15 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 29 Oct 2026 12:58:30 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 22:44:12 GMT</lastBuildDate>
+  <item>
+    <title>Mistral releases open weights for Mistral Large 4, providing sovereign control for the company’s ‘Le Chonk’ AI model</title>
+    <link>https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/</guid>
+    <pubDate>Thu, 29 Oct 2026 15:20:38 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Mistral AI SAS today announced the availability of the open weights of its frontier model Mistral Large 4, nicknamed “Le Chonk,” the company’s most capable large language model to date, initially released in preview three weeks ago. With 1 trillion parameters and 52 billion active parameters, ML4…</description>
+  </item>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -47,20 +55,20 @@
     <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.</description>
   </item>
   <item>
-    <title>Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters</title>
-    <link>https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/</guid>
-    <pubDate>Sat, 24 Oct 2026 00:55:53 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intelligence company released in July. The latter model, Kimi K3,…</description>
-  </item>
-  <item>
     <title>AINews Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
     <link>https://latent.space/p/ainews-anthropic-s1/</link>
     <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
     <pubDate>Tue, 27 Oct 2026 07:24:59 GMT</pubDate>
     <category>AI Business</category>
     <description>The S-1, the numbers, and the reactions.</description>
+  </item>
+  <item>
+    <title>Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</title>
+    <link>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</guid>
+    <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can&#39;t.</description>
   </item>
   <item>
     <title>OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price</title>
@@ -95,14 +103,6 @@
     <description>Fast, focused, low-cost decisions for any application.</description>
   </item>
   <item>
-    <title>Voice AI in vogue: Nvidia releases new open transcription model</title>
-    <link>https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/</guid>
-    <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.</description>
-  </item>
-  <item>
     <title>How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands</title>
     <link>https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</link>
     <guid isPermaLink="true">https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</guid>
@@ -117,14 +117,6 @@
     <pubDate>Wed, 28 Oct 2026 23:27:13 GMT</pubDate>
     <category>AI Business</category>
     <description>Google LLC today debuted Gemini 4 Carbon, a frontier large language model adept at complex programming tasks. The LLM is rolling out just two weeks after the search introduced its previous flagship LLM, Gemini 4 Argon. According to Google, internal tests have shown Carbon to be more than twice as…</description>
-  </item>
-  <item>
-    <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
-    <link>https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</guid>
-    <pubDate>Wed, 21 Oct 2026 10:10:01 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor…</description>
   </item>
   <item>
     <title>Japan Actors Union announces guidelines addressing unauthorised use of generative AI to replicate voice performances</title>
@@ -167,20 +159,20 @@
     <description>Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.</description>
   </item>
   <item>
+    <title>Cohere Raises $5 Billion for Alternative AI Vision</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/cohere-raises-5-billion-dollars-alternative-ai-vision/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/cohere-raises-5-billion-dollars-alternative-ai-vision/</guid>
+    <pubDate>Thu, 29 Oct 2026 20:49:49 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Canadian artificial intelligence company Cohere said in a Thursday (Oct. 29) company blog post that it rejects what it called “frontier fatalism.” That’s its term for the belief that AI will be monopolized by a handful of United States and Chinese tech giants. To offer other countries a sovereign…</description>
+  </item>
+  <item>
     <title>Securing our frontier model training environment</title>
     <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
     <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
     <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
-  </item>
-  <item>
-    <title>I Tested Every Major AI Agent for a Day. Here’s the Best One</title>
-    <link>https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:30:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.</description>
   </item>
   <item>
     <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
@@ -205,22 +197,6 @@
     <pubDate>Wed, 28 Oct 2026 19:19:58 GMT</pubDate>
     <category>AI Business</category>
     <description>The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.</description>
-  </item>
-  <item>
-    <title>Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models</title>
-    <link>https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/</guid>
-    <pubDate>Tue, 27 Oct 2026 21:08:02 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit. The post Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models appeared first on MarkTechPost .</description>
-  </item>
-  <item>
-    <title>Exclusive: iMerit launches platform to connect AI developers with specialized domain experts</title>
-    <link>https://siliconangle.com/2026/10/26/imerit-launches-platform-to-connect-ai-developers-with-specialized-domain-experts/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/26/imerit-launches-platform-to-connect-ai-developers-with-specialized-domain-experts/</guid>
-    <pubDate>Mon, 26 Oct 2026 12:00:49 GMT</pubDate>
-    <category>AI Business</category>
-    <description>IMerit Technology Service Pvt Ltd., a provider of data annotation and artificial intelligence training services that was acquired by ExlService Holdings Inc. in July, today launched a platform to help AI developers recruit and manage specialized experts who can evaluate, fine-tune and validate…</description>
   </item>
   <item>
     <title>AINews DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
@@ -303,6 +279,22 @@
     <description>NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip…</description>
   </item>
   <item>
+    <title>Paris-based Mistral releases Le Chonk, a strong coding model that still trails China overall</title>
+    <link>https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/</link>
+    <guid isPermaLink="true">https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/</guid>
+    <pubDate>Thu, 29 Oct 2026 15:25:27 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Mistral has released the weights for Large 4, aka Le Chonk, a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it&#39;s fast and fairly cheap. It still can&#39;t match China&#39;s top models, scoring 26 points to the 32 posted…</description>
+  </item>
+  <item>
+    <title>Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction</title>
+    <link>https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</guid>
+    <pubDate>Thu, 29 Oct 2026 16:21:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream&#39;s world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.</description>
+  </item>
+  <item>
     <title>AINews Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
     <link>https://latent.space/p/ainews-kimi-31/</link>
     <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
@@ -319,12 +311,28 @@
     <description>Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with…</description>
   </item>
   <item>
-    <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
-    <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</guid>
-    <pubDate>Thu, 15 Oct 2026 13:04:03 GMT</pubDate>
+    <title>OpenAI&#39;s Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses</title>
+    <link>https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/</guid>
+    <pubDate>Thu, 29 Oct 2026 13:20:14 GMT</pubDate>
     <category>AI Business</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1 &gt;Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; The phrase told investors appears four times in this FT article, which reports on Anthropic&#39;s day of…</description>
+    <description>Chinese AI labs are now mainly tapping OpenAI&#39;s most powerful model, GPT-6 Astra, instead of Anthropic&#39;s Claude. The article OpenAI&#39;s Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses appeared first on The Decoder .</description>
+  </item>
+  <item>
+    <title>Mistral Touts Cyber Capabilities of Its ‘Chonk’ AI Model</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/mistral-touts-cyber-capabilities-chonk-ai-model/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/mistral-touts-cyber-capabilities-chonk-ai-model/</guid>
+    <pubDate>Thu, 29 Oct 2026 21:53:22 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Mistral released an updated version of its Large 4 artificial intelligence model, saying in a Thursday (Oct. 29) announcement that it comes with improved coding and cybersecurity capabilities. The model builds on a version released in public preview earlier this month, the French startup said in…</description>
+  </item>
+  <item>
+    <title>How we detect frontier model misalignment</title>
+    <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+    <guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+    <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.</description>
   </item>
   <item>
     <title>Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model</title>
@@ -341,6 +349,14 @@
     <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
+  </item>
+  <item>
+    <title>Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round</title>
+    <link>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</guid>
+    <pubDate>Thu, 29 Oct 2026 14:35:26 GMT</pubDate>
+    <category>AI Business</category>
+    <description>On Thursday, AI app Wabi, now describing itself as a personal agent, said it has raised $55 million at a $1.25 billion valuation.</description>
   </item>
   <item>
     <title>Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics</title>
@@ -399,20 +415,20 @@
     <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</description>
   </item>
   <item>
+    <title>Experts adopt AI agent&#39;s random opinions and think they&#39;re their own, Anthropic study finds</title>
+    <link>https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/</link>
+    <guid isPermaLink="true">https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/</guid>
+    <pubDate>Thu, 29 Oct 2026 19:33:37 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent&#39;s view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own. The article Experts adopt AI agent&#39;s random opinions and think they&#39;re their own,…</description>
+  </item>
+  <item>
     <title>As AI agents reshape the web, Google opens Gemini and Search to more apps</title>
     <link>https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</guid>
     <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>A new developer platform will let businesses bring their services to Google&#39;s AI experiences, potentially changing how consumers discover and use apps.</description>
-  </item>
-  <item>
-    <title>AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</title>
-    <link>https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/</link>
-    <guid isPermaLink="true">https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:56:24 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Cybersecurity startup Cathedral used AI agents to break into Anthropic&#39;s internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable even leading AI labs…</description>
   </item>
   <item>
     <title>Prompt: Enterprise controls can&#39;t keep up with AI agents</title>
@@ -423,12 +439,28 @@
     <description>Companies are giving agents more authority, but many are still struggling to track what they can access, what they&#39;re doing and how to stop them.</description>
   </item>
   <item>
+    <title>Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race</title>
+    <link>https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/</guid>
+    <pubDate>Thu, 29 Oct 2026 14:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.</description>
+  </item>
+  <item>
     <title>Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻</title>
     <link>https://tldr.tech/ai/2026-10-22</link>
     <guid isPermaLink="true">https://tldr.tech/ai/2026-10-22</guid>
     <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
+  </item>
+  <item>
+    <title>US antitrust regulators are scrutinizing Nvidia&#39;s Hugging Face deal and sales practices</title>
+    <link>https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/</link>
+    <guid isPermaLink="true">https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/</guid>
+    <pubDate>Thu, 29 Oct 2026 14:07:49 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The US Justice Department is looking into Nvidia&#39;s planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia&#39;s Hugging Face deal and sales practices appeared first on The Decoder .</description>
   </item>
   <item>
     <title>The October inflection point for vibe game development</title>
@@ -447,12 +479,12 @@
     <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
   </item>
   <item>
-    <title>With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic</title>
-    <link>https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/</link>
-    <guid isPermaLink="true">https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/</guid>
-    <pubDate>Wed, 28 Oct 2026 11:15:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He&#39;d rather see prototypes that show taste, empathy, and principled thinking, since in his words, hunger beats tenure. That sounds empowering,…</description>
+    <title>Mistral Large 4 updated weights and lower pricing on AI Gateway</title>
+    <link>https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway</guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Mistral Large 4 from Mistral now uses updated weights on AI Gateway , with lower pricing for input, cached input, and output tokens. According to Mistral’s release announcement , the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks.…</description>
   </item>
   <item>
     <title>Siemens, Nvidia deploy industrial AI to reduce engineering effort</title>
@@ -463,12 +495,20 @@
     <description>The partners are using digital twins and AI agents as part of a roadmap to create world-first AI-powered manufacturing facilities.</description>
   </item>
   <item>
-    <title>NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure</title>
-    <link>https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</guid>
-    <pubDate>Wed, 21 Oct 2026 10:30:02 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that…</description>
+    <title>Meta quietly launches an AI fashion app called Style Sketch</title>
+    <link>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</guid>
+    <pubDate>Thu, 29 Oct 2026 19:14:36 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.</description>
+  </item>
+  <item>
+    <title>Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure</title>
+    <link>https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/</guid>
+    <pubDate>Thu, 29 Oct 2026 13:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.</description>
   </item>
   <item>
     <title>Microsoft recorded $10 billion in revenue from OpenAI</title>
@@ -527,6 +567,30 @@
     <description>Enterprise voice artificial intelligence company Regal Voice Inc. today added Goal Oriented Agents to its platform, enabling businesses using them to define what a call has to accomplish, and providing two AI models that split the work of getting there. The new agents are aimed at a problem Regal…</description>
   </item>
   <item>
+    <title>OpenAI-backed Thrive Holdings acquires ADT</title>
+    <link>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</guid>
+    <pubDate>Thu, 29 Oct 2026 19:56:19 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.</description>
+  </item>
+  <item>
+    <title>Strix now supports Vercel AI Gateway</title>
+    <link>https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway</guid>
+    <pubDate>Thu, 29 Oct 2026 18:44:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost…</description>
+  </item>
+  <item>
+    <title>Vercel CI is now in beta</title>
+    <link>https://vercel.com/changelog/vercel-ci-is-now-in-beta</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/vercel-ci-is-now-in-beta</guid>
+    <pubDate>Wed, 28 Oct 2026 19:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>You can now run CI for your Turborepo with one line of configuration. In Vercel&#39;s internal repositories, our wait time from git push to CI passed is 2-6x shorter, dramatically improving our CI&#39;s ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task…</description>
+  </item>
+  <item>
     <title>How Interfaze serves 50 million requests a month on Vercel</title>
     <link>https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel</link>
     <guid isPermaLink="true">https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel</guid>
@@ -581,70 +645,6 @@
     <pubDate>Fri, 16 Oct 2026 18:26:14 GMT</pubDate>
     <category>AI Business</category>
     <description>The new Nemotron 3.5 models show how the AI giant is focusing on reinforcing its own GPU infrastructure while supporting the open source community.</description>
-  </item>
-  <item>
-    <title>Virtana lets its AI agents pull in agents from other vendors to work IT incidents</title>
-    <link>https://siliconangle.com/2026/10/28/virtana-lets-its-ai-agents-pull-in-agents-from-other-vendors-to-work-it-incidents/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/28/virtana-lets-its-ai-agents-pull-in-agents-from-other-vendors-to-work-it-incidents/</guid>
-    <pubDate>Wed, 28 Oct 2026 13:00:52 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Information technology observability company Virtana today added Agentic Observability Enterprise Management to its platform so its artificial intelligence agents can pull agents from other vendors into an IT incident. The release goes after a gap left by the way enterprises have adopted AI agents…</description>
-  </item>
-  <item>
-    <title>Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI</title>
-    <link>https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/</guid>
-    <pubDate>Mon, 26 Oct 2026 01:31:12 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff, according to an analysis by one of the world’s largest investment firms. In the analysis published…</description>
-  </item>
-  <item>
-    <title>AINews OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
-    <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-openais-patch-the-planet-program/</guid>
-    <pubDate>Thu, 22 Oct 2026 07:42:44 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>The Big Hardening begins</description>
-  </item>
-  <item>
-    <title>We urgently need to monitor AI agents’ actions in real time</title>
-    <link>https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</link>
-    <guid isPermaLink="true">https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</guid>
-    <pubDate>Thu, 29 Oct 2026 10:11:12 GMT</pubDate>
-    <category>AI Business</category>
-    <description>This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an…</description>
-  </item>
-  <item>
-    <title>ChatGPT’s expanding world of work</title>
-    <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
-    <guid isPermaLink="true">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
-    <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.</description>
-  </item>
-  <item>
-    <title>OpenAI nears $1.25T 💰, ☁️, 1Password for Agents 🔑, Gemini 3.5 Pro postmortem 🤖</title>
-    <link>https://tldr.tech/ai/2026-10-23</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
-    <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
-    <link>https://openai.com/index/building-chatgpt-ad-stack</link>
-    <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
-    <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.</description>
-  </item>
-  <item>
-    <title>DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻</title>
-    <link>https://tldr.tech/ai/2026-10-21</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-21</guid>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
   </item>
 </channel>
 </rss>
