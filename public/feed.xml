@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 30 Oct 2026 05:45:54 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 12:53:09 GMT</lastBuildDate>
   <item>
     <title>Mistral releases open weights for Mistral Large 4, providing sovereign control for the company’s ‘Le Chonk’ AI model</title>
     <link>https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/</link>
@@ -47,6 +47,14 @@
     <description>Google is opening up Android Studio to third-party AI agents. Through a new Bring Your Own Agent feature, the IDE now supports more than 40 coding agents, including Anthropic&#39;s Claude Agent and OpenAI&#39;s Codex. Google says new terminal tools also help agents finish UI tasks 77 percent faster while…</description>
   </item>
   <item>
+    <title>Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost</title>
+    <link>https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/</guid>
+    <pubDate>Fri, 30 Oct 2026 07:26:12 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1…</description>
+  </item>
+  <item>
     <title>OpenAI acquires Orchestra Bio</title>
     <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
     <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
@@ -69,14 +77,6 @@
     <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can&#39;t.</description>
-  </item>
-  <item>
-    <title>OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price</title>
-    <link>https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/</guid>
-    <pubDate>Tue, 27 Oct 2026 00:39:34 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI Group PBC today released GPT-6.1 Terra, an upgrade to the middle tier model in its lineup of frontier artificial intelligence systems. The new model, the successor to GTP-5.6 Terra, costs around 50% less while handling computer use tasks faster and with greater accuracy. Terra is positioned…</description>
   </item>
   <item>
     <title>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</title>
@@ -213,14 +213,6 @@
     <pubDate>Thu, 29 Oct 2026 08:24:52 GMT</pubDate>
     <category>Open Source</category>
     <description>Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged. The post Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI…</description>
-  </item>
-  <item>
-    <title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
-    <link>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</guid>
-    <pubDate>Wed, 28 Oct 2026 20:03:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google has released its latest frontier model, Gemini 4 Carbon, offering significant gains in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon&#39;s top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6…</description>
   </item>
   <item>
     <title>Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding</title>
@@ -645,6 +637,14 @@
     <pubDate>Wed, 28 Oct 2026 13:00:52 GMT</pubDate>
     <category>AI Business</category>
     <description>Information technology observability company Virtana today added Agentic Observability Enterprise Management to its platform so its artificial intelligence agents can pull agents from other vendors into an IT incident. The release goes after a gap left by the way enterprises have adopted AI agents…</description>
+  </item>
+  <item>
+    <title>AINews OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
+    <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-openais-patch-the-planet-program/</guid>
+    <pubDate>Thu, 22 Oct 2026 07:42:44 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>The Big Hardening begins</description>
   </item>
 </channel>
 </rss>
