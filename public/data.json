@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T05:38:23.807Z",
-  "count": 383,
-  "focusCount": 231,
+  "generatedAt": "2026-10-31T12:26:01.041Z",
+  "count": 387,
+  "focusCount": 233,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -39,6 +39,20 @@
       "date": "2026-10-28T13:15:00.000Z",
       "topic": "AI Business",
       "importance": 16.1,
+      "isFocus": true
+    },
+    {
+      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is pushing to…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T09:22:52.000Z",
+      "topic": "AI Business",
+      "importance": 15,
       "isFocus": true
     },
     {
@@ -126,18 +140,18 @@
       "isFocus": true
     },
     {
-      "title": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
-      "url": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
-      "summary": "AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch. The post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for…",
+      "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+      "url": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+      "summary": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on…",
       "source": "MarkTechPost",
       "feedTopic": "Research",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-10-29T07:28:36.000Z",
-      "topic": "Models & Labs",
-      "importance": 12.600000000000001,
-      "isFocus": false
+      "date": "2026-10-31T10:10:28.000Z",
+      "topic": "Web Dev",
+      "importance": 12.7,
+      "isFocus": true
     },
     {
       "title": "Build more responsive apps with the Decisions API",
@@ -430,20 +444,6 @@
       "researchOnly": false,
       "date": "2026-10-30T21:40:03.000Z",
       "topic": "Web Dev",
-      "importance": 11.299999999999999,
-      "isFocus": true
-    },
-    {
-      "title": "Paris-based Mistral releases Le Chonk, a strong coding model that still trails China overall",
-      "url": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
-      "summary": "Mistral has released the weights for Large 4, aka Le Chonk, a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap. It still can't match China's top models, scoring 26 points to the 32 posted…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T15:25:27.000Z",
-      "topic": "AI Business",
       "importance": 11.299999999999999,
       "isFocus": true
     },
@@ -742,20 +742,6 @@
       "isFocus": true
     },
     {
-      "title": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
-      "url": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/",
-      "summary": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared first on The Decoder .",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T14:07:49.000Z",
-      "topic": "AI Business",
-      "importance": 10.4,
-      "isFocus": true
-    },
-    {
       "title": "The October inflection point for vibe game development",
       "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
       "summary": "<p>I've written before about how November 2025 was <a href= https://simonwillison.net/tags/november-2025-inflection/ >an inflection point for coding agents</a> - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for…",
@@ -921,6 +907,20 @@
       "date": "2026-10-29T19:56:19.000Z",
       "topic": "AI Business",
       "importance": 10,
+      "isFocus": true
+    },
+    {
+      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
+      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of planted…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T10:15:45.000Z",
+      "topic": "AI Business",
+      "importance": 9.9,
       "isFocus": true
     },
     {
@@ -1570,7 +1570,7 @@
     {
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 491 # Comments: 544",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 491 # Comments: 546",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -1580,20 +1580,6 @@
       "topic": "AI Business",
       "importance": 9.3,
       "isFocus": true
-    },
-    {
-      "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
-      "url": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
-      "summary": "NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR Leaderboard. The post NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T04:41:24.000Z",
-      "topic": "Models & Labs",
-      "importance": 9.2,
-      "isFocus": false
     },
     {
       "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
@@ -1988,20 +1974,6 @@
       "isFocus": true
     },
     {
-      "title": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
-      "summary": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times appeared first on The Decoder .",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T13:42:38.000Z",
-      "topic": "AI Business",
-      "importance": 8.7,
-      "isFocus": true
-    },
-    {
       "title": "Chinese AI invasion gives enterprises a new way to control cost",
       "url": "https://aibusiness.com/generative-ai/chinese-ai-invasion-gives-enterprises-new-way-control-cost",
       "summary": "The open-weight models are, at least on the surface, considerably cheaper than their U.S. proprietary counterparts.",
@@ -2366,6 +2338,20 @@
       "isFocus": true
     },
     {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T10:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 8.4,
+      "isFocus": true
+    },
+    {
       "title": "Monday.com bets on deployment experts to turn AI agents into real returns",
       "url": "https://siliconangle.com/2026/10/29/autonomous-agents-need-deployment-experts-pay-off-mondayelevate/",
       "summary": "Enterprises have embraced AI for everyday tasks, but turning autonomous agents into measurable business returns is proving far harder. The bottleneck is no longer the technology but the organizational change needed to rewire processes around it. Software providers are responding by pairing their…",
@@ -2396,7 +2382,7 @@
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 400 # Comments: 165",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 403 # Comments: 166",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3010,20 +2996,6 @@
       "isFocus": true
     },
     {
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-27T19:39:04.000Z",
-      "topic": "AI Business",
-      "importance": 8.1,
-      "isFocus": true
-    },
-    {
       "title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
       "url": "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/",
       "summary": "As potentially the largest IPO in history, Anthropic PBC is breaking new ground. Its prospectus lists 88 risk factors covering 93 pages alone. From artificial intelligence posing an existential threat to humanity to the possibility AI will blackmail people, the company lists a litany of risks that…",
@@ -3064,6 +3036,20 @@
       "topic": "Open Source",
       "importance": 8,
       "isFocus": false
+    },
+    {
+      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone.…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T10:43:58.000Z",
+      "topic": "AI Business",
+      "importance": 7.9,
+      "isFocus": true
     },
     {
       "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
@@ -3402,6 +3388,34 @@
       "isFocus": true
     },
     {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T12:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "Use their tools against them : why AI isn't the death of production design",
+      "url": "https://www.creativebloq.com/features/use-their-tools-against-them-why-ai-isnt-the-death-of-production-design",
+      "summary": "Christopher Glass shares his industry insight for the next generation of creatives.",
+      "source": "Creative Bloq",
+      "feedTopic": "Art & Creative",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-31T12:00:00.000Z",
+      "topic": "Art & Creative",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "Amazon Fills the Prescription ChatGPT Can’t",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-fills-prescription-chatgpt-cannot/",
       "summary": "Amazon is turning the app people open to reorder paper towels into the place they handle a sore throat, a refill and a weight loss prescription. When releasing its third-quarter earnings results Thursday (Oct. 29), Amazon said the number of customers using Amazon Pharmacy rose more than 60% from a…",
@@ -3432,7 +3446,7 @@
     {
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 267 # Comments: 221",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 278 # Comments: 232",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3460,7 @@
     {
       "title": "US tech stocks see sharp falls over AI cost fears",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 247 # Comments: 280",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 258 # Comments: 284",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3460,7 +3474,7 @@
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 546 # Comments: 407",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 607 # Comments: 455",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3502,7 +3516,7 @@
     {
       "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 142 # Comments: 178",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 211 # Comments: 255",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3558,7 +3572,7 @@
     {
       "title": "Proton goes all in on using AI",
       "url": "https://convo.casa/@b/117525936178835007",
-      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 115 # Comments: 114",
+      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 118 # Comments: 114",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3600,7 +3614,7 @@
     {
       "title": "Zombie stats: Where the numbers AI quotes come from",
       "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 177 # Comments: 72",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 179 # Comments: 72",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3614,7 +3628,7 @@
     {
       "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 223 # Comments: 80",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 229 # Comments: 81",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3684,7 +3698,7 @@
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
       "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 170 # Comments: 76",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 171 # Comments: 76",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3719,34 +3733,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-28T10:15:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-28T08:30:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-28T06:00:00.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3810,7 +3796,7 @@
     {
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 493 # Comments: 362",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 495 # Comments: 362",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3974,6 +3960,20 @@
       "topic": "Models & Labs",
       "importance": 6.800000000000001,
       "isFocus": false
+    },
+    {
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T10:30:00.000Z",
+      "topic": "AI Business",
+      "importance": 6.8,
+      "isFocus": true
     },
     {
       "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
@@ -4342,7 +4342,7 @@
     {
       "title": "Building an AI-native engineering org",
       "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 130 # Comments: 168",
+      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 164 # Comments: 184",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4984,6 +4984,20 @@
       "isFocus": false
     },
     {
+      "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+      "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "summary": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T10:38:14.000Z",
+      "topic": "Research",
+      "importance": 5.1,
+      "isFocus": false
+    },
+    {
       "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
       "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
       "summary": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination.",
@@ -5373,6 +5387,48 @@
       "date": "2026-10-20T19:34:19.000Z",
       "topic": "Open Source",
       "importance": 4,
+      "isFocus": false
+    },
+    {
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-29T20:16:40.000Z",
+      "topic": "Models & Labs",
+      "importance": 3.8,
+      "isFocus": false
+    },
+    {
+      "title": "Building intent-driven UI testing with Amazon Nova Act",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+      "summary": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-29T18:20:27.000Z",
+      "topic": "Models & Labs",
+      "importance": 3.4,
+      "isFocus": false
+    },
+    {
+      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+      "summary": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-30T22:42:24.000Z",
+      "topic": "Models & Labs",
+      "importance": 3,
       "isFocus": false
     }
   ]
