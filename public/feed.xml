@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 30 Oct 2026 22:17:19 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 05:38:23 GMT</lastBuildDate>
   <item>
     <title>Mistral releases open weights for Mistral Large 4, providing sovereign control for the company’s ‘Le Chonk’ AI model</title>
     <link>https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/</link>
@@ -61,14 +61,6 @@
     <pubDate>Tue, 27 Oct 2026 07:24:59 GMT</pubDate>
     <category>AI Business</category>
     <description>The S-1, the numbers, and the reactions.</description>
-  </item>
-  <item>
-    <title>Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</title>
-    <link>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</guid>
-    <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can&#39;t.</description>
   </item>
   <item>
     <title>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</title>
@@ -133,14 +125,6 @@
     <pubDate>Tue, 27 Oct 2026 18:53:10 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.</description>
-  </item>
-  <item>
-    <title>Cohere Raises $5 Billion for Alternative AI Vision</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/cohere-raises-5-billion-dollars-alternative-ai-vision/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/cohere-raises-5-billion-dollars-alternative-ai-vision/</guid>
-    <pubDate>Thu, 29 Oct 2026 20:49:49 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Canadian artificial intelligence company Cohere said in a Thursday (Oct. 29) company blog post that it rejects what it called “frontier fatalism.” That’s its term for the belief that AI will be monopolized by a handful of United States and Chinese tech giants. To offer other countries a sovereign…</description>
   </item>
   <item>
     <title>Securing our frontier model training environment</title>
@@ -271,6 +255,14 @@
     <description>Mistral has released the weights for Large 4, aka Le Chonk, a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it&#39;s fast and fairly cheap. It still can&#39;t match China&#39;s top models, scoring 26 points to the 32 posted…</description>
   </item>
   <item>
+    <title>AINews Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
+    <link>https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</guid>
+    <pubDate>Sat, 31 Oct 2026 05:00:48 GMT</pubDate>
+    <category>AI Business</category>
+    <description>It turns out you cannot have your cake AND eat it</description>
+  </item>
+  <item>
     <title>AINews Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
     <link>https://latent.space/p/ainews-kimi-31/</link>
     <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
@@ -327,14 +319,6 @@
     <description>British circuit board design startup Circuit Mind Ltd. today announced it has raised $25 million in new funding to extend its artificial intelligence platform across more of the hardware design process. A verification tool that puts AI agents to work hunting for errors in schematics launched at the…</description>
   </item>
   <item>
-    <title>Edge Sound raises $2M to help physical AI make sense of audio</title>
-    <link>https://siliconangle.com/2026/10/27/edge-sound-raises-2m-to-help-physical-ai-make-sense-of-audio/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/27/edge-sound-raises-2m-to-help-physical-ai-make-sense-of-audio/</guid>
-    <pubDate>Tue, 27 Oct 2026 13:00:36 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Edge Sound Research Inc. today announced it has raised $2 million in new funding to build audio infrastructure that isolates useful sounds and combines them with other sensor data to help physical AI systems understand what’s happening in real time. Stormbreaker Ventures led the round, bringing the…</description>
-  </item>
-  <item>
     <title>Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock</title>
     <link>https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</link>
     <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</guid>
@@ -365,6 +349,14 @@
     <pubDate>Thu, 22 Oct 2026 15:49:47 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI now has its models on all three major cloud provider platforms, as it refines its enterprise strategy.</description>
+  </item>
+  <item>
+    <title>Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo</title>
+    <link>https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/</guid>
+    <pubDate>Fri, 30 Oct 2026 23:59:47 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Dulo Inc., a startup co-founded by prominent artificial intelligence researcher Sebastian Thrun, has raised $130 million in funding. The Information broke the news of the investment on Thursday. Dulo co-founder Adrian Aoun confirmed the report in a post on X. Before launching Dulo with Thrun…</description>
   </item>
   <item>
     <title>Ling 3.1 Flash 1019 now available on AI Gateway for free</title>
@@ -527,14 +519,6 @@
     <description>Google&#39;s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite&#39;s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:…</description>
   </item>
   <item>
-    <title>Regal debuts Goal Oriented Agents, putting an actor and a director model on every call</title>
-    <link>https://siliconangle.com/2026/10/27/regal-debuts-goal-oriented-agents-putting-an-actor-and-a-director-model-on-every-call/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/27/regal-debuts-goal-oriented-agents-putting-an-actor-and-a-director-model-on-every-call/</guid>
-    <pubDate>Tue, 27 Oct 2026 14:00:40 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Enterprise voice artificial intelligence company Regal Voice Inc. today added Goal Oriented Agents to its platform, enabling businesses using them to define what a call has to accomplish, and providing two AI models that split the work of getting there. The new agents are aimed at a problem Regal…</description>
-  </item>
-  <item>
     <title>OpenAI-backed Thrive Holdings acquires ADT</title>
     <link>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</guid>
@@ -645,6 +629,22 @@
     <pubDate>Sun, 18 Oct 2026 20:03:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was…</description>
+  </item>
+  <item>
+    <title>Google, Anthropic and others to support new AI crawling opt-out standard</title>
+    <link>https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/</guid>
+    <pubDate>Sat, 31 Oct 2026 02:00:23 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard. The technology will enable website operators to block artificial intelligence developers from using their content to train their models. Many websites contain a…</description>
+  </item>
+  <item>
+    <title>Google Tops AI Smarts Ranking as OpenAI Slashes Prices</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/google-tops-ai-smarts-ranking-as-openai-slashes-prices/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/google-tops-ai-smarts-ranking-as-openai-slashes-prices/</guid>
+    <pubDate>Thu, 29 Oct 2026 22:25:20 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google may have finally caught up with its archrivals. Its new Gemini 4 Carbon model ranks first on the Artificial Analysis Intelligence Index, an independent scorecard that had OpenAI and Anthropic ahead for most of the year. OpenAI answered on price, halving the cost of its workhorse model. In…</description>
   </item>
 </channel>
 </rss>

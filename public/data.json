@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T22:17:19.491Z",
-  "count": 382,
-  "focusCount": 230,
+  "generatedAt": "2026-10-31T05:38:23.807Z",
+  "count": 383,
+  "focusCount": 231,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -109,20 +109,6 @@
       "date": "2026-10-27T07:24:59.000Z",
       "topic": "AI Business",
       "importance": 13.299999999999999,
-      "isFocus": true
-    },
-    {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T17:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 13.2,
       "isFocus": true
     },
     {
@@ -236,20 +222,6 @@
       "topic": "Models & Labs",
       "importance": 11.9,
       "isFocus": false
-    },
-    {
-      "title": "Cohere Raises $5 Billion for Alternative AI Vision",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cohere-raises-5-billion-dollars-alternative-ai-vision/",
-      "summary": "Canadian artificial intelligence company Cohere said in a Thursday (Oct. 29) company blog post that it rejects what it called “frontier fatalism.” That’s its term for the belief that AI will be monopolized by a handful of United States and Chinese tech giants. To offer other countries a sovereign…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T20:49:49.000Z",
-      "topic": "AI Business",
-      "importance": 11.8,
-      "isFocus": true
     },
     {
       "title": "Securing our frontier model training environment",
@@ -476,6 +448,20 @@
       "isFocus": true
     },
     {
+      "title": "AINews Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "summary": "It turns out you cannot have your cake AND eat it",
+      "source": "Latent Space",
+      "feedTopic": "Models & Labs",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T05:00:48.000Z",
+      "topic": "AI Business",
+      "importance": 11.2,
+      "isFocus": true
+    },
+    {
       "title": "AINews Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
       "url": "https://latent.space/p/ainews-kimi-31/",
       "summary": "We have Fable at home... or so we are being told by paid shills",
@@ -574,20 +560,6 @@
       "isFocus": true
     },
     {
-      "title": "Edge Sound raises $2M to help physical AI make sense of audio",
-      "url": "https://siliconangle.com/2026/10/27/edge-sound-raises-2m-to-help-physical-ai-make-sense-of-audio/",
-      "summary": "Edge Sound Research Inc. today announced it has raised $2 million in new funding to build audio infrastructure that isolates useful sounds and combines them with other sensor data to help physical AI systems understand what’s happening in real time. Stormbreaker Ventures led the round, bringing the…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-27T13:00:36.000Z",
-      "topic": "AI Business",
-      "importance": 10.8,
-      "isFocus": true
-    },
-    {
       "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
       "summary": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
@@ -641,6 +613,20 @@
       "date": "2026-10-22T15:49:47.000Z",
       "topic": "AI Business",
       "importance": 10.799999999999999,
+      "isFocus": true
+    },
+    {
+      "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
+      "url": "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/",
+      "summary": "Dulo Inc., a startup co-founded by prominent artificial intelligence researcher Sebastian Thrun, has raised $130 million in funding. The Information broke the news of the investment on Thursday. Dulo co-founder Adrian Aoun confirmed the report in a post on X. Before launching Dulo with Thrun…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-30T23:59:47.000Z",
+      "topic": "AI Business",
+      "importance": 10.7,
       "isFocus": true
     },
     {
@@ -924,20 +910,6 @@
       "isFocus": true
     },
     {
-      "title": "Regal debuts Goal Oriented Agents, putting an actor and a director model on every call",
-      "url": "https://siliconangle.com/2026/10/27/regal-debuts-goal-oriented-agents-putting-an-actor-and-a-director-model-on-every-call/",
-      "summary": "Enterprise voice artificial intelligence company Regal Voice Inc. today added Goal Oriented Agents to its platform, enabling businesses using them to define what a call has to accomplish, and providing two AI models that split the work of getting there. The new agents are aimed at a problem Regal…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-27T14:00:40.000Z",
-      "topic": "AI Business",
-      "importance": 10.1,
-      "isFocus": true
-    },
-    {
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
@@ -1134,17 +1106,17 @@
       "isFocus": true
     },
     {
-      "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
-      "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
-      "summary": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the…",
-      "source": "Vercel",
-      "feedTopic": "Web Dev",
-      "weight": 2,
-      "native": false,
+      "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+      "summary": "Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard. The technology will enable website operators to block artificial intelligence developers from using their content to train their models. Many websites contain a…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
       "researchOnly": false,
-      "date": "2026-10-17T00:00:00.000Z",
-      "topic": "Web Dev",
-      "importance": 9.8,
+      "date": "2026-10-31T02:00:23.000Z",
+      "topic": "AI Business",
+      "importance": 9.7,
       "isFocus": true
     },
     {
@@ -1386,6 +1358,20 @@
       "isFocus": true
     },
     {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-31T01:20:05.000Z",
+      "topic": "AI Business",
+      "importance": 9.4,
+      "isFocus": true
+    },
+    {
       "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
       "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
       "summary": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated it after confirming there was no further risk. The article Malicious…",
@@ -1593,20 +1579,6 @@
       "date": "2026-10-28T13:41:30.000Z",
       "topic": "AI Business",
       "importance": 9.3,
-      "isFocus": true
-    },
-    {
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "summary": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-30T21:19:26.000Z",
-      "topic": "AI Business",
-      "importance": 9.2,
       "isFocus": true
     },
     {
@@ -1831,6 +1803,20 @@
       "date": "2026-10-20T16:00:15.000Z",
       "topic": "Web Dev",
       "importance": 8.9,
+      "isFocus": true
+    },
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-30T21:19:26.000Z",
+      "topic": "AI Business",
+      "importance": 8.8,
       "isFocus": true
     },
     {
@@ -2128,34 +2114,6 @@
       "isFocus": true
     },
     {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-30T21:52:03.000Z",
-      "topic": "AI Business",
-      "importance": 8.6,
-      "isFocus": true
-    },
-    {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T16:42:32.000Z",
-      "topic": "AI Business",
-      "importance": 8.6,
-      "isFocus": true
-    },
-    {
       "title": "Control AI crawlers and assistants separately in Vercel Firewall",
       "url": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
       "summary": "You can now log or block requests from AI crawlers and AI assistants separately with the AI Bots managed ruleset in Vercel Firewall . AI crawlers: bots that collect content for indexing and model training AI assistants: bots that fetch pages in response to user actions or search queries For…",
@@ -2324,6 +2282,20 @@
       "isFocus": true
     },
     {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-30T22:32:53.000Z",
+      "topic": "AI Business",
+      "importance": 8.5,
+      "isFocus": true
+    },
+    {
       "title": "Building a multiplayer game world with autonomous Fable-class models",
       "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
       "summary": "<p><strong><a href= https://twitter.com/jsnnsa/status/2115623382721126826 >How I Built the Most AI-Pilled Company in the World</a></strong></p> Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building <a href= https://spawn.co >Spawn</a> is a…",
@@ -2424,7 +2396,7 @@
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 389 # Comments: 162",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 400 # Comments: 165",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2466,7 +2438,7 @@
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://surgehq.ai/blog/dayjob-tax",
-      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 261 # Comments: 174",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 263 # Comments: 174",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2480,7 +2452,7 @@
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://www.brangus.io/survival-llm",
-      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 540 # Comments: 203",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 541 # Comments: 203",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2515,20 +2487,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-26T22:41:48.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
-    },
-    {
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 334 # Comments: 132",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-26T16:35:44.000Z",
       "topic": "AI Business",
       "importance": 8.4,
       "isFocus": true
@@ -2601,6 +2559,34 @@
       "date": "2026-10-22T00:00:00.000Z",
       "topic": "Game Dev",
       "importance": 8.3,
+      "isFocus": true
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-30T22:56:13.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-30T21:52:03.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
       "isFocus": true
     },
     {
@@ -2996,6 +2982,20 @@
       "isFocus": true
     },
     {
+      "title": "Samsung Warns AI Memory Shortage Will Worsen Through 2027",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/samsung-warns-ai-memory-shortage-will-worsen-through-2027/",
+      "summary": "Samsung expects the demand for memory to “far exceed” supply in 2027, the company said in a Thursday (Oct. 29) press release announcing its third quarter financial results. That demand will be driven by companies’ capital expenditure on artificial intelligence (AI) infrastructure, which Samsung…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-30T22:49:28.000Z",
+      "topic": "AI Business",
+      "importance": 8.1,
+      "isFocus": true
+    },
+    {
       "title": "Florida Takes Unlikely Lead Role in State Push to Regulate AI",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/florida-takes-unlikely-lead-role-in-state-push-to-regulate-ai/",
       "summary": "Florida is emerging as an aggressive regulator of artificial intelligence (AI) and major technology platforms, using litigation, child protection requirements and proposed safeguards to challenge the federal government’s preference for lighter oversight. The state is an unlikely leader in that…",
@@ -3108,17 +3108,17 @@
       "isFocus": true
     },
     {
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
+      "title": "Vercel Plugin is now available in Antigravity",
+      "url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+      "summary": "The Vercel Plugin is now available in the Google Antigravity marketplace. Use the Vercel Plugin to give your Antigravity agent guidance on Vercel APIs and recommended patterns, with skills for products such as AI SDK , Vercel Functions , and Workflow . This demo shows an Antigravity agent using the…",
+      "source": "Vercel",
+      "feedTopic": "Web Dev",
+      "weight": 2,
+      "native": false,
       "researchOnly": false,
-      "date": "2026-10-29T18:45:31.000Z",
-      "topic": "AI Business",
-      "importance": 7.7,
+      "date": "2026-10-29T00:00:00.000Z",
+      "topic": "Web Dev",
+      "importance": 7.8,
       "isFocus": true
     },
     {
@@ -3432,7 +3432,7 @@
     {
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 241 # Comments: 201",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 267 # Comments: 221",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3446,7 @@
     {
       "title": "US tech stocks see sharp falls over AI cost fears",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 223 # Comments: 249",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 247 # Comments: 280",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3460,7 +3460,7 @@
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 441 # Comments: 327",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 546 # Comments: 407",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3495,6 +3495,20 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-30T14:58:06.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 142 # Comments: 178",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-30T14:08:20.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3544,7 +3558,7 @@
     {
       "title": "Proton goes all in on using AI",
       "url": "https://convo.casa/@b/117525936178835007",
-      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 115 # Comments: 113",
+      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 115 # Comments: 114",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3586,7 +3600,7 @@
     {
       "title": "Zombie stats: Where the numbers AI quotes come from",
       "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 175 # Comments: 72",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 177 # Comments: 72",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3600,7 +3614,7 @@
     {
       "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 218 # Comments: 75",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 223 # Comments: 80",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3670,7 +3684,7 @@
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
       "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 169 # Comments: 76",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 170 # Comments: 76",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3768,7 +3782,7 @@
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 385 # Comments: 293",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 386 # Comments: 293",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3782,7 +3796,7 @@
     {
       "title": "AI promised less work. I've never worked more",
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
-      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 683 # Comments: 662",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 684 # Comments: 662",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3796,27 +3810,13 @@
     {
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 492 # Comments: 362",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 493 # Comments: 362",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
       "date": "2026-10-27T06:25:37.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 109 # Comments: 48",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-26T21:13:59.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3920,6 +3920,20 @@
       "isFocus": true
     },
     {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "source": "Ars Technica",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-30T21:09:54.000Z",
+      "topic": "Models & Labs",
+      "importance": 6.9,
+      "isFocus": false
+    },
+    {
       "title": "Maine’s data center revolt will decide who controls the Senate",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
       "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. I'm terrified, a man shouted. AI data centers are destroying our climate. They are poisoning our water. Collins brushed off the outburst,…",
@@ -3942,7 +3956,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 6.800000000000001,
       "isFocus": false
@@ -4071,20 +4085,6 @@
       "date": "2026-10-20T00:00:00.000Z",
       "topic": "Open Source",
       "importance": 6.7,
-      "isFocus": false
-    },
-    {
-      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
-      "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training,…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-23T17:48:54.000Z",
-      "topic": "Models & Labs",
-      "importance": 6.6,
       "isFocus": false
     },
     {
@@ -4222,7 +4222,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 6.1,
       "isFocus": false
@@ -4284,6 +4284,48 @@
       "isFocus": false
     },
     {
+      "title": "From Intent to Improvement: Agentic Dataset Search for Better Model Training",
+      "url": "https://arxiv.org/abs/2610.39608",
+      "summary": "arXiv:2610.39608v1 Announce Type: new Abstract: Finding training data in million-scale machine learning repositories is a Web search problem where text relevance is not enough. A query couples a semantic training goal with constraints such as task, license, and training stage, and the metadata that…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-31T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "When Is Smaller Greener? Right-Sizing Language Models for Agentic AI",
+      "url": "https://arxiv.org/abs/2610.19345",
+      "summary": "arXiv:2610.19345v2 Announce Type: replace Abstract: AI agents use a large language model (LLM) to plan and act over many steps. Which model should an agent use, so that its tasks are completed reliably with the least energy, cost and time? We treat this as a multi-criteria decision problem in which…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-31T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training",
+      "url": "https://arxiv.org/abs/2606.11854",
+      "summary": "arXiv:2606.11854v2 Announce Type: replace-cross Abstract: Adapting Large Language Models (LLMs) to specific tasks usually involves fine-tuning: Low-Rank Adaptation (LoRA) edits the weights, while soft prompting prepends trainable virtual tokens. Both change how an already-optimized model is served,…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-10-31T04:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
       "title": "Silicon Valley wants you to invest in miracles",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
       "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, pose catastrophic or existential risks to humanity, or best case, bring forth an age of miracles…",
@@ -4298,46 +4340,18 @@
       "isFocus": true
     },
     {
-      "title": "From Intent to Improvement: Agentic Dataset Search for Better Model Training",
-      "url": "https://arxiv.org/abs/2610.39608",
-      "summary": "arXiv:2610.39608v1 Announce Type: new Abstract: Finding training data in million-scale machine learning repositories is a Web search problem where text relevance is not enough. A query couples a semantic training goal with constraints such as task, license, and training stage, and the metadata that…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 130 # Comments: 168",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
       "native": true,
-      "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
-      "topic": "Research",
+      "researchOnly": false,
+      "date": "2026-10-29T21:58:34.000Z",
+      "topic": "AI Business",
       "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "When Is Smaller Greener? Right-Sizing Language Models for Agentic AI",
-      "url": "https://arxiv.org/abs/2610.19345",
-      "summary": "arXiv:2610.19345v2 Announce Type: replace Abstract: AI agents use a large language model (LLM) to plan and act over many steps. Which model should an agent use, so that its tasks are completed reliably with the least energy, cost and time? We treat this as a multi-criteria decision problem in which…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
-    },
-    {
-      "title": "Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training",
-      "url": "https://arxiv.org/abs/2606.11854",
-      "summary": "arXiv:2606.11854v2 Announce Type: replace-cross Abstract: Adapting Large Language Models (LLMs) to specific tasks usually involves fine-tuning: Low-Rank Adaptation (LoRA) edits the weights, while soft prompting prepends trainable virtual tokens. Both change how an already-optimized model is served,…",
-      "source": "arXiv cs.AI",
-      "feedTopic": "Research",
-      "weight": 1,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
-      "topic": "Research",
-      "importance": 6,
-      "isFocus": false
+      "isFocus": true
     },
     {
       "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
@@ -4474,7 +4488,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.6,
       "isFocus": false
@@ -4488,7 +4502,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.6,
       "isFocus": false
@@ -4502,7 +4516,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.6,
       "isFocus": false
@@ -4572,7 +4586,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.5,
       "isFocus": false
@@ -4698,7 +4712,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4712,7 +4726,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4726,7 +4740,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4740,7 +4754,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4754,7 +4768,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4768,7 +4782,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.300000000000001,
       "isFocus": false
@@ -4782,7 +4796,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4796,7 +4810,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4810,7 +4824,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4824,7 +4838,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4838,7 +4852,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4852,7 +4866,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4866,7 +4880,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4880,7 +4894,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 5.2,
       "isFocus": false
@@ -4992,7 +5006,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 4.9,
       "isFocus": false
@@ -5006,7 +5020,7 @@
       "weight": 1,
       "native": true,
       "researchOnly": true,
-      "date": "2026-10-30T04:00:00.000Z",
+      "date": "2026-10-31T04:00:00.000Z",
       "topic": "Research",
       "importance": 4.9,
       "isFocus": false
@@ -5180,20 +5194,6 @@
       "isFocus": false
     },
     {
-      "title": "AINews not much happened today",
-      "url": "https://latent.space/p/ainews-not-much-happened-today-f09/",
-      "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T05:21:52.000Z",
-      "topic": "Models & Labs",
-      "importance": 4.4,
-      "isFocus": false
-    },
-    {
       "title": "My obituary for programming",
       "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
       "summary": "<p><strong><a href= https://dumbmatter.com/2026/10/programming-obituary/ >My obituary for programming</a></strong></p> Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the <em>puzzle</em> of developing code:</p> <blockquote> <p>Programming…",
@@ -5357,6 +5357,20 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-20T23:50:25.000Z",
+      "topic": "Open Source",
+      "importance": 4,
+      "isFocus": false
+    },
+    {
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "summary": "<p>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called <a href= https://github.com/simonw/battledrones#readme >Battle Drones</a> (<a href= https://simonw.github.io/battledrones/ >play it here</a>). Unlike <a href=…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-10-20T19:34:19.000Z",
       "topic": "Open Source",
       "importance": 4,
       "isFocus": false
