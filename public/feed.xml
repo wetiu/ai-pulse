@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 31 Oct 2026 21:31:56 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 06:00:22 GMT</lastBuildDate>
   <item>
     <title>Mistral releases open weights for Mistral Large 4, providing sovereign control for the company’s ‘Le Chonk’ AI model</title>
     <link>https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/</link>
@@ -495,14 +495,6 @@
     <description>Google&#39;s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite&#39;s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:…</description>
   </item>
   <item>
-    <title>OpenAI-backed Thrive Holdings acquires ADT</title>
-    <link>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</guid>
-    <pubDate>Thu, 29 Oct 2026 19:56:19 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.</description>
-  </item>
-  <item>
     <title>Google Deepmind creates a global map of forests with satellite data and AI</title>
     <link>https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/</link>
     <guid isPermaLink="true">https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/</guid>
@@ -645,6 +637,14 @@
     <pubDate>Wed, 28 Oct 2026 13:00:52 GMT</pubDate>
     <category>AI Business</category>
     <description>Information technology observability company Virtana today added Agentic Observability Enterprise Management to its platform so its artificial intelligence agents can pull agents from other vendors into an IT incident. The release goes after a gap left by the way enterprises have adopted AI agents…</description>
+  </item>
+  <item>
+    <title>AINews OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
+    <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-openais-patch-the-planet-program/</guid>
+    <pubDate>Thu, 22 Oct 2026 07:42:44 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>The Big Hardening begins</description>
   </item>
 </channel>
 </rss>
