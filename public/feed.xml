@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 01 Nov 2026 06:00:22 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 13:21:31 GMT</lastBuildDate>
   <item>
     <title>Mistral releases open weights for Mistral Large 4, providing sovereign control for the company’s ‘Le Chonk’ AI model</title>
     <link>https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/</link>
@@ -189,14 +189,6 @@
     <pubDate>Fri, 30 Oct 2026 11:05:10 GMT</pubDate>
     <category>AI Business</category>
     <description>With the frontier AI lab about to go public, businesses mull the long-term stability of the Claude creator. OpenAI goes on a price-cut binge to compete with cheap China models.</description>
-  </item>
-  <item>
-    <title>Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents</title>
-    <link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</guid>
-    <pubDate>Thu, 29 Oct 2026 08:24:52 GMT</pubDate>
-    <category>Open Source</category>
-    <description>Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged. The post Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI…</description>
   </item>
   <item>
     <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -495,6 +487,14 @@
     <description>Google&#39;s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite&#39;s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:…</description>
   </item>
   <item>
+    <title>OpenAI is steering ChatGPT users toward more paid usage</title>
+    <link>https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/</guid>
+    <pubDate>Sun, 01 Nov 2026 12:05:04 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can&#39;t start new subscriptions, and affected accounts can&#39;t be used on that device. Logging out doesn&#39;t automatically free up a spot. The policy will likely hit users who&#39;ve been juggling…</description>
+  </item>
+  <item>
     <title>Google Deepmind creates a global map of forests with satellite data and AI</title>
     <link>https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/</link>
     <guid isPermaLink="true">https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/</guid>
@@ -549,14 +549,6 @@
     <pubDate>Sat, 31 Oct 2026 19:20:55 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act&#39;s December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter. Anthropic addresses the loophole with just a compliance…</description>
-  </item>
-  <item>
-    <title>OpenAI sets new behavioral guidelines for AI models that have already proven hard to control</title>
-    <link>https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/</link>
-    <guid isPermaLink="true">https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/</guid>
-    <pubDate>Fri, 30 Oct 2026 17:44:59 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumptions. Whether the…</description>
   </item>
   <item>
     <title>Prompt: AI demand is booming; the economics are getting complicated</title>
@@ -645,6 +637,14 @@
     <pubDate>Thu, 22 Oct 2026 07:42:44 GMT</pubDate>
     <category>Web Dev</category>
     <description>The Big Hardening begins</description>
+  </item>
+  <item>
+    <title>Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens</title>
+    <link>https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/</guid>
+    <pubDate>Thu, 29 Oct 2026 21:20:29 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. The post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost .</description>
   </item>
 </channel>
 </rss>
