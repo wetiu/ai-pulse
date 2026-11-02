@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T22:00:07.326Z",
-  "count": 363,
-  "focusCount": 229,
+  "generatedAt": "2026-11-02T05:59:21.307Z",
+  "count": 383,
+  "focusCount": 231,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -123,6 +123,20 @@
       "date": "2026-10-21T10:45:17.000Z",
       "topic": "AI Business",
       "importance": 13,
+      "isFocus": true
+    },
+    {
+      "title": "Google Cloud Launches Free AI Courses for Financial Services and Legal Teams",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-launches-free-ai-courses-for-financial-services-and-legal-teams/",
+      "summary": "Google‘s learning platform focused on artificial intelligence skills, Google Skills, has launched new Gemini courses for financial services and legal teams, Google Cloud said in a Friday (Oct. 30) blog post. These new, separate products are industry specific and include bundles of videos for…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-02T00:49:45.000Z",
+      "topic": "AI Business",
+      "importance": 12.7,
       "isFocus": true
     },
     {
@@ -308,20 +322,6 @@
       "isFocus": false
     },
     {
-      "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
-      "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
-      "summary": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash…",
-      "source": "Vercel",
-      "feedTopic": "Web Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-19T00:00:00.000Z",
-      "topic": "Web Dev",
-      "importance": 11.5,
-      "isFocus": true
-    },
-    {
       "title": "Anthropic IPO filing offers clues for enterprise AI, model price wars",
       "url": "https://aibusiness.com/generative-ai/anthropic-ipo-filing-offers-clues-enterprise-ai-model-price-wars",
       "summary": "With the frontier AI lab about to go public, businesses mull the long-term stability of the Claude creator. OpenAI goes on a price-cut binge to compete with cheap China models.",
@@ -476,20 +476,6 @@
       "isFocus": true
     },
     {
-      "title": "Mistral Touts Cyber Capabilities of Its ‘Chonk’ AI Model",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/mistral-touts-cyber-capabilities-chonk-ai-model/",
-      "summary": "Mistral released an updated version of its Large 4 artificial intelligence model, saying in a Thursday (Oct. 29) announcement that it comes with improved coding and cybersecurity capabilities. The model builds on a version released in public preview earlier this month, the French startup said in…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T21:53:22.000Z",
-      "topic": "AI Business",
-      "importance": 11,
-      "isFocus": true
-    },
-    {
       "title": "How we detect frontier model misalignment",
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
@@ -530,6 +516,20 @@
       "topic": "Models & Labs",
       "importance": 11,
       "isFocus": false
+    },
+    {
+      "title": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cuts-funding-target-by-10-billion-as-investor-jitters-shake-ai-markets/",
+      "summary": "OpenAI has cut the target for its current funding round from $30 billion to $20 billion amid investor concerns about the artificial intelligence market, The Financial Times reported Friday (Oct. 30), citing unnamed sources. The company is seeking to raise the funding at a valuation of $1.25…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-01T22:45:40.000Z",
+      "topic": "AI Business",
+      "importance": 10.9,
+      "isFocus": true
     },
     {
       "title": "Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics",
@@ -672,6 +672,20 @@
       "isFocus": true
     },
     {
+      "title": "Dataline Secures $10 Million to Expand Agent Data Marketplace",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/dataline-secures-10-million-to-expand-agent-data-marketplace/",
+      "summary": "Dataline raised $10.6 million in a funding round to grow its decentralized data network for artificial intelligence agents, the company said in a Saturday (Oct. 31) press release. The network provides a two-sided marketplace for agent-payable data in which anyone can publish a feed, and any agent…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-02T01:20:11.000Z",
+      "topic": "AI Business",
+      "importance": 10.6,
+      "isFocus": true
+    },
+    {
       "title": "The biggest names in AI are backing a new way to opt out of scraping",
       "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
       "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of…",
@@ -767,6 +781,20 @@
       "date": "2026-10-23T17:26:03.000Z",
       "topic": "AI Business",
       "importance": 10.3,
+      "isFocus": true
+    },
+    {
+      "title": "London is the 'best place in the world to launch an AI company'",
+      "url": "https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/",
+      "summary": "",
+      "source": "Sifted",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-02T05:00:30.000Z",
+      "topic": "AI Business",
+      "importance": 10.299999999999999,
       "isFocus": true
     },
     {
@@ -980,20 +1008,6 @@
       "isFocus": true
     },
     {
-      "title": "Easol Secures $30 Million to Scale AI Tools for Experience Businesses",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/easol-secures-30-million-dollars-scale-ai-tools-experience-businesses/",
-      "summary": "Easol raised $30 million in a Series A extension funding round to continue scaling its experience commerce platform designed for festivals, wellness retreats, sports, adventure and location-based entertainment venues, the company said in a Wednesday (Oct. 28) press release. Easol’s extension…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-30T15:22:45.000Z",
-      "topic": "AI Business",
-      "importance": 9.8,
-      "isFocus": true
-    },
-    {
       "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
       "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
       "summary": "DoorDash said that it is open to working with third-party agent makers.",
@@ -1003,20 +1017,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-30T13:54:25.000Z",
-      "topic": "AI Business",
-      "importance": 9.8,
-      "isFocus": true
-    },
-    {
-      "title": "Alphabet Loses $500 Billion in Market Value as AI Threatens Google Search",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/alphabet-loses-500-billion-in-market-value-as-ai-threatens-google-search/",
-      "summary": "Google parent company Alphabet saw its stock price drop 13%, and its market value lose $500 billion Thursday (Oct. 29), marking the stock’s worst day ever, the Wall Street Journal reported Thursday. The drop followed Alphabet’s release of its quarterly results on Wednesday (Oct. 28), which stoked…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T23:44:49.000Z",
       "topic": "AI Business",
       "importance": 9.8,
       "isFocus": true
@@ -1059,20 +1059,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-31T02:00:23.000Z",
-      "topic": "AI Business",
-      "importance": 9.7,
-      "isFocus": true
-    },
-    {
-      "title": "Google Tops AI Smarts Ranking as OpenAI Slashes Prices",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-tops-ai-smarts-ranking-as-openai-slashes-prices/",
-      "summary": "Google may have finally caught up with its archrivals. Its new Gemini 4 Carbon model ranks first on the Artificial Analysis Intelligence Index, an independent scorecard that had OpenAI and Anthropic ahead for most of the year. OpenAI answered on price, halving the cost of its workhorse model. In…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T22:25:20.000Z",
       "topic": "AI Business",
       "importance": 9.7,
       "isFocus": true
@@ -1486,7 +1472,7 @@
     {
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 491 # Comments: 550",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 491 # Comments: 552",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -1638,20 +1624,6 @@
       "isFocus": true
     },
     {
-      "title": "Mercury 3 now available on AI Gateway",
-      "url": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
-      "summary": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved…",
-      "source": "Vercel",
-      "feedTopic": "Web Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-10-19T00:00:00.000Z",
-      "topic": "Web Dev",
-      "importance": 9.1,
-      "isFocus": true
-    },
-    {
       "title": "Google wants video AI to understand what people need as they work",
       "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
       "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer videos, as errors compound and response quality drops…",
@@ -1750,7 +1722,7 @@
       "isFocus": true
     },
     {
-      "title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
+      "title": "As Anthropic finally files for its IPO, rising risks aren’t slowing the AI buildout – yet",
       "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
       "summary": "The other artificial intelligence shoe dropped this week, as Anthropic filed for what surely will be the second blockbuster AI initial public offering of stock this year. Nearly 70,000 words in the filing list a ton of risks, but in short, it’s making unimaginably huge bets on buying computing…",
       "source": "SiliconANGLE AI",
@@ -2156,6 +2128,20 @@
       "isFocus": true
     },
     {
+      "title": "Amazon Positions Alexa for Shopping to Counter Third-Party Agents",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-positions-alexa-for-shopping-to-counter-third-party-agents/",
+      "summary": "The rise of artificial intelligence agents that shop for their users could present a challenge to Amazon’s status as a first stop for shopping and a place for advertisers to reach consumers, The Wall Street Journal reported Sunday (Nov. 1). If AI agents like Meta‘s Muse find and buy products, they…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-02T01:57:12.000Z",
+      "topic": "AI Business",
+      "importance": 8.5,
+      "isFocus": true
+    },
+    {
       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
       "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
       "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for…",
@@ -2212,9 +2198,23 @@
       "isFocus": false
     },
     {
+      "title": "Researchers Trick AI Agents Into Transferring User Funds",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/researchers-trick-ai-agents-into-transferring-user-funds/",
+      "summary": "Nine out of 10 frontier models tested by researchers at Cornell Tech and Yale University bypassed user-set policies to lift spending caps when they had access to one-time passwords sent to the user’s email, the Initiative for CryptoCurrencies & Contracts (IC3) said in a post on LinkedIn. In…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-02T01:36:00.000Z",
+      "topic": "AI Business",
+      "importance": 8.4,
+      "isFocus": true
+    },
+    {
       "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy Comments URL: https://news.ycombinator.com/item?id=50325662 Points: 134 # Comments: 60",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy Comments URL: https://news.ycombinator.com/item?id=50325662 Points: 162 # Comments: 77",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2270,7 +2270,7 @@
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 417 # Comments: 170",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 419 # Comments: 170",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2312,7 +2312,7 @@
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://surgehq.ai/blog/dayjob-tax",
-      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 265 # Comments: 174",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 266 # Comments: 174",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2394,20 +2394,6 @@
       "isFocus": false
     },
     {
-      "title": "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
-      "url": "https://tldr.tech/ai/2026-10-19",
-      "summary": "",
-      "source": "TLDR AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T00:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
-    },
-    {
       "title": "Meeting you where you work: Inside 200M+ Unity CLI events",
       "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
       "summary": "Unity CLI usage data from 200 million events: 98% of runs come from AI coding agents and automation. See the top commands, agents, and where it’s used.",
@@ -2419,6 +2405,34 @@
       "date": "2026-10-22T00:00:00.000Z",
       "topic": "Game Dev",
       "importance": 8.3,
+      "isFocus": true
+    },
+    {
+      "title": "Enterprise customers want to see AI’s ROI. Here’s how startups can show it",
+      "url": "https://sifted.eu/articles/enterprise-customers-want-to-see-ais-roi-heres-how-startups-can-show-it/",
+      "summary": "",
+      "source": "Sifted",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-02T05:00:54.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "AI has changed how we work. So why does the office look exactly the same?",
+      "url": "https://sifted.eu/articles/the-future-office-ai/",
+      "summary": "",
+      "source": "Sifted",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-02T05:00:06.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
       "isFocus": true
     },
     {
@@ -2898,6 +2912,20 @@
       "isFocus": true
     },
     {
+      "title": "Meta Partners With Chinese Robotics Firm to Test Consumer Robots",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-partners-with-chinese-robotics-firm-to-test-consumer-robots/",
+      "summary": "Meta is collaborating with Chinese robotics company Fourier to develop humanoid prototypes for future products that would perform housework and other everyday tasks for consumers, The Information reported Saturday (Oct. 31), citing unnamed sources. Meta and Fourier already developed one humanoid…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-02T00:30:11.000Z",
+      "topic": "AI Business",
+      "importance": 8.1,
+      "isFocus": true
+    },
+    {
       "title": "Samsung Warns AI Memory Shortage Will Worsen Through 2027",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/samsung-warns-ai-memory-shortage-will-worsen-through-2027/",
       "summary": "Samsung expects the demand for memory to “far exceed” supply in 2027, the company said in a Thursday (Oct. 29) press release announcing its third quarter financial results. That demand will be driven by companies’ capital expenditure on artificial intelligence (AI) infrastructure, which Samsung…",
@@ -2907,20 +2935,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-30T22:49:28.000Z",
-      "topic": "AI Business",
-      "importance": 8.1,
-      "isFocus": true
-    },
-    {
-      "title": "Florida Takes Unlikely Lead Role in State Push to Regulate AI",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/florida-takes-unlikely-lead-role-in-state-push-to-regulate-ai/",
-      "summary": "Florida is emerging as an aggressive regulator of artificial intelligence (AI) and major technology platforms, using litigation, child protection requirements and proposed safeguards to challenge the federal government’s preference for lighter oversight. The state is an unlikely leader in that…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-30T17:16:57.000Z",
       "topic": "AI Business",
       "importance": 8.1,
       "isFocus": true
@@ -3033,6 +3047,34 @@
       "native": false,
       "researchOnly": false,
       "date": "2026-10-28T18:00:00.000Z",
+      "topic": "Web Dev",
+      "importance": 7.8,
+      "isFocus": true
+    },
+    {
+      "title": "fx is now available in T3 Code",
+      "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+      "summary": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along…",
+      "source": "Vercel",
+      "feedTopic": "Web Dev",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-28T00:00:00.000Z",
+      "topic": "Web Dev",
+      "importance": 7.8,
+      "isFocus": true
+    },
+    {
+      "title": "Vercel Plugin now available in OpenCode",
+      "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
+      "summary": "The Vercel Plugin is now available in OpenCode . The plugin provides guidance on Vercel APIs and recommended patterns, with skills for AI SDK, Vercel Functions, Workflow, and more. It also includes specialist agents for deployment, performance optimization, and AI application design. Use…",
+      "source": "Vercel",
+      "feedTopic": "Web Dev",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-10-28T00:00:00.000Z",
       "topic": "Web Dev",
       "importance": 7.8,
       "isFocus": true
@@ -3332,9 +3374,23 @@
       "isFocus": true
     },
     {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 212 # Comments: 204",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-01T22:10:45.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "It wasn't AI that flipped Proton's charge",
       "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
-      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 122 # Comments: 73",
+      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 150 # Comments: 84",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3348,7 +3404,7 @@
     {
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 266 # Comments: 197",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 336 # Comments: 258",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3416,7 +3472,7 @@
       "isFocus": true
     },
     {
-      "title": "Amazon Fills the Prescription ChatGPT Can’t",
+      "title": "Amazon Wants to Fill the Prescription ChatGPT Can’t",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-fills-prescription-chatgpt-cannot/",
       "summary": "Amazon is turning the app people open to reorder paper towels into the place they handle a sore throat, a refill and a weight loss prescription. When releasing its third-quarter earnings results Thursday (Oct. 29), Amazon said the number of customers using Amazon Pharmacy rose more than 60% from a…",
       "source": "PYMNTS AI",
@@ -3446,7 +3502,7 @@
     {
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 296 # Comments: 254",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 296 # Comments: 256",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3460,7 +3516,7 @@
     {
       "title": "US tech stocks see sharp falls over AI cost fears",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 300",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 301",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3474,27 +3530,13 @@
     {
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 663 # Comments: 482",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 667 # Comments: 485",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
       "date": "2026-10-30T15:52:18.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "New York Bill Would Raise AI Safety Regulations",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-york-bill-would-raise-ai-safety-regulations/",
-      "summary": "One year after passing the landmark RAISE Act, a pair of New York lawmakers want the state to double down. State Sen. Andrew Gounardes of Brooklyn and Assemblymember Jordan Wright of Harlem introduced a bill on Thursday (Oct. 29) to build on the earlier AI safety law by adding new incident…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-30T15:43:31.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3516,7 +3558,7 @@
     {
       "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 311 # Comments: 382",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 312 # Comments: 384",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3614,7 +3656,7 @@
     {
       "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
       "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 209 # Comments: 53",
+      "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 213 # Comments: 57",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3628,7 +3670,7 @@
     {
       "title": "No AI, 52 min. Build all Linux Files utils in C by Hand video",
       "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-      "summary": "Article URL: https://www.youtube.com/watch?v=gQRmSlcTq9c Comments URL: https://news.ycombinator.com/item?id=50290480 Points: 125 # Comments: 106",
+      "summary": "Article URL: https://www.youtube.com/watch?v=gQRmSlcTq9c Comments URL: https://news.ycombinator.com/item?id=50290480 Points: 141 # Comments: 110",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3642,7 +3684,7 @@
     {
       "title": "Zombie stats: Where the numbers AI quotes come from",
       "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 180 # Comments: 73",
+      "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 180 # Comments: 74",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3656,7 +3698,7 @@
     {
       "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 237 # Comments: 90",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 238 # Comments: 92",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3747,20 +3789,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-10-28T00:00:00.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 400 # Comments: 313",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-27T16:40:15.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -4088,6 +4116,20 @@
       "isFocus": false
     },
     {
+      "title": "TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents",
+      "url": "https://arxiv.org/abs/2610.42004",
+      "summary": "arXiv:2610.42004v1 Announce Type: new Abstract: Multi-turn negotiation remains a challenging problem for large language model (LLM) agents. While LLMs can conduct natural-language dialogue, existing benchmarks predominantly assess only agreement rates, overlooking whether negotiated commitments…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 6.4,
+      "isFocus": false
+    },
+    {
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
       "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
       "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
@@ -4242,6 +4284,48 @@
       "isFocus": false
     },
     {
+      "title": "When Should AI Agents Ask? Clarification Requests Under Limited Human Attention",
+      "url": "https://arxiv.org/abs/2610.41129",
+      "summary": "arXiv:2610.41129v1 Announce Type: new Abstract: AI agents increasingly carry out delegated tasks in parallel, with one person overseeing several of them at once. In practice, an agent often lacks information its task requires, such as an unstated preference, constraint, or specification. It can ask…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "Leaner Training, Lower Leakage: Revisiting Memorization in LLM Fine-Tuning with LoRA",
+      "url": "https://arxiv.org/abs/2506.20856",
+      "summary": "arXiv:2506.20856v1 Announce Type: cross Abstract: Memorization in large language models (LLMs) makes them vulnerable to data extraction attacks. While pre-training memorization has been extensively studied, fewer works have explored its impact in fine-tuning, particularly for LoRA fine-tuning, a…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
+      "title": "SecPO: Principled Adversarial Training for Prompt Injection Security",
+      "url": "https://arxiv.org/abs/2610.41998",
+      "summary": "arXiv:2610.41998v1 Announce Type: cross Abstract: Recognized as a top threat to AI agents, prompt injection allows instructions from untrusted data (email, documents, websites) to manipulate the agent's operation. The existing best-defended LLM, Meta-SecAlign, is trained with the DPO loss but still…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 6,
+      "isFocus": false
+    },
+    {
       "title": "Silicon Valley wants you to invest in miracles",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
       "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, pose catastrophic or existential risks to humanity, or best case, bring forth an age of miracles…",
@@ -4258,7 +4342,7 @@
     {
       "title": "Building an AI-native engineering org",
       "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 198",
+      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 200",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4354,6 +4438,20 @@
       "isFocus": true
     },
     {
+      "title": "There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?",
+      "url": "https://arxiv.org/abs/2610.42030",
+      "summary": "arXiv:2610.42030v1 Announce Type: cross Abstract: Looping re-applies a block of layers so that each token passes through the block more than once. Adding a loop to a trained model is attractive because it leaves the parameter count, and hence the disk size, the memory footprint and the training…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
       "title": "Optimizing Streaming Speech Recognition on Arm® Edge Devices with ExecuTorch",
       "url": "https://pytorch.org/blog/optimizing-streaming-speech-recognition-on-arm-edge-devices-with-executorch/",
       "summary": "When you’re speaking to a device, you expect text to appear as you talk. That makes streaming automatic speech recognition (ASR) a different challenge from batch transcription, where the model... The post Optimizing Streaming Speech Recognition on Arm® Edge Devices with ExecuTorch appeared first on…",
@@ -4379,6 +4477,20 @@
       "date": "2026-10-22T17:44:52.000Z",
       "topic": "Open Source",
       "importance": 5.7,
+      "isFocus": false
+    },
+    {
+      "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2610.41291",
+      "summary": "arXiv:2610.41291v1 Announce Type: cross Abstract: Long-horizon LLM agents play an important role in solving complex and sustained tasks, with ever-growing interaction contexts. However, these accumulated contexts will raise substantial computational cost and obscure key decision-relevant evidence.…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.6,
       "isFocus": false
     },
     {
@@ -4522,20 +4634,6 @@
       "isFocus": false
     },
     {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "summary": "",
-      "source": "Hugging Face",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-19T00:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 5.5,
-      "isFocus": false
-    },
-    {
       "title": "Quoting Ted Sanders",
       "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
       "summary": "<blockquote cite= https://news.ycombinator.com/item?id=50248124#50249160 ><p>In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the…",
@@ -4547,6 +4645,132 @@
       "date": "2026-10-28T23:23:21.000Z",
       "topic": "Models & Labs",
       "importance": 5.4,
+      "isFocus": false
+    },
+    {
+      "title": "CryoAtlas: A Large Curated Dataset and Unified Benchmark for Cryo-EM Atomic Model Building",
+      "url": "https://arxiv.org/abs/2610.41411",
+      "summary": "arXiv:2610.41411v1 Announce Type: new Abstract: Deep learning has accelerated automated atomic model building from cryo-EM maps, yet progress remains limited by the lack of large, high-quality datasets and standardized evaluation benchmarks. We address this gap by introducing CryoAtlas, a…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.300000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+      "url": "https://arxiv.org/abs/2610.40927",
+      "summary": "arXiv:2610.40927v1 Announce Type: new Abstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be executed in parallel. This assumption breaks in realistic…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
+      "title": "From the Zoo to the BULLPEN: Sample-Efficient LLM Profiling via Multi-Channel Model Embeddings",
+      "url": "https://arxiv.org/abs/2610.41375",
+      "summary": "arXiv:2610.41375v1 Announce Type: new Abstract: Choosing among the hundreds of thousands of available large language models (LLMs) requires a thorough understanding of each candidate model's properties. In practice, each property is measured by its own benchmark suite, so profiling a model on many…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
+      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.40945",
+      "summary": "arXiv:2610.40945v1 Announce Type: cross Abstract: On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate trainer computes the gradients, and the extbf…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
+      "title": "Steering Vectors as a Training Signal in LLM Post-Training",
+      "url": "https://arxiv.org/abs/2610.40998",
+      "summary": "arXiv:2610.40998v1 Announce Type: cross Abstract: Steering vectors (SVs) are residual-stream directions that shift the behavior of LLMs when added to hidden states at inference time. While prior work has mainly used SVs as post-hoc controls, we ask whether the same directions can also guide…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
+      "title": "Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.41056",
+      "summary": "arXiv:2610.41056v1 Announce Type: cross Abstract: Since large language model (LLM) agents rely on long-term memory, what they store now shapes what they do later. A memory manager decides how each input changes this memory and which records the agent acts on. It can fail in two ways: keeping a fact…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
+      "title": "When Safety Checks Become Privacy Risks: A Privacy-Preserving Paradigm for LLM Agent Safety Auditing",
+      "url": "https://arxiv.org/abs/2610.41401",
+      "summary": "arXiv:2610.41401v1 Announce Type: cross Abstract: Large language model agents interact with online services through tool calls that may access private data or perform sensitive actions. Specialized providers can supply and maintain pre-execution safety auditing capabilities for agent operators.…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
+      "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
+      "url": "https://arxiv.org/abs/2607.07379",
+      "summary": "arXiv:2607.07379v2 Announce Type: replace Abstract: Agentic discovery can yield mechanics surrogates with low validation error that nonetheless violate physical requirements. We present Physics-Audited Agentic SciML (PA-SciML), a framework combining large language model agents with physics…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.2,
+      "isFocus": false
+    },
+    {
+      "title": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents",
+      "url": "https://arxiv.org/abs/2610.21561",
+      "summary": "arXiv:2610.21561v5 Announce Type: replace-cross Abstract: Large language models (LLMs) deployed as conversational agents are increasingly expected to follow procedural logic. While factual hallucination has received extensive attention, a different failure mode has been overlooked: procedural…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 5.2,
       "isFocus": false
     },
     {
@@ -4662,6 +4886,20 @@
       "isFocus": false
     },
     {
+      "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
+      "url": "https://arxiv.org/abs/2604.16548",
+      "summary": "arXiv:2604.16548v5 Announce Type: replace-cross Abstract: The emergence of writable, cross-session persistent memory in LLM agents introduces a qualitatively different threat landscape from conventional input-centric security concerns, characterized by three properties: persistence, statefulness,…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.9,
+      "isFocus": false
+    },
+    {
       "title": "datasette-llm 0.1a9",
       "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
       "summary": "<p><strong>Release:</strong> <a href= https://github.com/datasette/datasette-llm/releases/tag/0.1a9 >datasette-llm 0.1a9</a></p> <p>I have some big upgrades to <a href= https://agent.datasette.io/ >Datasette Agent</a> in the pipeline, but in the meantime here's a tiny user experience improvement to…",
@@ -4676,17 +4914,115 @@
       "isFocus": false
     },
     {
-      "title": "llm-tools-datasette 0.1.1",
-      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1 >llm-tools-datasette 0.1.1</a></p> <p>When I switched LLM over to <a href= https://github.com/pydantic/httpx2 >httpx2</a> in <a href= https://llm.datasette.io/en/stable/changelog.html#v0-33 >LLM…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
+      "title": "EvoMCP: Co-evolving MCP agents and training data",
+      "url": "https://arxiv.org/abs/2610.41479",
+      "summary": "arXiv:2610.41479v1 Announce Type: new Abstract: Supervised fine-tuning of Model Context Protocol (MCP) agents is typically conducted on a static data distribution, which fails to adapt to the student's evolving capabilities and leaves newly exposed weaknesses insufficiently addressed. To address…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
       "native": true,
-      "researchOnly": false,
-      "date": "2026-10-18T23:43:09.000Z",
-      "topic": "Open Source",
-      "importance": 4.9,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.800000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention",
+      "url": "https://arxiv.org/abs/2610.41850",
+      "summary": "arXiv:2610.41850v1 Announce Type: new Abstract: Transformers retain an explicit history of the sequence, allowing attention to directly retrieve past representations. However, the size of the KV-Cache and the cost of a new token increase with the context length. State Space Models compress the past…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.800000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management",
+      "url": "https://arxiv.org/abs/2610.40714",
+      "summary": "arXiv:2610.40714v1 Announce Type: cross Abstract: Autonomous LLM agents executing multi-step workflows over personal data often misalign with user privacy expectations and leak sensitive, out-of-context information. Although Contextual Integrity (CI) formalizes this problem, existing benchmarks and…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.800000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "Characterizing LLM Agent Behaviors in Module Shadowing Environments",
+      "url": "https://arxiv.org/abs/2610.40716",
+      "summary": "arXiv:2610.40716v1 Announce Type: cross Abstract: LLM agents operating in untrusted workspaces face the risk of untrusted code execution during routine tasks, yet final reports and workspace states alone cannot reliably establish whether execution occurred. We introduce an evaluation framework that…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.800000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "ARK: Avoiding Routing Collisions for KV Cache Transfer in Disaggregated LLM Inference",
+      "url": "https://arxiv.org/abs/2610.41160",
+      "summary": "arXiv:2610.41160v1 Announce Type: cross Abstract: Disaggregated LLM inference separates the prefill and decode phases across GPU pools, generating massive KV-cache transfers. Because these transfers last hundreds of milliseconds to seconds, they behave as mega elephant flows that dominate link…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.800000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "summary": "arXiv:2610.10611v2 Announce Type: replace Abstract: A self-improving agent can find accepted solutions more often without expanding the tasks its verification interface can accept. We extend task-relative verification with explicit support and transcript interfaces to distinguish search gains from…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.800000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery",
+      "url": "https://arxiv.org/abs/2610.39714",
+      "summary": "arXiv:2610.39714v2 Announce Type: replace Abstract: Molecular discovery requires navigating vast combinatorial search spaces while balancing competing biological objectives. AI agents can automate expert-defined molecular design protocols, but automation alone does not address how to optimize…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.800000000000001,
+      "isFocus": false
+    },
+    {
+      "title": "Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework",
+      "url": "https://arxiv.org/abs/2503.13309",
+      "summary": "arXiv:2503.13309v3 Announce Type: replace-cross Abstract: Despite advancements in Computer-Aided Diagnosis (CAD) systems, breast cancer remains one of the leading causes of cancer-related deaths among women worldwide. Recent breakthroughs in Artificial Intelligence (AI) have shown significant…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.800000000000001,
       "isFocus": false
     },
     {
@@ -4743,6 +5079,20 @@
       "date": "2026-10-26T17:15:14.000Z",
       "topic": "Models & Labs",
       "importance": 4.6,
+      "isFocus": false
+    },
+    {
+      "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+      "url": "https://arxiv.org/abs/2610.41044",
+      "summary": "arXiv:2610.41044v1 Announce Type: new Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distributed across autonomous LLM agents, particularly…",
+      "source": "arXiv cs.AI",
+      "feedTopic": "Research",
+      "weight": 1,
+      "native": true,
+      "researchOnly": true,
+      "date": "2026-11-02T05:00:00.000Z",
+      "topic": "Research",
+      "importance": 4.5,
       "isFocus": false
     },
     {
@@ -4900,6 +5250,20 @@
       "isFocus": false
     },
     {
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "summary": "<p>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:</p> <p><strong>If in doubt, delete the uv.lock file</strong></p> <p>Most of my projects are libraries which don't include a <code>uv.lock</code> file,…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-01T23:24:22.000Z",
+      "topic": "Open Source",
+      "importance": 4,
+      "isFocus": false
+    },
+    {
       "title": "dbreunig/nesformer",
       "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
       "summary": "<p><strong><a href= https://github.com/dbreunig/nesformer >dbreunig/nesformer</a></strong></p> Inspired by <a href= https://divagr.com/blog/qwenputer >qwenputer</a> by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of…",
@@ -5009,90 +5373,6 @@
       "date": "2026-10-21T16:04:43.000Z",
       "topic": "Open Source",
       "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "eMudhra Intermediate CA Compromise",
-      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-      "summary": "<p><strong><a href= https://emudhra.we-have-a-problem.com >eMudhra Intermediate CA Compromise</a></strong></p> This is very, very bad news:</p> <blockquote> <p>The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla,…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-20T23:50:25.000Z",
-      "topic": "Open Source",
-      "importance": 4,
-      "isFocus": false
-    },
-    {
-      "title": "How the UK Amazon Quick User Group grew in 2026",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
-      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T20:16:40.000Z",
-      "topic": "Models & Labs",
-      "importance": 3.8,
-      "isFocus": false
-    },
-    {
-      "title": "Building intent-driven UI testing with Amazon Nova Act",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
-      "summary": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T18:20:27.000Z",
-      "topic": "Models & Labs",
-      "importance": 3.4,
-      "isFocus": false
-    },
-    {
-      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
-      "summary": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-30T22:42:24.000Z",
-      "topic": "Models & Labs",
-      "importance": 3,
-      "isFocus": false
-    },
-    {
-      "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
-      "summary": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specification and verifies…",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-29T18:14:17.000Z",
-      "topic": "Models & Labs",
-      "importance": 3,
-      "isFocus": false
-    },
-    {
-      "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
-      "summary": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.&nbsp;",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-27T18:03:12.000Z",
-      "topic": "Models & Labs",
-      "importance": 3,
       "isFocus": false
     }
   ]

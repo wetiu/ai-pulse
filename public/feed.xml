@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 01 Nov 2026 22:00:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 05:59:21 GMT</lastBuildDate>
   <item>
     <title>Mistral releases open weights for Mistral Large 4, providing sovereign control for the company’s ‘Le Chonk’ AI model</title>
     <link>https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/</link>
@@ -69,6 +69,14 @@
     <pubDate>Wed, 21 Oct 2026 10:45:17 GMT</pubDate>
     <category>AI Business</category>
     <description>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…</description>
+  </item>
+  <item>
+    <title>Google Cloud Launches Free AI Courses for Financial Services and Legal Teams</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-launches-free-ai-courses-for-financial-services-and-legal-teams/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-launches-free-ai-courses-for-financial-services-and-legal-teams/</guid>
+    <pubDate>Mon, 02 Nov 2026 00:49:45 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google‘s learning platform focused on artificial intelligence skills, Google Skills, has launched new Gemini courses for financial services and legal teams, Google Cloud said in a Friday (Oct. 30) blog post. These new, separate products are industry specific and include bundles of videos for…</description>
   </item>
   <item>
     <title>Vercel Labs Open-Sources agent-desktop for Agent Computer Use</title>
@@ -175,14 +183,6 @@
     <description>An open source “bomb” drops from China</description>
   </item>
   <item>
-    <title>MiniMax M3.1 Flash now available on AI Gateway for free</title>
-    <link>https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free</guid>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash…</description>
-  </item>
-  <item>
     <title>Anthropic IPO filing offers clues for enterprise AI, model price wars</title>
     <link>https://aibusiness.com/generative-ai/anthropic-ipo-filing-offers-clues-enterprise-ai-model-price-wars</link>
     <guid isPermaLink="true">https://aibusiness.com/generative-ai/anthropic-ipo-filing-offers-clues-enterprise-ai-model-price-wars</guid>
@@ -271,14 +271,6 @@
     <description>Update: Anthropic has confirmed it&#39;s released an update to Opus 5.5 to steer Claude Code away from recreating someone else&#39;s specific game.</description>
   </item>
   <item>
-    <title>Mistral Touts Cyber Capabilities of Its ‘Chonk’ AI Model</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/mistral-touts-cyber-capabilities-chonk-ai-model/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/mistral-touts-cyber-capabilities-chonk-ai-model/</guid>
-    <pubDate>Thu, 29 Oct 2026 21:53:22 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Mistral released an updated version of its Large 4 artificial intelligence model, saying in a Thursday (Oct. 29) announcement that it comes with improved coding and cybersecurity capabilities. The model builds on a version released in public preview earlier this month, the French startup said in…</description>
-  </item>
-  <item>
     <title>How we detect frontier model misalignment</title>
     <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
     <guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
@@ -301,6 +293,14 @@
     <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
+  </item>
+  <item>
+    <title>OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-cuts-funding-target-by-10-billion-as-investor-jitters-shake-ai-markets/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-cuts-funding-target-by-10-billion-as-investor-jitters-shake-ai-markets/</guid>
+    <pubDate>Sun, 01 Nov 2026 22:45:40 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI has cut the target for its current funding round from $30 billion to $20 billion amid investor concerns about the artificial intelligence market, The Financial Times reported Friday (Oct. 30), citing unnamed sources. The company is seeking to raise the funding at a valuation of $1.25…</description>
   </item>
   <item>
     <title>Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics</title>
@@ -383,6 +383,14 @@
     <description>The generative AI vendor released the app with stringent security guardrails for using it in professional and small business settings.</description>
   </item>
   <item>
+    <title>Dataline Secures $10 Million to Expand Agent Data Marketplace</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/dataline-secures-10-million-to-expand-agent-data-marketplace/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/dataline-secures-10-million-to-expand-agent-data-marketplace/</guid>
+    <pubDate>Mon, 02 Nov 2026 01:20:11 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Dataline raised $10.6 million in a funding round to grow its decentralized data network for artificial intelligence agents, the company said in a Saturday (Oct. 31) press release. The network provides a two-sided marketplace for agent-payable data in which anyone can publish a feed, and any agent…</description>
+  </item>
+  <item>
     <title>The biggest names in AI are backing a new way to opt out of scraping</title>
     <link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
     <guid isPermaLink="true">https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</guid>
@@ -437,6 +445,14 @@
     <pubDate>Fri, 23 Oct 2026 17:26:03 GMT</pubDate>
     <category>AI Business</category>
     <description>The partners are using digital twins and AI agents as part of a roadmap to create world-first AI-powered manufacturing facilities.</description>
+  </item>
+  <item>
+    <title>London is the &#39;best place in the world to launch an AI company&#39;</title>
+    <link>https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/</guid>
+    <pubDate>Mon, 02 Nov 2026 05:00:30 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
   </item>
   <item>
     <title>Introducing Virtual Models on AI Gateway</title>
@@ -559,28 +575,12 @@
     <description>Anthropic’s IPO filing offers a glimpse into soaring enterprise AI demand, but price competition and the cost of delivering AI are complicating the path to profitability.</description>
   </item>
   <item>
-    <title>Easol Secures $30 Million to Scale AI Tools for Experience Businesses</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/easol-secures-30-million-dollars-scale-ai-tools-experience-businesses/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/easol-secures-30-million-dollars-scale-ai-tools-experience-businesses/</guid>
-    <pubDate>Fri, 30 Oct 2026 15:22:45 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Easol raised $30 million in a Series A extension funding round to continue scaling its experience commerce platform designed for festivals, wellness retreats, sports, adventure and location-based entertainment venues, the company said in a Wednesday (Oct. 28) press release. Easol’s extension…</description>
-  </item>
-  <item>
     <title>DoorDash said it’s only received ‘several hundred’ orders from AI agents</title>
     <link>https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</guid>
     <pubDate>Fri, 30 Oct 2026 13:54:25 GMT</pubDate>
     <category>AI Business</category>
     <description>DoorDash said that it is open to working with third-party agent makers.</description>
-  </item>
-  <item>
-    <title>Alphabet Loses $500 Billion in Market Value as AI Threatens Google Search</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/alphabet-loses-500-billion-in-market-value-as-ai-threatens-google-search/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/alphabet-loses-500-billion-in-market-value-as-ai-threatens-google-search/</guid>
-    <pubDate>Thu, 29 Oct 2026 23:44:49 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google parent company Alphabet saw its stock price drop 13%, and its market value lose $500 billion Thursday (Oct. 29), marking the stock’s worst day ever, the Wall Street Journal reported Thursday. The drop followed Alphabet’s release of its quarterly results on Wednesday (Oct. 28), which stoked…</description>
   </item>
   <item>
     <title>Roblox confirms no adult content used in AI training after scraping Open3DLab data</title>
@@ -605,14 +605,6 @@
     <pubDate>Sat, 31 Oct 2026 02:00:23 GMT</pubDate>
     <category>AI Business</category>
     <description>Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard. The technology will enable website operators to block artificial intelligence developers from using their content to train their models. Many websites contain a…</description>
-  </item>
-  <item>
-    <title>Google Tops AI Smarts Ranking as OpenAI Slashes Prices</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/google-tops-ai-smarts-ranking-as-openai-slashes-prices/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/google-tops-ai-smarts-ranking-as-openai-slashes-prices/</guid>
-    <pubDate>Thu, 29 Oct 2026 22:25:20 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google may have finally caught up with its archrivals. Its new Gemini 4 Carbon model ranks first on the Artificial Analysis Intelligence Index, an independent scorecard that had OpenAI and Anthropic ahead for most of the year. OpenAI answered on price, halving the cost of its workhorse model. In…</description>
   </item>
   <item>
     <title>Virtana lets its AI agents pull in agents from other vendors to work IT incidents</title>
@@ -645,6 +637,14 @@
     <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</description>
+  </item>
+  <item>
+    <title>We urgently need to monitor AI agents’ actions in real time</title>
+    <link>https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</link>
+    <guid isPermaLink="true">https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</guid>
+    <pubDate>Thu, 29 Oct 2026 10:11:12 GMT</pubDate>
+    <category>AI Business</category>
+    <description>This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an…</description>
   </item>
 </channel>
 </rss>
