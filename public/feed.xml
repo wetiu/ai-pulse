@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Mon, 02 Nov 2026 05:59:21 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 15:47:34 GMT</lastBuildDate>
   <item>
     <title>Mistral releases open weights for Mistral Large 4, providing sovereign control for the company’s ‘Le Chonk’ AI model</title>
     <link>https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/</link>
@@ -95,6 +95,14 @@
     <description>Fast, focused, low-cost decisions for any application.</description>
   </item>
   <item>
+    <title>Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition</title>
+    <link>https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/</guid>
+    <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Two startups tackling the data center water problem are joining forces in a $16 million deal.</description>
+  </item>
+  <item>
     <title>How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands</title>
     <link>https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</link>
     <guid isPermaLink="true">https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</guid>
@@ -149,6 +157,14 @@
     <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
+  </item>
+  <item>
+    <title>Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work</title>
+    <link>https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/</guid>
+    <pubDate>Mon, 02 Nov 2026 09:00:22 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Artificial intelligence agents have become two a penny in the enterprise today, but just because they’re rapidly being commoditized does not mean organizations know how best to use them. That’s the challenge a startup called Marble Cognition is trying to solve after raising $3.75 million in…</description>
   </item>
   <item>
     <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
@@ -319,6 +335,14 @@
     <description>Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.</description>
   </item>
   <item>
+    <title>Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal</title>
+    <link>https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/</link>
+    <guid isPermaLink="true">https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/</guid>
+    <pubDate>Mon, 02 Nov 2026 11:47:14 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder .</description>
+  </item>
+  <item>
     <title>The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup</title>
     <link>https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/</link>
     <guid isPermaLink="true">https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/</guid>
@@ -447,6 +471,14 @@
     <description>The partners are using digital twins and AI agents as part of a roadmap to create world-first AI-powered manufacturing facilities.</description>
   </item>
   <item>
+    <title>Lovable backer Creandum raises $750m for largest-ever fund to back AI boom</title>
+    <link>https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/</guid>
+    <pubDate>Mon, 02 Nov 2026 12:04:11 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
     <title>London is the &#39;best place in the world to launch an AI company&#39;</title>
     <link>https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/</link>
     <guid isPermaLink="true">https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/</guid>
@@ -471,12 +503,20 @@
     <description>Mammoth-1 and Elephant-1 from Baseten are now available for free on AI Gateway for one week. Free access is available through October 27. These decision models classify text, route requests, and score content against criteria you define. Mammoth-1 is the larger, 27B model, while Elephant-1 is a…</description>
   </item>
   <item>
-    <title>UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly</title>
-    <link>https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly</link>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly</guid>
-    <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>UKIE has partnered with law firm Sheridans to provide an AI Compliance and Accreditation Service, enabling studios across the UK games industry to use AI lawfully and responsibly. Read more</description>
+    <title>One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts</title>
+    <link>https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/</link>
+    <guid isPermaLink="true">https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/</guid>
+    <pubDate>Mon, 02 Nov 2026 15:42:27 GMT</pubDate>
+    <category>AI Business</category>
+    <description>In experiments by Y Combinator Labs and Olam Labs, OpenAI&#39;s GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In direct competition against Claude Opus 5.5, they independently…</description>
+  </item>
+  <item>
+    <title>NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL</title>
+    <link>https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/</guid>
+    <pubDate>Mon, 02 Nov 2026 07:47:12 GMT</pubDate>
+    <category>Open Source</category>
+    <description>NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API. The post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared…</description>
   </item>
   <item>
     <title>Apple Acquires AI Firm Ascend.io Talent and Patents</title>
@@ -551,6 +591,14 @@
     <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
   </item>
   <item>
+    <title>OpenAI is finally merging ChatGPT’s chat and Work tabs</title>
+    <link>https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/</guid>
+    <pubDate>Mon, 02 Nov 2026 13:57:53 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.</description>
+  </item>
+  <item>
     <title>Adobe is testing how well AI agents can use editing tools like a Photoshop professional would</title>
     <link>https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/</link>
     <guid isPermaLink="true">https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/</guid>
@@ -597,54 +645,6 @@
     <pubDate>Fri, 23 Oct 2026 14:40:50 GMT</pubDate>
     <category>AI Business</category>
     <description>Physical AI is pushing artificial intelligence into robots, factories and other real-world environments, where understanding language is only part of the challenge.</description>
-  </item>
-  <item>
-    <title>Google, Anthropic and others to support new AI crawling opt-out standard</title>
-    <link>https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/</guid>
-    <pubDate>Sat, 31 Oct 2026 02:00:23 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard. The technology will enable website operators to block artificial intelligence developers from using their content to train their models. Many websites contain a…</description>
-  </item>
-  <item>
-    <title>Virtana lets its AI agents pull in agents from other vendors to work IT incidents</title>
-    <link>https://siliconangle.com/2026/10/28/virtana-lets-its-ai-agents-pull-in-agents-from-other-vendors-to-work-it-incidents/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/10/28/virtana-lets-its-ai-agents-pull-in-agents-from-other-vendors-to-work-it-incidents/</guid>
-    <pubDate>Wed, 28 Oct 2026 13:00:52 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Information technology observability company Virtana today added Agentic Observability Enterprise Management to its platform so its artificial intelligence agents can pull agents from other vendors into an IT incident. The release goes after a gap left by the way enterprises have adopted AI agents…</description>
-  </item>
-  <item>
-    <title>AINews OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
-    <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-openais-patch-the-planet-program/</guid>
-    <pubDate>Thu, 22 Oct 2026 07:42:44 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>The Big Hardening begins</description>
-  </item>
-  <item>
-    <title>Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens</title>
-    <link>https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/</guid>
-    <pubDate>Thu, 29 Oct 2026 21:20:29 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. The post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost .</description>
-  </item>
-  <item>
-    <title>An updated Model Spec for more capable and beneficial AI</title>
-    <link>https://openai.com/index/updated-model-spec</link>
-    <guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
-    <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</description>
-  </item>
-  <item>
-    <title>We urgently need to monitor AI agents’ actions in real time</title>
-    <link>https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</link>
-    <guid isPermaLink="true">https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</guid>
-    <pubDate>Thu, 29 Oct 2026 10:11:12 GMT</pubDate>
-    <category>AI Business</category>
-    <description>This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an…</description>
   </item>
 </channel>
 </rss>
