@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Tue, 03 Nov 2026 23:21:56 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 06:18:09 GMT</lastBuildDate>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -197,6 +197,14 @@
     <pubDate>Fri, 30 Oct 2026 18:52:20 GMT</pubDate>
     <category>Game Dev</category>
     <description>Update: Anthropic has confirmed it&#39;s released an update to Opus 5.5 to steer Claude Code away from recreating someone else&#39;s specific game.</description>
+  </item>
+  <item>
+    <title>Worldwide Express Unfreezes $10 Million With AWS AI Agents</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/worldwide-express-unfreezes-10-million-with-aws-ai-agents/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/worldwide-express-unfreezes-10-million-with-aws-ai-agents/</guid>
+    <pubDate>Tue, 03 Nov 2026 23:26:06 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Worldwide Express works with more than 130,000 customers and more than 75 less-than-truckload (LTL) carriers, which fill a trailer with freight from several customers, AWS said in a case study published Oct. 30. Each carrier invoice is checked against the purchase order and the delivery record…</description>
   </item>
   <item>
     <title>How we detect frontier model misalignment</title>
@@ -391,14 +399,6 @@
     <description>Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention…</description>
   </item>
   <item>
-    <title>Baseten&#39;s Mammoth-1 and Elephant-1 now available on AI Gateway for free</title>
-    <link>https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free</guid>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Mammoth-1 and Elephant-1 from Baseten are now available for free on AI Gateway for one week. Free access is available through October 27. These decision models classify text, route requests, and score content against criteria you define. Mammoth-1 is the larger, 27B model, while Elephant-1 is a…</description>
-  </item>
-  <item>
     <title>Apollo’s Record AI Lending Begins to Rival Banking Giants</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/apollos-record-ai-lending-begins-to-rival-banking-giants/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/apollos-record-ai-lending-begins-to-rival-banking-giants/</guid>
@@ -485,6 +485,14 @@
     <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
+  </item>
+  <item>
+    <title>The biggest modding site in PC gaming is taking a stance on AI</title>
+    <link>https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</link>
+    <guid isPermaLink="true">https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</guid>
+    <pubDate>Wed, 04 Nov 2026 00:42:10 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare whether AI has been used in their work, the site announced today as part of a big post about AI-generated content on the platform. One of the most…</description>
   </item>
   <item>
     <title>Anthropic warns that it’s very close to RSI capability, aka self-building AI</title>
@@ -597,14 +605,6 @@
     <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.</description>
-  </item>
-  <item>
-    <title>DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻</title>
-    <link>https://tldr.tech/ai/2026-10-21</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-10-21</guid>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
   </item>
   <item>
     <title>Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore</title>
