@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 04 Nov 2026 06:18:09 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 19:43:53 GMT</lastBuildDate>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -23,28 +23,28 @@
     <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.</description>
   </item>
   <item>
+    <title>Tencent releases Hy4, a powerful frontier AI model introducing visual understanding and computer use</title>
+    <link>https://siliconangle.com/2026/11/04/tencent-releases-hy4-powerful-frontier-llm-introducing-visual-understanding-and-computer-use/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/04/tencent-releases-hy4-powerful-frontier-llm-introducing-visual-understanding-and-computer-use/</guid>
+    <pubDate>Wed, 04 Nov 2026 16:05:47 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Tencent Holdings Ltd. today introduced Hy4, a new large language model that adds computer-use capabilities for the first time, using advanced visual understanding, reasoning and tool-calling to deliver long-horizon agentic performance. The company said the model marks a significant leap in…</description>
+  </item>
+  <item>
+    <title>OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents</title>
+    <link>https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/</guid>
+    <pubDate>Wed, 04 Nov 2026 18:41:03 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI&#39;s recently launched Git backend Pando, the deal shows the company is building out its infrastructure for developers and AI agents working side by side. The article OpenAI…</description>
+  </item>
+  <item>
     <title>AINews Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
     <link>https://latent.space/p/ainews-anthropic-s1/</link>
     <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
     <pubDate>Tue, 27 Oct 2026 07:24:59 GMT</pubDate>
     <category>AI Business</category>
     <description>The S-1, the numbers, and the reactions.</description>
-  </item>
-  <item>
-    <title>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</title>
-    <link>https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/</guid>
-    <pubDate>Wed, 21 Oct 2026 10:45:17 GMT</pubDate>
-    <category>AI Business</category>
-    <description>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9…</description>
-  </item>
-  <item>
-    <title>Trajectory raises $45M to make AI model training accessible to nontechnical experts</title>
-    <link>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</guid>
-    <pubDate>Mon, 02 Nov 2026 23:13:53 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The one-year-old startup is now valued at $300 million.</description>
   </item>
   <item>
     <title>Build more responsive apps with the Decisions API</title>
@@ -61,6 +61,14 @@
     <pubDate>Tue, 27 Oct 2026 18:40:19 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...</description>
+  </item>
+  <item>
+    <title>New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations</title>
+    <link>https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/</link>
+    <guid isPermaLink="true">https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/</guid>
+    <pubDate>Wed, 04 Nov 2026 16:42:52 GMT</pubDate>
+    <category>AI Business</category>
+    <description>CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissioning projects. The article New open-source benchmark reveals…</description>
   </item>
   <item>
     <title>Nvidia bets on personal agents in new Meta partnership</title>
@@ -95,12 +103,12 @@
     <description>Artificial intelligence agents have become two a penny in the enterprise today, but just because they’re rapidly being commoditized does not mean organizations know how best to use them. That’s the challenge a startup called Marble Cognition is trying to solve after raising $3.75 million in…</description>
   </item>
   <item>
-    <title>Anthropic&#39;s Message Threads cut time to first token by 35 percent for long conversations</title>
-    <link>https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/</guid>
-    <pubDate>Tue, 03 Nov 2026 12:35:49 GMT</pubDate>
+    <title>Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡</title>
+    <link>https://tldr.tech/ai/2026-11-04</link>
+    <guid isPermaLink="true">https://tldr.tech/ai/2026-11-04</guid>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
-    <description>Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what&#39;s changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropic&#39;s Message Threads…</description>
+    <description></description>
   </item>
   <item>
     <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
@@ -215,14 +223,6 @@
     <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.</description>
   </item>
   <item>
-    <title>OpenAI models are coming to Google Cloud</title>
-    <link>https://openai.com/index/openai-models-google-cloud</link>
-    <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
-    <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
-  </item>
-  <item>
     <title>Generative media inference startup fal raises $1.3B at a $16B valuation</title>
     <link>https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/</guid>
@@ -335,6 +335,22 @@
     <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
   </item>
   <item>
+    <title>Anthropic&#39;s text watermark is easy to bypass on several older Claude models</title>
+    <link>https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/</guid>
+    <pubDate>Wed, 04 Nov 2026 19:03:55 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act&#39;s December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic&#39;s response to the loophole? A compliance…</description>
+  </item>
+  <item>
+    <title>Nothing teases a screen-free AI device ahead of launch next month</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</guid>
+    <pubDate>Wed, 04 Nov 2026 18:26:07 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Nothing CEO Carl Pei said in a post on X that the company&#39;s launching its first AI device in December. That&#39;s just a little over a year after Pei announced plans for AI-native devices and an AI operating system. He didn&#39;t give away much about what exactly the new device is, only that one feature …</description>
+  </item>
+  <item>
     <title>Startup Athena raises $2.5M in pre-seed funding to revamp the revenue model for legal AI</title>
     <link>https://siliconangle.com/2026/11/03/startup-athena-raises-2-5m-in-pre-seed-funding-to-revamp-the-revenue-model-for-legal-ai/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/03/startup-athena-raises-2-5m-in-pre-seed-funding-to-revamp-the-revenue-model-for-legal-ai/</guid>
@@ -431,20 +447,20 @@
     <description>Israeli artificial intelligence startup 42AI launched today with $62.5 million in funding to build what it calls a behavioral world model. Its first customers are brokerages that want to know how individual traders will act when markets turn volatile. 42AI offers software that estimates the odds of…</description>
   </item>
   <item>
+    <title>Anthropic&#39;s new prototype proves which model wrote an AI response without exposing its weights</title>
+    <link>https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/</guid>
+    <pubDate>Wed, 04 Nov 2026 15:23:49 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic&#39;s new prototype proves which model wrote an AI response without exposing its…</description>
+  </item>
+  <item>
     <title>AI agents take over at SETI&#39;s Allen Telescope Array, scanning for extraterrestrial intelligence</title>
     <link>https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/</link>
     <guid isPermaLink="true">https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/</guid>
     <pubDate>Tue, 03 Nov 2026 16:51:18 GMT</pubDate>
     <category>AI Business</category>
     <description>The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula in real time for the…</description>
-  </item>
-  <item>
-    <title>Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs</title>
-    <link>https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/</guid>
-    <pubDate>Tue, 03 Nov 2026 09:48:08 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder .</description>
   </item>
   <item>
     <title>Gemini Carbon aims to boost AI cyber defense, but is limited to a few</title>
@@ -495,12 +511,12 @@
     <description>The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare whether AI has been used in their work, the site announced today as part of a big post about AI-generated content on the platform. One of the most…</description>
   </item>
   <item>
-    <title>Anthropic warns that it’s very close to RSI capability, aka self-building AI</title>
-    <link>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</guid>
-    <pubDate>Mon, 02 Nov 2026 22:14:50 GMT</pubDate>
+    <title>The rise of agentic AI in networking</title>
+    <link>https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking</link>
+    <guid isPermaLink="true">https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking</guid>
+    <pubDate>Tue, 03 Nov 2026 15:04:27 GMT</pubDate>
     <category>AI Business</category>
-    <description>RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.</description>
+    <description>Despite using more AI in networking operations, organizations still need to ensure that agents act deterministically.</description>
   </item>
   <item>
     <title>Anthropic adds rule to stop Claude Code recreating existing games</title>
@@ -535,6 +551,14 @@
     <description>Physical AI is pushing artificial intelligence into robots, factories and other real-world environments, where understanding language is only part of the challenge.</description>
   </item>
   <item>
+    <title>Oumi’s Frontier AI Engineer now builds AI agents and retrains the models behind them</title>
+    <link>https://siliconangle.com/2026/11/04/oumis-frontier-ai-engineer-now-builds-ai-agents-and-retrains-the-models-behind-them/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/04/oumis-frontier-ai-engineer-now-builds-ai-agents-and-retrains-the-models-behind-them/</guid>
+    <pubDate>Wed, 04 Nov 2026 14:00:32 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Enterprise artificial intelligence platform company Oumi PBC today extended its Frontier AI Engineer agent so it can build AI agents for customers and retrain the models those agents run on. The release goes after a problem that tends to surface once agents leave the demo stage. A failing agent…</description>
+  </item>
+  <item>
     <title>Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights</title>
     <link>https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/</guid>
@@ -559,12 +583,12 @@
     <description>Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard. The technology will enable website operators to block artificial intelligence developers from using their content to train their models. Many websites contain a…</description>
   </item>
   <item>
-    <title>AINews OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
-    <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-openais-patch-the-planet-program/</guid>
-    <pubDate>Thu, 22 Oct 2026 07:42:44 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>The Big Hardening begins</description>
+    <title>How U Mobile built agentic telco operations with Amazon Bedrock AgentCore</title>
+    <link>https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/</link>
+    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/</guid>
+    <pubDate>Wed, 04 Nov 2026 16:23:33 GMT</pubDate>
+    <category>App Dev</category>
+    <description>U Mobile, Malaysia&#39;s newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six…</description>
   </item>
   <item>
     <title>An updated Model Spec for more capable and beneficial AI</title>
@@ -599,28 +623,12 @@
     <description></description>
   </item>
   <item>
-    <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
-    <link>https://openai.com/index/building-chatgpt-ad-stack</link>
-    <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
-    <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.</description>
-  </item>
-  <item>
     <title>Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore</title>
     <link>https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/</link>
     <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/</guid>
     <pubDate>Mon, 02 Nov 2026 17:01:16 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the…</description>
-  </item>
-  <item>
-    <title>Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/</guid>
-    <pubDate>Thu, 29 Oct 2026 16:11:08 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod EKS with NVIDIA…</description>
   </item>
   <item>
     <title>Your favorite agents are now integrated in Android Studio</title>
@@ -637,14 +645,6 @@
     <pubDate>Mon, 26 Oct 2026 19:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>AgentEnv , Scale AI&#39;s framework for testing agents against tasks and scoring their results, now runs on Vercel Sandbox . The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent and its task environment in separate Sandboxes. Try the AgentEnv example to run an evaluation on…</description>
-  </item>
-  <item>
-    <title>Anthropic is working on a system to prove AI models’ identity</title>
-    <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</guid>
-    <pubDate>Tue, 03 Nov 2026 22:41:03 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.</description>
   </item>
 </channel>
 </rss>
