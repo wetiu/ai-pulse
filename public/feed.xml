@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 07 Nov 2026 12:58:12 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 21:48:18 GMT</lastBuildDate>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -109,14 +109,6 @@
     <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.</description>
-  </item>
-  <item>
-    <title>Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1</title>
-    <link>https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/</guid>
-    <pubDate>Wed, 04 Nov 2026 21:01:06 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size. The post Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1…</description>
   </item>
   <item>
     <title>Anthropic Launches Claude Personal Finance Ahead of Nasdaq Listing</title>
@@ -437,6 +429,14 @@
     <pubDate>Wed, 28 Oct 2026 07:25:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention…</description>
+  </item>
+  <item>
+    <title>AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds</title>
+    <link>https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/</link>
+    <guid isPermaLink="true">https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/</guid>
+    <pubDate>Sat, 07 Nov 2026 16:56:38 GMT</pubDate>
+    <category>AI Business</category>
+    <description>AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That&#39;s not yet enough for reliable…</description>
   </item>
   <item>
     <title>Perplexity now has its own always-on AI agent</title>
