@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T05:56:35.619Z",
-  "count": 354,
+  "generatedAt": "2026-11-07T12:58:12.524Z",
+  "count": 353,
   "focusCount": 232,
   "topics": [
     "Game Dev",
@@ -95,20 +95,6 @@
       "date": "2026-11-06T22:53:46.000Z",
       "topic": "AI Business",
       "importance": 12.899999999999999,
-      "isFocus": true
-    },
-    {
-      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-      "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-05T17:56:41.000Z",
-      "topic": "AI Business",
-      "importance": 12.8,
       "isFocus": true
     },
     {
@@ -350,6 +336,20 @@
       "isFocus": true
     },
     {
+      "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+      "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+      "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution. The…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-07T09:45:23.000Z",
+      "topic": "AI Business",
+      "importance": 11.2,
+      "isFocus": true
+    },
+    {
       "title": "AINews Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
       "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
       "summary": "It turns out you cannot have your cake AND eat it",
@@ -362,20 +362,6 @@
       "topic": "AI Business",
       "importance": 11.2,
       "isFocus": true
-    },
-    {
-      "title": "AINews Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "url": "https://latent.space/p/ainews-kimi-31/",
-      "summary": "We have Fable at home... or so we are being told by paid shills",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-10-24T07:18:29.000Z",
-      "topic": "Open Source",
-      "importance": 11.2,
-      "isFocus": false
     },
     {
       "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
@@ -613,20 +599,6 @@
       "date": "2026-11-04T17:31:53.000Z",
       "topic": "AI Business",
       "importance": 10.5,
-      "isFocus": true
-    },
-    {
-      "title": "Anthropic adds bank account access to Claude so users can track their spending",
-      "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
-      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder .",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-06T11:33:13.000Z",
-      "topic": "AI Business",
-      "importance": 10.4,
       "isFocus": true
     },
     {
@@ -882,6 +854,20 @@
       "isFocus": true
     },
     {
+      "title": "State propaganda in some Chinese AI models is only a thin layer that fine-tuning can strip away",
+      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-07T12:32:45.000Z",
+      "topic": "AI Business",
+      "importance": 9.9,
+      "isFocus": true
+    },
+    {
       "title": "AI Gateway adds DeepSeek Search and Fetch tools",
       "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
       "summary": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No…",
@@ -994,6 +980,20 @@
       "isFocus": true
     },
     {
+      "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+      "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+      "summary": "The Into the Unknown benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place.…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-07T11:13:42.000Z",
+      "topic": "AI Business",
+      "importance": 9.8,
+      "isFocus": true
+    },
+    {
       "title": "Anthropic IPO Faces $500 Billion Valuation Hit After Tech Stocks Plunge",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-faces-500-billion-valuation-hit-after-tech-stocks-plunge/",
       "summary": "The valuation or the timing of Anthropic’s planned initial public offering could be impacted by Thursday’s (Nov. 5) selloff of tech stocks, according to multiple media reports. The Wall Street Journal reported Thursday that three major investors who plan to participate in the IPO said Anthropic is…",
@@ -1003,20 +1003,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-06T02:07:35.000Z",
-      "topic": "AI Business",
-      "importance": 9.8,
-      "isFocus": true
-    },
-    {
-      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-      "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
-      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-05T19:05:31.000Z",
       "topic": "AI Business",
       "importance": 9.8,
       "isFocus": true
@@ -1402,7 +1388,7 @@
     {
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1522 # Comments: 494",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1523 # Comments: 494",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -1596,20 +1582,6 @@
       "isFocus": false
     },
     {
-      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-04T20:41:29.000Z",
-      "topic": "AI Business",
-      "importance": 9,
-      "isFocus": true
-    },
-    {
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "summary": "<p>Yesterday's hot paper was <a href= https://rikiyat.github.io/blog/weight-space-programming/ >Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</a> by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a…",
@@ -1636,6 +1608,20 @@
       "topic": "AI Business",
       "importance": 8.9,
       "isFocus": true
+    },
+    {
+      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+      "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+      "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-07T08:16:33.000Z",
+      "topic": "Open Source",
+      "importance": 8.8,
+      "isFocus": false
     },
     {
       "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
@@ -1732,20 +1718,6 @@
       "researchOnly": false,
       "date": "2026-11-06T00:00:00.000Z",
       "topic": "Web Dev",
-      "importance": 8.7,
-      "isFocus": true
-    },
-    {
-      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-      "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linux kernel,…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-05T20:36:25.000Z",
-      "topic": "AI Business",
       "importance": 8.7,
       "isFocus": true
     },
@@ -2144,7 +2116,7 @@
     {
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 108 # Comments: 175",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 109 # Comments: 176",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2308,6 +2280,20 @@
       "topic": "Models & Labs",
       "importance": 8.3,
       "isFocus": false
+    },
+    {
+      "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+      "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+      "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in the Google Health…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-07T09:54:09.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
     },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -3360,9 +3346,23 @@
       "isFocus": true
     },
     {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-07T11:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "AI is dramatically accelerating AI research",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 252 # Comments: 202",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 329 # Comments: 291",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3397,6 +3397,20 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-06T18:10:10.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 100 # Comments: 18",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-06T18:04:06.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3446,7 +3460,7 @@
     {
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
       "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 127 # Comments: 58",
+      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 130 # Comments: 59",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3474,7 +3488,7 @@
     {
       "title": "I struggle to believe that AI R&D is ingenious",
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 188 # Comments: 196",
+      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 204 # Comments: 202",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3502,7 +3516,7 @@
     {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 502 # Comments: 224",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 509 # Comments: 224",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3516,7 +3530,7 @@
     {
       "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 191",
+      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3656,7 +3670,7 @@
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1292 # Comments: 748",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1293 # Comments: 748",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3670,7 +3684,7 @@
     {
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
       "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 321 # Comments: 320",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 321 # Comments: 321",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3740,7 +3754,7 @@
     {
       "title": "Google will turn off search for schools that reject AI",
       "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 672 # Comments: 468",
+      "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 672 # Comments: 469",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3789,20 +3803,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-02T23:33:24.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 200 # Comments: 176",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-02T19:27:37.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -4925,20 +4925,6 @@
       "date": "2026-11-03T16:49:29.000Z",
       "topic": "Models & Labs",
       "importance": 3.8,
-      "isFocus": false
-    },
-    {
-      "title": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
-      "url": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
-      "summary": "Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder. The post Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-04T04:39:27.000Z",
-      "topic": "Research",
-      "importance": 3.5,
       "isFocus": false
     },
     {

@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 07 Nov 2026 05:56:35 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 12:58:12 GMT</lastBuildDate>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -53,14 +53,6 @@
     <pubDate>Fri, 06 Nov 2026 22:53:46 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn&#39;t closed yet but is expected to in the coming weeks.</description>
-  </item>
-  <item>
-    <title>Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model</title>
-    <link>https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/</link>
-    <guid isPermaLink="true">https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/</guid>
-    <pubDate>Thu, 05 Nov 2026 17:56:41 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source…</description>
   </item>
   <item>
     <title>How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands</title>
@@ -199,20 +191,20 @@
     <description>NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip…</description>
   </item>
   <item>
+    <title>OpenAI lands an $11 billion funding round, but has to court dentists for more capital</title>
+    <link>https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/</guid>
+    <pubDate>Sat, 07 Nov 2026 09:45:23 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution. The…</description>
+  </item>
+  <item>
     <title>AINews Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
     <link>https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</link>
     <guid isPermaLink="true">https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</guid>
     <pubDate>Sat, 31 Oct 2026 05:00:48 GMT</pubDate>
     <category>AI Business</category>
     <description>It turns out you cannot have your cake AND eat it</description>
-  </item>
-  <item>
-    <title>AINews Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
-    <link>https://latent.space/p/ainews-kimi-31/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
-    <pubDate>Sat, 24 Oct 2026 07:18:29 GMT</pubDate>
-    <category>Open Source</category>
-    <description>We have Fable at home... or so we are being told by paid shills</description>
   </item>
   <item>
     <title>Meta introduces Spaces, a new way to collaborate with your Muse agent</title>
@@ -349,14 +341,6 @@
     <pubDate>Wed, 04 Nov 2026 17:31:53 GMT</pubDate>
     <category>AI Business</category>
     <description>Hi HN! I&#39;m Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with…</description>
-  </item>
-  <item>
-    <title>Anthropic adds bank account access to Claude so users can track their spending</title>
-    <link>https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/</guid>
-    <pubDate>Fri, 06 Nov 2026 11:33:13 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder .</description>
   </item>
   <item>
     <title>Merge builds product and business tools with OpenAI technology</title>
@@ -503,6 +487,14 @@
     <description>Israeli artificial intelligence startup 42AI launched today with $62.5 million in funding to build what it calls a behavioral world model. Its first customers are brokerages that want to know how individual traders will act when markets turn volatile. 42AI offers software that estimates the odds of…</description>
   </item>
   <item>
+    <title>State propaganda in some Chinese AI models is only a thin layer that fine-tuning can strip away</title>
+    <link>https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/</link>
+    <guid isPermaLink="true">https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/</guid>
+    <pubDate>Sat, 07 Nov 2026 12:32:45 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Nous Research retrained Alibaba&#39;s Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised…</description>
+  </item>
+  <item>
     <title>AI Gateway adds DeepSeek Search and Fetch tools</title>
     <link>https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools</link>
     <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools</guid>
@@ -567,20 +559,20 @@
     <description>You can now run CI for your Turborepo with one line of configuration. In Vercel&#39;s internal repositories, our wait time from git push to CI passed is 2-6x shorter, dramatically improving our CI&#39;s ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task…</description>
   </item>
   <item>
+    <title>Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts&#39; bar</title>
+    <link>https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/</link>
+    <guid isPermaLink="true">https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/</guid>
+    <pubDate>Sat, 07 Nov 2026 11:13:42 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The Into the Unknown benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place.…</description>
+  </item>
+  <item>
     <title>Anthropic IPO Faces $500 Billion Valuation Hit After Tech Stocks Plunge</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-faces-500-billion-valuation-hit-after-tech-stocks-plunge/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-faces-500-billion-valuation-hit-after-tech-stocks-plunge/</guid>
     <pubDate>Fri, 06 Nov 2026 02:07:35 GMT</pubDate>
     <category>AI Business</category>
     <description>The valuation or the timing of Anthropic’s planned initial public offering could be impacted by Thursday’s (Nov. 5) selloff of tech stocks, according to multiple media reports. The Wall Street Journal reported Thursday that three major investors who plan to participate in the IPO said Anthropic is…</description>
-  </item>
-  <item>
-    <title>Google&#39;s Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent</title>
-    <link>https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/</link>
-    <guid isPermaLink="true">https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/</guid>
-    <pubDate>Thu, 05 Nov 2026 19:05:31 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and…</description>
   </item>
   <item>
     <title>The rise of agentic AI in networking</title>
@@ -645,6 +637,14 @@
     <pubDate>Fri, 06 Nov 2026 00:46:38 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI Co-Founder and President Greg Brockman said Wednesday (Nov. 4) that the company could be ready for an initial public offering in 2027 and that it has formed a strategic partnership with JPMorganChase to supply the bank with artificial intelligence services, The Wall Street Journal reported.…</description>
+  </item>
+  <item>
+    <title>DataGrip 2026.3: Agentic Development With JetBrains Air, Cross-Database Queries, DuckDB Support, and Major UX Improvements</title>
+    <link>https://blog.jetbrains.com/datagrip/2026/11/05/datagrip-2026-3-agentic-development-with-jetbrains-air-cross-database-queries-duckdb-support-and-major-ux-improvements/</link>
+    <guid isPermaLink="true">https://blog.jetbrains.com/datagrip/2026/11/05/datagrip-2026-3-agentic-development-with-jetbrains-air-cross-database-queries-duckdb-support-and-major-ux-improvements/</guid>
+    <pubDate>Thu, 05 Nov 2026 14:43:00 GMT</pubDate>
+    <category>App Dev</category>
+    <description>DataGrip 2026.3, the third major update of the year, is here! Let’s take a look at what’s inside. AI JetBrains Air is now available by default in DataGrip. You can run SQL, explore data, and reference database objects directly in chats with AI agents. SQL snippets use your IDE’s syntax highlighting…</description>
   </item>
 </channel>
 </rss>
