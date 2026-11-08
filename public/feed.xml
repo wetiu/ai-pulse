@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 07 Nov 2026 21:48:18 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 05:58:36 GMT</lastBuildDate>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -287,14 +287,6 @@
     <description>OpenAI&#39;s newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.</description>
   </item>
   <item>
-    <title>Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
-    <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</guid>
-    <pubDate>Thu, 05 Nov 2026 15:19:05 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.</description>
-  </item>
-  <item>
     <title>Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster</title>
     <link>https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/</guid>
@@ -477,6 +469,14 @@
     <pubDate>Thu, 05 Nov 2026 14:00:34 GMT</pubDate>
     <category>Game Dev</category>
     <description>Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward…</description>
+  </item>
+  <item>
+    <title>datasette #3046: Don&#39;t serve link: rel=next HTTP headers to Firefox for HTML pages</title>
+    <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/7/link-rel-next/</guid>
+    <pubDate>Sat, 07 Nov 2026 23:57:46 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://github.com/simonw/datasette/issues/3046 &gt;datasette #3046: Don&amp;#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an &lt;a…</description>
   </item>
   <item>
     <title>42AI launches with $62.5M to predict how traders act when markets turn volatile</title>
