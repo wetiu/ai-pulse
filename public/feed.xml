@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 08 Nov 2026 22:02:33 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 06:24:00 GMT</lastBuildDate>
   <item>
     <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
     <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
@@ -45,6 +45,14 @@
     <pubDate>Fri, 06 Nov 2026 22:53:46 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn&#39;t closed yet but is expected to in the coming weeks.</description>
+  </item>
+  <item>
+    <title>From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration</title>
+    <link>https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</guid>
+    <pubDate>Mon, 09 Nov 2026 05:00:04 GMT</pubDate>
+    <category>AI Business</category>
+    <description>NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU…</description>
   </item>
   <item>
     <title>How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands</title>
@@ -413,14 +421,6 @@
     <pubDate>Fri, 06 Nov 2026 18:43:43 GMT</pubDate>
     <category>AI Business</category>
     <description>An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.</description>
-  </item>
-  <item>
-    <title>Moonshot’s Open-Weight Model Tops OpenAI on Financial Research Benchmark</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/open-models-crowd-the-top-as-kimi-and-mistral-match-the-frontier/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/open-models-crowd-the-top-as-kimi-and-mistral-match-the-frontier/</guid>
-    <pubDate>Thu, 05 Nov 2026 22:13:09 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The gap between open and closed artificial intelligence models narrowed again this week. Moonshot released the weights for Kimi K3.1 Pro, and Mistral did the same for Large 4. Both pitch finance as a core use case. Moonshot, Mistral and Tencent Open Their Flagships Moonshot AI released the weights…</description>
   </item>
   <item>
     <title>‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW</title>
