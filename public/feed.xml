@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Tue, 10 Nov 2026 19:42:25 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 06:14:43 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -31,20 +31,28 @@
     <description>Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to…</description>
   </item>
   <item>
-    <title>Tencent releases Hy4, a powerful frontier AI model introducing visual understanding and computer use</title>
-    <link>https://siliconangle.com/2026/11/04/tencent-releases-hy4-powerful-frontier-llm-introducing-visual-understanding-and-computer-use/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/04/tencent-releases-hy4-powerful-frontier-llm-introducing-visual-understanding-and-computer-use/</guid>
-    <pubDate>Wed, 04 Nov 2026 16:05:47 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Tencent Holdings Ltd. today introduced Hy4, a new large language model that adds computer-use capabilities for the first time, using advanced visual understanding, reasoning and tool-calling to deliver long-horizon agentic performance. The company said the model marks a significant leap in…</description>
-  </item>
-  <item>
     <title>Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet</title>
     <link>https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/</link>
     <guid isPermaLink="true">https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/</guid>
     <pubDate>Thu, 05 Nov 2026 14:00:20 GMT</pubDate>
     <category>AI Business</category>
     <description>Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its founding in 2007.</description>
+  </item>
+  <item>
+    <title>ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser</title>
+    <link>https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/</link>
+    <guid isPermaLink="true">https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/</guid>
+    <pubDate>Tue, 10 Nov 2026 22:15:07 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>TL;DR PyTorch models now run in the web browser on the GPU through ExecuTorch, with no conversion to another framework’s format. You export with torch.export to an ExecuTorch .pte file,... The post ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser appeared first on PyTorch .</description>
+  </item>
+  <item>
+    <title>Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises</title>
+    <link>https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/</guid>
+    <pubDate>Tue, 10 Nov 2026 22:45:50 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Artificial intelligence training data company Mercor.io Corp. today revealed that it has raised $750 million in new funding at a $20 billion valuation. Mercor provides the human expertise used to train and evaluate AI models, drawing on a network of more than 5 million domain experts. Most of that…</description>
   </item>
   <item>
     <title>Google Cloud launches Gemini for healthcare.</title>
@@ -117,6 +125,14 @@
     <pubDate>Wed, 28 Oct 2026 19:18:49 GMT</pubDate>
     <category>AI Business</category>
     <description>The deal will provide inference for the Muse personal agent.</description>
+  </item>
+  <item>
+    <title>OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions</title>
+    <link>https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/</guid>
+    <pubDate>Tue, 10 Nov 2026 20:17:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. Business Agents let eligible US e-commerce providers talk to customers directly inside ChatGPT. The article OpenAI turns…</description>
   </item>
   <item>
     <title>geniosAI Raises $19.1 Million to Bring Traceable AI Analysis to Financial Institutions</title>
@@ -215,14 +231,6 @@
     <description></description>
   </item>
   <item>
-    <title>Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games</title>
-    <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</link>
-    <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</guid>
-    <pubDate>Wed, 28 Oct 2026 15:00:46 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip…</description>
-  </item>
-  <item>
     <title>IBM and Microsoft Launch AI Agent Platform</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/ibm-and-microsoft-launch-ai-agent-platform/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/ibm-and-microsoft-launch-ai-agent-platform/</guid>
@@ -263,6 +271,22 @@
     <description>AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.</description>
   </item>
   <item>
+    <title>Online Travel Agencies’ Shares Drop Following OpenAI Acquisition of Travel Startup Odessia</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/online-travel-agencies-shares-drop-following-openai-acquisition-of-travel-startup-odessia/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/online-travel-agencies-shares-drop-following-openai-acquisition-of-travel-startup-odessia/</guid>
+    <pubDate>Tue, 10 Nov 2026 23:29:31 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Shares of major online travel agencies tumbled Tuesday (Nov. 10) after artificial intelligence (AI) developer OpenAI acquired automated travel platform Odessia, Seeking Alpha reported. The transaction triggered investor concern regarding potential disruption to established booking platforms,…</description>
+  </item>
+  <item>
+    <title>OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</title>
+    <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</guid>
+    <pubDate>Tue, 10 Nov 2026 20:52:13 GMT</pubDate>
+    <category>AI Business</category>
+    <description>New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.</description>
+  </item>
+  <item>
     <title>CodeRabbit scales agentic software development and ships 20x more</title>
     <link>https://openai.com/index/coderabbit-codex-daybreak</link>
     <guid isPermaLink="true">https://openai.com/index/coderabbit-codex-daybreak</guid>
@@ -285,6 +309,14 @@
     <pubDate>Fri, 30 Oct 2026 18:52:20 GMT</pubDate>
     <category>Game Dev</category>
     <description>Update: Anthropic has confirmed it&#39;s released an update to Opus 5.5 to steer Claude Code away from recreating someone else&#39;s specific game.</description>
+  </item>
+  <item>
+    <title>ReSharper 2026.3: Claude Agent and Codex in Visual Studio, .NET 11 and C# 15 Support, and More</title>
+    <link>https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/</link>
+    <guid isPermaLink="true">https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/</guid>
+    <pubDate>Tue, 10 Nov 2026 21:43:46 GMT</pubDate>
+    <category>App Dev</category>
+    <description>ReSharper 2026.2 brought Junie to Visual Studio as ReSharper’s first coding agent. In 2026.3, you can also pick Claude Agent or Codex in the same tool window. All three agents can use ReSharper’s refactoring skill to run refactorings such as Rename. This release also supports .NET 11 and C# 15, and…</description>
   </item>
   <item>
     <title>How we detect frontier model misalignment</title>
@@ -317,6 +349,14 @@
     <pubDate>Fri, 30 Oct 2026 14:39:49 GMT</pubDate>
     <category>Game Dev</category>
     <description>Studio Atelico has launched its Atelico AI Engine into Early Access. Read more</description>
+  </item>
+  <item>
+    <title>10 tips for organizing your first video game project with AI</title>
+    <link>https://unity.com/blog/how-to-organize-a-game-project-with-ai</link>
+    <guid isPermaLink="true">https://unity.com/blog/how-to-organize-a-game-project-with-ai</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>How to organize a video game project with AI: 10 beginner tips on design briefs, naming, checkpoints, prompt logs, and playtesting – no coding needed.</description>
   </item>
   <item>
     <title>Jensen Huang’s future raises questions for AI infrastructure industry</title>
@@ -357,6 +397,14 @@
     <pubDate>Thu, 29 Oct 2026 22:48:29 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions &gt;API credits benefit for eligible ChatGPT subscriptions&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Earlier this month Anthropic &lt;a href= https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/#api-credits…</description>
+  </item>
+  <item>
+    <title>OpenAI Gives Businesses New Tools to Reach ChatGPT Users</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-businesses-new-tools-to-reach-chatgpt-users/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-businesses-new-tools-to-reach-chatgpt-users/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:44:47 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI is launching a new suite of tools that lets companies manage their presence on the platform, track customer engagement and deploy artificial intelligence (AI) agents to interact with prospective customers. The announcement, made Tuesday (Nov. 10), introduces Businesses in ChatGPT, a beta…</description>
   </item>
   <item>
     <title>Claude Fable 5.2 and Mythos 5.2 cement Anthropic&#39;s AI lead just before its IPO</title>
@@ -415,6 +463,22 @@
     <description>Mistral Large 4 from Mistral now uses updated weights on AI Gateway , with lower pricing for input, cached input, and output tokens. According to Mistral’s release announcement , the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks.…</description>
   </item>
   <item>
+    <title>Defence startup Mistt raises £5m to build the ‘next GPS’ for autonomous systems and AI</title>
+    <link>https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/</guid>
+    <pubDate>Wed, 11 Nov 2026 05:00:25 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
+    <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
+    <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</guid>
+    <pubDate>Tue, 10 Nov 2026 21:08:52 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.</description>
+  </item>
+  <item>
     <title>Exclusive: Nvidia bet Hiverge quietly raises $19.4m backed by Plural</title>
     <link>https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/</link>
     <guid isPermaLink="true">https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/</guid>
@@ -431,14 +495,6 @@
     <description></description>
   </item>
   <item>
-    <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
-    <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</guid>
-    <pubDate>Mon, 09 Nov 2026 19:24:51 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic says the new models show improvements in areas like coding, reasoning, and vision, as well as in communicating more clearly with users.</description>
-  </item>
-  <item>
     <title>The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds</title>
     <link>https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/</link>
     <guid isPermaLink="true">https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/</guid>
@@ -453,6 +509,14 @@
     <pubDate>Wed, 28 Oct 2026 07:25:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention…</description>
+  </item>
+  <item>
+    <title>Anthropic Unveils Office Suite to Challenge Microsoft Ahead of Landmark IPO</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/</guid>
+    <pubDate>Tue, 10 Nov 2026 21:10:32 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic is releasing a suite of workplace applications designed to integrate artificial intelligence directly into daily business operations, escalating competition with major backers Microsoft and Alphabet’s Google as the startup prepares for an initial public offering later (IPO) this month,…</description>
   </item>
   <item>
     <title>AINews Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
@@ -479,14 +543,6 @@
     <description>Anthropic PBC today pulled back the curtains on Claude Fable 5.2 and Claude Mythos 5.2, its two most capable large language models to date. The LLMs are identical as far as their core capabilities are concerned. The difference is that Fable 5.2 blocks certain biology and cybersecurity use cases,…</description>
   </item>
   <item>
-    <title>Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</title>
-    <link>https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/</guid>
-    <pubDate>Sun, 08 Nov 2026 10:27:27 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods. The post Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared appeared first on…</description>
-  </item>
-  <item>
     <title>‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW</title>
     <link>https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</guid>
@@ -501,6 +557,14 @@
     <pubDate>Sat, 07 Nov 2026 23:57:46 GMT</pubDate>
     <category>Web Dev</category>
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://github.com/simonw/datasette/issues/3046 &gt;datasette #3046: Don&amp;#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an &lt;a…</description>
+  </item>
+  <item>
+    <title>Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes</title>
+    <link>https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/</guid>
+    <pubDate>Tue, 10 Nov 2026 19:48:40 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into…</description>
   </item>
   <item>
     <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
@@ -567,84 +631,20 @@
     <description>You can now run CI for your Turborepo with one line of configuration. In Vercel&#39;s internal repositories, our wait time from git push to CI passed is 2-6x shorter, dramatically improving our CI&#39;s ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task…</description>
   </item>
   <item>
+    <title>Anthropic launches IPO roadshow with $64B fundraising goal</title>
+    <link>https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/</guid>
+    <pubDate>Tue, 10 Nov 2026 21:33:17 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic PBC today kicked off the roadshow for its upcoming initial public offering. An IPO roadshow is a series of promotional events aimed at persuading institutional investors to buy shares. Anthropic plans to sell 825 million units of common stock for $70 to $78 per share, which works out to…</description>
+  </item>
+  <item>
     <title>Gemini 4 Carbon now available on AI Gateway</title>
     <link>https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway</link>
     <guid isPermaLink="true">https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway</guid>
     <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off through November 30, 2026: Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long…</description>
-  </item>
-  <item>
-    <title>Claude Fable 5.2 now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway</guid>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Claude Fable 5.2 from Anthropic is now available on AI Gateway . Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller…</description>
-  </item>
-  <item>
-    <title>The rise of agentic AI in networking</title>
-    <link>https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking</link>
-    <guid isPermaLink="true">https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking</guid>
-    <pubDate>Tue, 03 Nov 2026 15:04:27 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Despite using more AI in networking operations, organizations still need to ensure that agents act deterministically.</description>
-  </item>
-  <item>
-    <title>Anthropic adds rule to stop Claude Code recreating existing games</title>
-    <link>https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games</link>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games</guid>
-    <pubDate>Mon, 02 Nov 2026 17:50:20 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games. Read more</description>
-  </item>
-  <item>
-    <title>Prompt: AI demand is booming; the economics are getting complicated</title>
-    <link>https://aibusiness.com/generative-ai/prompt-ai-demand-is-booming</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/prompt-ai-demand-is-booming</guid>
-    <pubDate>Fri, 30 Oct 2026 16:01:43 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic’s IPO filing offers a glimpse into soaring enterprise AI demand, but price competition and the cost of delivering AI are complicating the path to profitability.</description>
-  </item>
-  <item>
-    <title>Roblox confirms no adult content used in AI training after scraping Open3DLab data</title>
-    <link>https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data</link>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data</guid>
-    <pubDate>Wed, 28 Oct 2026 15:45:59 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>Roblox says an AI agent failed to operate &#39;as intended&#39; when it mass-downloaded adult content from Open3DLab, Smutlab, and SFMLab.</description>
-  </item>
-  <item>
-    <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
-    <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/hub-gcp-marketplace</guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
-    <title>AINews Anthropic IPO: Whither Now?</title>
-    <link>https://latent.space/p/ainews-anthropic-ipo-whither-now/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-ipo-whither-now/</guid>
-    <pubDate>Sat, 07 Nov 2026 03:04:53 GMT</pubDate>
-    <category>AI Business</category>
-    <description>November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.</description>
-  </item>
-  <item>
-    <title>Oumi’s Frontier AI Engineer now builds AI agents and retrains the models behind them</title>
-    <link>https://siliconangle.com/2026/11/04/oumis-frontier-ai-engineer-now-builds-ai-agents-and-retrains-the-models-behind-them/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/04/oumis-frontier-ai-engineer-now-builds-ai-agents-and-retrains-the-models-behind-them/</guid>
-    <pubDate>Wed, 04 Nov 2026 14:00:32 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Enterprise artificial intelligence platform company Oumi PBC today extended its Frontier AI Engineer agent so it can build AI agents for customers and retrain the models those agents run on. The release goes after a problem that tends to surface once agents leave the demo stage. A failing agent…</description>
-  </item>
-  <item>
-    <title>AINews LLMs can read &amp; write neural network weights: Weight Space Programming cuts Autoresearch out of the RSI loop</title>
-    <link>https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</guid>
-    <pubDate>Tue, 03 Nov 2026 05:35:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.</description>
   </item>
 </channel>
 </rss>
