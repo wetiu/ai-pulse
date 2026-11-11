@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 11 Nov 2026 06:14:43 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 14:25:57 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -13,30 +13,6 @@
     <pubDate>Mon, 09 Nov 2026 08:00:53 GMT</pubDate>
     <category>AI Business</category>
     <description>Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also…</description>
-  </item>
-  <item>
-    <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-    <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-    <guid isPermaLink="true">https://openai.com/index/openai-servicenow-partnership-expansion</guid>
-    <pubDate>Wed, 28 Oct 2026 13:15:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.</description>
-  </item>
-  <item>
-    <title>Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do</title>
-    <link>https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/</link>
-    <guid isPermaLink="true">https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/</guid>
-    <pubDate>Mon, 09 Nov 2026 19:41:51 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to…</description>
-  </item>
-  <item>
-    <title>Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet</title>
-    <link>https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/</link>
-    <guid isPermaLink="true">https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/</guid>
-    <pubDate>Thu, 05 Nov 2026 14:00:20 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its founding in 2007.</description>
   </item>
   <item>
     <title>ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser</title>
@@ -101,6 +77,14 @@
     <pubDate>Tue, 10 Nov 2026 14:59:09 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different…</description>
+  </item>
+  <item>
+    <title>US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs</title>
+    <link>https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/</link>
+    <guid isPermaLink="true">https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/</guid>
+    <pubDate>Wed, 11 Nov 2026 13:51:11 GMT</pubDate>
+    <category>AI Business</category>
+    <description>US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars&#39; worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and…</description>
   </item>
   <item>
     <title>Meta introduces Muse Ember to power cost-efficient AI agents</title>
@@ -181,6 +165,14 @@
     <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.</description>
+  </item>
+  <item>
+    <title>Enterprise sales push OpenAI&#39;s quarterly revenue to $10 billion, though it still trails Anthropic</title>
+    <link>https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</link>
+    <guid isPermaLink="true">https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</guid>
+    <pubDate>Wed, 11 Nov 2026 12:12:47 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for…</description>
   </item>
   <item>
     <title>Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
@@ -311,6 +303,14 @@
     <description>Update: Anthropic has confirmed it&#39;s released an update to Opus 5.5 to steer Claude Code away from recreating someone else&#39;s specific game.</description>
   </item>
   <item>
+    <title>MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI</title>
+    <link>https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</guid>
+    <pubDate>Wed, 11 Nov 2026 07:38:57 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared first…</description>
+  </item>
+  <item>
     <title>ReSharper 2026.3: Claude Agent and Codex in Visual Studio, .NET 11 and C# 15 Support, and More</title>
     <link>https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/</link>
     <guid isPermaLink="true">https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/</guid>
@@ -407,14 +407,6 @@
     <description>OpenAI is launching a new suite of tools that lets companies manage their presence on the platform, track customer engagement and deploy artificial intelligence (AI) agents to interact with prospective customers. The announcement, made Tuesday (Nov. 10), introduces Businesses in ChatGPT, a beta…</description>
   </item>
   <item>
-    <title>Claude Fable 5.2 and Mythos 5.2 cement Anthropic&#39;s AI lead just before its IPO</title>
-    <link>https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/</link>
-    <guid isPermaLink="true">https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/</guid>
-    <pubDate>Mon, 09 Nov 2026 21:15:23 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and…</description>
-  </item>
-  <item>
     <title>Merge builds product and business tools with OpenAI technology</title>
     <link>https://openai.com/index/merge-builds-with-openai</link>
     <guid isPermaLink="true">https://openai.com/index/merge-builds-with-openai</guid>
@@ -429,14 +421,6 @@
     <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.</description>
-  </item>
-  <item>
-    <title>Legora is building the agentic operating system for legal work</title>
-    <link>https://openai.com/index/legora</link>
-    <guid isPermaLink="true">https://openai.com/index/legora</guid>
-    <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
   </item>
   <item>
     <title>OpenAI reportedly raises $11B in new funding at $1.25T valuation</title>
@@ -503,14 +487,6 @@
     <description>This week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI, a defense tech player focused on autonomy and virtual simulations, secured the largest financing, bringing in $2 billion. Next on the list was drone delivery provider Zipline…</description>
   </item>
   <item>
-    <title>Introducing Virtual Models on AI Gateway</title>
-    <link>https://vercel.com/blog/ai-gateway-virtual-models</link>
-    <guid isPermaLink="true">https://vercel.com/blog/ai-gateway-virtual-models</guid>
-    <pubDate>Wed, 28 Oct 2026 07:25:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention…</description>
-  </item>
-  <item>
     <title>Anthropic Unveils Office Suite to Challenge Microsoft Ahead of Landmark IPO</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/</guid>
@@ -519,12 +495,12 @@
     <description>Anthropic is releasing a suite of workplace applications designed to integrate artificial intelligence directly into daily business operations, escalating competition with major backers Microsoft and Alphabet’s Google as the startup prepares for an initial public offering later (IPO) this month,…</description>
   </item>
   <item>
-    <title>AINews Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
-    <link>https://latent.space/p/ainews-gemini-4-carbon/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-gemini-4-carbon/</guid>
-    <pubDate>Thu, 29 Oct 2026 05:55:19 GMT</pubDate>
+    <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
+    <link>https://openai.com/index/singapore-airlines-travel-work</link>
+    <guid isPermaLink="true">https://openai.com/index/singapore-airlines-travel-work</guid>
+    <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
-    <description>Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.</description>
+    <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
   </item>
   <item>
     <title>ChatGPT is getting verified AI ‘Business Agents’</title>
@@ -645,6 +621,30 @@
     <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off through November 30, 2026: Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long…</description>
+  </item>
+  <item>
+    <title>Claude Fable 5.2 now available on AI Gateway</title>
+    <link>https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway</guid>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Claude Fable 5.2 from Anthropic is now available on AI Gateway . Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller…</description>
+  </item>
+  <item>
+    <title>The rise of agentic AI in networking</title>
+    <link>https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking</link>
+    <guid isPermaLink="true">https://aibusiness.com/agentic-ai/the-rise-of-agentic-ai-in-networking</guid>
+    <pubDate>Tue, 03 Nov 2026 15:04:27 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Despite using more AI in networking operations, organizations still need to ensure that agents act deterministically.</description>
+  </item>
+  <item>
+    <title>Anthropic adds rule to stop Claude Code recreating existing games</title>
+    <link>https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games</link>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games</guid>
+    <pubDate>Mon, 02 Nov 2026 17:50:20 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games. Read more</description>
   </item>
 </channel>
 </rss>
