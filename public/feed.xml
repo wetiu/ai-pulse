@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 11 Nov 2026 14:25:57 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 00:41:35 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -13,6 +13,14 @@
     <pubDate>Mon, 09 Nov 2026 08:00:53 GMT</pubDate>
     <category>AI Business</category>
     <description>Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also…</description>
+  </item>
+  <item>
+    <title>Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model</title>
+    <link>https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/</guid>
+    <pubDate>Wed, 11 Nov 2026 16:30:22 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Alphabet Inc.’s artificial intelligence research lab, Google DeepMind, Tuesday debuted the next generation of Gemini Robotics, the company’s most capable vision-language-action model to date for creating an “AI brain” for robotics. Separately, DeepMind announced AlphaGenome 2 today, a…</description>
   </item>
   <item>
     <title>ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser</title>
@@ -39,12 +47,20 @@
     <description>&lt;img src= https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp &gt;Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.</description>
   </item>
   <item>
-    <title>Google Debuts Gemini AI Agent for Healthcare Operations</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/google-debuts-gemini-ai-agent-healthcare-operations/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/google-debuts-gemini-ai-agent-healthcare-operations/</guid>
-    <pubDate>Tue, 10 Nov 2026 17:55:02 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google Cloud introduced an agentic artificial intelligence solution designed for healthcare operations, according to a Tuesday (Nov. 10) press release. Gemini for healthcare is designed to “unify the disparate clinical, operational and administrative systems central to healthcare delivery and…</description>
+    <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+    <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
+    <pubDate>Wed, 11 Nov 2026 18:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</description>
+  </item>
+  <item>
+    <title>Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension</title>
+    <link>https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:51:14 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost .</description>
   </item>
   <item>
     <title>From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration</title>
@@ -55,12 +71,20 @@
     <description>NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU…</description>
   </item>
   <item>
-    <title>Gemini 4 Carbon arrives just in time to feel like yesterday&#39;s news in the fastest model cycle yet</title>
-    <link>https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/</link>
-    <guid isPermaLink="true">https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/</guid>
-    <pubDate>Tue, 10 Nov 2026 18:19:13 GMT</pubDate>
+    <title>Introducing the Web Search API on Amazon Bedrock AgentCore</title>
+    <link>https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/</link>
+    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/</guid>
+    <pubDate>Wed, 11 Nov 2026 23:13:16 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Today we&#39;re announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.</description>
+  </item>
+  <item>
+    <title>Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming</title>
+    <link>https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/</link>
+    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:10:23 GMT</pubDate>
     <category>AI Business</category>
-    <description>Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic&#39;s new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the /swarm feature,…</description>
+    <description>AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and text-to-speech billing to AWS…</description>
   </item>
   <item>
     <title>Franklin Templeton uses OpenAI to support investment research</title>
@@ -71,12 +95,28 @@
     <description>Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.</description>
   </item>
   <item>
+    <title>With IPO looming, Anthropic launches new AI models, workplace tools</title>
+    <link>https://aibusiness.com/generative-ai/anthropic-launches-new-ai-models</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/anthropic-launches-new-ai-models</guid>
+    <pubDate>Wed, 11 Nov 2026 17:35:25 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The generative vendor released new capabilities targeting enterprise work and significantly updated models as it prepares for the historic public offering.</description>
+  </item>
+  <item>
     <title>Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</title>
     <link>https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</guid>
     <pubDate>Tue, 10 Nov 2026 14:59:09 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different…</description>
+  </item>
+  <item>
+    <title>Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens</title>
+    <link>https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</guid>
+    <pubDate>Wed, 11 Nov 2026 21:21:42 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API With Gemini Decision…</description>
   </item>
   <item>
     <title>US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs</title>
@@ -103,44 +143,12 @@
     <description>Meta Platforms Inc. has acquired artificial intelligence coding startup Conductor in a deal first reported today by Axios. Conductor confirmed it’s joining Meta in a post on its website. Terms were not disclosed. The company’s software lets a developer run several coding agents at once, each in an…</description>
   </item>
   <item>
-    <title>Nvidia bets on personal agents in new Meta partnership</title>
-    <link>https://aibusiness.com/agentic-ai/nvidia-bets-personal-agents-new-meta-partnership</link>
-    <guid isPermaLink="true">https://aibusiness.com/agentic-ai/nvidia-bets-personal-agents-new-meta-partnership</guid>
-    <pubDate>Wed, 28 Oct 2026 19:18:49 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The deal will provide inference for the Muse personal agent.</description>
-  </item>
-  <item>
-    <title>OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions</title>
-    <link>https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/</link>
-    <guid isPermaLink="true">https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/</guid>
-    <pubDate>Tue, 10 Nov 2026 20:17:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. Business Agents let eligible US e-commerce providers talk to customers directly inside ChatGPT. The article OpenAI turns…</description>
-  </item>
-  <item>
-    <title>geniosAI Raises $19.1 Million to Bring Traceable AI Analysis to Financial Institutions</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/geniosai-raises-19-1-million-to-bring-traceable-ai-analysis-to-financial-institutions/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/geniosai-raises-19-1-million-to-bring-traceable-ai-analysis-to-financial-institutions/</guid>
-    <pubDate>Mon, 09 Nov 2026 21:31:10 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Financial institutions looking for artificial intelligence applications beyond employee productivity tools may have a new option. Financial intelligence startup geniosAI has emerged from stealth with $19.1 million in combined seed and Series A funding, according to an announcement Monday (Nov. 9),…</description>
-  </item>
-  <item>
     <title>GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
     <link>https://openai.com/index/introducing-gpt-6-cyber</link>
     <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-cyber</guid>
     <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.</description>
-  </item>
-  <item>
-    <title>Google releases Gemini 4 Carbon with agent ‘swarm’ feature</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</guid>
-    <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of cybersecurity defenders two weeks ago. Google claims Carbon is its strongest model yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google…</description>
   </item>
   <item>
     <title>ChatGPT Enterprise now available in AWS Marketplace</title>
@@ -159,28 +167,12 @@
     <description></description>
   </item>
   <item>
-    <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
-    <link>https://openai.com/index/credit-saison</link>
-    <guid isPermaLink="true">https://openai.com/index/credit-saison</guid>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.</description>
-  </item>
-  <item>
     <title>Enterprise sales push OpenAI&#39;s quarterly revenue to $10 billion, though it still trails Anthropic</title>
     <link>https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</link>
     <guid isPermaLink="true">https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</guid>
     <pubDate>Wed, 11 Nov 2026 12:12:47 GMT</pubDate>
     <category>AI Business</category>
     <description>OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for…</description>
-  </item>
-  <item>
-    <title>Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
-    <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</guid>
-    <pubDate>Tue, 10 Nov 2026 17:30:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year&#39;s figures.</description>
   </item>
   <item>
     <title>Otoy releases OctaneRender 2027.1 in beta</title>
@@ -215,30 +207,6 @@
     <description>With the frontier AI lab about to go public, businesses mull the long-term stability of the Claude creator. OpenAI goes on a price-cut binge to compete with cheap China models.</description>
   </item>
   <item>
-    <title>Gemini 4 Carbon: Our next frontier model</title>
-    <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-    <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
-    <pubDate>Wed, 28 Oct 2026 17:00:58 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description></description>
-  </item>
-  <item>
-    <title>IBM and Microsoft Launch AI Agent Platform</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/ibm-and-microsoft-launch-ai-agent-platform/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/ibm-and-microsoft-launch-ai-agent-platform/</guid>
-    <pubDate>Tue, 10 Nov 2026 16:42:47 GMT</pubDate>
-    <category>AI Business</category>
-    <description>IBM and Microsoft on Tuesday (Nov. 10) introduced Imagine Enterprise, an artificial intelligence (AI) agent platform combining more than 6,000 prebuilt AI agents and related assets with Microsoft’s cloud infrastructure to help banks, insurers and retailers automate business processes. The platform…</description>
-  </item>
-  <item>
-    <title>0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP</title>
-    <link>https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/</guid>
-    <pubDate>Mon, 09 Nov 2026 07:55:18 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider. The post 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and…</description>
-  </item>
-  <item>
     <title>Anthropic Seeks Record $88.5B Tied To Public Market Debut</title>
     <link>https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/</link>
     <guid isPermaLink="true">https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/</guid>
@@ -261,14 +229,6 @@
     <pubDate>Tue, 10 Nov 2026 12:02:28 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.</description>
-  </item>
-  <item>
-    <title>Online Travel Agencies’ Shares Drop Following OpenAI Acquisition of Travel Startup Odessia</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/online-travel-agencies-shares-drop-following-openai-acquisition-of-travel-startup-odessia/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/online-travel-agencies-shares-drop-following-openai-acquisition-of-travel-startup-odessia/</guid>
-    <pubDate>Tue, 10 Nov 2026 23:29:31 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Shares of major online travel agencies tumbled Tuesday (Nov. 10) after artificial intelligence (AI) developer OpenAI acquired automated travel platform Odessia, Seeking Alpha reported. The transaction triggered investor concern regarding potential disruption to established booking platforms,…</description>
   </item>
   <item>
     <title>OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</title>
@@ -303,6 +263,14 @@
     <description>Update: Anthropic has confirmed it&#39;s released an update to Opus 5.5 to steer Claude Code away from recreating someone else&#39;s specific game.</description>
   </item>
   <item>
+    <title>Anthropic says AI is eroding Nvidia&#39;s CUDA lead, cutting an AMD chip switch from months to three days</title>
+    <link>https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/</guid>
+    <pubDate>Wed, 11 Nov 2026 14:25:20 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic claims it used AI itself to breach Nvidia&#39;s CUDA moat. The company&#39;s in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The…</description>
+  </item>
+  <item>
     <title>MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI</title>
     <link>https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</guid>
@@ -327,12 +295,12 @@
     <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.</description>
   </item>
   <item>
-    <title>Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/</guid>
-    <pubDate>Fri, 06 Nov 2026 17:09:18 GMT</pubDate>
-    <category>App Dev</category>
-    <description>An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access…</description>
+    <title>OpenAI’s quarterly revenue reportedly crosses $10B for the first time</title>
+    <link>https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</guid>
+    <pubDate>Wed, 11 Nov 2026 16:14:44 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.</description>
   </item>
   <item>
     <title>Introducing Businesses in ChatGPT</title>
@@ -391,14 +359,6 @@
     <description>Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories.…</description>
   </item>
   <item>
-    <title>API credits benefit for eligible ChatGPT subscriptions</title>
-    <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/api-credits/</guid>
-    <pubDate>Thu, 29 Oct 2026 22:48:29 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions &gt;API credits benefit for eligible ChatGPT subscriptions&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Earlier this month Anthropic &lt;a href= https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/#api-credits…</description>
-  </item>
-  <item>
     <title>OpenAI Gives Businesses New Tools to Reach ChatGPT Users</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-businesses-new-tools-to-reach-chatgpt-users/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-businesses-new-tools-to-reach-chatgpt-users/</guid>
@@ -439,12 +399,12 @@
     <description>Thinking Machines Labs Inc. has released a new large language model that can automate artificial intelligence training tasks. The algorithm, Inkling 2 Small, made its debut late Thursday. Around the same time, Business Insider reported that Thinking Machine is in the process of raising a $5 billion…</description>
   </item>
   <item>
-    <title>Mistral Large 4 updated weights and lower pricing on AI Gateway</title>
-    <link>https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway</guid>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Mistral Large 4 from Mistral now uses updated weights on AI Gateway , with lower pricing for input, cached input, and output tokens. According to Mistral’s release announcement , the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks.…</description>
+    <title>Gemini Decisions API</title>
+    <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
+    <pubDate>Wed, 11 Nov 2026 22:03:25 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ &gt;Gemini Decisions API&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Google join &lt;a href= https://simonwillison.net/2026/Sep/21/jev/ &gt;Jev&lt;/a&gt; and &lt;a href= https://simonwillison.net/2026/Oct/6/llm-openai-decisions/…</description>
   </item>
   <item>
     <title>Defence startup Mistt raises £5m to build the ‘next GPS’ for autonomous systems and AI</title>
@@ -487,12 +447,20 @@
     <description>This week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI, a defense tech player focused on autonomy and virtual simulations, secured the largest financing, bringing in $2 billion. Next on the list was drone delivery provider Zipline…</description>
   </item>
   <item>
-    <title>Anthropic Unveils Office Suite to Challenge Microsoft Ahead of Landmark IPO</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/</guid>
-    <pubDate>Tue, 10 Nov 2026 21:10:32 GMT</pubDate>
+    <title>New York Launches AI Safety Center Ahead of RAISE Act Deadline</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/new-york-launches-ai-safety-center-ahead-of-raise-act-deadline/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/new-york-launches-ai-safety-center-ahead-of-raise-act-deadline/</guid>
+    <pubDate>Wed, 11 Nov 2026 19:33:56 GMT</pubDate>
     <category>AI Business</category>
-    <description>Anthropic is releasing a suite of workplace applications designed to integrate artificial intelligence directly into daily business operations, escalating competition with major backers Microsoft and Alphabet’s Google as the startup prepares for an initial public offering later (IPO) this month,…</description>
+    <description>New York Gov. Kathy Hochul launched a statewide artificial intelligence (AI) research and safety testing initiative on Tuesday (Nov. 10), building independent technical expertise to scrutinize powerful systems as the state prepares to implement its RAISE Act in January. The New York Center for AI…</description>
+  </item>
+  <item>
+    <title>Gemini Decision 1 now available on AI Gateway</title>
+    <link>https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without…</description>
   </item>
   <item>
     <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
@@ -501,6 +469,14 @@
     <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
+  </item>
+  <item>
+    <title>Goldman Sees Anthropic Revenue Hitting $685 Billion by 2030</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sees-anthropic-revenue-hitting-685-billion-by-2030/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sees-anthropic-revenue-hitting-685-billion-by-2030/</guid>
+    <pubDate>Wed, 11 Nov 2026 19:10:55 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Analysts for Goldman Sachs are reportedly projecting Anthropic’s revenue will reach $685 billion by 2030. That’s according to a report Tuesday (Nov. 10) from Bloomberg News, which said this figure strengthens the case for a $1.4 trillion valuation target in the artificial intelligence (AI)…</description>
   </item>
   <item>
     <title>ChatGPT is getting verified AI ‘Business Agents’</title>
@@ -535,12 +511,20 @@
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://github.com/simonw/datasette/issues/3046 &gt;datasette #3046: Don&amp;#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an &lt;a…</description>
   </item>
   <item>
-    <title>Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes</title>
-    <link>https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/</guid>
-    <pubDate>Tue, 10 Nov 2026 19:48:40 GMT</pubDate>
+    <title>Google Deepmind&#39;s AlphaProof Code verified Signal&#39;s cryptographic core in four weeks instead of years</title>
+    <link>https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/</link>
+    <guid isPermaLink="true">https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/</guid>
+    <pubDate>Wed, 11 Nov 2026 18:18:25 GMT</pubDate>
     <category>AI Business</category>
-    <description>Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into…</description>
+    <description>Google Deepmind&#39;s AlphaProof Code mathematically verified Signal&#39;s cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to…</description>
+  </item>
+  <item>
+    <title>Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth</title>
+    <link>https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can&#39;t know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn&#39;t need them to. He uses Databricks&#39; newly revised Genie agent for that.</description>
   </item>
   <item>
     <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
@@ -551,28 +535,12 @@
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://research.meta.ai/blog/muse-ember &gt;Introducing Our Smallest, Most Efficient Model: Muse Ember&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt; ... our smallest and most…</description>
   </item>
   <item>
-    <title>Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/</guid>
-    <pubDate>Mon, 09 Nov 2026 19:05:54 GMT</pubDate>
-    <category>AI Business</category>
-    <description>A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologies at any layer without redesigning the rest of the stack.</description>
-  </item>
-  <item>
     <title>AI Gateway adds DeepSeek Search and Fetch tools</title>
     <link>https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools</link>
     <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools</guid>
     <pubDate>Fri, 06 Nov 2026 21:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No…</description>
-  </item>
-  <item>
-    <title>Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/</guid>
-    <pubDate>Fri, 06 Nov 2026 17:09:23 GMT</pubDate>
-    <category>App Dev</category>
-    <description>In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta&#39;s grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow…</description>
   </item>
   <item>
     <title>Gemini Omni 1.2 Flash now available on AI Gateway</title>
@@ -599,12 +567,12 @@
     <description>Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost…</description>
   </item>
   <item>
-    <title>Vercel CI is now in beta</title>
-    <link>https://vercel.com/changelog/vercel-ci-is-now-in-beta</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/vercel-ci-is-now-in-beta</guid>
-    <pubDate>Wed, 28 Oct 2026 19:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>You can now run CI for your Turborepo with one line of configuration. In Vercel&#39;s internal repositories, our wait time from git push to CI passed is 2-6x shorter, dramatically improving our CI&#39;s ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task…</description>
+    <title>Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects</title>
+    <link>https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/</guid>
+    <pubDate>Wed, 11 Nov 2026 20:51:56 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects…</description>
   </item>
   <item>
     <title>Anthropic launches IPO roadshow with $64B fundraising goal</title>
@@ -645,6 +613,38 @@
     <pubDate>Mon, 02 Nov 2026 17:50:20 GMT</pubDate>
     <category>Game Dev</category>
     <description>Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games. Read more</description>
+  </item>
+  <item>
+    <title>Prompt: AI demand is booming; the economics are getting complicated</title>
+    <link>https://aibusiness.com/generative-ai/prompt-ai-demand-is-booming</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/prompt-ai-demand-is-booming</guid>
+    <pubDate>Fri, 30 Oct 2026 16:01:43 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic’s IPO filing offers a glimpse into soaring enterprise AI demand, but price competition and the cost of delivering AI are complicating the path to profitability.</description>
+  </item>
+  <item>
+    <title>New York Proposes $3 Million Daily Fines for AI Safety Violations</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/new-york-proposes-3-million-daily-fines-for-ai-safety-violations/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/new-york-proposes-3-million-daily-fines-for-ai-safety-violations/</guid>
+    <pubDate>Wed, 11 Nov 2026 21:07:35 GMT</pubDate>
+    <category>AI Business</category>
+    <description>New York lawmakers want to make violations of artificial intelligence safety rules considerably more expensive. A bill known as RAISE Act 2.0 would charge frontier AI developers, the companies that build the most advanced AI models, by the day for each violation. Under Senate Bill S10731, which…</description>
+  </item>
+  <item>
+    <title>VerticalScope Turns 2 Billion Forum Posts Into AI Shopping Revenue</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/verticalscope-turns-2-billion-forum-posts-into-ai-shopping-revenue/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/verticalscope-turns-2-billion-forum-posts-into-ai-shopping-revenue/</guid>
+    <pubDate>Wed, 11 Nov 2026 17:33:08 GMT</pubDate>
+    <category>AI Business</category>
+    <description>VerticalScope is using artificial intelligence (AI) to turn conversations across more than 1,200 online communities into shopping revenue, as declining search traffic puts pressure on its traditional advertising business. The Toronto-based company, which operates a Reddit-like network of enthusiast…</description>
+  </item>
+  <item>
+    <title>Anthropic&#39;s IPO roadshow video</title>
+    <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:11:59 GMT</pubDate>
+    <category>AI Business</category>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://ipo.anthropic.com/us/#roadshow-video &gt;Anthropic&amp;#x27;s IPO roadshow video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.&lt;/p&gt; &lt;p&gt;The section on…</description>
   </item>
 </channel>
 </rss>
