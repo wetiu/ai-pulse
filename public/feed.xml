@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 12 Nov 2026 00:41:35 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 15:12:35 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -135,14 +135,6 @@
     <description>Meta Platforms Inc. today introduced Muse Ember, an entry-level artificial intelligence model that costs significantly less than the competition. Notably, it’s the first AI that the company trained using Muse Wonder. The latter algorithm is the Facebook parent’s flagship large language model. Meta…</description>
   </item>
   <item>
-    <title>Meta acquires AI coding startup Conductor, whose app runs several coding agents at once</title>
-    <link>https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/</guid>
-    <pubDate>Wed, 04 Nov 2026 22:20:12 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Meta Platforms Inc. has acquired artificial intelligence coding startup Conductor in a deal first reported today by Axios. Conductor confirmed it’s joining Meta in a post on its website. Terms were not disclosed. The company’s software lets a developer run several coding agents at once, each in an…</description>
-  </item>
-  <item>
     <title>GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
     <link>https://openai.com/index/introducing-gpt-6-cyber</link>
     <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-cyber</guid>
@@ -165,22 +157,6 @@
     <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
-  </item>
-  <item>
-    <title>Enterprise sales push OpenAI&#39;s quarterly revenue to $10 billion, though it still trails Anthropic</title>
-    <link>https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</link>
-    <guid isPermaLink="true">https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</guid>
-    <pubDate>Wed, 11 Nov 2026 12:12:47 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for…</description>
-  </item>
-  <item>
-    <title>Otoy releases OctaneRender 2027.1 in beta</title>
-    <link>https://www.cgchannel.com/2026/11/otoy-releases-octanerender-2027-1/</link>
-    <guid isPermaLink="true">https://www.cgchannel.com/2026/11/otoy-releases-octanerender-2027-1/</guid>
-    <pubDate>Mon, 09 Nov 2026 17:00:43 GMT</pubDate>
-    <category>Art &amp; Creative</category>
-    <description>Updated for Beta 1: next major version of the GPU renderer adds a MCP Server, for building and rendering scenes with AI tools.</description>
   </item>
   <item>
     <title>Cowbell unveils AI liability insurance for small businesses that deploy AI agents</title>
@@ -263,6 +239,14 @@
     <description>Update: Anthropic has confirmed it&#39;s released an update to Opus 5.5 to steer Claude Code away from recreating someone else&#39;s specific game.</description>
   </item>
   <item>
+    <title>Google enters decision model market with Gemini Decisions API</title>
+    <link>https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/</guid>
+    <pubDate>Thu, 12 Nov 2026 01:22:05 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google LLC today launched Gemini Decisions API, an artificial intelligence service designed to answer user questions in a cost-efficient manner. It’s powered by a new AI model called Gemini Decision 1. Traditional large language models are designed to answer a broad range of prompts. Gemini…</description>
+  </item>
+  <item>
     <title>Anthropic says AI is eroding Nvidia&#39;s CUDA lead, cutting an AMD chip switch from months to three days</title>
     <link>https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/</link>
     <guid isPermaLink="true">https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/</guid>
@@ -287,12 +271,12 @@
     <description>ReSharper 2026.2 brought Junie to Visual Studio as ReSharper’s first coding agent. In 2026.3, you can also pick Claude Agent or Codex in the same tool window. All three agents can use ReSharper’s refactoring skill to run refactorings such as Rename. This release also supports .NET 11 and C# 15, and…</description>
   </item>
   <item>
-    <title>How we detect frontier model misalignment</title>
-    <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
-    <guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
-    <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.</description>
+    <title>Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2</title>
+    <link>https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/</link>
+    <guid isPermaLink="true">https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/</guid>
+    <pubDate>Thu, 12 Nov 2026 12:09:43 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is…</description>
   </item>
   <item>
     <title>OpenAI’s quarterly revenue reportedly crosses $10B for the first time</title>
@@ -319,6 +303,14 @@
     <description>Studio Atelico has launched its Atelico AI Engine into Early Access. Read more</description>
   </item>
   <item>
+    <title>Hatz AI raises $24M to help small businesses go AI-native through their MSPs</title>
+    <link>https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/</guid>
+    <pubDate>Thu, 12 Nov 2026 13:00:47 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Large enterprises have emerged as the foremost adopters of artificial intelligence technology, and it’s giving them an unfair advantage over their smaller competitors. Looking to change that is a startup called Hatz AI Inc., which has just raised $24 million in early-stage funding to empower…</description>
+  </item>
+  <item>
     <title>10 tips for organizing your first video game project with AI</title>
     <link>https://unity.com/blog/how-to-organize-a-game-project-with-ai</link>
     <guid isPermaLink="true">https://unity.com/blog/how-to-organize-a-game-project-with-ai</guid>
@@ -333,14 +325,6 @@
     <pubDate>Mon, 09 Nov 2026 21:30:35 GMT</pubDate>
     <category>AI Business</category>
     <description>Possible foreign intelligence targeting at Nvidia raises concerns about CEO succession and chipmaker’s influence over the AI market.</description>
-  </item>
-  <item>
-    <title>Atomicwork launches certified AI coworker marketplace for enterprise IT and security</title>
-    <link>https://siliconangle.com/2026/11/06/atomicwork-launches-certified-ai-coworker-marketplace-for-enterprise-it-and-security/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/06/atomicwork-launches-certified-ai-coworker-marketplace-for-enterprise-it-and-security/</guid>
-    <pubDate>Fri, 06 Nov 2026 14:00:53 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Information technology service management startup Atomicwork Inc. today announced the launch of an Artificial Intelligence Coworker Marketplace that will give enterprise IT and security teams access to prebuilt, certified AI coworkers that can work alongside employees. The company said these…</description>
   </item>
   <item>
     <title>Measuring how AI agents handle everyday wet-lab science</title>
@@ -359,14 +343,6 @@
     <description>Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories.…</description>
   </item>
   <item>
-    <title>OpenAI Gives Businesses New Tools to Reach ChatGPT Users</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-businesses-new-tools-to-reach-chatgpt-users/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-businesses-new-tools-to-reach-chatgpt-users/</guid>
-    <pubDate>Wed, 11 Nov 2026 00:44:47 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI is launching a new suite of tools that lets companies manage their presence on the platform, track customer engagement and deploy artificial intelligence (AI) agents to interact with prospective customers. The announcement, made Tuesday (Nov. 10), introduces Businesses in ChatGPT, a beta…</description>
-  </item>
-  <item>
     <title>Merge builds product and business tools with OpenAI technology</title>
     <link>https://openai.com/index/merge-builds-with-openai</link>
     <guid isPermaLink="true">https://openai.com/index/merge-builds-with-openai</guid>
@@ -381,6 +357,14 @@
     <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.</description>
+  </item>
+  <item>
+    <title>Qvyon launches with $8M to improve safety for physical AI deployments</title>
+    <link>https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/</guid>
+    <pubDate>Thu, 12 Nov 2026 14:00:18 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Physical AI validation infrastructure and software development company Qvyon Technologies Inc. launched today with $8 million in total funding to help companies validate autonomous vehicles and robots before deployment. MaC Venture Capital led the funding, with participation from BDC Capital, BKR…</description>
   </item>
   <item>
     <title>OpenAI reportedly raises $11B in new funding at $1.25T valuation</title>
@@ -447,6 +431,14 @@
     <description>This week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI, a defense tech player focused on autonomy and virtual simulations, secured the largest financing, bringing in $2 billion. Next on the list was drone delivery provider Zipline…</description>
   </item>
   <item>
+    <title>Square Expands Agentic AI Tools to Give Sellers More Control Over Business Operations</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/square-expands-agentic-ai-tools-give-sellers-more-control-over-business-operations/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/square-expands-agentic-ai-tools-give-sellers-more-control-over-business-operations/</guid>
+    <pubDate>Thu, 12 Nov 2026 14:00:57 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Square is expanding its agentic artificial intelligence capabilities, making its Squaremates business agent the primary entry point to Square Dashboard and introducing new tools that let sellers connect their accounts to outside AI assistants, according to a Thursday (Nov. 12) press release…</description>
+  </item>
+  <item>
     <title>New York Launches AI Safety Center Ahead of RAISE Act Deadline</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/new-york-launches-ai-safety-center-ahead-of-raise-act-deadline/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/new-york-launches-ai-safety-center-ahead-of-raise-act-deadline/</guid>
@@ -503,12 +495,28 @@
     <description>Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward…</description>
   </item>
   <item>
+    <title>ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence</title>
+    <link>https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/</link>
+    <guid isPermaLink="true">https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/</guid>
+    <pubDate>Thu, 12 Nov 2026 13:48:19 GMT</pubDate>
+    <category>AI Business</category>
+    <description>ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy.…</description>
+  </item>
+  <item>
     <title>datasette #3046: Don&#39;t serve link: rel=next HTTP headers to Firefox for HTML pages</title>
     <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
     <guid isPermaLink="true">https://simonwillison.net/2026/Nov/7/link-rel-next/</guid>
     <pubDate>Sat, 07 Nov 2026 23:57:46 GMT</pubDate>
     <category>Web Dev</category>
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://github.com/simonw/datasette/issues/3046 &gt;datasette #3046: Don&amp;#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an &lt;a…</description>
+  </item>
+  <item>
+    <title>Australia&#39;s proposed AI safety bill would force frontier model makers to open up to independent testing</title>
+    <link>https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/</link>
+    <guid isPermaLink="true">https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/</guid>
+    <pubDate>Thu, 12 Nov 2026 10:09:56 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Australia&#39;s government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations. With this move, Canberra is deliberately…</description>
   </item>
   <item>
     <title>Google Deepmind&#39;s AlphaProof Code verified Signal&#39;s cryptographic core in four weeks instead of years</title>
@@ -637,14 +645,6 @@
     <pubDate>Wed, 11 Nov 2026 17:33:08 GMT</pubDate>
     <category>AI Business</category>
     <description>VerticalScope is using artificial intelligence (AI) to turn conversations across more than 1,200 online communities into shopping revenue, as declining search traffic puts pressure on its traditional advertising business. The Toronto-based company, which operates a Reddit-like network of enthusiast…</description>
-  </item>
-  <item>
-    <title>Anthropic&#39;s IPO roadshow video</title>
-    <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
-    <pubDate>Wed, 11 Nov 2026 15:11:59 GMT</pubDate>
-    <category>AI Business</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://ipo.anthropic.com/us/#roadshow-video &gt;Anthropic&amp;#x27;s IPO roadshow video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.&lt;/p&gt; &lt;p&gt;The section on…</description>
   </item>
 </channel>
 </rss>
