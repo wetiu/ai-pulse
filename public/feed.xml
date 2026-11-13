@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 12 Nov 2026 23:37:29 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 06:42:45 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -80,8 +80,8 @@
   </item>
   <item>
     <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-    <link>https://openai.com/index/amplitude</link>
-    <guid isPermaLink="true">https://openai.com/index/amplitude</guid>
+    <link>https://openai.com/business/customer-stories/amplitude</link>
+    <guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
     <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.</description>
@@ -191,20 +191,20 @@
     <description>With the frontier AI lab about to go public, businesses mull the long-term stability of the Claude creator. OpenAI goes on a price-cut binge to compete with cheap China models.</description>
   </item>
   <item>
+    <title>Anthropic’s Claude Tops AI Rankings as OpenAI Limits Cyber Model</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/</guid>
+    <pubDate>Fri, 13 Nov 2026 01:12:36 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The frontier changed hands again this week. Anthropic’s Claude Fable 5.2 moved past Google’s Gemini 4 Carbon on the Artificial Analysis Intelligence Index, the independent scorecard both companies cite. Meta went the other direction with a model priced at $0.10 per million input tokens, built to do…</description>
+  </item>
+  <item>
     <title>Anthropic Seeks Record $88.5B Tied To Public Market Debut</title>
     <link>https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/</link>
     <guid isPermaLink="true">https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/</guid>
     <pubDate>Tue, 10 Nov 2026 18:51:25 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details…</description>
-  </item>
-  <item>
-    <title>AINews Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
-    <link>https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</guid>
-    <pubDate>Sat, 31 Oct 2026 05:00:48 GMT</pubDate>
-    <category>AI Business</category>
-    <description>It turns out you cannot have your cake AND eat it</description>
   </item>
   <item>
     <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
@@ -343,14 +343,6 @@
     <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</description>
   </item>
   <item>
-    <title>Ling 3.1 Flash 1019 now available on AI Gateway for free</title>
-    <link>https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free</guid>
-    <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories.…</description>
-  </item>
-  <item>
     <title>4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues</title>
     <link>https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/</guid>
@@ -455,14 +447,6 @@
     <description>Google LLC today released Gemini 4 Hydrogen, a lower-cost model in its Gemini 4 artificial intelligence family that it says outscores its frontier Gemini 4 Argon model on an independent intelligence ranking. Measured on the Artificial Analysis Intelligence Index at its default high thinking level,…</description>
   </item>
   <item>
-    <title>Square Expands Agentic AI Tools to Give Sellers More Control Over Business Operations</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/square-expands-agentic-ai-tools-give-sellers-more-control-over-business-operations/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/square-expands-agentic-ai-tools-give-sellers-more-control-over-business-operations/</guid>
-    <pubDate>Thu, 12 Nov 2026 14:00:57 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Square is expanding its agentic artificial intelligence capabilities, making its Squaremates business agent the primary entry point to Square Dashboard and introducing new tools that let sellers connect their accounts to outside AI assistants, according to a Thursday (Nov. 12) press release…</description>
-  </item>
-  <item>
     <title>New York Launches AI Safety Center Ahead of RAISE Act Deadline</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/new-york-launches-ai-safety-center-ahead-of-raise-act-deadline/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/new-york-launches-ai-safety-center-ahead-of-raise-act-deadline/</guid>
@@ -485,14 +469,6 @@
     <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
-  </item>
-  <item>
-    <title>Goldman Sees Anthropic Revenue Hitting $685 Billion by 2030</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sees-anthropic-revenue-hitting-685-billion-by-2030/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sees-anthropic-revenue-hitting-685-billion-by-2030/</guid>
-    <pubDate>Wed, 11 Nov 2026 19:10:55 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Analysts for Goldman Sachs are reportedly projecting Anthropic’s revenue will reach $685 billion by 2030. That’s according to a report Tuesday (Nov. 10) from Bloomberg News, which said this figure strengthens the case for a $1.4 trillion valuation target in the artificial intelligence (AI)…</description>
   </item>
   <item>
     <title>Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades</title>
@@ -645,6 +621,30 @@
     <pubDate>Tue, 03 Nov 2026 15:04:27 GMT</pubDate>
     <category>AI Business</category>
     <description>Despite using more AI in networking operations, organizations still need to ensure that agents act deterministically.</description>
+  </item>
+  <item>
+    <title>Anthropic adds rule to stop Claude Code recreating existing games</title>
+    <link>https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games</link>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games</guid>
+    <pubDate>Mon, 02 Nov 2026 17:50:20 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games. Read more</description>
+  </item>
+  <item>
+    <title>Prompt: AI demand is booming; the economics are getting complicated</title>
+    <link>https://aibusiness.com/generative-ai/prompt-ai-demand-is-booming</link>
+    <guid isPermaLink="true">https://aibusiness.com/generative-ai/prompt-ai-demand-is-booming</guid>
+    <pubDate>Fri, 30 Oct 2026 16:01:43 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic’s IPO filing offers a glimpse into soaring enterprise AI demand, but price competition and the cost of delivering AI are complicating the path to profitability.</description>
+  </item>
+  <item>
+    <title>AI Ambition: ArtCraft Cloned Photoshop and Now Wants to Rebuild Everything</title>
+    <link>https://latent.space/p/artcraft/</link>
+    <guid isPermaLink="true">https://latent.space/p/artcraft/</guid>
+    <pubDate>Fri, 13 Nov 2026 04:17:25 GMT</pubDate>
+    <category>Art &amp; Creative</category>
+    <description>ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!</description>
   </item>
 </channel>
 </rss>
