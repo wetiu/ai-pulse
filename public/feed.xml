@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 14 Nov 2026 17:59:13 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 22:22:48 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -253,6 +253,14 @@
     <pubDate>Thu, 12 Nov 2026 20:52:08 GMT</pubDate>
     <category>AI Business</category>
     <description>The rise of agentic AI systems is giving Kubernetes, long valued for its reliability and predictability, an unexpected second act. As AI spending shifts from training models toward serving them and running agents, the open-source community is developing tools to handle the growing volume of…</description>
+  </item>
+  <item>
+    <title>Anthropic CEO Amodei admits there&#39;s a huge uncertainty in what&#39;s going to happen next year days before a record IPO</title>
+    <link>https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</guid>
+    <pubDate>Sat, 14 Nov 2026 19:05:17 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute &#39;the deepest business dilemma&#39; his company faces. Anthropic&#39;s commitments now total nearly $901 billion, and it&#39;s still far from clear whether future revenue will justify those costs. The planned…</description>
   </item>
   <item>
     <title>Introducing Gemini 4 Hydrogen</title>
@@ -637,14 +645,6 @@
     <pubDate>Sat, 07 Nov 2026 03:04:53 GMT</pubDate>
     <category>AI Business</category>
     <description>November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.</description>
-  </item>
-  <item>
-    <title>AINews LLMs can read &amp; write neural network weights: Weight Space Programming cuts Autoresearch out of the RSI loop</title>
-    <link>https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</guid>
-    <pubDate>Tue, 03 Nov 2026 05:35:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.</description>
   </item>
 </channel>
 </rss>
