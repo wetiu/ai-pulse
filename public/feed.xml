@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 14 Nov 2026 06:19:48 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 17:59:13 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -13,6 +13,14 @@
     <pubDate>Mon, 09 Nov 2026 08:00:53 GMT</pubDate>
     <category>AI Business</category>
     <description>Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also…</description>
+  </item>
+  <item>
+    <title>Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents</title>
+    <link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</guid>
+    <pubDate>Sat, 14 Nov 2026 06:38:14 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents…</description>
   </item>
   <item>
     <title>Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model</title>
@@ -111,14 +119,6 @@
     <description>Mirendil Inc., a provider of software that speeds up artificial intelligence development, has raised $1 billion in early-stage funding. The startup stated on Thursday that Kleiner Perkins and Clearlake Capital jointly led the Series A investment. They were joined by more than a half-dozen others…</description>
   </item>
   <item>
-    <title>Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens</title>
-    <link>https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</guid>
-    <pubDate>Wed, 11 Nov 2026 21:21:42 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API With Gemini Decision…</description>
-  </item>
-  <item>
     <title>GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
     <link>https://openai.com/index/introducing-gpt-6-cyber</link>
     <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-cyber</guid>
@@ -149,22 +149,6 @@
     <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
-  </item>
-  <item>
-    <title>Claude Meetings lets Anthropic&#39;s AI join your video calls</title>
-    <link>https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/</link>
-    <guid isPermaLink="true">https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/</guid>
-    <pubDate>Thu, 12 Nov 2026 20:26:50 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets…</description>
-  </item>
-  <item>
-    <title>Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models</title>
-    <link>https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/</link>
-    <guid isPermaLink="true">https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/</guid>
-    <pubDate>Fri, 13 Nov 2026 15:21:04 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia&#39;s latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model…</description>
   </item>
   <item>
     <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
@@ -319,6 +303,14 @@
     <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</description>
   </item>
   <item>
+    <title>Anthropic says outdated prompting habits are slowing down Claude Opus 5.5</title>
+    <link>https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/</guid>
+    <pubDate>Sat, 14 Nov 2026 16:42:56 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop think hard and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared…</description>
+  </item>
+  <item>
     <title>Anthropic&#39;s Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows</title>
     <link>https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/</link>
     <guid isPermaLink="true">https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/</guid>
@@ -463,6 +455,14 @@
     <description>Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward…</description>
   </item>
   <item>
+    <title>Runway&#39;s open-source Praxis-1 turns video AI into a robot controller</title>
+    <link>https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/</link>
+    <guid isPermaLink="true">https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/</guid>
+    <pubDate>Sat, 14 Nov 2026 09:45:45 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia&#39;s RoboLab-120 benchmark. It can&#39;t yet plan complex action sequences on its…</description>
+  </item>
+  <item>
     <title>OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/</guid>
@@ -503,12 +503,12 @@
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://github.com/simonw/datasette/issues/3046 &gt;datasette #3046: Don&amp;#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an &lt;a…</description>
   </item>
   <item>
-    <title>Meta&#39;s Muse now calls businesses for you, but many companies might just hang up on the AI</title>
-    <link>https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/</link>
-    <guid isPermaLink="true">https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/</guid>
-    <pubDate>Fri, 13 Nov 2026 15:12:44 GMT</pubDate>
+    <title>Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol</title>
+    <link>https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</link>
+    <guid isPermaLink="true">https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</guid>
+    <pubDate>Sat, 14 Nov 2026 16:48:01 GMT</pubDate>
     <category>AI Business</category>
-    <description>Meta&#39;s AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta&#39;s AI chief Alexandr Wang. Google Gemini, Instinct, and xAI&#39;s Grok Bot offer the same feature, but…</description>
+    <description>For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google&#39;s Gemini 4 Carbon and Anthropic&#39;s Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The…</description>
   </item>
   <item>
     <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
@@ -549,14 +549,6 @@
     <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and…</description>
-  </item>
-  <item>
-    <title>Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects</title>
-    <link>https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/</guid>
-    <pubDate>Wed, 11 Nov 2026 20:51:56 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects…</description>
   </item>
   <item>
     <title>Anthropic launches IPO roadshow with $64B fundraising goal</title>
@@ -645,6 +637,14 @@
     <pubDate>Sat, 07 Nov 2026 03:04:53 GMT</pubDate>
     <category>AI Business</category>
     <description>November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.</description>
+  </item>
+  <item>
+    <title>AINews LLMs can read &amp; write neural network weights: Weight Space Programming cuts Autoresearch out of the RSI loop</title>
+    <link>https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</guid>
+    <pubDate>Tue, 03 Nov 2026 05:35:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.</description>
   </item>
 </channel>
 </rss>
