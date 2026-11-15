@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T22:22:48.250Z",
-  "count": 378,
+  "generatedAt": "2026-11-15T06:27:57.716Z",
+  "count": 376,
   "focusCount": 233,
   "topics": [
     "Game Dev",
@@ -1316,20 +1316,6 @@
       "isFocus": true
     },
     {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-12T17:17:58.000Z",
-      "topic": "AI Business",
-      "importance": 9.4,
-      "isFocus": true
-    },
-    {
       "title": "GDC State of the Game Industry report: 40% of developers are using generative AI for work",
       "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
       "summary": "40% of developers are using generative AI in their work, according to the latest State of the Game Industry report from the Game Developers Conference (GDC). Read more",
@@ -2186,7 +2172,7 @@
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1008 # Comments: 608",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1062 # Comments: 628",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2270,7 +2256,7 @@
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 706",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 707",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2340,7 +2326,7 @@
     {
       "title": "Generative AI uses more energy on non-English text",
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 159 # Comments: 89",
+      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 197 # Comments: 104",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2434,6 +2420,20 @@
       "topic": "Models & Labs",
       "importance": 8.3,
       "isFocus": false
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which…",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T00:08:07.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
     },
     {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -3432,7 +3432,7 @@
     {
       "title": "No AI Slop: A Manifesto",
       "url": "https://www.slopmanifesto.com/",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 216 # Comments: 129",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 218 # Comments: 131",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3446,7 @@
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 420 # Comments: 107",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 427 # Comments: 108",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3460,7 +3460,7 @@
     {
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? video",
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 451 # Comments: 650",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 468 # Comments: 688",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3488,7 +3488,7 @@
     {
       "title": "AI is destroying the trust between writers and readers",
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 363 # Comments: 229",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 228",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3558,7 +3558,7 @@
     {
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 351 # Comments: 105",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 353 # Comments: 105",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3572,7 +3572,7 @@
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 371 # Comments: 160",
+      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 395 # Comments: 166",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3586,7 +3586,7 @@
     {
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
       "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 232",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 233",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3698,7 +3698,7 @@
     {
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 569 # Comments: 559",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 570 # Comments: 560",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3712,7 +3712,7 @@
     {
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 642 # Comments: 626",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 643 # Comments: 626",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4256,20 +4256,6 @@
       "isFocus": false
     },
     {
-      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
-      "summary": "What do LLMs think about vision models?",
-      "source": "Import AI",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-11-02T14:30:54.000Z",
-      "topic": "Research",
-      "importance": 6.4,
-      "isFocus": false
-    },
-    {
       "title": "AINews Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
       "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
       "summary": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
@@ -4370,7 +4356,7 @@
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
       "url": "https://text.npr.org/nx-s1-6029408",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 191 # Comments: 190",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 192 # Comments: 193",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4718,20 +4704,6 @@
       "isFocus": false
     },
     {
-      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
-      "summary": "When do you think we'll have robots on the moon?",
-      "source": "Import AI",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-11-09T13:31:34.000Z",
-      "topic": "Research",
-      "importance": 5.2,
-      "isFocus": false
-    },
-    {
       "title": "AINews Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
       "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
       "summary": "November 3, 2026 — A quiet day lets us share some behind the senes.",
@@ -4830,6 +4802,20 @@
       "isFocus": false
     },
     {
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "summary": "<p><strong>Release:</strong> <a href= https://github.com/datasette/datasette-llm/releases/tag/0.1a11 >datasette-llm 0.1a11</a></p> <p><code>datasette-llm</code> is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.</p> <p>This release adds…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-14T23:59:28.000Z",
+      "topic": "Open Source",
+      "importance": 4.9,
+      "isFocus": false
+    },
+    {
       "title": "Fast by Default: Compile-Time Heuristics for Helion Kernels",
       "url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/",
       "summary": "TL;DR Helion now uses compile-time heuristics that analyze a kernel’s IR and dataflow to pick fast settings without slow autotuning. It classifies the kernel as matmul, reduction, or pointwise and... The post Fast by Default: Compile-Time Heuristics for Helion Kernels appeared first on PyTorch .",
@@ -4897,6 +4883,20 @@
       "date": "2026-11-13T18:44:02.000Z",
       "topic": "Models & Labs",
       "importance": 4.6,
+      "isFocus": false
+    },
+    {
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/datasette-vega/releases/tag/0.7 >datasette-vega 0.7</a></p> <p>A new release of Datasette's longest untouched plugin, for rendering charts (using <a href= https://vega.github.io/vega-lite/ >Vega-Lite</a>) against data in a table or…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-14T17:09:09.000Z",
+      "topic": "Open Source",
+      "importance": 4.5,
       "isFocus": false
     },
     {
@@ -5035,34 +5035,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-11T17:19:52.000Z",
-      "topic": "Models & Labs",
-      "importance": 4.2,
-      "isFocus": false
-    },
-    {
-      "title": "llm 0.37.1",
-      "url": "https://simonwillison.net/2026/Nov/3/llm/",
-      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm/releases/tag/0.37.1 >llm 0.37.1</a></p> <p>A bugfix release for <a href= https://llm.datasette.io/ >LLM</a>, with contributions from <a href= https://github.com/remote-controlled-man >Steven Huang</a>, <a href=…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-03T21:41:42.000Z",
-      "topic": "Models & Labs",
-      "importance": 4.2,
-      "isFocus": false
-    },
-    {
-      "title": "llm 0.37",
-      "url": "https://simonwillison.net/2026/Nov/2/llm/",
-      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm/releases/tag/0.37 >llm 0.37</a></p> <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.</p> <p>I added…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-02T23:49:30.000Z",
       "topic": "Models & Labs",
       "importance": 4.2,
       "isFocus": false
