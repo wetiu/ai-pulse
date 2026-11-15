@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T06:27:57.716Z",
-  "count": 376,
-  "focusCount": 233,
+  "generatedAt": "2026-11-15T18:49:53.293Z",
+  "count": 378,
+  "focusCount": 235,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -39,6 +39,20 @@
       "date": "2026-11-14T06:38:14.000Z",
       "topic": "Web Dev",
       "importance": 14.5,
+      "isFocus": true
+    },
+    {
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T10:06:06.000Z",
+      "topic": "AI Business",
+      "importance": 14.4,
       "isFocus": true
     },
     {
@@ -280,6 +294,20 @@
       "isFocus": true
     },
     {
+      "title": "Otoy releases OctaneRender 2027.1 in beta",
+      "url": "https://www.cgchannel.com/2026/11/otoy-releases-octanerender-2027-1/",
+      "summary": "Updated for Beta 1: next major version of the GPU renderer adds a MCP Server, for building and rendering scenes with AI tools.",
+      "source": "CG Channel",
+      "feedTopic": "Art & Creative",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-09T17:00:43.000Z",
+      "topic": "Art & Creative",
+      "importance": 11.5,
+      "isFocus": true
+    },
+    {
       "title": "Cowbell unveils AI liability insurance for small businesses that deploy AI agents",
       "url": "https://siliconangle.com/2026/11/10/cowbell-unveils-ai-liability-insurance-for-small-businesses-that-deploy-ai-agents/",
       "summary": "Cyber insurance provider Cowbell Cyber Inc. today unveiled Cowbell AI Liability Insurance, a standalone policy for U.S. small and midsized businesses that covers losses caused by the artificial intelligence agents they deploy. The new policy is meant to deal with a problem that arises when…",
@@ -322,6 +350,20 @@
       "isFocus": true
     },
     {
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T10:45:58.000Z",
+      "topic": "AI Business",
+      "importance": 11.2,
+      "isFocus": true
+    },
+    {
       "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
       "url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
       "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details…",
@@ -348,20 +390,6 @@
       "topic": "Models & Labs",
       "importance": 11.100000000000001,
       "isFocus": false
-    },
-    {
-      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-      "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
-      "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-13T18:55:21.000Z",
-      "topic": "AI Business",
-      "importance": 11.1,
-      "isFocus": true
     },
     {
       "title": "CodeRabbit scales agentic software development and ships 20x more",
@@ -560,20 +588,6 @@
       "isFocus": true
     },
     {
-      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-      "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-13T16:37:01.000Z",
-      "topic": "AI Business",
-      "importance": 10.6,
-      "isFocus": true
-    },
-    {
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
@@ -658,6 +672,20 @@
       "isFocus": true
     },
     {
+      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+      "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent,…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T14:45:12.000Z",
+      "topic": "AI Business",
+      "importance": 10.299999999999999,
+      "isFocus": true
+    },
+    {
       "title": "Parallel Decisions now available on AI Gateway for free",
       "url": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
       "summary": "Parallel Decisions Fast from Parallel is now available on AI Gateway and is free through November 23, 2026. It searches the live web to answer typed questions about companies, products, policies, and other changing information, returning probabilities and cited evidence for your application to act…",
@@ -709,20 +737,6 @@
       "native": false,
       "researchOnly": false,
       "date": "2026-11-11T05:00:25.000Z",
-      "topic": "AI Business",
-      "importance": 10.299999999999999,
-      "isFocus": true
-    },
-    {
-      "title": "Exclusive: Nvidia bet Hiverge quietly raises $19.4m backed by Plural",
-      "url": "https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/",
-      "summary": "",
-      "source": "Sifted",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-10T11:45:36.000Z",
       "topic": "AI Business",
       "importance": 10.299999999999999,
       "isFocus": true
@@ -949,6 +963,20 @@
       "date": "2026-11-05T00:00:00.000Z",
       "topic": "Web Dev",
       "importance": 9.9,
+      "isFocus": true
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T15:42:03.000Z",
+      "topic": "AI Business",
+      "importance": 9.8,
       "isFocus": true
     },
     {
@@ -1470,6 +1498,20 @@
       "isFocus": true
     },
     {
+      "title": "Chaos releases V-Ray 7.5 for 3ds Max with new AI features",
+      "url": "https://www.cgchannel.com/2026/11/chaos-releases-v-ray-7-5-for-3ds-max-with-new-ai-features/",
+      "summary": "The new integrated AI Assistant will even rate your renders out of 10 for artistic merit. See the other new features, both AI and non-AI-based.",
+      "source": "CG Channel",
+      "feedTopic": "Art & Creative",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-08T18:30:12.000Z",
+      "topic": "Art & Creative",
+      "importance": 9.3,
+      "isFocus": true
+    },
+    {
       "title": "AT&T uses agentic AI to reinvent business processes from the ground up",
       "url": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
       "summary": "AT&T Corp. is moving beyond using artificial intelligence to improve employee productivity, increasingly applying autonomous agents to redesign how its business operates. Nearly 500 agentic workflows are already in production, and the telecom giant plans to triple that number next year. AT&T now…",
@@ -1736,20 +1778,6 @@
       "isFocus": true
     },
     {
-      "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
-      "url": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
-      "summary": "AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch. The post AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents…",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-12T17:26:08.000Z",
-      "topic": "Research",
-      "importance": 9,
-      "isFocus": false
-    },
-    {
       "title": "Inkling 2 Small now available on AI Gateway",
       "url": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
       "summary": "Inkling 2 Small from Thinking Machines is now available on AI Gateway. The multimodal reasoning model supports coding agents, visual understanding, and professional knowledge work, with text and image inputs and text output. Inkling 2 Small can work through extended coding tasks, use tools to…",
@@ -1792,16 +1820,16 @@
       "isFocus": false
     },
     {
-      "title": "Jensen Huang’s $470 Billion Affair",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
+      "title": "Adobe releases After Effects 27.0",
+      "url": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/",
+      "summary": "Check out the new features in the compositing and motion graphics app, from changes to the 3D toolset to the new agentic AI Assistant.",
+      "source": "CG Channel",
+      "feedTopic": "Art & Creative",
       "weight": 1.5,
-      "native": true,
+      "native": false,
       "researchOnly": false,
-      "date": "2026-11-12T18:59:58.000Z",
-      "topic": "AI Business",
+      "date": "2026-11-10T16:56:07.000Z",
+      "topic": "Art & Creative",
       "importance": 8.9,
       "isFocus": true
     },
@@ -2172,7 +2200,7 @@
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1062 # Comments: 628",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1089 # Comments: 645",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2256,7 +2284,7 @@
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 707",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 707",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2284,7 +2312,7 @@
     {
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1035 # Comments: 392",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1036 # Comments: 392",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2326,7 +2354,7 @@
     {
       "title": "Generative AI uses more energy on non-English text",
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 197 # Comments: 104",
+      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 229 # Comments: 124",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2459,34 +2487,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-14T16:34:15.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
-      "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
-      "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purchases, including a…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-13T20:07:34.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-      "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
-      "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-13T18:01:53.000Z",
       "topic": "AI Business",
       "importance": 8.2,
       "isFocus": true
@@ -2884,18 +2884,18 @@
       "isFocus": true
     },
     {
-      "title": "AI Business to stop publishing",
-      "url": "https://aibusiness.com/generative-ai/ai-business-to-stop-publishing",
-      "summary": "On Nov. 13, 2026, AI Business will stop publishing, but we have more news to share about the future of our coverage.",
-      "source": "AI Business",
-      "feedTopic": "AI Business",
-      "weight": 2,
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-11-01T12:24:05.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
+      "date": "2026-11-15T10:06:21.000Z",
+      "topic": "Models & Labs",
+      "importance": 8.1,
+      "isFocus": false
     },
     {
       "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
@@ -3234,6 +3234,20 @@
       "isFocus": false
     },
     {
+      "title": "I trusted Adobe Firefly because it was the safe AI option, now I'm not so sure",
+      "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+      "summary": "Firefly is the safer AI image generator, but with OpenAI, ByteDance and Kling now in the mix, I'm questioning what that promise actually covers.",
+      "source": "Creative Bloq",
+      "feedTopic": "Art & Creative",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-15T14:00:00.000Z",
+      "topic": "Art & Creative",
+      "importance": 7.6,
+      "isFocus": true
+    },
+    {
       "title": "Fed’s Barr Warns AI Could Lower Prices While Concentrating Market Power",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/feds-barr-warns-ai-could-lower-prices-while-concentrating-market-power/",
       "summary": "Artificial intelligence (AI) could make businesses more productive and lower consumer prices but leave workers with a smaller share of the gains, Federal Reserve Gov. Michael Barr warned on Thursday (Nov. 12). Speaking at Yale University, Barr said AI’s economic effects will depend on whether it…",
@@ -3416,6 +3430,48 @@
       "isFocus": false
     },
     {
+      "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+      "summary": "1,200 hot takes, 14 “random” languages, zero opinions about C#, and one model that argued both sides of Go’s error handling. We asked 12 AI models for their most controversial opinion about programming languages, 1,200 times in total. We wanted to check one thing. When you give a model permission…",
+      "source": "JetBrains",
+      "feedTopic": "App Dev",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-15T17:02:29.000Z",
+      "topic": "App Dev",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T12:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "source": "WIRED AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T11:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "AI Law Firm Crosby Bids for Weil Gotshal’s Name and Data",
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-law-firm-crosby-bids-for-weil-gotshals-name-and-data/",
       "summary": "A two-year-old an AI-native law firm startup is making a bid for the name and internal data of a 95-year-old Wall Street law firm. Crosby made the offer for the trademark, brand and some internal data of Weil, Gotshal & Manges, TechCrunch reported Oct. 30. The data wasn’t specified and terms…",
@@ -3432,7 +3488,7 @@
     {
       "title": "No AI Slop: A Manifesto",
       "url": "https://www.slopmanifesto.com/",
-      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 218 # Comments: 131",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 221 # Comments: 133",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3502,7 @@
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 427 # Comments: 108",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 433 # Comments: 110",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3460,7 +3516,7 @@
     {
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? video",
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 468 # Comments: 688",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 477 # Comments: 722",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3488,7 +3544,7 @@
     {
       "title": "AI is destroying the trust between writers and readers",
       "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 228",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 369 # Comments: 234",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3502,7 +3558,7 @@
     {
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 389",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3558,7 +3614,7 @@
     {
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 353 # Comments: 105",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 355 # Comments: 105",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3572,7 +3628,7 @@
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 395 # Comments: 166",
+      "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 416 # Comments: 178",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3586,7 +3642,7 @@
     {
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
       "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 233",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 199 # Comments: 234",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3626,20 +3682,6 @@
       "isFocus": false
     },
     {
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "source": "WIRED AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-12T18:05:41.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
       "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
       "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
@@ -3650,20 +3692,6 @@
       "researchOnly": false,
       "date": "2026-11-12T10:00:00.000Z",
       "topic": "Web Dev",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "So, what are the best AI video generators, and how do they compare on price?",
-      "url": "https://www.creativebloq.com/features/so-what-are-the-best-ai-video-generators-and-how-do-they-compare-on-price",
-      "summary": "We look at the hidden costs of the top 5 options.",
-      "source": "Creative Bloq",
-      "feedTopic": "Art & Creative",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-11T20:00:00.000Z",
-      "topic": "Art & Creative",
       "importance": 7.2,
       "isFocus": true
     },
@@ -3684,7 +3712,7 @@
     {
       "title": "AI, activity, and outcomes in software engineering",
       "url": "https://cabird.com/talks/shipping-faster/",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 130 # Comments: 112",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 131 # Comments: 112",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3698,7 +3726,7 @@
     {
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 570 # Comments: 560",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 572 # Comments: 564",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3712,7 +3740,7 @@
     {
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 643 # Comments: 626",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 645 # Comments: 626",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3726,27 +3754,13 @@
     {
       "title": "Fireworks AI security breach impacts Notion and their customers",
       "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 166 # Comments: 65",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 167 # Comments: 65",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
       "date": "2026-11-10T07:19:38.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 196 # Comments: 193",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-10T03:20:06.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -4158,6 +4172,20 @@
       "isFocus": true
     },
     {
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T13:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 6.4,
+      "isFocus": true
+    },
+    {
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
@@ -4312,6 +4340,20 @@
       "isFocus": false
     },
     {
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 640 # Comments: 347",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-15T14:46:58.000Z",
+      "topic": "AI Business",
+      "importance": 6,
+      "isFocus": true
+    },
+    {
       "title": "Amazon has a plan to index the world’s online shopping data",
       "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the World Product Graph, is meant to make it less likely that shoppers…",
@@ -4356,7 +4398,7 @@
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
       "url": "https://text.npr.org/nx-s1-6029408",
-      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 192 # Comments: 193",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 195 # Comments: 195",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4391,20 +4433,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-12T20:35:11.000Z",
-      "topic": "AI Business",
-      "importance": 6,
-      "isFocus": true
-    },
-    {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a vibe shift …",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-12T18:06:54.000Z",
       "topic": "AI Business",
       "importance": 6,
       "isFocus": true
