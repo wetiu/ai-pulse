@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 15 Nov 2026 18:49:53 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 06:25:27 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -157,14 +157,6 @@
     <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
-  </item>
-  <item>
-    <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
-    <link>https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</guid>
-    <pubDate>Thu, 12 Nov 2026 19:11:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Nectar&#39;s new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.</description>
   </item>
   <item>
     <title>Otoy releases OctaneRender 2027.1 in beta</title>
@@ -367,20 +359,28 @@
     <description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.</description>
   </item>
   <item>
-    <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
-    <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</guid>
-    <pubDate>Thu, 12 Nov 2026 17:36:40 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Hugging Face&#39;s CEO pledged to keep fighting for open source AI after Huang&#39;s exit, raising questions about Nvidia&#39;s $12.9 billion acquisition.</description>
-  </item>
-  <item>
     <title>Qvyon launches with $8M to improve safety for physical AI deployments</title>
     <link>https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/</guid>
     <pubDate>Thu, 12 Nov 2026 14:00:18 GMT</pubDate>
     <category>AI Business</category>
     <description>Physical AI validation infrastructure and software development company Qvyon Technologies Inc. launched today with $8 million in total funding to help companies validate autonomous vehicles and robots before deployment. MaC Venture Capital led the funding, with participation from BDC Capital, BKR…</description>
+  </item>
+  <item>
+    <title>Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem</title>
+    <link>https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/</guid>
+    <pubDate>Mon, 16 Nov 2026 05:00:44 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Apple launches new app to study how people use AI for health</title>
+    <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</guid>
+    <pubDate>Mon, 16 Nov 2026 01:30:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Apple&#39;s new app for a study will answer everyday medical questions</description>
   </item>
   <item>
     <title>Firm linked to Jensen Huang&#39;s ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China</title>
@@ -463,6 +463,14 @@
     <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
   </item>
   <item>
+    <title>AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities</title>
+    <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
+    <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:28 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is…</description>
+  </item>
+  <item>
     <title>‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW</title>
     <link>https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</guid>
@@ -479,7 +487,7 @@
     <description>Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia&#39;s RoboLab-120 benchmark. It can&#39;t yet plan complex action sequences on its…</description>
   </item>
   <item>
-    <title>OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card</title>
+    <title>OpenAI Gives AI Agents a Wallet Without Seeing the Card</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/</guid>
     <pubDate>Sat, 14 Nov 2026 00:16:52 GMT</pubDate>
@@ -501,14 +509,6 @@
     <pubDate>Thu, 12 Nov 2026 22:46:33 GMT</pubDate>
     <category>AI Business</category>
     <description>Nvidia Corp. recently added a new pillar to its AI networking infrastructure with the unveiling of Scale-In. Scale-In brings purpose-built acceleration to secure, manage and operate agentic AI factories. It is designed to deliver secure access, high-performance data movement, tenant isolation,…</description>
-  </item>
-  <item>
-    <title>Jensen Huang’s exit puts Nvidia’s support for open source in question</title>
-    <link>https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/</guid>
-    <pubDate>Thu, 12 Nov 2026 18:39:23 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.</description>
   </item>
   <item>
     <title>datasette #3046: Don&#39;t serve link: rel=next HTTP headers to Firefox for HTML pages</title>
