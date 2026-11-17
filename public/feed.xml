@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Mon, 16 Nov 2026 21:59:48 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 07:53:02 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -45,6 +45,14 @@
     <pubDate>Sun, 15 Nov 2026 10:06:06 GMT</pubDate>
     <category>AI Business</category>
     <description>Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no…</description>
+  </item>
+  <item>
+    <title>How Revolut raises ambition without lowering the bar</title>
+    <link>https://openai.com/business/customer-stories/revolut</link>
+    <guid isPermaLink="true">https://openai.com/business/customer-stories/revolut</guid>
+    <pubDate>Mon, 16 Nov 2026 09:30:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.</description>
   </item>
   <item>
     <title>Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model</title>
@@ -319,6 +327,14 @@
     <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</description>
   </item>
   <item>
+    <title>PayPal Tracks $53 Billion in Treasury Cash With an AI Agent</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent/</guid>
+    <pubDate>Mon, 16 Nov 2026 23:21:16 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Ask PayPal’s treasury team where its cash sits, and the answer now comes from a chat window. A Deutsche Bank case study describes how that change unfolded inside the company. The system handles $53 billion in corporate cash and customer funds, and the team once relied on 90 spreadsheets to track…</description>
+  </item>
+  <item>
     <title>4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues</title>
     <link>https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/</guid>
@@ -348,7 +364,7 @@
     <guid isPermaLink="true">https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</guid>
     <pubDate>Mon, 16 Nov 2026 20:07:13 GMT</pubDate>
     <category>AI Business</category>
-    <description>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident</description>
+    <description>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.</description>
   </item>
   <item>
     <title>NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance</title>
@@ -407,6 +423,22 @@
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ &gt;Gemini Decisions API&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Google join &lt;a href= https://simonwillison.net/2026/Sep/21/jev/ &gt;Jev&lt;/a&gt; and &lt;a href= https://simonwillison.net/2026/Oct/6/llm-openai-decisions/…</description>
   </item>
   <item>
+    <title>Noeri raises $110M to help companies build living AI systems that self-improve over time</title>
+    <link>https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/</guid>
+    <pubDate>Mon, 16 Nov 2026 23:45:51 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Noeri Inc., a startup developing artificial intelligence systems that continuously improve their outputs as they learn from an organization’s data and work, is launching with $110 million in funding. Today’s round was led by Menlo Ventures and saw participation from Seattle-based Madrona Ventures,…</description>
+  </item>
+  <item>
+    <title>Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
+    <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</guid>
+    <pubDate>Mon, 16 Nov 2026 23:32:32 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.</description>
+  </item>
+  <item>
     <title>NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics</title>
     <link>https://blogs.nvidia.com/blog/rubin-hpc/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/rubin-hpc/</guid>
@@ -455,14 +487,6 @@
     <description>Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is…</description>
   </item>
   <item>
-    <title>OpenAI Gives AI Agents a Wallet Without Seeing the Card</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/</guid>
-    <pubDate>Sat, 14 Nov 2026 00:16:52 GMT</pubDate>
-    <category>AI Business</category>
-    <description>OpenAI has introduced a ChatGPT Wallet that lets agents pay without access to users’ card details, requires a security check for every purchase, and preserves existing card rewards and protections, the company said in a Friday (Nov. 13) press release. ChatGPT Wallet will initially be available…</description>
-  </item>
-  <item>
     <title>As AI agents take control, Nvidia rethinks the security playbook</title>
     <link>https://siliconangle.com/2026/11/12/ai-networking-nvidia-scalein-security-agentic-aifactoriesdatacenters/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/12/ai-networking-nvidia-scalein-security-agentic-aifactoriesdatacenters/</guid>
@@ -503,6 +527,14 @@
     <description>Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos…</description>
   </item>
   <item>
+    <title>At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries</title>
+    <link>https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/</guid>
+    <pubDate>Tue, 17 Nov 2026 01:45:14 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Nvidia Corp. today introduced a set of offerings designed to speed up scientific research across a range of fields. The lineup is headlined by Rubin HPC, an upcoming graphics card with significantly more cores than the company’s current flagship chip. It’s joined by more than a half-dozen software…</description>
+  </item>
+  <item>
     <title>Anthropic says the key to agent memory is knowing what to forget, not how much to store</title>
     <link>https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/</link>
     <guid isPermaLink="true">https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/</guid>
@@ -533,14 +565,6 @@
     <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and…</description>
-  </item>
-  <item>
-    <title>Anthropic launches IPO roadshow with $64B fundraising goal</title>
-    <link>https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/</guid>
-    <pubDate>Tue, 10 Nov 2026 21:33:17 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic PBC today kicked off the roadshow for its upcoming initial public offering. An IPO roadshow is a series of promotional events aimed at persuading institutional investors to buy shares. Anthropic plans to sell 825 million units of common stock for $70 to $78 per share, which works out to…</description>
   </item>
   <item>
     <title>Gemini 4 Carbon now available on AI Gateway</title>
@@ -607,14 +631,6 @@
     <description>November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.</description>
   </item>
   <item>
-    <title>AINews LLMs can read &amp; write neural network weights: Weight Space Programming cuts Autoresearch out of the RSI loop</title>
-    <link>https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</link>
-    <guid isPermaLink="true">https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</guid>
-    <pubDate>Tue, 03 Nov 2026 05:35:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.</description>
-  </item>
-  <item>
     <title>More ways to move care forward with ChatGPT for Healthcare</title>
     <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
     <guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
@@ -629,22 +645,6 @@
     <pubDate>Mon, 16 Nov 2026 05:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Agents are now users of software, doing work on people&#39;s behalf. Whether you&#39;re building the agent or the software it uses (API, CLI, MCP server, SDK), evals give you a way to measure how well that work gets done. Agents probably missed your launch video and billboard on Highway 101, but they still…</description>
-  </item>
-  <item>
-    <title>Anthropic upgrades Claude Code Projects to run parallel AI workers</title>
-    <link>https://claude.com/resources/articles/projects-redesigned</link>
-    <guid isPermaLink="true">https://claude.com/resources/articles/projects-redesigned</guid>
-    <pubDate>Sat, 14 Nov 2026 00:28:11 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 96</description>
-  </item>
-  <item>
-    <title>Agility Robotics goes public as first U.S. specialist humanoid maker</title>
-    <link>https://aibusiness.com/robotics/agility-robotics-goes-public-first-u-s-specialist-humanoid-maker</link>
-    <guid isPermaLink="true">https://aibusiness.com/robotics/agility-robotics-goes-public-first-u-s-specialist-humanoid-maker</guid>
-    <pubDate>Thu, 12 Nov 2026 21:16:26 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The company has entered the public markets with more than $300 million in conditional multiyear orders for its Digit 5 humanoid robot.</description>
   </item>
 </channel>
 </rss>
