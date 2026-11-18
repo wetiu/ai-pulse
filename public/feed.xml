@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Tue, 17 Nov 2026 20:53:54 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 07:26:19 GMT</lastBuildDate>
   <item>
     <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
     <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
@@ -37,6 +37,14 @@
     <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description>The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.</description>
+  </item>
+  <item>
+    <title>OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API</title>
+    <link>https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/</guid>
+    <pubDate>Tue, 17 Nov 2026 22:07:30 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra&#39;s API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index. The post OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API appeared first on MarkTechPost…</description>
   </item>
   <item>
     <title>LanceDB raises $57.5M to accelerate AI model training with multimodal data platform</title>
@@ -183,14 +191,6 @@
     <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</description>
   </item>
   <item>
-    <title>Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡</title>
-    <link>https://tldr.tech/ai/2026-11-04</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-11-04</guid>
-    <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>California&#39;s attorney general sues OpenAI over rogue AI models that attacked Hugging Face</title>
     <link>https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/</link>
     <guid isPermaLink="true">https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/</guid>
@@ -311,6 +311,14 @@
     <description>Unity has acquired 3D asset creator and publisher Synty Studios. Read more</description>
   </item>
   <item>
+    <title>Introducing ChatGPT for Sales</title>
+    <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
+    <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-for-sales</guid>
+    <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.</description>
+  </item>
+  <item>
     <title>Introducing Gemini 4 Hydrogen</title>
     <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
     <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
@@ -333,14 +341,6 @@
     <pubDate>Tue, 17 Nov 2026 19:32:11 GMT</pubDate>
     <category>AI Business</category>
     <description>The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.</description>
-  </item>
-  <item>
-    <title>Hatz AI raises $24M to help small businesses go AI-native through their MSPs</title>
-    <link>https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/</guid>
-    <pubDate>Thu, 12 Nov 2026 13:00:47 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Large enterprises have emerged as the foremost adopters of artificial intelligence technology, and it’s giving them an unfair advantage over their smaller competitors. Looking to change that is a startup called Hatz AI Inc., which has just raised $24 million in early-stage funding to empower…</description>
   </item>
   <item>
     <title>10 tips for organizing your first video game project with AI</title>
@@ -367,6 +367,14 @@
     <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</description>
   </item>
   <item>
+    <title>Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents</title>
+    <link>https://sifted.eu/articles/disseqt-ai-agents-rogue/</link>
+    <guid isPermaLink="true">https://sifted.eu/articles/disseqt-ai-agents-rogue/</guid>
+    <pubDate>Wed, 18 Nov 2026 05:00:24 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
     <title>4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues</title>
     <link>https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/</guid>
@@ -383,20 +391,12 @@
     <description>Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.</description>
   </item>
   <item>
-    <title>Introducing Images 2.6</title>
-    <link>https://openai.com/index/introducing-images-2-6</link>
-    <guid isPermaLink="true">https://openai.com/index/introducing-images-2-6</guid>
-    <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.</description>
-  </item>
-  <item>
-    <title>California state AG sues OpenAI over rogue agent incidents</title>
-    <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</guid>
-    <pubDate>Mon, 16 Nov 2026 20:07:13 GMT</pubDate>
+    <title>Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI</title>
+    <link>https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/</guid>
+    <pubDate>Tue, 17 Nov 2026 23:51:11 GMT</pubDate>
     <category>AI Business</category>
-    <description>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.</description>
+    <description>Isomorphic Labs Ltd. today announced that it has closed a $5 billion investment led by Greenoaks and Sequoia Capital. The venture capital firms were joined by more than a half-dozen other backers. The group included Isomorphic parent Alphabet Inc., which made a “significant investment.” The search…</description>
   </item>
   <item>
     <title>NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance</title>
@@ -407,28 +407,12 @@
     <description>In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x…</description>
   </item>
   <item>
-    <title>Qvyon launches with $8M to improve safety for physical AI deployments</title>
-    <link>https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/</guid>
-    <pubDate>Thu, 12 Nov 2026 14:00:18 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Physical AI validation infrastructure and software development company Qvyon Technologies Inc. launched today with $8 million in total funding to help companies validate autonomous vehicles and robots before deployment. MaC Venture Capital led the funding, with participation from BDC Capital, BKR…</description>
-  </item>
-  <item>
     <title>Introducing GPT-6.2 Astra and Sol</title>
     <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
     <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
     <pubDate>Tue, 17 Nov 2026 17:45:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.</description>
-  </item>
-  <item>
-    <title>Nvidia’s first big move after Jensen Huang’s exit targets national security</title>
-    <link>https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/</guid>
-    <pubDate>Tue, 17 Nov 2026 14:05:30 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.</description>
   </item>
   <item>
     <title>Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem</title>
@@ -461,14 +445,6 @@
     <pubDate>Mon, 16 Nov 2026 23:45:51 GMT</pubDate>
     <category>AI Business</category>
     <description>Noeri Inc., a startup developing artificial intelligence systems that continuously improve their outputs as they learn from an organization’s data and work, is launching with $110 million in funding. Today’s round was led by Menlo Ventures and saw participation from Seattle-based Madrona Ventures,…</description>
-  </item>
-  <item>
-    <title>Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
-    <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</guid>
-    <pubDate>Mon, 16 Nov 2026 23:32:32 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.</description>
   </item>
   <item>
     <title>NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics</title>
@@ -551,6 +527,14 @@
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://github.com/simonw/datasette/issues/3046 &gt;datasette #3046: Don&amp;#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an &lt;a…</description>
   </item>
   <item>
+    <title>SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode</title>
+    <link>https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/</guid>
+    <pubDate>Wed, 18 Nov 2026 07:10:53 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode…</description>
+  </item>
+  <item>
     <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
     <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
     <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
@@ -573,6 +557,14 @@
     <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos…</description>
+  </item>
+  <item>
+    <title>Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit</title>
+    <link>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/</guid>
+    <pubDate>Tue, 17 Nov 2026 23:04:35 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Nvidia&#39;s interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang&#39;s sudden departure.</description>
   </item>
   <item>
     <title>Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop</title>
@@ -645,6 +637,14 @@
     <pubDate>Wed, 11 Nov 2026 15:11:59 GMT</pubDate>
     <category>AI Business</category>
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://ipo.anthropic.com/us/#roadshow-video &gt;Anthropic&amp;#x27;s IPO roadshow video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.&lt;/p&gt; &lt;p&gt;The section on…</description>
+  </item>
+  <item>
+    <title>Quoting Prompting Claude Fable 5.2</title>
+    <link>https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</guid>
+    <pubDate>Tue, 10 Nov 2026 05:34:14 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>&lt;blockquote cite= https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code &gt;&lt;p&gt;Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the…</description>
   </item>
 </channel>
 </rss>
