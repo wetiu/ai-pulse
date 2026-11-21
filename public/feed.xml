@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 20 Nov 2026 20:15:20 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 07:04:10 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -77,14 +77,6 @@
     <pubDate>Wed, 18 Nov 2026 12:30:54 GMT</pubDate>
     <category>AI Business</category>
     <description>Humyn Labs, a company turning human experience into training for robots and artificial intelligence, today announced it has raised $47 million in early-stage funding to accelerate intelligent robotic deployment readiness in real-world environments across Brazil, South Korea and India. Accel led the…</description>
-  </item>
-  <item>
-    <title>Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses</title>
-    <link>https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/</link>
-    <guid isPermaLink="true">https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/</guid>
-    <pubDate>Tue, 17 Nov 2026 14:00:18 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation.</description>
   </item>
   <item>
     <title>The Gemini app is now available on lower-memory Android devices.</title>
@@ -327,14 +319,6 @@
     <description>&lt;img src= https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp &gt;Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.</description>
   </item>
   <item>
-    <title>Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips</title>
-    <link>https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/</link>
-    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/</guid>
-    <pubDate>Wed, 18 Nov 2026 23:58:22 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Exa&#39;s neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a…</description>
-  </item>
-  <item>
     <title>AINews GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse</title>
     <link>https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</link>
     <guid isPermaLink="true">https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</guid>
@@ -391,14 +375,6 @@
     <description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.</description>
   </item>
   <item>
-    <title>Global stock markets slump as Anthropic&#39;s record IPO fails to stem AI sell-off</title>
-    <link>https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</link>
-    <guid isPermaLink="true">https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</guid>
-    <pubDate>Fri, 20 Nov 2026 13:29:59 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 181 # Comments: 203</description>
-  </item>
-  <item>
     <title>Autodesk releases Maya 2027.3 with new agentic AI features</title>
     <link>https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/</link>
     <guid isPermaLink="true">https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/</guid>
@@ -453,6 +429,14 @@
     <pubDate>Mon, 16 Nov 2026 16:00:25 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x…</description>
+  </item>
+  <item>
+    <title>The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More</title>
+    <link>https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/</link>
+    <guid isPermaLink="true">https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/</guid>
+    <pubDate>Fri, 20 Nov 2026 20:15:54 GMT</pubDate>
+    <category>AI Business</category>
+    <description>U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science securing a fresh $400 million.</description>
   </item>
   <item>
     <title>Introducing GPT-6.2 Astra and Sol</title>
@@ -567,28 +551,12 @@
     <description>Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn&#39;t a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many…</description>
   </item>
   <item>
-    <title>SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode</title>
-    <link>https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/</guid>
-    <pubDate>Wed, 18 Nov 2026 07:10:53 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode…</description>
-  </item>
-  <item>
     <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
     <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
     <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
     <pubDate>Tue, 10 Nov 2026 07:28:21 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://research.meta.ai/blog/muse-ember &gt;Introducing Our Smallest, Most Efficient Model: Muse Ember&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt; ... our smallest and most…</description>
-  </item>
-  <item>
-    <title>AI Gateway adds DeepSeek Search and Fetch tools</title>
-    <link>https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools</guid>
-    <pubDate>Fri, 06 Nov 2026 21:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No…</description>
   </item>
   <item>
     <title>Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats</title>
@@ -639,12 +607,44 @@
     <description>Claude Fable 5.2 from Anthropic is now available on AI Gateway . Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller…</description>
   </item>
   <item>
+    <title>NextEra’s AI Saves Florida Customers $20 Million</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/nexteras-ai-saves-florida-customers-20-million/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/nexteras-ai-saves-florida-customers-20-million/</guid>
+    <pubDate>Sat, 21 Nov 2026 00:01:29 GMT</pubDate>
+    <category>AI Business</category>
+    <description>A power company makes the same costly decisions every hour. It picks which plants to run, how much fuel to burn and which ones to shut down for repairs. NextEra Energy now uses artificial intelligence (AI) to make those decisions cheaper. The company’s AI tool, Grid Composer, has produced “over $20…</description>
+  </item>
+  <item>
     <title>AI Ambition: ArtCraft Cloned Photoshop and Now Wants to Rebuild Everything</title>
     <link>https://latent.space/p/artcraft/</link>
     <guid isPermaLink="true">https://latent.space/p/artcraft/</guid>
     <pubDate>Fri, 13 Nov 2026 04:17:25 GMT</pubDate>
     <category>Art &amp; Creative</category>
     <description>ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!</description>
+  </item>
+  <item>
+    <title>Anthropic&#39;s IPO roadshow video</title>
+    <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:11:59 GMT</pubDate>
+    <category>AI Business</category>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://ipo.anthropic.com/us/#roadshow-video &gt;Anthropic&amp;#x27;s IPO roadshow video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.&lt;/p&gt; &lt;p&gt;The section on…</description>
+  </item>
+  <item>
+    <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
+    <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/hub-gcp-marketplace</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description></description>
+  </item>
+  <item>
+    <title>New in AWS Quick: More capable flows, an updated web experience, and agents that work together</title>
+    <link>https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/</link>
+    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/</guid>
+    <pubDate>Sat, 21 Nov 2026 01:06:42 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>AWS Quick is the AI workspace built only for work. Today we&#39;re releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta…</description>
   </item>
 </channel>
 </rss>
