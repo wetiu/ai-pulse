@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sat, 21 Nov 2026 07:04:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 19:14:00 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -119,14 +119,6 @@
     <description>The generative vendor released new capabilities targeting enterprise work and significantly updated models as it prepares for the historic public offering.</description>
   </item>
   <item>
-    <title>Nvidia bets at least $500 million on Inception&#39;s diffusion models to strengthen its open-source Nemotron lineup</title>
-    <link>https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/</link>
-    <guid isPermaLink="true">https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/</guid>
-    <pubDate>Fri, 20 Nov 2026 14:53:50 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The deal would…</description>
-  </item>
-  <item>
     <title>ChatGPT Ads increases its market presence in 44 countries</title>
     <link>https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</link>
     <guid isPermaLink="true">https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</guid>
@@ -149,6 +141,14 @@
     <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
+  </item>
+  <item>
+    <title>Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft</title>
+    <link>https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/</link>
+    <guid isPermaLink="true">https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/</guid>
+    <pubDate>Sat, 21 Nov 2026 11:19:49 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math&#39;s most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof,…</description>
   </item>
   <item>
     <title>Perplexity Launches Orchestrator API for Failover and Model Routing</title>
@@ -189,14 +189,6 @@
     <pubDate>Wed, 18 Nov 2026 23:56:55 GMT</pubDate>
     <category>AI Business</category>
     <description>Google LLC is releasing a new version of its Gemini artificial intelligence assistant that is better at performing multistep tasks. Josh Woodward, the vice president responsible for the Gemini app, detailed the update in a Tuesday blog post. The AI assistant has two modes that are accessible…</description>
-  </item>
-  <item>
-    <title>Apple joins the race for AI agents that control your device while raising new barriers for competitors</title>
-    <link>https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/</link>
-    <guid isPermaLink="true">https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/</guid>
-    <pubDate>Fri, 20 Nov 2026 15:03:25 GMT</pubDate>
-    <category>AI Business</category>
-    <description>After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The…</description>
   </item>
   <item>
     <title>Introducing OpenAI for Chile</title>
@@ -245,6 +237,14 @@
     <pubDate>Wed, 18 Nov 2026 23:50:41 GMT</pubDate>
     <category>AI Business</category>
     <description>Updated: Artificial intelligence giant Anthropic PBC today saw its newly issued shares open at $111.50 a share, up 34%, in one of the most eagerly anticipated initial public offerings in history. The shares, trading under the ticker symbol ANT, closed the first day of trading up 17%, to $97.17 a…</description>
+  </item>
+  <item>
+    <title>OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions</title>
+    <link>https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/</guid>
+    <pubDate>Sat, 21 Nov 2026 13:32:35 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation&#39;s history can discard reasoning content…</description>
   </item>
   <item>
     <title>Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒</title>
@@ -343,6 +343,14 @@
     <description>Possible foreign intelligence targeting at Nvidia raises concerns about CEO succession and chipmaker’s influence over the AI market.</description>
   </item>
   <item>
+    <title>Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model</title>
+    <link>https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/</link>
+    <guid isPermaLink="true">https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/</guid>
+    <pubDate>Sat, 21 Nov 2026 09:17:24 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model,…</description>
+  </item>
+  <item>
     <title>Apple may be developing its own AI agent that runs your Mac</title>
     <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</guid>
@@ -415,14 +423,6 @@
     <description>Gemini 4 Neon from Google is now available on AI Gateway. Gemini 4 Neon is a major upgrade over the earlier, lighter Gemini 4 model, delivering output quality close to Google’s larger Gemini 4 models with faster responses. It’s built for coding, agent workflows, and multi-step tasks. The model…</description>
   </item>
   <item>
-    <title>Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI</title>
-    <link>https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/</guid>
-    <pubDate>Tue, 17 Nov 2026 23:51:11 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Isomorphic Labs Ltd. today announced that it has closed a $5 billion investment led by Greenoaks and Sequoia Capital. The venture capital firms were joined by more than a half-dozen other backers. The group included Isomorphic parent Alphabet Inc., which made a “significant investment.” The search…</description>
-  </item>
-  <item>
     <title>NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance</title>
     <link>https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/</guid>
@@ -471,14 +471,6 @@
     <description>November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.</description>
   </item>
   <item>
-    <title>An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool</title>
-    <link>https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/</link>
-    <guid isPermaLink="true">https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/</guid>
-    <pubDate>Thu, 19 Nov 2026 21:15:01 GMT</pubDate>
-    <category>AI Business</category>
-    <description>An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an attacker. The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt…</description>
-  </item>
-  <item>
     <title>Superhuman unveils personal AI assistant and expands Go across entire suite</title>
     <link>https://siliconangle.com/2026/11/19/superhuman-unveils-personal-ai-assistant-and-expands-go-across-entire-suite/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/19/superhuman-unveils-personal-ai-assistant-and-expands-go-across-entire-suite/</guid>
@@ -511,6 +503,14 @@
     <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
   </item>
   <item>
+    <title>Can Anthropic afford to put safety first?</title>
+    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
+    <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
+    <pubDate>Sat, 21 Nov 2026 15:00:00 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this…</description>
+  </item>
+  <item>
     <title>Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories</title>
     <link>https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</guid>
@@ -527,6 +527,14 @@
     <description>Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is…</description>
   </item>
   <item>
+    <title>OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min</title>
+    <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</guid>
+    <pubDate>Sat, 21 Nov 2026 11:46:17 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared…</description>
+  </item>
+  <item>
     <title>Barclays, Citadel and BNY Put Anthropic’s Claude to Work</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/barclays-citadel-bny-put-anthropic-claude-work/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/barclays-citadel-bny-put-anthropic-claude-work/</guid>
@@ -535,28 +543,12 @@
     <description>Anthropic raised $107.3 billion in the biggest initial public offering in history, PYMNTS reported Thursday (Nov. 19). The company disclosed in its IPO prospectus that it had more than 11,900 customers with $100,000 or more of revenue in the 12 months through Sept. 30. More than 1,900 of them…</description>
   </item>
   <item>
-    <title>Hermes Agent&#39;s Collective Wisdom feature turns one employee&#39;s AI trick into the whole team&#39;s skill</title>
-    <link>https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/</link>
-    <guid isPermaLink="true">https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/</guid>
-    <pubDate>Fri, 20 Nov 2026 09:59:51 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent&#39;s Collective Wisdom feature turns one employee&#39;s AI trick into the whole team&#39;s skill appeared first on The Decoder .</description>
-  </item>
-  <item>
     <title>Introducing Vercel Board</title>
     <link>https://vercel.com/blog/introducing-vercel-board</link>
     <guid isPermaLink="true">https://vercel.com/blog/introducing-vercel-board</guid>
     <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn&#39;t a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many…</description>
-  </item>
-  <item>
-    <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
-    <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
-    <pubDate>Tue, 10 Nov 2026 07:28:21 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://research.meta.ai/blog/muse-ember &gt;Introducing Our Smallest, Most Efficient Model: Muse Ember&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt; ... our smallest and most…</description>
   </item>
   <item>
     <title>Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats</title>
@@ -645,6 +637,14 @@
     <pubDate>Sat, 21 Nov 2026 01:06:42 GMT</pubDate>
     <category>Web Dev</category>
     <description>AWS Quick is the AI workspace built only for work. Today we&#39;re releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta…</description>
+  </item>
+  <item>
+    <title>More ways to move care forward with ChatGPT for Healthcare</title>
+    <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+    <guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.</description>
   </item>
 </channel>
 </rss>
