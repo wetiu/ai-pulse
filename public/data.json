@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T19:14:00.615Z",
-  "count": 381,
+  "generatedAt": "2026-11-22T06:45:08.486Z",
+  "count": 379,
   "focusCount": 233,
   "topics": [
     "Game Dev",
@@ -70,20 +70,6 @@
       "isFocus": true
     },
     {
-      "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
-      "url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
-      "summary": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
-      "source": "MarkTechPost",
-      "feedTopic": "Research",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-19T06:52:26.000Z",
-      "topic": "Models & Labs",
-      "importance": 13.2,
-      "isFocus": false
-    },
-    {
       "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",
       "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/",
       "summary": "TL;DR PyTorch models now run in the web browser on the GPU through ExecuTorch, with no conversion to another framework’s format. You export with torch.export to an ExecuTorch .pte file,... The post ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser appeared first on PyTorch .",
@@ -124,20 +110,6 @@
       "topic": "Models & Labs",
       "importance": 12.5,
       "isFocus": false
-    },
-    {
-      "title": "Humyn Labs raises $47M to bridge the gap between AI training and real-world robotics",
-      "url": "https://siliconangle.com/2026/11/18/humyn-labs-raises-47m-to-bridge-the-gap-between-ai-training-and-real-world-robotics/",
-      "summary": "Humyn Labs, a company turning human experience into training for robots and artificial intelligence, today announced it has raised $47 million in early-stage funding to accelerate intelligent robotic deployment readiness in real-world environments across Brazil, South Korea and India. Accel led the…",
-      "source": "SiliconANGLE AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-18T12:30:54.000Z",
-      "topic": "AI Business",
-      "importance": 12.4,
-      "isFocus": true
     },
     {
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -696,20 +668,6 @@
       "researchOnly": false,
       "date": "2026-11-20T10:21:10.000Z",
       "topic": "Game Dev",
-      "importance": 10.4,
-      "isFocus": true
-    },
-    {
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "source": "TechCrunch AI",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-19T14:54:39.000Z",
-      "topic": "AI Business",
       "importance": 10.4,
       "isFocus": true
     },
@@ -2298,7 +2256,7 @@
     {
       "title": "ClawDOS – An AI coding agent for DOS",
       "url": "http://ricapar.net/ClawDOS/",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 138 # Comments: 43",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 162 # Comments: 51",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2326,7 +2284,7 @@
     {
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 470 # Comments: 809",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 509 # Comments: 890",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2340,7 +2298,7 @@
     {
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "url": "https://signal.org/blog/protecting-your-privacy/",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 565 # Comments: 333",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 573 # Comments: 336",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2424,7 +2382,7 @@
     {
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 498 # Comments: 262",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 499 # Comments: 264",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -2546,6 +2504,20 @@
       "topic": "Models & Labs",
       "importance": 8.3,
       "isFocus": false
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-21T21:37:10.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
     },
     {
       "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
@@ -2968,7 +2940,7 @@
       "isFocus": true
     },
     {
-      "title": "Enterprises fear AI success more than failure, because success means lock-in they can’t escape",
+      "title": "Sovereign AI guide finds every hyperscaler exposed under the U.S. CLOUD Act",
       "url": "https://siliconangle.com/2026/11/19/scientific-simulation-meets-ai-sovereignty-cloud-act-sc26/",
       "summary": "The supercomputing world built its reputation on scientific simulation, but the artificial intelligence infrastructure now filling the same data centers raises a harder question. When models turn data into revenue, control over that data and the intelligence it produces becomes a board-level…",
       "source": "SiliconANGLE AI",
@@ -3318,6 +3290,20 @@
       "isFocus": false
     },
     {
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "source": "TechCrunch AI",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-21T21:07:42.000Z",
+      "topic": "AI Business",
+      "importance": 7.4,
+      "isFocus": true
+    },
+    {
       "title": "Meta’s new Muse Charm device may cost $300",
       "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
       "summary": "Meta hasn't denied the reporting from The Information, saying only that it will have more to share soon about its upcoming AI wearable.",
@@ -3346,17 +3332,17 @@
       "isFocus": false
     },
     {
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-      "source": "TechCrunch AI",
+      "title": "Sovereignty starts with data, not chips, says Stuttgart AI factory chief",
+      "url": "https://siliconangle.com/2026/11/21/sovereignty-data-not-chips-stuttgart-sovereign-ai-factory-sc26/",
+      "summary": "A sovereign AI factory is only as valuable as the companies that can actually get onto it. Across Europe, publicly funded AI factories are racing to give startups and small manufacturers supercomputer-class GPUs without pushing them into lock-in or loose data handling. In Stuttgart, the HammerHAI…",
+      "source": "SiliconANGLE AI",
       "feedTopic": "AI Business",
-      "weight": 2,
+      "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-11-19T14:00:00.000Z",
+      "date": "2026-11-21T21:48:11.000Z",
       "topic": "AI Business",
-      "importance": 7.4,
+      "importance": 7.2,
       "isFocus": true
     },
     {
@@ -3418,7 +3404,7 @@
     {
       "title": "Google workers tell their employer not to punish schools that don't want AI",
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 278 # Comments: 222",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 281 # Comments: 228",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3432,7 +3418,7 @@
     {
       "title": "AI is giving everyone the same advice",
       "url": "https://a90.com/experiments/same-advice/",
-      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 109 # Comments: 44",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 122 # Comments: 50",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3446,7 +3432,7 @@
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "url": "https://architectlabs.com/blog/frostbite",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 663 # Comments: 351",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 670 # Comments: 357",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3528,23 +3514,9 @@
       "isFocus": true
     },
     {
-      "title": "Google is putting AI chats right on the homepage",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the …",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-19T20:05:06.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate video",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 255",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 115 # Comments: 258",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3600,7 +3572,7 @@
     {
       "title": "Fuck Your AI Safeguards",
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 614 # Comments: 249",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 616 # Comments: 249",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3614,7 +3586,7 @@
     {
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
       "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 270 # Comments: 248",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 272 # Comments: 248",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3684,7 +3656,7 @@
     {
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 814 # Comments: 713",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 816 # Comments: 713",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4242,6 +4214,20 @@
       "isFocus": false
     },
     {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called killer robots. Eventually, representatives left the meetings agreeing to start discussing options after a largely fruitless week of…",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-21T20:03:37.000Z",
+      "topic": "AI Business",
+      "importance": 6,
+      "isFocus": true
+    },
+    {
       "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
       "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
       "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of…",
@@ -4424,6 +4410,20 @@
       "isFocus": false
     },
     {
+      "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+      "url": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+      "summary": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce…",
+      "source": "MarkTechPost",
+      "feedTopic": "Research",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-22T01:51:43.000Z",
+      "topic": "Research",
+      "importance": 5.7,
+      "isFocus": false
+    },
+    {
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
       "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
       "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with…",
@@ -4536,20 +4536,6 @@
       "isFocus": false
     },
     {
-      "title": "llm-gemini 0.36",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm-gemini/releases/tag/0.36 >llm-gemini 0.36</a></p> <p>Gemini 4 Carbon was announced <a href= https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ >two weeks ago</a> for a subset of…",
-      "source": "Simon Willison",
-      "feedTopic": "Open Source",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-10T20:09:44.000Z",
-      "topic": "Open Source",
-      "importance": 5.4,
-      "isFocus": false
-    },
-    {
       "title": "datasette-agent 0.6a0",
       "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
       "summary": "<p><strong>Release:</strong> <a href= https://github.com/datasette/datasette-agent/releases/tag/0.6a0 >datasette-agent 0.6a0</a></p> <p>Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt…",
@@ -4634,20 +4620,6 @@
       "isFocus": false
     },
     {
-      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-      "summary": "Plus: CucumberVision!",
-      "source": "Import AI",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-11-16T14:01:15.000Z",
-      "topic": "Research",
-      "importance": 5.2,
-      "isFocus": false
-    },
-    {
       "title": "AINews The No AI Slop Manifesto",
       "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
       "summary": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
@@ -4690,20 +4662,6 @@
       "isFocus": false
     },
     {
-      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
-      "summary": "When do you think we'll have robots on the moon?",
-      "source": "Import AI",
-      "feedTopic": "Research",
-      "weight": 2,
-      "native": true,
-      "researchOnly": true,
-      "date": "2026-11-09T13:31:34.000Z",
-      "topic": "Research",
-      "importance": 5.2,
-      "isFocus": false
-    },
-    {
       "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
       "summary": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter…",
@@ -4729,20 +4687,6 @@
       "date": "2026-11-19T19:53:32.000Z",
       "topic": "Models & Labs",
       "importance": 5.1,
-      "isFocus": false
-    },
-    {
-      "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/",
-      "summary": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code.",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-19T18:14:36.000Z",
-      "topic": "Models & Labs",
-      "importance": 5,
       "isFocus": false
     },
     {
@@ -5124,6 +5068,20 @@
       "isFocus": false
     },
     {
+      "title": "llm 0.37.2",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/",
+      "summary": "<p><strong>Release:</strong> <a href= https://github.com/simonw/llm/releases/tag/0.37.2 >llm 0.37.2</a></p> <p>Fixes a security issue reported by <a href= https://github.com/BluePlexus >Daniel de Araujo</a> in <a href= https://github.com/simonw/llm/security/advisories/GHSA-v9h7-jj4g-f862…",
+      "source": "Simon Willison",
+      "feedTopic": "Open Source",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-11T17:19:52.000Z",
+      "topic": "Models & Labs",
+      "importance": 4.2,
+      "isFocus": false
+    },
+    {
       "title": "AINews Riemann Hypothesis proved...twice independently",
       "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
       "summary": "November 20 2026 —",
@@ -5303,6 +5261,20 @@
       "date": "2026-11-09T12:34:29.000Z",
       "topic": "Open Source",
       "importance": 4,
+      "isFocus": false
+    },
+    {
+      "title": "Meta ads is now available in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+      "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks,…",
+      "source": "AWS ML Blog",
+      "feedTopic": "Models & Labs",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-22T01:59:13.000Z",
+      "topic": "Models & Labs",
+      "importance": 3.4,
       "isFocus": false
     },
     {
