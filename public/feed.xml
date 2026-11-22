@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 22 Nov 2026 06:45:08 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 19:37:00 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -103,6 +103,14 @@
     <description>The generative vendor released new capabilities targeting enterprise work and significantly updated models as it prepares for the historic public offering.</description>
   </item>
   <item>
+    <title>Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries</title>
+    <link>https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/</guid>
+    <pubDate>Sun, 22 Nov 2026 10:03:54 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request. The post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on…</description>
+  </item>
+  <item>
     <title>ChatGPT Ads increases its market presence in 44 countries</title>
     <link>https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</link>
     <guid isPermaLink="true">https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</guid>
@@ -133,14 +141,6 @@
     <pubDate>Sat, 21 Nov 2026 11:19:49 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math&#39;s most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof,…</description>
-  </item>
-  <item>
-    <title>Perplexity Launches Orchestrator API for Failover and Model Routing</title>
-    <link>https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/</guid>
-    <pubDate>Thu, 19 Nov 2026 17:47:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route. The post Perplexity Launches Orchestrator API for…</description>
   </item>
   <item>
     <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
@@ -327,14 +327,6 @@
     <description>Possible foreign intelligence targeting at Nvidia raises concerns about CEO succession and chipmaker’s influence over the AI market.</description>
   </item>
   <item>
-    <title>Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model</title>
-    <link>https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/</link>
-    <guid isPermaLink="true">https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/</guid>
-    <pubDate>Sat, 21 Nov 2026 09:17:24 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model,…</description>
-  </item>
-  <item>
     <title>Apple may be developing its own AI agent that runs your Mac</title>
     <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
     <guid isPermaLink="true">https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</guid>
@@ -367,20 +359,20 @@
     <description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.</description>
   </item>
   <item>
-    <title>Autodesk releases Maya 2027.3 with new agentic AI features</title>
-    <link>https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/</link>
-    <guid isPermaLink="true">https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/</guid>
-    <pubDate>Thu, 19 Nov 2026 09:48:34 GMT</pubDate>
-    <category>Art &amp; Creative</category>
-    <description>3D modeling and animation software gets an updated AI assistant and new MCP server. Check out all the other new features.</description>
-  </item>
-  <item>
     <title>Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven gameplay innovation</title>
     <link>https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation</link>
     <guid isPermaLink="true">https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation</guid>
     <pubDate>Fri, 20 Nov 2026 10:21:10 GMT</pubDate>
     <category>Game Dev</category>
     <description>Ubisoft has launched Motherbrain, a dedicated subsidiary focused on developing proprietary generative AI technology for gameplay. Read more</description>
+  </item>
+  <item>
+    <title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</title>
+    <link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</guid>
+    <pubDate>Sun, 22 Nov 2026 10:36:17 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on…</description>
   </item>
   <item>
     <title>Resolve AI’s SRE-1 model finds root causes of production alerts as AI agents go on call</title>
@@ -511,6 +503,14 @@
     <description>OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared…</description>
   </item>
   <item>
+    <title>Security researchers show how cheap AI inference providers steal keys and snoop on users</title>
+    <link>https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/</link>
+    <guid isPermaLink="true">https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/</guid>
+    <pubDate>Sun, 22 Nov 2026 12:07:56 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by…</description>
+  </item>
+  <item>
     <title>Barclays, Citadel and BNY Put Anthropic’s Claude to Work</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/barclays-citadel-bny-put-anthropic-claude-work/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/barclays-citadel-bny-put-anthropic-claude-work/</guid>
@@ -525,14 +525,6 @@
     <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn&#39;t a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many…</description>
-  </item>
-  <item>
-    <title>Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats</title>
-    <link>https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/</link>
-    <guid isPermaLink="true">https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:50:27 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Signal is blocking screenshots to stop AI agents like Apple&#39;s Siri AI, Google&#39;s Gemini Intelligence, and Meta&#39;s Muse from reading private chats. The app calls it an existential threat to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should…</description>
   </item>
   <item>
     <title>Managing frontier AI risk: From training to deployment</title>
@@ -645,6 +637,14 @@
     <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
     <category>Research</category>
     <description>OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.</description>
+  </item>
+  <item>
+    <title>AI Engineer Code Summit: OpenAI on New Ways of Working With Codex</title>
+    <link>https://latent.space/p/codex-work/</link>
+    <guid isPermaLink="true">https://latent.space/p/codex-work/</guid>
+    <pubDate>Wed, 11 Nov 2026 04:49:48 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.</description>
   </item>
 </channel>
 </rss>
