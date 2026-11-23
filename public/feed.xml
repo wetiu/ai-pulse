@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Sun, 22 Nov 2026 19:37:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 07:35:06 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -343,14 +343,6 @@
     <description>Governance platform provider OneTrust LLC today announced its Fall ’26 Release, a set of platform updates said to bring governance into the workflows where business decisions are made. Building on OneTrust CORIE, a shared intelligence layer for governing artificial intelligence agents introduced at…</description>
   </item>
   <item>
-    <title>Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents</title>
-    <link>https://sifted.eu/articles/disseqt-ai-agents-rogue/</link>
-    <guid isPermaLink="true">https://sifted.eu/articles/disseqt-ai-agents-rogue/</guid>
-    <pubDate>Wed, 18 Nov 2026 05:00:24 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>Advancing chip design with OpenAI models</title>
     <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
     <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
@@ -479,14 +471,6 @@
     <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this…</description>
   </item>
   <item>
-    <title>Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories</title>
-    <link>https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</guid>
-    <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.</description>
-  </item>
-  <item>
     <title>AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities</title>
     <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</guid>
@@ -559,12 +543,12 @@
     <description>Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off through November 30, 2026: Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long…</description>
   </item>
   <item>
-    <title>Claude Fable 5.2 now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway</guid>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Claude Fable 5.2 from Anthropic is now available on AI Gateway . Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller…</description>
+    <title>Amazon Nears $7.5 Billion Deal for AI Startup Decart</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/</guid>
+    <pubDate>Sun, 22 Nov 2026 22:29:27 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Amazon is reportedly closer to a $7.5 billion deal to acquire artificial intelligence startup Decart. That’s according to a report Saturday (Nov. 21) by the Financial Times (FT), citing sources familiar with the matter. The report notes that the purchase of Decart, whose software allows AI models…</description>
   </item>
   <item>
     <title>NextEra’s AI Saves Florida Customers $20 Million</title>
@@ -581,14 +565,6 @@
     <pubDate>Fri, 13 Nov 2026 04:17:25 GMT</pubDate>
     <category>Art &amp; Creative</category>
     <description>ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!</description>
-  </item>
-  <item>
-    <title>Anthropic&#39;s IPO roadshow video</title>
-    <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
-    <pubDate>Wed, 11 Nov 2026 15:11:59 GMT</pubDate>
-    <category>AI Business</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://ipo.anthropic.com/us/#roadshow-video &gt;Anthropic&amp;#x27;s IPO roadshow video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.&lt;/p&gt; &lt;p&gt;The section on…</description>
   </item>
   <item>
     <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
@@ -645,6 +621,30 @@
     <pubDate>Wed, 11 Nov 2026 04:49:48 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.</description>
+  </item>
+  <item>
+    <title>China’s block of SoftBank’s ABB purchase raises supply-chain questions</title>
+    <link>https://aibusiness.com/automation/china-s-block-of-softbank-s-abb-purchase</link>
+    <guid isPermaLink="true">https://aibusiness.com/automation/china-s-block-of-softbank-s-abb-purchase</guid>
+    <pubDate>Tue, 10 Nov 2026 21:00:44 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The move to stop the Japanese multinational investment holding company’s acquisition has sparked concerns about the future of cross-border robotics investment.</description>
+  </item>
+  <item>
+    <title>Perplexity&#39;s new Monitor API turns web search from a one-off query into a nonstop watchdog</title>
+    <link>https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/</link>
+    <guid isPermaLink="true">https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/</guid>
+    <pubDate>Sun, 22 Nov 2026 14:20:28 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable…</description>
+  </item>
+  <item>
+    <title>RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only</title>
+    <link>https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</guid>
+    <pubDate>Fri, 20 Nov 2026 17:42:29 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With…</description>
   </item>
 </channel>
 </rss>
