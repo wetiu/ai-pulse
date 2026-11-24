@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Mon, 23 Nov 2026 23:51:45 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 09:52:20 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -79,6 +79,14 @@
     <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</description>
   </item>
   <item>
+    <title>Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls</title>
+    <link>https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/</link>
+    <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/</guid>
+    <pubDate>Tue, 24 Nov 2026 05:01:14 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic&#39;s Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data…</description>
+  </item>
+  <item>
     <title>The Gemini app is now available on lower-memory Android devices.</title>
     <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</link>
     <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</guid>
@@ -117,6 +125,14 @@
     <pubDate>Wed, 11 Nov 2026 17:35:25 GMT</pubDate>
     <category>AI Business</category>
     <description>The generative vendor released new capabilities targeting enterprise work and significantly updated models as it prepares for the historic public offering.</description>
+  </item>
+  <item>
+    <title>Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes</title>
+    <link>https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/</guid>
+    <pubDate>Tue, 24 Nov 2026 00:02:39 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Anthropic&#39;s Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared…</description>
   </item>
   <item>
     <title>Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model</title>
@@ -327,14 +343,6 @@
     <description>November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.</description>
   </item>
   <item>
-    <title>10 tips for organizing your first video game project with AI</title>
-    <link>https://unity.com/blog/how-to-organize-a-game-project-with-ai</link>
-    <guid isPermaLink="true">https://unity.com/blog/how-to-organize-a-game-project-with-ai</guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-    <category>Game Dev</category>
-    <description>How to organize a video game project with AI: 10 beginner tips on design briefs, naming, checkpoints, prompt logs, and playtesting – no coding needed.</description>
-  </item>
-  <item>
     <title>Advancing chip design with OpenAI models</title>
     <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
     <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
@@ -373,14 +381,6 @@
     <pubDate>Mon, 23 Nov 2026 14:00:09 GMT</pubDate>
     <category>AI Business</category>
     <description>Healthcare artificial intelligence company Innovaccer Inc. today announced that it has expanded its Gravity Voice AI agents with Grok Voice, the speech-to-speech model from Elon Musk’s artificial intelligence company SpaceXSI, formerly xAI. The integration is aimed at the routine calls that make up…</description>
-  </item>
-  <item>
-    <title>Autodesk releases Maya 2027.3 with new agentic AI features</title>
-    <link>https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/</link>
-    <guid isPermaLink="true">https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/</guid>
-    <pubDate>Thu, 19 Nov 2026 09:48:34 GMT</pubDate>
-    <category>Art &amp; Creative</category>
-    <description>3D modeling and animation software gets an updated AI assistant and new MCP server. Check out all the other new features.</description>
   </item>
   <item>
     <title>Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven gameplay innovation</title>
@@ -447,14 +447,6 @@
     <description>Parallel Decisions Fast from Parallel is now available on AI Gateway and is free through November 23, 2026. It searches the live web to answer typed questions about companies, products, policies, and other changing information, returning probabilities and cited evidence for your application to act…</description>
   </item>
   <item>
-    <title>Gemini Decisions API</title>
-    <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
-    <pubDate>Wed, 11 Nov 2026 22:03:25 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ &gt;Gemini Decisions API&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; Google join &lt;a href= https://simonwillison.net/2026/Sep/21/jev/ &gt;Jev&lt;/a&gt; and &lt;a href= https://simonwillison.net/2026/Oct/6/llm-openai-decisions/…</description>
-  </item>
-  <item>
     <title>AINews Anthropic successfully completes largest IPO in history, valued at $1.5T</title>
     <link>https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/</link>
     <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/</guid>
@@ -487,14 +479,6 @@
     <description>Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without…</description>
   </item>
   <item>
-    <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
-    <link>https://openai.com/index/singapore-airlines-travel-work</link>
-    <guid isPermaLink="true">https://openai.com/index/singapore-airlines-travel-work</guid>
-    <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
-  </item>
-  <item>
     <title>Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code</title>
     <link>https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/</link>
     <guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/</guid>
@@ -519,14 +503,6 @@
     <description>Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among…</description>
   </item>
   <item>
-    <title>OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min</title>
-    <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</guid>
-    <pubDate>Sat, 21 Nov 2026 11:46:17 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared…</description>
-  </item>
-  <item>
     <title>Introducing Vercel Board</title>
     <link>https://vercel.com/blog/introducing-vercel-board</link>
     <guid isPermaLink="true">https://vercel.com/blog/introducing-vercel-board</guid>
@@ -535,12 +511,20 @@
     <description>Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn&#39;t a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many…</description>
   </item>
   <item>
+    <title>Amazon acquires key assets of AI startup Decart for reported $7.5B</title>
+    <link>https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/</guid>
+    <pubDate>Tue, 24 Nov 2026 01:40:22 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Amazon.com Inc. today announced plans to hire the technical staff of startup Decart.AI Inc. and acquire its core technology. The company didn’t disclose the terms of the deal. However, sources told Bloomberg that Amazon is paying about $7.5 billion. That’s nearly twice the valuation Decart…</description>
+  </item>
+  <item>
     <title>AI agent provider Sierra closes $1.75B investment amid rapid revenue growth</title>
     <link>https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/</guid>
     <pubDate>Mon, 23 Nov 2026 23:49:50 GMT</pubDate>
     <category>AI Business</category>
-    <description>Six months after its last funding round, artificial intelligence startup Sierra Technologies Inc. today announced that it has closed a $1.75 billion investment. Greenoaks and Lightspeed led the Series F deal. They were joined by a group of returning backers that included Alphabet Inc.’s GV fund.…</description>
+    <description>Six months after its last funding round, artificial intelligence startup Sierra Technologies Inc. today announced that it has closed a $1.75 billion late-stage investment. Greenoaks and Lightspeed led the Series F deal. They were joined by a group of returning backers that included Alphabet Inc.’s…</description>
   </item>
   <item>
     <title>AWS is making AI agents more decisive and secure with its latest Strands updates</title>
@@ -575,14 +559,6 @@
     <description>Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and…</description>
   </item>
   <item>
-    <title>Gemini 4 Carbon now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway</guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off through November 30, 2026: Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long…</description>
-  </item>
-  <item>
     <title>Visa Uses Payment Credentials to Verify AI Agents</title>
     <link>https://www.pymnts.com/news/artificial-intelligence/2026/visa-uses-payment-credentials-verify-ai-agents/</link>
     <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/visa-uses-payment-credentials-verify-ai-agents/</guid>
@@ -591,28 +567,12 @@
     <description>Visa launched a new version of its artificial intelligence agent wallet, Visa CLI, Cuy Sheffield, head of Visa Crypto Labs, said in a Sunday (Nov. 22) post on social platform X. Visa CLI is “an agent wallet that lets people verify their agent with a Visa card, then work with it to earn OUSD by ……</description>
   </item>
   <item>
-    <title>AI Drug Developers Post Higher Trial Success as Deals Hit $46 Billion</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/ai-drug-developers-post-higher-trial-success-as-deals-hit-46-billion/</link>
-    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/ai-drug-developers-post-higher-trial-success-as-deals-hit-46-billion/</guid>
-    <pubDate>Mon, 23 Nov 2026 09:00:15 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Funding a drug discovery program is expensive, and then testing the drug on patients costs even more. After all that spending, most drugs still fail. At smaller drug developers using artificial intelligence, the odds are starting to improve. An Oliver Wyman analysis finds that drugs from AI-native…</description>
-  </item>
-  <item>
     <title>AI Ambition: ArtCraft Cloned Photoshop and Now Wants to Rebuild Everything</title>
     <link>https://latent.space/p/artcraft/</link>
     <guid isPermaLink="true">https://latent.space/p/artcraft/</guid>
     <pubDate>Fri, 13 Nov 2026 04:17:25 GMT</pubDate>
     <category>Art &amp; Creative</category>
     <description>ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!</description>
-  </item>
-  <item>
-    <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
-    <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/hub-gcp-marketplace</guid>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
   </item>
   <item>
     <title>New in AWS Quick: More capable flows, an updated web experience, and agents that work together</title>
@@ -645,6 +605,46 @@
     <pubDate>Thu, 12 Nov 2026 21:16:26 GMT</pubDate>
     <category>AI Business</category>
     <description>The company has entered the public markets with more than $300 million in conditional multiyear orders for its Digit 5 humanoid robot.</description>
+  </item>
+  <item>
+    <title>Supporting research on AI and children’s safety</title>
+    <link>https://openai.com/index/children-first-declaration</link>
+    <guid isPermaLink="true">https://openai.com/index/children-first-declaration</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <category>Research</category>
+    <description>OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.</description>
+  </item>
+  <item>
+    <title>AI Engineer Code Summit: OpenAI on New Ways of Working With Codex</title>
+    <link>https://latent.space/p/codex-work/</link>
+    <guid isPermaLink="true">https://latent.space/p/codex-work/</guid>
+    <pubDate>Wed, 11 Nov 2026 04:49:48 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.</description>
+  </item>
+  <item>
+    <title>China’s block of SoftBank’s ABB purchase raises supply-chain questions</title>
+    <link>https://aibusiness.com/automation/china-s-block-of-softbank-s-abb-purchase</link>
+    <guid isPermaLink="true">https://aibusiness.com/automation/china-s-block-of-softbank-s-abb-purchase</guid>
+    <pubDate>Tue, 10 Nov 2026 21:00:44 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The move to stop the Japanese multinational investment holding company’s acquisition has sparked concerns about the future of cross-border robotics investment.</description>
+  </item>
+  <item>
+    <title>GPT‑6.2 Astra and GPT‑6.2 Sol</title>
+    <link>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</guid>
+    <pubDate>Tue, 17 Nov 2026 22:38:52 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://openai.com/index/introducing-gpt-6-2-astra-sol/ &gt;GPT‑6.2 Astra and GPT‑6.2 Sol&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; OpenAI:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday…</description>
+  </item>
+  <item>
+    <title>Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
+    <link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
+    <pubDate>Tue, 17 Nov 2026 16:48:33 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>&lt;p&gt;&lt;a href= https://lite.datasette.io/ &gt;Datasette Lite&lt;/a&gt; is my port of the &lt;a href= https://datasette.io/ &gt;Datasette&lt;/a&gt; Python application to run directly in the browser using WebAssembly and &lt;a href= https://pyodide.org/ &gt;Pyodide&lt;/a&gt;. I&#39;ve released a complete rewrite of Datasette Lite using…</description>
   </item>
 </channel>
 </rss>
