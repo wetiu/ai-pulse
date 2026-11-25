@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 25 Nov 2026 08:30:37 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 21:40:11 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -31,22 +31,6 @@
     <description>&lt;img src= https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp &gt;Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.</description>
   </item>
   <item>
-    <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
-    <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</guid>
-    <pubDate>Mon, 23 Nov 2026 22:05:50 GMT</pubDate>
-    <category>AI Business</category>
-    <description>As AI-generated code piles up, Anthropic&#39;s new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.</description>
-  </item>
-  <item>
-    <title>Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents</title>
-    <link>https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/</guid>
-    <pubDate>Tue, 24 Nov 2026 19:23:41 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently. The article Anthropic tops 700 million monthly…</description>
-  </item>
-  <item>
     <title>How Revolut raises ambition without lowering the bar</title>
     <link>https://openai.com/business/customer-stories/revolut</link>
     <guid isPermaLink="true">https://openai.com/business/customer-stories/revolut</guid>
@@ -69,22 +53,6 @@
     <pubDate>Tue, 24 Nov 2026 05:01:14 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic&#39;s Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data…</description>
-  </item>
-  <item>
-    <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
-    <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-    <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
-    <pubDate>Wed, 11 Nov 2026 18:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</description>
-  </item>
-  <item>
-    <title>Anthropic&#39;s Claude Ship lets AI agents review, fix, and approve pull requests on their own</title>
-    <link>https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/</guid>
-    <pubDate>Tue, 24 Nov 2026 11:26:23 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic&#39;s Claude Ship lets AI agents review, fix, and approve pull requests on their own appeared…</description>
   </item>
   <item>
     <title>The Gemini app is now available on lower-memory Android devices.</title>
@@ -119,20 +87,20 @@
     <description>Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.</description>
   </item>
   <item>
-    <title>With IPO looming, Anthropic launches new AI models, workplace tools</title>
-    <link>https://aibusiness.com/generative-ai/anthropic-launches-new-ai-models</link>
-    <guid isPermaLink="true">https://aibusiness.com/generative-ai/anthropic-launches-new-ai-models</guid>
-    <pubDate>Wed, 11 Nov 2026 17:35:25 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The generative vendor released new capabilities targeting enterprise work and significantly updated models as it prepares for the historic public offering.</description>
-  </item>
-  <item>
     <title>Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes</title>
     <link>https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/</link>
     <guid isPermaLink="true">https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/</guid>
     <pubDate>Tue, 24 Nov 2026 00:02:39 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Anthropic&#39;s Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared…</description>
+  </item>
+  <item>
+    <title>AI agents now control part of Deepmind&#39;s compute for Gemini experiments, but recursive self-improvement remains distant</title>
+    <link>https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</link>
+    <guid isPermaLink="true">https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</guid>
+    <pubDate>Wed, 25 Nov 2026 13:23:36 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents&#39; internal chains of thought untrained so they can be…</description>
   </item>
   <item>
     <title>ChatGPT Ads increases its market presence in 44 countries</title>
@@ -149,14 +117,6 @@
     <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
-  </item>
-  <item>
-    <title>Supertake raises $20M to let AI agents turn your market predictions into stock portfolios</title>
-    <link>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/</guid>
-    <pubDate>Mon, 23 Nov 2026 22:02:05 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.</description>
   </item>
   <item>
     <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
@@ -207,20 +167,20 @@
     <description>Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earlier this year with two other xAI…</description>
   </item>
   <item>
+    <title>Startups Raise $515 Million to Build AI Agents Their Own Internet</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/startups-raise-515-million-to-build-ai-agents-their-own-internet/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/startups-raise-515-million-to-build-ai-agents-their-own-internet/</guid>
+    <pubDate>Wed, 25 Nov 2026 19:06:55 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The internet was built for people. Its search engines, browsers and phone lines assume a person is on the other end, reading a screen at human speed. Artificial intelligence (AI) agents are now the web’s newest users, and they search, read and act faster and in far greater volume than a person can.…</description>
+  </item>
+  <item>
     <title>Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒</title>
     <link>https://tldr.tech/ai/2026-11-13</link>
     <guid isPermaLink="true">https://tldr.tech/ai/2026-11-13</guid>
     <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
     <category>AI Business</category>
     <description></description>
-  </item>
-  <item>
-    <title>Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia</title>
-    <link>https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/</guid>
-    <pubDate>Tue, 24 Nov 2026 15:51:07 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.</description>
   </item>
   <item>
     <title>One way to stave off AI clones? Minimise the gap between announcement and launch</title>
@@ -327,14 +287,6 @@
     <description>Boston-based Aevius Labs Inc., a clinical medical data company, today announced it has raised $22 million in funding led by Insight Partners to build and train artificial intelligence foundation models that can understand and query unstructured medical text, imaging and other data. A spinout of…</description>
   </item>
   <item>
-    <title>Every 3D artist should have an AI assistant, Maxon says as it launches new tools and agentic licences</title>
-    <link>https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences</link>
-    <guid isPermaLink="true">https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences</guid>
-    <pubDate>Mon, 23 Nov 2026 16:19:34 GMT</pubDate>
-    <category>Art &amp; Creative</category>
-    <description>AI generation comes to Cinema 4D and ZBrush, but artists have an &#39;off&#39; switch.</description>
-  </item>
-  <item>
     <title>Innovaccer expands Gravity Voice AI agents with SpaceXSI’s Grok Voice model</title>
     <link>https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/</link>
     <guid isPermaLink="true">https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/</guid>
@@ -365,14 +317,6 @@
     <pubDate>Tue, 24 Nov 2026 21:33:29 GMT</pubDate>
     <category>AI Business</category>
     <description>As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.</description>
-  </item>
-  <item>
-    <title>Dozens of insiders say OpenAI and Anthropic&#39;s unreleased models have outgrown their safety measures</title>
-    <link>https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/</link>
-    <guid isPermaLink="true">https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/</guid>
-    <pubDate>Tue, 24 Nov 2026 14:02:31 GMT</pubDate>
-    <category>AI Business</category>
-    <description>According to an Axios report, many employees at OpenAI and Anthropic believe the companies&#39; own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether, while employee trust in leadership is…</description>
   </item>
   <item>
     <title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</title>
@@ -447,14 +391,6 @@
     <description>November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.</description>
   </item>
   <item>
-    <title>Superhuman unveils personal AI assistant and expands Go across entire suite</title>
-    <link>https://siliconangle.com/2026/11/19/superhuman-unveils-personal-ai-assistant-and-expands-go-across-entire-suite/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/19/superhuman-unveils-personal-ai-assistant-and-expands-go-across-entire-suite/</guid>
-    <pubDate>Thu, 19 Nov 2026 14:00:22 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Superhuman Inc., formerly known as Grammarly, today announced the expansion of Go, its proactive artificial intelligence assistant and multi-agent platform, along with updated features across its entire suite. Among the updates, the company added a new personalized AI assistant in Go that users can…</description>
-  </item>
-  <item>
     <title>NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics</title>
     <link>https://blogs.nvidia.com/blog/rubin-hpc/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/rubin-hpc/</guid>
@@ -479,12 +415,20 @@
     <description>Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is…</description>
   </item>
   <item>
-    <title>Anthropic&#39;s appetite for compute is pushing xAI toward a rent-over-build strategy</title>
-    <link>https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/</guid>
-    <pubDate>Mon, 23 Nov 2026 18:47:53 GMT</pubDate>
+    <title>Amazon and Meta are in talks to end the block on Meta&#39;s AI shopping agent Muse in Amazon&#39;s online store.</title>
+    <link>https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/</link>
+    <guid isPermaLink="true">https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/</guid>
+    <pubDate>Wed, 25 Nov 2026 16:44:37 GMT</pubDate>
     <category>AI Business</category>
-    <description>Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among…</description>
+    <description>Amazon and Meta are in talks to bring back Muse, Meta&#39;s AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon&#39;s ad business generates $68.6 billion a year, and Muse already…</description>
+  </item>
+  <item>
+    <title>Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools</title>
+    <link>https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/</guid>
+    <pubDate>Wed, 25 Nov 2026 13:14:27 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company…</description>
   </item>
   <item>
     <title>Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows</title>
@@ -509,6 +453,14 @@
     <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn&#39;t a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many…</description>
+  </item>
+  <item>
+    <title>BNY and Microsoft Let AI Agents Haggle Over Treasurys</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/</guid>
+    <pubDate>Wed, 25 Nov 2026 20:46:14 GMT</pubDate>
+    <category>AI Business</category>
+    <description>BNY and Microsoft put artificial intelligence agents on both sides of a U.S. Treasury bill trade and let them negotiate the price. BNY, a global financial services company with $63.4 trillion in assets under custody or administration, announced in a Nov. 17 press release that the two companies had…</description>
   </item>
   <item>
     <title>Agents can now manage AI Gateway through Vercel MCP</title>
@@ -645,6 +597,54 @@
     <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
     <category>Web Dev</category>
     <description>Inkling 2 Mini from Thinking Machines is now available on AI Gateway. The small multimodal reasoning model is built for agentic coding, tool use, and knowledge work, with text and image inputs and text output. Inkling 2 Mini has 26.4 billion total parameters and 3.4 billion active per token. The…</description>
+  </item>
+  <item>
+    <title>GPT‑6.2 Astra and GPT‑6.2 Sol</title>
+    <link>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</guid>
+    <pubDate>Tue, 17 Nov 2026 22:38:52 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;a href= https://openai.com/index/introducing-gpt-6-2-astra-sol/ &gt;GPT‑6.2 Astra and GPT‑6.2 Sol&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; OpenAI:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday…</description>
+  </item>
+  <item>
+    <title>Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
+    <link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
+    <pubDate>Tue, 17 Nov 2026 16:48:33 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>&lt;p&gt;&lt;a href= https://lite.datasette.io/ &gt;Datasette Lite&lt;/a&gt; is my port of the &lt;a href= https://datasette.io/ &gt;Datasette&lt;/a&gt; Python application to run directly in the browser using WebAssembly and &lt;a href= https://pyodide.org/ &gt;Pyodide&lt;/a&gt;. I&#39;ve released a complete rewrite of Datasette Lite using…</description>
+  </item>
+  <item>
+    <title>AINews Perplexity hits a $1B revenue run rate, up 4x in 2026</title>
+    <link>https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</link>
+    <guid isPermaLink="true">https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</guid>
+    <pubDate>Tue, 17 Nov 2026 09:24:56 GMT</pubDate>
+    <category>AI Business</category>
+    <description>November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.</description>
+  </item>
+  <item>
+    <title>Our first phase of embedded assessments</title>
+    <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+    <guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+    <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.</description>
+  </item>
+  <item>
+    <title>Ubisoft staff must justify not using generative AI in pitches, report claims</title>
+    <link>https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims</link>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims</guid>
+    <pubDate>Wed, 25 Nov 2026 20:19:40 GMT</pubDate>
+    <category>Game Dev</category>
+    <description>Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games faster, and if they don&#39;t plan to use it, they have to give a detailed reason why. Read more</description>
+  </item>
+  <item>
+    <title>Anthropic CEO Dario Amodei says letting AI govern society would be a bad idea</title>
+    <link>https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/</link>
+    <guid isPermaLink="true">https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/</guid>
+    <pubDate>Wed, 25 Nov 2026 20:15:50 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says turning over governance to AI is a bad idea. The article Anthropic CEO Dario Amodei says letting AI govern society would be a bad idea…</description>
   </item>
 </channel>
 </rss>
