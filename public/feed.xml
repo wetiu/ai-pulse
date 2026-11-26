@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Wed, 25 Nov 2026 21:40:11 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 08:14:19 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -101,14 +101,6 @@
     <pubDate>Wed, 25 Nov 2026 13:23:36 GMT</pubDate>
     <category>AI Business</category>
     <description>Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents&#39; internal chains of thought untrained so they can be…</description>
-  </item>
-  <item>
-    <title>ChatGPT Ads increases its market presence in 44 countries</title>
-    <link>https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</link>
-    <guid isPermaLink="true">https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</guid>
-    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies</description>
   </item>
   <item>
     <title>Introducing ChatGPT Wallet</title>
@@ -293,6 +285,14 @@
     <pubDate>Mon, 23 Nov 2026 14:00:09 GMT</pubDate>
     <category>AI Business</category>
     <description>Healthcare artificial intelligence company Innovaccer Inc. today announced that it has expanded its Gravity Voice AI agents with Grok Voice, the speech-to-speech model from Elon Musk’s artificial intelligence company SpaceXSI, formerly xAI. The integration is aimed at the routine calls that make up…</description>
+  </item>
+  <item>
+    <title>Autodesk releases Maya 2027.3 with new agentic AI features</title>
+    <link>https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/</link>
+    <guid isPermaLink="true">https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/</guid>
+    <pubDate>Thu, 19 Nov 2026 09:48:34 GMT</pubDate>
+    <category>Art &amp; Creative</category>
+    <description>3D modeling and animation software gets an updated AI assistant and new MCP server. Check out all the other new features.</description>
   </item>
   <item>
     <title>Clay helps sales teams win with Codex and ChatGPT</title>
@@ -511,14 +511,6 @@
     <description>&lt;img src= https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp &gt;We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.</description>
   </item>
   <item>
-    <title>Gemini 4 Hydrogen now available on AI Gateway</title>
-    <link>https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway</guid>
-    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Gemini 4 Hydrogen from Google is now available on AI Gateway. Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and…</description>
-  </item>
-  <item>
     <title>AI Ambition: ArtCraft Cloned Photoshop and Now Wants to Rebuild Everything</title>
     <link>https://latent.space/p/artcraft/</link>
     <guid isPermaLink="true">https://latent.space/p/artcraft/</guid>
@@ -573,14 +565,6 @@
     <pubDate>Thu, 12 Nov 2026 21:16:26 GMT</pubDate>
     <category>AI Business</category>
     <description>The company has entered the public markets with more than $300 million in conditional multiyear orders for its Digit 5 humanoid robot.</description>
-  </item>
-  <item>
-    <title>Supporting research on AI and children’s safety</title>
-    <link>https://openai.com/index/children-first-declaration</link>
-    <guid isPermaLink="true">https://openai.com/index/children-first-declaration</guid>
-    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-    <category>Research</category>
-    <description>OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.</description>
   </item>
   <item>
     <title>Verra raises $5M to help consulting firms forget their institutional amnesia</title>
@@ -645,6 +629,22 @@
     <pubDate>Wed, 25 Nov 2026 20:15:50 GMT</pubDate>
     <category>AI Business</category>
     <description>Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says turning over governance to AI is a bad idea. The article Anthropic CEO Dario Amodei says letting AI govern society would be a bad idea…</description>
+  </item>
+  <item>
+    <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
+    <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</guid>
+    <pubDate>Wed, 25 Nov 2026 20:03:27 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.</description>
+  </item>
+  <item>
+    <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
+    <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</guid>
+    <pubDate>Wed, 25 Nov 2026 19:44:24 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.</description>
   </item>
 </channel>
 </rss>
