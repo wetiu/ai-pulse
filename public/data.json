@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T08:28:06.253Z",
-  "count": 337,
-  "focusCount": 203,
+  "generatedAt": "2026-11-27T21:14:47.468Z",
+  "count": 329,
+  "focusCount": 198,
   "topics": [
     "Game Dev",
     "Web Dev",
@@ -84,6 +84,20 @@
       "isFocus": true
     },
     {
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running.…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T15:37:47.000Z",
+      "topic": "AI Business",
+      "importance": 12.9,
+      "isFocus": true
+    },
+    {
       "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
       "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data…",
@@ -154,18 +168,18 @@
       "isFocus": false
     },
     {
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "source": "OpenAI",
-      "feedTopic": "Models & Labs",
-      "weight": 3,
+      "title": "OpenAI is building Athena data platform to cut down on AI agent guesswork",
+      "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename Athena, the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct competition with Snowflake and Databricks. The article…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
       "native": true,
       "researchOnly": false,
-      "date": "2026-11-13T15:00:00.000Z",
-      "topic": "Models & Labs",
-      "importance": 11.6,
-      "isFocus": false
+      "date": "2026-11-27T16:05:23.000Z",
+      "topic": "AI Business",
+      "importance": 11.4,
+      "isFocus": true
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -194,20 +208,6 @@
       "topic": "Models & Labs",
       "importance": 11.4,
       "isFocus": false
-    },
-    {
-      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
-      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-      "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Blue Origin are also working on AI infrastructure in space,…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-26T13:41:07.000Z",
-      "topic": "AI Business",
-      "importance": 11.299999999999999,
-      "isFocus": true
     },
     {
       "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
@@ -588,20 +588,6 @@
       "isFocus": false
     },
     {
-      "title": "Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code",
-      "url": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/",
-      "summary": "In July, we released the Kotlin Benchmark – a collection of 105 real repository-level tasks for evaluating AI coding agents’ work with Kotlin. Since then, we’ve updated it to be more representative of what Kotlin teams do, with more reliable results and more data to help you choose an agent-model…",
-      "source": "JetBrains",
-      "feedTopic": "App Dev",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-23T14:13:29.000Z",
-      "topic": "App Dev",
-      "importance": 10.1,
-      "isFocus": true
-    },
-    {
       "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
       "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
       "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is…",
@@ -613,20 +599,6 @@
       "date": "2026-11-16T00:00:28.000Z",
       "topic": "AI Business",
       "importance": 10.1,
-      "isFocus": true
-    },
-    {
-      "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
-      "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 billion a year, and Muse already…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-25T16:44:37.000Z",
-      "topic": "AI Business",
-      "importance": 9.9,
       "isFocus": true
     },
     {
@@ -767,6 +739,20 @@
       "date": "2026-11-26T05:08:46.000Z",
       "topic": "Art & Creative",
       "importance": 9.7,
+      "isFocus": true
+    },
+    {
+      "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+      "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+      "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T16:06:43.000Z",
+      "topic": "AI Business",
+      "importance": 9.6,
       "isFocus": true
     },
     {
@@ -952,7 +938,7 @@
       "isFocus": true
     },
     {
-      "title": "Ubisoft denies report that staff must justify not using generative AI in pitches",
+      "title": "Report claims Ubisoft staff must justify not using generative AI in pitches",
       "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
       "summary": "Update, November 26, 2026: Ubisoft has issued a response to reports that teams are reportedly being asked to explain why they would or wouldn't use generative AI when pitching projects. Read more",
       "source": "GamesIndustry.biz",
@@ -962,20 +948,6 @@
       "researchOnly": false,
       "date": "2026-11-25T20:19:40.000Z",
       "topic": "Game Dev",
-      "importance": 9.4,
-      "isFocus": true
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be a bad idea",
-      "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
-      "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says turning over governance to AI is a bad idea. The article Anthropic CEO Dario Amodei says letting AI govern society would be a bad idea…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-25T20:15:50.000Z",
-      "topic": "AI Business",
       "importance": 9.4,
       "isFocus": true
     },
@@ -1218,20 +1190,6 @@
       "isFocus": true
     },
     {
-      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
-      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
-      "summary": "OpenAI is testing a new feature called Private Inference that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on The Decoder .",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-25T18:22:02.000Z",
-      "topic": "AI Business",
-      "importance": 9.1,
-      "isFocus": true
-    },
-    {
       "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
       "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
       "summary": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
@@ -1244,20 +1202,6 @@
       "topic": "Models & Labs",
       "importance": 9.1,
       "isFocus": false
-    },
-    {
-      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
-      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
-      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months behind US models, and the gap is…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-25T20:51:02.000Z",
-      "topic": "AI Business",
-      "importance": 9,
-      "isFocus": true
     },
     {
       "title": "Bootstrapped startup Levenza brings consumer-style personal agents to business workers",
@@ -1326,20 +1270,6 @@
       "researchOnly": false,
       "date": "2026-11-25T11:46:06.000Z",
       "topic": "App Dev",
-      "importance": 8.9,
-      "isFocus": true
-    },
-    {
-      "title": "Anthropic Expands Availability of AI Safety Monitoring With Zero Data Retention",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-availability-of-ai-safety-monitoring-with-zero-data-retention/",
-      "summary": "Anthropic’s Enterprise Frontier Safeguards (EFS), which is designed to remain compatible with zero data retention (ZDR) while monitoring for misuse, is being opened in public beta to eligible customers, the company said in a Monday (Nov. 23) product update. Anthropic is making this move after…",
-      "source": "PYMNTS AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-24T00:20:37.000Z",
-      "topic": "AI Business",
       "importance": 8.9,
       "isFocus": true
     },
@@ -1442,6 +1372,20 @@
       "isFocus": true
     },
     {
+      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to cut at least 10,000 jobs as it pivots to AI appeared first on The Decoder .",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T14:57:25.000Z",
+      "topic": "AI Business",
+      "importance": 8.7,
+      "isFocus": true
+    },
+    {
       "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
       "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
       "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast Mode through year-end. OpenAI is also testing a Chat and…",
@@ -1451,20 +1395,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-26T17:28:56.000Z",
-      "topic": "AI Business",
-      "importance": 8.7,
-      "isFocus": true
-    },
-    {
-      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
-      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
-      "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for thousands of B300 chips, while one cloud executive describes chaos ,…",
-      "source": "The Decoder",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-26T11:21:16.000Z",
       "topic": "AI Business",
       "importance": 8.7,
       "isFocus": true
@@ -1596,15 +1526,15 @@
       "isFocus": false
     },
     {
-      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
-      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
-      "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along with criminal organizations, are already using the system.…",
+      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to…",
       "source": "The Decoder",
       "feedTopic": "AI Business",
       "weight": 2,
       "native": true,
       "researchOnly": false,
-      "date": "2026-11-26T11:30:06.000Z",
+      "date": "2026-11-27T19:38:37.000Z",
       "topic": "AI Business",
       "importance": 8.6,
       "isFocus": true
@@ -1778,20 +1708,6 @@
       "isFocus": true
     },
     {
-      "title": "How to protect your IP against the army of AI clones",
-      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
-      "summary": "Generative AI usage in video game development has increased significantly in recent months. Steam Next Fest featured over 8,000 demos in October 2026, many of which were created partly or entirely using generative AI tools. Read more",
-      "source": "GamesIndustry.biz",
-      "feedTopic": "Game Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-13T15:00:00.000Z",
-      "topic": "Game Dev",
-      "importance": 8.6,
-      "isFocus": true
-    },
-    {
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
       "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's Starmind initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin,…",
@@ -1806,23 +1722,23 @@
       "isFocus": true
     },
     {
-      "title": "Google adds computer use capabilities to Gemini’s Mac app",
-      "url": "https://siliconangle.com/2026/11/19/google-adds-computer-use-capabilities-to-geminis-mac-app/",
-      "summary": "Google LLC today released a new version of Gemini’s Mac client that can interact with other apps on the user’s computer. The feature is available in the U.S. on launch. It requires a Google AI subscription, which equips consumer Google accounts with a broader lineup of artificial intelligence…",
-      "source": "SiliconANGLE AI",
+      "title": "OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰",
+      "url": "https://tldr.tech/ai/2026-11-27",
+      "summary": "",
+      "source": "TLDR AI",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
-      "date": "2026-11-19T23:41:48.000Z",
+      "date": "2026-11-27T00:00:00.000Z",
       "topic": "AI Business",
-      "importance": 8.5,
+      "importance": 8.4,
       "isFocus": true
     },
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 322 # Comments: 283",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 417 # Comments: 329",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -1878,7 +1794,7 @@
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 780 # Comments: 319",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 781 # Comments: 319",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -1927,20 +1843,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-20T13:29:59.000Z",
-      "topic": "AI Business",
-      "importance": 8.4,
-      "isFocus": true
-    },
-    {
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 584 # Comments: 350",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-20T09:42:16.000Z",
       "topic": "AI Business",
       "importance": 8.4,
       "isFocus": true
@@ -2042,6 +1944,48 @@
       "topic": "Models & Labs",
       "importance": 8.3,
       "isFocus": false
+    },
+    {
+      "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+      "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+      "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte. Exporting these chips to China without a US license is illegal. The article…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T18:27:02.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "Mastered receives funding to support training for games studios in West of England",
+      "url": "https://www.gamesindustry.biz/mastered-receives-funding-to-support-training-for-games-studios-in-west-of-england",
+      "summary": "Training firm Mastered has secured a Skills Bootcamps contract for studios in the West of England, covering 90% of funding for upskilling staff. Read more",
+      "source": "GamesIndustry.biz",
+      "feedTopic": "Game Dev",
+      "weight": 2,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-27T10:59:20.000Z",
+      "topic": "Game Dev",
+      "importance": 8.2,
+      "isFocus": true
+    },
+    {
+      "title": "Small AI Models Give Banks a Way to Keep Sensitive Data In-House",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/small-ai-models-give-banks-a-way-to-keep-sensitive-data-in-house/",
+      "summary": "After a month of frontier flagship launches, this week belonged to smaller models built to run on a desk instead of a data center. Thinking Machines, PrismML and Sarvam each shipped a model small enough for a laptop or a single chip, and Baseten’s open decision model beat Google’s and Microsoft’s…",
+      "source": "PYMNTS AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T09:00:37.000Z",
+      "topic": "AI Business",
+      "importance": 8.2,
+      "isFocus": true
     },
     {
       "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
@@ -2240,20 +2184,6 @@
       "isFocus": true
     },
     {
-      "title": "Why AI startups should build governance early",
-      "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/",
-      "summary": "",
-      "source": "Sifted",
-      "feedTopic": "AI Business",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-23T09:00:24.000Z",
-      "topic": "AI Business",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
       "title": "Choose AI Gateway providers by headquarters country",
       "url": "https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country",
       "summary": "Provider headquarters sends your AI Gateway requests only to providers headquartered in countries you choose, so you can meet compliance and procurement rules about where your AI vendors are located. You can configure provider headquarters to be an allowlist of the countries to use, or a denylist…",
@@ -2366,48 +2296,6 @@
       "isFocus": true
     },
     {
-      "title": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
-      "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
-      "summary": "After a stroke left him unable to do the voice of the Witcher series' main character anymore, Jacek Rozenek consented to using AI for Witcher 3's next expansion.",
-      "source": "Game Developer",
-      "feedTopic": "Game Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-13T15:28:34.000Z",
-      "topic": "Game Dev",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past",
-      "url": "https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past",
-      "summary": "For The Witcher 3's Songs of the Past expansion, CD Projekt Red used AI to alter the voice of Geralt's original Polish actor, Jacek Rozenek. Read more",
-      "source": "GamesIndustry.biz",
-      "feedTopic": "Game Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-13T14:43:20.000Z",
-      "topic": "Game Dev",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
-      "title": "It's a wild situation – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
-      "url": "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more",
-      "summary": "GamesIndustry.biz attended the AI and Games Conference in London this week, where a publisher and investor panel discussed the problems and opportunities of AI when it comes to marketing, funding, and publishing games (the full talk will be available via the AI and Games Conference YouTube channel…",
-      "source": "GamesIndustry.biz",
-      "feedTopic": "Game Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-13T12:04:00.000Z",
-      "topic": "Game Dev",
-      "importance": 8.2,
-      "isFocus": true
-    },
-    {
       "title": "AINews Gemini 4 Neon marks GDM's full return as a Frontier Lab",
       "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
       "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
@@ -2431,20 +2319,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-24T18:15:00.000Z",
-      "topic": "AI Business",
-      "importance": 8.1,
-      "isFocus": true
-    },
-    {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive…",
-      "source": "The Verge AI",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-24T16:30:00.000Z",
       "topic": "AI Business",
       "importance": 8.1,
       "isFocus": true
@@ -2632,20 +2506,6 @@
       "isFocus": true
     },
     {
-      "title": "Token Pass now includes $150 in tokens for $30/month",
-      "url": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
-      "summary": "Vercel Token Pass now includes $150 of tokens per month (up from $80) for the same $30 per team per month. The credit applies to featured open-weight models served through AI Gateway , including Kimi K3, Kimi K3.1 Pro, GLM 5.3, GLM 5.3 Flash, and DeepSeek V4.1 Flash. Credit resets each billing…",
-      "source": "Vercel",
-      "feedTopic": "Web Dev",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-13T18:42:00.000Z",
-      "topic": "Web Dev",
-      "importance": 7.8,
-      "isFocus": true
-    },
-    {
       "title": "Nothing offers a full look at its AI earbuds and charging case",
       "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
       "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes…",
@@ -2728,6 +2588,20 @@
       "topic": "Open Source",
       "importance": 7.699999999999999,
       "isFocus": false
+    },
+    {
+      "title": "Jensen Huang returns, but controversies keep growing around Nvidia",
+      "url": "https://siliconangle.com/2026/11/27/jensen-huang-returns-but-controversies-keep-growing-around-nvidia/",
+      "summary": "Jensen Huang’s back, and not everyone is happy with that. Nvidia’s board reversed the resignation of its former and current-again CEO Monday, apparently under pressure from the well-known business genius and lame-duck President Donald Trump, who worried that the stock market and the AI trade would…",
+      "source": "SiliconANGLE AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T15:00:56.000Z",
+      "topic": "AI Business",
+      "importance": 7.6,
+      "isFocus": true
     },
     {
       "title": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work",
@@ -2996,6 +2870,20 @@
       "isFocus": false
     },
     {
+      "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect. Three new studies show progress in robot planning, more efficient training, and error correction,…",
+      "source": "The Decoder",
+      "feedTopic": "AI Business",
+      "weight": 2,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T16:58:56.000Z",
+      "topic": "AI Business",
+      "importance": 7.4,
+      "isFocus": true
+    },
+    {
       "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
       "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
       "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
@@ -3024,6 +2912,34 @@
       "isFocus": true
     },
     {
+      "title": "I'm Scared of AI",
+      "url": "https://thesoapbox.email/archive/3",
+      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 191 # Comments: 215",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T17:45:31.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "summary": "https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 112 # Comments: 147",
+      "source": "HN (AI 100+)",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T11:09:04.000Z",
+      "topic": "AI Business",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
       "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
       "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
@@ -3038,9 +2954,9 @@
       "isFocus": true
     },
     {
-      "title": "The group chat where your AI talks behind your back",
+      "title": "Group chat where your AI talks behind your back",
       "url": "https://construct22.com/",
-      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 113 # Comments: 33",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 635 # Comments: 273",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3054,7 +2970,7 @@
     {
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 608 # Comments: 312",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1045 # Comments: 492",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3068,7 +2984,7 @@
     {
       "title": "Tracking Diseases Cured by AI",
       "url": "https://diseasescuredbyai.com/",
-      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 309 # Comments: 189",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 317 # Comments: 192",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3096,7 +3012,7 @@
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 670 # Comments: 528",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 678 # Comments: 543",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3104,20 +3020,6 @@
       "researchOnly": false,
       "date": "2026-11-25T21:18:02.000Z",
       "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Crystal Palace tried to get away with posting AI and fans tore it to shreds",
-      "url": "https://www.creativebloq.com/news/crystal-palace-tried-to-get-away-with-posting-ai-and-fans-tore-it-to-shreds",
-      "summary": "“Imagine not having a photo of your own stadium”.",
-      "source": "Creative Bloq",
-      "feedTopic": "Art & Creative",
-      "weight": 1.5,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-25T15:00:00.000Z",
-      "topic": "Art & Creative",
       "importance": 7.2,
       "isFocus": true
     },
@@ -3138,7 +3040,7 @@
     {
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 224 # Comments: 85",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 224 # Comments: 84",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3178,6 +3080,20 @@
       "isFocus": true
     },
     {
+      "title": "Discover BOT VFX’s hybrid AI VFX pipeline for Young Washington",
+      "url": "https://www.cgchannel.com/2026/11/discover-bot-vfxs-hybrid-ai-vfx-pipeline-for-young-washington/",
+      "summary": "Discover how the studio blended AI models like FLUX.2 Klein and Wan with a traditional Maya-Nuke pipeline for the historical drama.",
+      "source": "CG Channel",
+      "feedTopic": "Art & Creative",
+      "weight": 1.5,
+      "native": false,
+      "researchOnly": false,
+      "date": "2026-11-24T15:45:42.000Z",
+      "topic": "Art & Creative",
+      "importance": 7.2,
+      "isFocus": true
+    },
+    {
       "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
       "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
       "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
@@ -3208,7 +3124,7 @@
     {
       "title": "Declare is a UI language for you and your AI",
       "url": "https://davidtemkin.github.io/declarelang/",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 123 # Comments: 97",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 125 # Comments: 98",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3218,6 +3134,20 @@
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "summary": "",
+      "source": "OpenAI",
+      "feedTopic": "Models & Labs",
+      "weight": 3,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-24T00:00:00.000Z",
+      "topic": "Models & Labs",
+      "importance": 7.2,
+      "isFocus": false
     },
     {
       "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
@@ -3292,7 +3222,7 @@
     {
       "title": "The Mythology of Conscious AI",
       "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 568",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 569",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -3334,27 +3264,13 @@
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "url": "https://architectlabs.com/blog/frostbite",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 686 # Comments: 371",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 686 # Comments: 372",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
       "native": true,
       "researchOnly": false,
       "date": "2026-11-20T10:01:41.000Z",
-      "topic": "AI Business",
-      "importance": 7.2,
-      "isFocus": true
-    },
-    {
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate video",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 116 # Comments: 266",
-      "source": "HN (AI 100+)",
-      "feedTopic": "AI Business",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-19T18:47:16.000Z",
       "topic": "AI Business",
       "importance": 7.2,
       "isFocus": true
@@ -3682,6 +3598,20 @@
       "isFocus": false
     },
     {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and …",
+      "source": "The Verge AI",
+      "feedTopic": "AI Business",
+      "weight": 1.5,
+      "native": true,
+      "researchOnly": false,
+      "date": "2026-11-27T14:00:00.000Z",
+      "topic": "AI Business",
+      "importance": 6.4,
+      "isFocus": true
+    },
+    {
       "title": "Where scientists draw the line on AI agents",
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
       "summary": "",
@@ -3852,7 +3782,7 @@
     {
       "title": "Tidal bans AI-generated music",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 344",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 346",
       "source": "HN (AI 100+)",
       "feedTopic": "AI Business",
       "weight": 1.5,
@@ -4042,20 +3972,6 @@
       "researchOnly": false,
       "date": "2026-11-16T16:20:31.000Z",
       "topic": "Open Source",
-      "importance": 5.6,
-      "isFocus": false
-    },
-    {
-      "title": "AINews Jensen Huang resigns after 33 years leading NVIDIA",
-      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-      "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-      "source": "Latent Space",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-13T09:04:13.000Z",
-      "topic": "Models & Labs",
       "importance": 5.6,
       "isFocus": false
     },
@@ -4349,20 +4265,6 @@
       "native": true,
       "researchOnly": false,
       "date": "2026-11-14T08:31:02.000Z",
-      "topic": "Models & Labs",
-      "importance": 5.2,
-      "isFocus": false
-    },
-    {
-      "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients…",
-      "source": "NVIDIA",
-      "feedTopic": "Models & Labs",
-      "weight": 2,
-      "native": false,
-      "researchOnly": false,
-      "date": "2026-11-13T13:00:42.000Z",
       "topic": "Models & Labs",
       "importance": 5.2,
       "isFocus": false
@@ -4715,20 +4617,6 @@
       "date": "2026-11-16T23:57:26.000Z",
       "topic": "Models & Labs",
       "importance": 4.7,
-      "isFocus": false
-    },
-    {
-      "title": "How the BMW Group governs hundreds of agents across thousands of developers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
-      "summary": "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&amp;D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.",
-      "source": "AWS ML Blog",
-      "feedTopic": "Models & Labs",
-      "weight": 1.5,
-      "native": true,
-      "researchOnly": false,
-      "date": "2026-11-19T22:20:23.000Z",
-      "topic": "Models & Labs",
-      "importance": 4.6,
       "isFocus": false
     }
   ]

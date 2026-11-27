@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Fri, 27 Nov 2026 08:28:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 21:14:47 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -45,6 +45,14 @@
     <pubDate>Mon, 23 Nov 2026 21:46:35 GMT</pubDate>
     <category>Web Dev</category>
     <description>&lt;p&gt;&lt;a href= https://ladybird.org &gt;Ladybird&lt;/a&gt; is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like &lt;a href=…</description>
+  </item>
+  <item>
+    <title>Rockstar&#39;s AI dilemma: Can GTA 6&#39;s staggered release model survive coding agents?</title>
+    <link>https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/</link>
+    <guid isPermaLink="true">https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/</guid>
+    <pubDate>Fri, 27 Nov 2026 15:37:47 GMT</pubDate>
+    <category>AI Business</category>
+    <description>More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running.…</description>
   </item>
   <item>
     <title>Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models</title>
@@ -87,12 +95,12 @@
     <description>Anthropic&#39;s Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared…</description>
   </item>
   <item>
-    <title>Introducing ChatGPT Wallet</title>
-    <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-    <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
-    <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
+    <title>OpenAI is building Athena data platform to cut down on AI agent guesswork</title>
+    <link>https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/</link>
+    <guid isPermaLink="true">https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/</guid>
+    <pubDate>Fri, 27 Nov 2026 16:05:23 GMT</pubDate>
+    <category>AI Business</category>
+    <description>OpenAI&#39;s data agent in ChatGPT Work still isn&#39;t accurate enough. Under the codename Athena, the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct competition with Snowflake and Databricks. The article…</description>
   </item>
   <item>
     <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
@@ -109,14 +117,6 @@
     <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.</description>
-  </item>
-  <item>
-    <title>FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040</title>
-    <link>https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/</link>
-    <guid isPermaLink="true">https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/</guid>
-    <pubDate>Thu, 26 Nov 2026 13:41:07 GMT</pubDate>
-    <category>AI Business</category>
-    <description>The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Blue Origin are also working on AI infrastructure in space,…</description>
   </item>
   <item>
     <title>Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release</title>
@@ -335,28 +335,12 @@
     <description>Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely…</description>
   </item>
   <item>
-    <title>Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code</title>
-    <link>https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/</link>
-    <guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/</guid>
-    <pubDate>Mon, 23 Nov 2026 14:13:29 GMT</pubDate>
-    <category>App Dev</category>
-    <description>In July, we released the Kotlin Benchmark – a collection of 105 real repository-level tasks for evaluating AI coding agents’ work with Kotlin. Since then, we’ve updated it to be more representative of what Kotlin teams do, with more reliable results and more data to help you choose an agent-model…</description>
-  </item>
-  <item>
     <title>AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities</title>
     <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
     <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</guid>
     <pubDate>Mon, 16 Nov 2026 00:00:28 GMT</pubDate>
     <category>AI Business</category>
     <description>Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is…</description>
-  </item>
-  <item>
-    <title>Amazon and Meta are in talks to end the block on Meta&#39;s AI shopping agent Muse in Amazon&#39;s online store.</title>
-    <link>https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/</link>
-    <guid isPermaLink="true">https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/</guid>
-    <pubDate>Wed, 25 Nov 2026 16:44:37 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Amazon and Meta are in talks to bring back Muse, Meta&#39;s AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon&#39;s ad business generates $68.6 billion a year, and Muse already…</description>
   </item>
   <item>
     <title>OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime</title>
@@ -437,6 +421,14 @@
     <pubDate>Thu, 26 Nov 2026 05:08:46 GMT</pubDate>
     <category>Art &amp; Creative</category>
     <description>&lt;p&gt;&lt;a href= https://news.ycombinator.com/item?id=50647673#50651685 &gt;My comment&lt;/a&gt; on &lt;a href= https://news.ycombinator.com/item?id=50647673 &gt;The New York Times warns photographers not to update Photoshop over AI features&lt;/a&gt; &amp;mdash; Hacker News.&lt;/p&gt;&lt;p&gt;I had a NYT photographer take my picture at my…</description>
+  </item>
+  <item>
+    <title>Hackers breached the US Air Force&#39;s flagship Cloud One platform, report says</title>
+    <link>https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/</link>
+    <guid isPermaLink="true">https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/</guid>
+    <pubDate>Fri, 27 Nov 2026 16:06:43 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Hackers breached the US Air Force&#39;s flagship cloud platform. The article Hackers breached the US Air Force&#39;s flagship Cloud One platform, report says appeared first on The Decoder .</description>
   </item>
   <item>
     <title>Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝</title>
@@ -543,20 +535,12 @@
     <description>Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI&#39;s recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He&#39;s also virtually certain that AI labs are sitting…</description>
   </item>
   <item>
-    <title>Ubisoft denies report that staff must justify not using generative AI in pitches</title>
+    <title>Report claims Ubisoft staff must justify not using generative AI in pitches</title>
     <link>https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims</link>
     <guid isPermaLink="true">https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims</guid>
     <pubDate>Wed, 25 Nov 2026 20:19:40 GMT</pubDate>
     <category>Game Dev</category>
     <description>Update, November 26, 2026: Ubisoft has issued a response to reports that teams are reportedly being asked to explain why they would or wouldn&#39;t use generative AI when pitching projects. Read more</description>
-  </item>
-  <item>
-    <title>Anthropic CEO Dario Amodei says letting AI govern society would be a bad idea</title>
-    <link>https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/</link>
-    <guid isPermaLink="true">https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/</guid>
-    <pubDate>Wed, 25 Nov 2026 20:15:50 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says turning over governance to AI is a bad idea. The article Anthropic CEO Dario Amodei says letting AI govern society would be a bad idea…</description>
   </item>
   <item>
     <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
@@ -645,6 +629,22 @@
     <pubDate>Tue, 24 Nov 2026 17:44:53 GMT</pubDate>
     <category>AI Business</category>
     <description>The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.</description>
+  </item>
+  <item>
+    <title>The most misunderstood graph in AI just got a major update</title>
+    <link>https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/</link>
+    <guid isPermaLink="true">https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/</guid>
+    <pubDate>Fri, 20 Nov 2026 18:15:15 GMT</pubDate>
+    <category>AI Business</category>
+    <description>A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s…</description>
+  </item>
+  <item>
+    <title>Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO</title>
+    <link>https://latent.space/p/linear-scaling/</link>
+    <guid isPermaLink="true">https://latent.space/p/linear-scaling/</guid>
+    <pubDate>Thu, 19 Nov 2026 23:58:21 GMT</pubDate>
+    <category>AI Business</category>
+    <description>&gt;50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs</description>
   </item>
 </channel>
 </rss>
