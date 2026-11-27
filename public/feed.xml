@@ -5,7 +5,7 @@
   <link>https://wetiu.github.io/ai-pulse/</link>
   <atom:link href="https://wetiu.github.io/ai-pulse/feed.xml" rel="self" type="application/rss+xml" />
   <description>Important AI news for builders - game dev, web dev, app dev, art &amp; creative, and the AI business.</description>
-  <lastBuildDate>Thu, 26 Nov 2026 21:29:27 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 08:28:06 GMT</lastBuildDate>
   <item>
     <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
     <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -159,14 +159,6 @@
     <description>The internet was built for people. Its search engines, browsers and phone lines assume a person is on the other end, reading a screen at human speed. Artificial intelligence (AI) agents are now the web’s newest users, and they search, read and act faster and in far greater volume than a person can.…</description>
   </item>
   <item>
-    <title>Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒</title>
-    <link>https://tldr.tech/ai/2026-11-13</link>
-    <guid isPermaLink="true">https://tldr.tech/ai/2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-    <category>AI Business</category>
-    <description></description>
-  </item>
-  <item>
     <title>One way to stave off AI clones? Minimise the gap between announcement and launch</title>
     <link>https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch</link>
     <guid isPermaLink="true">https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch</guid>
@@ -287,22 +279,6 @@
     <description>As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.</description>
   </item>
   <item>
-    <title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</title>
-    <link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
-    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</guid>
-    <pubDate>Sun, 22 Nov 2026 10:36:17 GMT</pubDate>
-    <category>Models &amp; Labs</category>
-    <description>Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on…</description>
-  </item>
-  <item>
-    <title>Resolve AI’s SRE-1 model finds root causes of production alerts as AI agents go on call</title>
-    <link>https://siliconangle.com/2026/11/19/resolve-ais-sre-1-model-finds-root-causes-of-production-alerts-as-ai-agents-go-on-call/</link>
-    <guid isPermaLink="true">https://siliconangle.com/2026/11/19/resolve-ais-sre-1-model-finds-root-causes-of-production-alerts-as-ai-agents-go-on-call/</guid>
-    <pubDate>Thu, 19 Nov 2026 23:11:44 GMT</pubDate>
-    <category>AI Business</category>
-    <description>Incident remediation company Resolve AI Inc. has announced the launch of SRE-1, a new model that has been trained to find the root cause of production alerts, and Primary On-call, a new service that puts its artificial intelligence agents on call ahead of human engineers. The new model, announced…</description>
-  </item>
-  <item>
     <title>Gemini 4 Neon now available on AI Gateway</title>
     <link>https://vercel.com/changelog/gemini-4-neon-now-available-on-ai-gateway</link>
     <guid isPermaLink="true">https://vercel.com/changelog/gemini-4-neon-now-available-on-ai-gateway</guid>
@@ -341,14 +317,6 @@
     <pubDate>Tue, 17 Nov 2026 17:45:00 GMT</pubDate>
     <category>Models &amp; Labs</category>
     <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.</description>
-  </item>
-  <item>
-    <title>Parallel Decisions now available on AI Gateway for free</title>
-    <link>https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free</link>
-    <guid isPermaLink="true">https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free</guid>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-    <category>Web Dev</category>
-    <description>Parallel Decisions Fast from Parallel is now available on AI Gateway and is free through November 23, 2026. It searches the live web to answer typed questions about companies, products, policies, and other changing information, returning probabilities and cited evidence for your application to act…</description>
   </item>
   <item>
     <title>AINews Anthropic successfully completes largest IPO in history, valued at $1.5T</title>
@@ -455,20 +423,20 @@
     <description>OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.</description>
   </item>
   <item>
+    <title>Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano</title>
+    <link>https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/</link>
+    <guid isPermaLink="true">https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/</guid>
+    <pubDate>Thu, 26 Nov 2026 22:06:40 GMT</pubDate>
+    <category>Models &amp; Labs</category>
+    <description>Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .</description>
+  </item>
+  <item>
     <title>The New York Times warns photographers not to update Photoshop over AI features</title>
     <link>https://simonwillison.net/2026/Nov/26/hn-50651685/</link>
     <guid isPermaLink="true">https://simonwillison.net/2026/Nov/26/hn-50651685/</guid>
     <pubDate>Thu, 26 Nov 2026 05:08:46 GMT</pubDate>
     <category>Art &amp; Creative</category>
     <description>&lt;p&gt;&lt;a href= https://news.ycombinator.com/item?id=50647673#50651685 &gt;My comment&lt;/a&gt; on &lt;a href= https://news.ycombinator.com/item?id=50647673 &gt;The New York Times warns photographers not to update Photoshop over AI features&lt;/a&gt; &amp;mdash; Hacker News.&lt;/p&gt;&lt;p&gt;I had a NYT photographer take my picture at my…</description>
-  </item>
-  <item>
-    <title>AI Ambition: ArtCraft Cloned Photoshop and Now Wants to Rebuild Everything</title>
-    <link>https://latent.space/p/artcraft/</link>
-    <guid isPermaLink="true">https://latent.space/p/artcraft/</guid>
-    <pubDate>Fri, 13 Nov 2026 04:17:25 GMT</pubDate>
-    <category>Art &amp; Creative</category>
-    <description>ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!</description>
   </item>
   <item>
     <title>Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝</title>
@@ -645,6 +613,38 @@
     <pubDate>Tue, 17 Nov 2026 14:28:00 GMT</pubDate>
     <category>Game Dev</category>
     <description>Six European game workers&#39; unions have published a manifesto examining the use of generative AI in the games industry and its implications. Read more</description>
+  </item>
+  <item>
+    <title>AI Gateway now supports Private Inference</title>
+    <link>https://vercel.com/changelog/ai-gateway-now-supports-private-inference</link>
+    <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-now-supports-private-inference</guid>
+    <pubDate>Mon, 16 Nov 2026 07:47:00 GMT</pubDate>
+    <category>Web Dev</category>
+    <description>Private Inference connects your own model endpoints to AI Gateway . Enterprises running fine-tuned, self-hosted, or prerelease models used to need separate keys, client code, and logs for them. Those models can now run through the same authentication, SDKs and APIs , and observability as catalog…</description>
+  </item>
+  <item>
+    <title>Report sheds light on China ties of some US-based Nvidia partners</title>
+    <link>https://siliconangle.com/2026/11/26/report-sheds-light-on-china-ties-of-some-us-based-nvidia-partners/</link>
+    <guid isPermaLink="true">https://siliconangle.com/2026/11/26/report-sheds-light-on-china-ties-of-some-us-based-nvidia-partners/</guid>
+    <pubDate>Thu, 26 Nov 2026 21:13:23 GMT</pubDate>
+    <category>AI Business</category>
+    <description>An investigation has shed light on links between some Nvidia Corp. partners and companies that are based in China or are accused of breaching export controls. The analysis was carried out by C4ADS, a Washington, D.C.-based nonprofit, at the request of CBS News. The outlet published the findings…</description>
+  </item>
+  <item>
+    <title>Etsy Rewrites AI Training Terms After Sellers Close Shops</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/etsy-rewrites-ai-training-terms-after-sellers-close-shops/</link>
+    <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/etsy-rewrites-ai-training-terms-after-sellers-close-shops/</guid>
+    <pubDate>Tue, 24 Nov 2026 20:50:16 GMT</pubDate>
+    <category>AI Business</category>
+    <description>Etsy sellers upload photos, artwork and descriptions so shoppers can find and buy what they make. Last month, Etsy published terms that give it and its partners the right to use that material to train artificial intelligence, starting Dec. 16. Longtime sellers left the marketplace, and on Monday…</description>
+  </item>
+  <item>
+    <title>Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return</title>
+    <link>https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/</guid>
+    <pubDate>Tue, 24 Nov 2026 17:44:53 GMT</pubDate>
+    <category>AI Business</category>
+    <description>The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.</description>
   </item>
 </channel>
 </rss>
